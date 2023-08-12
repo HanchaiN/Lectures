@@ -1,4 +1,5 @@
 remote_theme: "dracula/gh-pages"
+markdown: kramdown
 kramdown:
-  math_engine: mathjax
+  math_engine: katex
   syntax_highlighter: rouge
