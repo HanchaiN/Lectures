@@ -4,7 +4,7 @@ share: true
   
 # Atomic Structure and Atomic Theory  
   
-- [Atomic Model](../../L1%20-%20Concept/Chemistry/Atomic%20Theory/Atomic%20Model/Atomic%20Model.md)  
+- [Atomic Model](../../L1%20-%20Concept/Chemistry/Atomic%20Theory/Atomic%20Model/index.md)  
 	- Related Discoveries  
 		- Henri Becquerel (1896): Radioactivity  
 		- J. J. Thomson (1897): Cathode Rays: $\frac{e}{m}=-1.76\mathrm{e}{8}\ \text{C}\text{g}^{-1}$  
