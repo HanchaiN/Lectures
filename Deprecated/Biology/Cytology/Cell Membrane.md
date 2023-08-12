@@ -1,3 +1,5 @@
+# Cell Membrane
+
 - Lipid bilayer
 	- [[Amphipathic]] [[Lipid]]
 	- Split [[Cytoplasm]] and [[Extracellular Matrix]]

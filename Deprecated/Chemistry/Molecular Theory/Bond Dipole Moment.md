@@ -1,8 +1,11 @@
+# Bond Dipole Moment
+
 #Chemistry
+
 > [!tldr]- [Electric Dipole Moment](https://en.wikipedia.org/wiki/Electric_dipole_moment) between [[Atom]] of [[Chemical Bond]]
 
->[!example]- Example value for #OrganicChemistry 
->
+> [!example]- Example value for #OrganicChemistry
+> 
 > | Bond ($\ce{X^{\delta^+}-Y^{\delta^-}}$) | Dipole moment ($D$) |
 > | --------------------------------------- | ------------------- |
 > | $\ce{C-N}$                              | 0.22                |

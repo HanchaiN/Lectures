@@ -1,4 +1,7 @@
+# Chemical Bond
+
 #Chemistry
+
 > [!tldr] Attraction between [[Atom]]
 
 - [[Intramolecular Bond]]

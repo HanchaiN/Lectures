@@ -6,5 +6,6 @@
 	- Classically, $h\to 0$ for continuous energy level
 
 ## Reference
+
 - [[Introduction to Quantum Mechanics]]
 - [Ultraviolet catastrophe - Wikipedia](https://en.wikipedia.org/wiki/Ultraviolet_catastrophe)

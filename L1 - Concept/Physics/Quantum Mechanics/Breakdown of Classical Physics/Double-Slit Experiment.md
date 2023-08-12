@@ -7,5 +7,6 @@
 	- One particle will lands on just one point but together forms a clear distribution like that of the interference pattern.
 
 ## Reference
+
 - [[Introduction to Quantum Mechanics]]
 - [Easy Quantum Mechanics - YouTube](https://youtu.be/7u_UQG1La1o)
