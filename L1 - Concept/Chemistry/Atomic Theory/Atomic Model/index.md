@@ -1,4 +1,5 @@
 ---
+alias: Atomic Model
 share: true
 ---
 

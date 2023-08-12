@@ -9,12 +9,12 @@
     "otherRepo": [],
     "workflow": {
       "name": "",
-      "commitMessage": "[skip netlify] PUBLISHER"
+      "commitMessage": "PUBLISHER"
     },
     "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
     "repo": "Lectures",
     "user": "HanchaiN",
-    "rateLimit": 4967,
+    "rateLimit": 4860,
     "verifiedRepo": true
   },
   "upload": {
@@ -39,7 +39,7 @@
       ]
     },
     "folderNote": {
-      "enable": true,
+      "enable": false,
       "rename": "index.md"
     },
     "metadataExtractorPath": "",
@@ -47,7 +47,7 @@
   },
   "conversion": {
     "hardbreak": true,
-    "dataview": false,
+    "dataview": true,
     "censorText": [],
     "tags": {
       "inline": true,
@@ -58,7 +58,7 @@
       "internal": true,
       "unshared": true,
       "wiki": true,
-      "slugify": true
+      "slugify": false
     }
   },
   "embed": {
@@ -67,7 +67,8 @@
       "image"
     ],
     "notes": true,
-    "folder": "docs/assets/img"
+    "folder": "docs/assets/img",
+    "convertEmbedToLinks": "keep"
   },
   "plugin": {
     "shareKey": "share",
