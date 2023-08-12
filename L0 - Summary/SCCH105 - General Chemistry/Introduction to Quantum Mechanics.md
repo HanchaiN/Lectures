@@ -5,15 +5,15 @@ share: true
   
 ## Breakdown of Classical Physics  
   
-- [[../../L1 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Ultraviolet Catastrophe|Ultraviolet Catastrophe]]  
-- [[../../L1 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Photoelectric Effect|Photoelectric Effect]]  
-- [[../../L1 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Double-Slit Experiment|Double-Slit Experiment]]  
+- [Ultraviolet Catastrophe](Ultraviolet%20Catastrophe.md#)  
+- [Photoelectric Effect](Photoelectric%20Effect.md#)  
+- [Double-Slit Experiment](Double-Slit%20Experiment.md#)  
   
 ## Theory  
   
-- [[../../L1 - Concept/Physics/Quantum Mechanics/De Broglie Wavelength|De Broglie Wavelength]]  
-- [[../../L1 - Concept/Physics/Quantum Mechanics/Schrödinger’s Wave Equation|Schrödinger’s Wave Equation]]  
-- [[../../L1 - Concept/Physics/Quantum Mechanics/Heisenberg’s Uncertainty Principle|Heisenberg’s Uncertainty Principle]]  
+- [De Broglie Wavelength](De%20Broglie%20Wavelength.md#)  
+- [Schrödinger’s Wave Equation](Schr%C3%B6dinger%E2%80%99s%20Wave%20Equation.md#)  
+- [Heisenberg’s Uncertainty Principle](Heisenberg%E2%80%99s%20Uncertainty%20Principle.md#)  
   
 ## References  
   
