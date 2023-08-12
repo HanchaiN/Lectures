@@ -1,0 +1,12 @@
+- Democritus & Leucippus: *Atomos* = Fundamental particle
+- Dalton: Billiard Ball Model: Eternal atom
+- JJ Thompson: Plum-pudding Model
+	- Cathode ray -> Electron ($\frac{e}{m}$)
+		- Robert Andrews Millikan: Oil-drop experiment: $e$
+- Ernest Rutherford: Nuclear Model
+	- Gold-foil experiment -> Nucleus
+	- James Chadwick: Neutron
+- Neil Bohr: Planetary Model
+	- Quantized energy level
+- Electron Cloud Model
+	- Quantum Mechanics
