@@ -11,5 +11,5 @@ share: true
 	- J. J. Thomson (1897): Plum-pudding Model
 	- Ernest Rutherford (1911): Planetary Model
 - Modern Atomic Model
-	- Niels Bohr (1913): [[#Bohr Model]]
-	- Erwin Schrodinger (1926): [[#Electron Cloud Model]]
+	- Niels Bohr (1913): [[Bohr Model]]
+	- Erwin Schrodinger (1926): [[Electron Cloud Model]]

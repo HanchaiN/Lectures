@@ -1,46 +1,53 @@
 {
   "github": {
-    "user": "HanchaiN",
-    "repo": "Lectures",
     "branch": "docs",
     "automaticallyMergePR": true,
-    "tokenPath": "%configDir%/plugins/%pluginID%/env",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
       "hostname": ""
     },
-    "workflow": {
-      "commitMessage": "[PUBLISHER] Merge",
-      "name": ""
-    },
     "otherRepo": [],
-    "verifiedRepo": true,
-    "rateLimit": 4988
+    "workflow": {
+      "name": "",
+      "commitMessage": "[skip netlify] PUBLISHER"
+    },
+    "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
+    "repo": "Lectures",
+    "user": "HanchaiN",
+    "rateLimit": 4967,
+    "verifiedRepo": true
   },
   "upload": {
-    "behavior": "fixed",
+    "behavior": "obsidian",
+    "subFolder": "",
     "defaultName": "",
-    "rootFolder": "",
-    "yamlFolderKey": "",
+    "rootFolder": "docs",
+    "yamlFolderKey": "category",
     "frontmatterTitle": {
-      "enable": false,
-      "key": "title"
+      "enable": true,
+      "key": "name"
     },
     "replaceTitle": [],
-    "replacePath": [],
     "autoclean": {
       "enable": false,
-      "excluded": []
+      "excluded": [
+        "docs/assets/js",
+        "docs/assets/meta",
+        "docs/assets/css",
+        "tags.md",
+        "graph.md"
+      ]
     },
     "folderNote": {
-      "enable": false,
+      "enable": true,
       "rename": "index.md"
     },
-    "metadataExtractorPath": ""
+    "metadataExtractorPath": "",
+    "replacePath": []
   },
   "conversion": {
     "hardbreak": true,
-    "dataview": true,
+    "dataview": false,
     "censorText": [],
     "tags": {
       "inline": true,
@@ -56,17 +63,19 @@
   },
   "embed": {
     "attachments": true,
-    "keySendFile": [],
+    "keySendFile": [
+      "image"
+    ],
     "notes": true,
-    "folder": "",
-    "convertEmbedToLinks": "keep",
-    "charConvert": "->"
+    "folder": "docs/assets/img"
   },
   "plugin": {
     "shareKey": "share",
     "fileMenu": true,
-    "editorMenu": false,
-    "excludedFolder": [],
+    "editorMenu": true,
+    "excludedFolder": [
+      "Deprecated"
+    ],
     "copyLink": {
       "enable": false,
       "links": "",
