@@ -10,5 +10,5 @@ share: true
   
 ## Reference  
   
-- [Introduction to Quantum Mechanics](Introduction%20to%20Quantum%20Mechanics.md#)  
+- [Introduction to Quantum Mechanics](../../../L0%20-%20Summary/SCCH105%20-%20General%20Chemistry/Introduction%20to%20Quantum%20Mechanics.md)  
 - [Uncertainty principle - Wikipedia](https://en.wikipedia.org/wiki/Uncertainty_principle)  
