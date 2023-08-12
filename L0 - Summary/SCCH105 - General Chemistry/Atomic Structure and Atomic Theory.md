@@ -1,3 +1,6 @@
+---
+share: true
+---
 # Atomic Structure and Atomic Theory
 
 - [[Atomic Model]]

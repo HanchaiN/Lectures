@@ -1,3 +1,6 @@
+---
+share: true
+---
 # De Broglie Wavelength
 
 - $\lambda=\frac{h}{p}=\frac{h}{mv}$  

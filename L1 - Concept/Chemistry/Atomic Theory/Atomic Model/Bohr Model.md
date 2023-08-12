@@ -1,3 +1,6 @@
+---
+share: true
+---
 # Bohr Model
 
 - Quantized Energy Level (Orbits)
