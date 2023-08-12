@@ -13,5 +13,5 @@ share: true
   
 ## Reference  
   
-- [Introduction to Quantum Mechanics](Introduction%20to%20Quantum%20Mechanics.md#)  
+- [Introduction to Quantum Mechanics](../../../L0%20-%20Summary/SCCH105%20-%20General%20Chemistry/Introduction%20to%20Quantum%20Mechanics.md)  
 - [Operator (physics) - Wikipedia](https://en.wikipedia.org/wiki/Operator_(physics)#Table_of_QM_operators)  
