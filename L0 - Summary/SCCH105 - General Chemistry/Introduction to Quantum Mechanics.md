@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 # Introduction to Quantum Mechanics
 
 - [[Breakdown of Classical Physics]]

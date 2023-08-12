@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 # Breakdown of Classical Physics
 
 #overview

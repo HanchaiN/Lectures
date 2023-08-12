@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 # Double-Slit Experiment
 
 - Wave Behavior of Matter: Self-interference of electron

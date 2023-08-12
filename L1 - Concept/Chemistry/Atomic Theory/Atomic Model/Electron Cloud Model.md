@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 # Electron Cloud Model
 
 - Energy eigenfunction (Orbitals)

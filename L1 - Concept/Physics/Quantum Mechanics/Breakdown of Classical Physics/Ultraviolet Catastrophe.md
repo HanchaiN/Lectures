@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 # Ultraviolet Catastrophe
 
 - Quantization of Energy: Package of Light
