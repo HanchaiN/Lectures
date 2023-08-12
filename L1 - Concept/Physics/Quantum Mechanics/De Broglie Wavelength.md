@@ -12,4 +12,4 @@ share: true
   
 ## Reference  
   
-- [[../../../L0 - Summary/SCCH105 - General Chemistry/Introduction to Quantum Mechanics|Introduction to Quantum Mechanics]]  
+- [Introduction to Quantum Mechanics](Introduction%20to%20Quantum%20Mechanics.md#)  
