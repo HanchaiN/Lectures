@@ -1,6 +1,3 @@
----
-share: true
----
 # Double-Slit Experiment
 
 - Wave Behavior of Matter: Self-interference of electron
@@ -8,3 +5,7 @@ share: true
 - Classical Particle: May diffract but cannot interfere with itself.
 - Quantum Particle: Somehow causing the interference pattern → Must interfere with itself.
 	- One particle will lands on just one point but together forms a clear distribution like that of the interference pattern.
+
+## Reference
+- [[Introduction to Quantum Mechanics]]
+- [Easy Quantum Mechanics - YouTube](https://youtu.be/7u_UQG1La1o)

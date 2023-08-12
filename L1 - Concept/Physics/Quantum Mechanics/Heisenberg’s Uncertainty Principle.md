@@ -1,6 +1,3 @@
----
-share: true
----
 # Heisenberg’s Uncertainty Principle
 
 - $\Delta x \Delta p_x \ge \frac{\hbar}{2}​$  

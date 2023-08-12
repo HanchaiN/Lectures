@@ -5,8 +5,15 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#overview",
+      "color": {
+        "a": 1,
+        "rgb": 49151
+      }
+    },
     {
       "query": "path:\"L0 - Summary\"",
       "color": {

@@ -1,6 +1,3 @@
----
-share: true
----
 # Photoelectric Effect
 
 - Matter Behavior of Wave: Collision of photon and electron
@@ -9,3 +6,7 @@ share: true
   $\nu_0$: Critical frequency (Minimum frequency)
 - $\Delta V \propto E_{k}\propto\nu-\nu_0$  
   $\text{Current} \propto n_{e}\propto n_{\gamma} \propto \text{Intensity}$
+
+## Reference
+
+- [[Introduction to Quantum Mechanics]]
