@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "baseFontSize": 16,
+  "cssTheme": "Catppuccin",
+  "nativeMenus": false,
+  "translucency": true,
+  "monospaceFontFamily": "SF Mono",
+  "textFontFamily": "SF Pro Text",
+  "interfaceFontFamily": "SF Pro Display"
+}
