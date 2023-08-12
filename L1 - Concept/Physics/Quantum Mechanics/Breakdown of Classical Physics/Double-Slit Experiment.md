@@ -1,8 +1,6 @@
 # Double-Slit Experiment
 
-> [!tldr] Wave Behavior of Matter
-> Self-interference of electron
-
+- Wave Behavior of Matter: Self-interference of electron
 - Classical Wave: Diffract around slits and interfere with instance of the same wave from the different slit causing the interference pattern.
 - Classical Particle: May diffract but cannot interfere with itself.
 - Quantum Particle: Somehow causing the interference pattern → Must interfere with itself.

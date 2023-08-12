@@ -1,8 +1,6 @@
 # Photoelectric Effect
 
-> [!tldr] Matter Behavior of Wave
-> Collision of photon and electron
-
+- Matter Behavior of Wave: Collision of photon and electron
 - $E_{k,\text{max}}=h\nu-W$
   $W=h\nu_0$: Work function (Binding energy of electron w/ material)
   $\nu_0$: Critical frequency (Minimum frequency)
