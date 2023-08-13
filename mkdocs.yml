@@ -123,7 +123,7 @@ extra_javascript:
 extra_css:
     - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
     - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/styles.css
-    - https://tikzjax.com/v1/tikzjax.js
+    - https://tikzjax.com/v1/fonts.css
     - assets/css/admonition.css
     - assets/css/custom_attributes.css
     - assets/css/customization.css
