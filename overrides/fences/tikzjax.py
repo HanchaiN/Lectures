@@ -23,4 +23,4 @@ def fence_format(source, language, class_name, options, md, **kwargs):
         kwargs['attrs'] = kwargs['attrs'] if kwargs['attrs'] else {}
         kwargs['attrs'].update({"hidden": True})
 
-    return (f"{fence_code_format(source, language, class_name, options, md, **kwargs)}\n{tikzjax_html}")
+    return (f"{fence_code_format(tikzjax_html, "html", "", options, md, **kwargs)}\n{tikzjax_html}")

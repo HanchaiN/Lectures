@@ -78,7 +78,7 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
         - name: tikz
-          class: tikz
+          class: tikzjax
           format: !!python/name:overrides.fences.tikzjax.fence_format
 plugins:
   - search
