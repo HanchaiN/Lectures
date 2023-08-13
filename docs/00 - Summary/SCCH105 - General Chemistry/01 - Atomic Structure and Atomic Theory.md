@@ -4,7 +4,7 @@ share: true
 
 # Atomic Structure and Atomic Theory
 
-- [[../../L1 - Concept/Chemistry/Atomic Theory/Atomic Model/index|Atomic Model]]
+- [[Atomic Model|Atomic Model]]
 	- Related Discoveries
 		- Henri Becquerel (1896): Radioactivity
 		- J. J. Thomson (1897): Cathode Rays: $\frac{e}{m}=-1.76\mathrm{e}{8}\ \text{C}\text{g}^{-1}$
@@ -18,7 +18,7 @@ share: true
 		- James Chadwick (1932): Neutron: $m_n\gtrapprox m_p$
 		- August Herman Pfund (1924): Hydrogen spectral series ($n_f=5$: IR)
 		- Curtis J. Humphreys (1953): Hydrogen spectral series ($n_f=6$: IR)
-		- [[./Introduction to Quantum Mechanics|Introduction to Quantum Mechanics]]
+		- [[./01A - Introduction to Quantum Mechanics|01A - Introduction to Quantum Mechanics]]
 
 ## References
 
