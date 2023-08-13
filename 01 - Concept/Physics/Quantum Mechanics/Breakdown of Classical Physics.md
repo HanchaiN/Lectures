@@ -1,10 +1,10 @@
 ---
 share: true
+tags:
+	- overview
 ---
 
 # Breakdown of Classical Physics
-
-#overview
 
 - [[Ultraviolet Catastrophe]]
 - [[Photoelectric Effect]]

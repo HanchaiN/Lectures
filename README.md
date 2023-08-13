@@ -1,10 +1,14 @@
 ---
 share: true
+tags:
+	- overview
 ---
 
-# Lectures
+# Welcome
 
-#overview
+## Lectures
 
 - SCCH105 - General Chemistry
-	- [[Atomic Structure and Atomic Theory]]
+	- [[01 - Atomic Structure and Atomic Theory]]
+- SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science
+	- [[01 - Limit and Continuity]]

@@ -11,5 +11,5 @@ share: true
 
 ## Reference
 
-- [[Introduction to Quantum Mechanics]]
+- [[01A - Introduction to Quantum Mechanics]]
 - [Uncertainty principle - Wikipedia](https://en.wikipedia.org/wiki/Uncertainty_principle)

@@ -14,4 +14,4 @@ share: true
 
 ## Reference
 
-- [[Atomic Structure and Atomic Theory]]
+- [[01 - Atomic Structure and Atomic Theory]]

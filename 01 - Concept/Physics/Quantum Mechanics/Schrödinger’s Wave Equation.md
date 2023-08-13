@@ -14,5 +14,5 @@ share: true
 
 ## Reference
 
-- [[Introduction to Quantum Mechanics]]
+- [[01A - Introduction to Quantum Mechanics]]
 - [Operator (physics) - Wikipedia](https://en.wikipedia.org/wiki/Operator_(physics)#Table_of_QM_operators)

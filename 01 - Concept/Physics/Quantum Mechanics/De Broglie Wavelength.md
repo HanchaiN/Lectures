@@ -13,4 +13,4 @@ share: true
 
 ## Reference
 
-- [[Introduction to Quantum Mechanics]]
+- [[01A - Introduction to Quantum Mechanics]]
