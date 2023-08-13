@@ -9,12 +9,12 @@
     "otherRepo": [],
     "workflow": {
       "name": "",
-      "commitMessage": "[skip netlify] PUBLISHER"
+      "commitMessage": "PUBLISHER"
     },
     "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/.env",
     "repo": "Lectures",
     "user": "HanchaiN",
-    "rateLimit": 4993,
+    "rateLimit": 4946,
     "verifiedRepo": true
   },
   "upload": {
@@ -39,7 +39,7 @@
       ]
     },
     "folderNote": {
-      "enable": true,
+      "enable": false,
       "rename": "index.md"
     },
     "metadataExtractorPath": "",
