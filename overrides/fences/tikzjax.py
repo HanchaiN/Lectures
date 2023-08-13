@@ -19,8 +19,4 @@ def fence_format(source, language, class_name, options, md, **kwargs):
 
     tikzjax_html = f'<script type="text/tikz"{id_value}{classes}{attrs}>{source}</script>'
 
-    if class_name:
-        kwargs['attrs'] = kwargs['attrs'] if kwargs['attrs'] else {}
-        kwargs['attrs'].update({"hidden": True})
-
-    return (f"{fence_code_format(tikzjax_html, "html", "", options, md, **kwargs)}\n{tikzjax_html}")
+    return (f"<!--{tikzjax_html}-->\n{tikzjax_html}")
