@@ -1,13 +1,12 @@
 ---
 share: true
+tag: overview
 tags:
   - overview
 ---
 
 
 # Atomic Model
-
-#overview
 
 - Philosophical Model
 	- Leucippus (480 – 420 B.C.) & Democritus (470-380 B.C.): Atomos = Fundamental particle
