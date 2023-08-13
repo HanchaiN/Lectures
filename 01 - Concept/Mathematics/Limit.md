@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 # Limit
 
 - $\lim\limits_{x\to a^-}f(x)=f(x)\mid x\lessapprox a$

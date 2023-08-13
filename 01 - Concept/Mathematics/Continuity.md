@@ -1,9 +1,17 @@
+---
+share: true
+---
+
 # Continuity
 
 - Continuous at $a$: $\lim\limits_{x\to a} f(x)=f(a)$;
 	- $f(a)$ is defined,
 	- $\lim\limits_{x\to a} f(x)$ exists.
 - Continuous on $\left(a,b\right)$: Continuous on $x_0\in\left(a,b\right)$.
+
+## Related Topics
+
+- [[Limit]]
 
 ## Reference
 

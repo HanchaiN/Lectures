@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 # Limit and Continuity
 
 - [[Limit]]

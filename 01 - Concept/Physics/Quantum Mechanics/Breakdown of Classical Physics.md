@@ -1,7 +1,6 @@
 ---
 share: true
-tags:
-	- overview
+tag: overview
 ---
 
 # Breakdown of Classical Physics

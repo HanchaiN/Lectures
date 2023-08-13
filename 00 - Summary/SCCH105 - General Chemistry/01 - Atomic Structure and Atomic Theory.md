@@ -19,6 +19,8 @@ share: true
 		- August Herman Pfund (1924): Hydrogen spectral series ($n_f=5$: IR)
 		- Curtis J. Humphreys (1953): Hydrogen spectral series ($n_f=6$: IR)
 		- [[01A - Introduction to Quantum Mechanics]]
+	- [[Bohr Model]]
+	- [[Electron Cloud Model]]
 
 ## References
 

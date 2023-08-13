@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 # Intermediate Form
 
 - $\dfrac{0}{0}$, $\dfrac{\infty}{\infty}$ → Factorization
@@ -6,6 +10,10 @@
 - $0^0=\exp{\dfrac{0}{{1}/{\ln 0}}}=\dfrac{0}{0}$
 - $1^\infty=\exp{\dfrac{\ln 1}{{1}/{\infty}}}$
 - $\infty^0=\exp{\dfrac{0}{{1}/{\ln \infty}}}=\dfrac{0}{0}$
+
+## Related Topics
+
+- [[Limit]]
 
 ## Reference
 
