@@ -15,8 +15,8 @@ share: true
 	\begin{document}
 	  \begin{tikzpicture}[scale=.5]
 		% Axes
-		\draw[-{Stealth}] (-0.5,0) -- (12.5,0) node[right] {$x$};  
-		\draw[-{Stealth}] (0,-0.5) -- (0,12.5) node[above] {$f(x)$};
+		\draw[->] (-0.5,0) -- (12.5,0) node[right] {$x$};  
+		\draw[->] (0,-0.5) -- (0,12.5) node[above] {$f(x)$};
 		% Graph
 		\draw[domain=0:12,range=0:12,smooth,variable=\x,blue] plot ({\x},{(\x^3-18*\x^2+88*\x-96)/32+6});
 		% Epsilon-delta region
