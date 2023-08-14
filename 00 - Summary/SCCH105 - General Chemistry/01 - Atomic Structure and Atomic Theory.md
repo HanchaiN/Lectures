@@ -21,6 +21,7 @@ share: true
 		- [[01A - Introduction to Quantum Mechanics]]
 	- [[Bohr Model]]
 	- [[Electron Cloud Model]]
+		- [[Pauli’s Exclusion Principle]]
 
 ## References
 
