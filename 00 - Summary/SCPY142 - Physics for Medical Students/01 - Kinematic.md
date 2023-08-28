@@ -17,6 +17,12 @@ share: true
 	- $\Delta x=v_{i}\Delta t+\frac{1}{2}a{\Delta t}^2$
 	- $\Delta x=v_{f}\Delta t-\frac{1}{2}a{\Delta t}^2$
 	- $v_{f}^{2}=v_{i}^{2}+2a\Delta x$
+- Newton’s third law
+	- $\vec{F}=m\vec{a}$
 - Circular motion
 	- $a_{\perp}=\frac{v^{2}}{R}$
 	- $a_{\parallel}=\frac{d}{dt}\left\lVert\vec{v}\right\rVert$
+
+## Reference
+
+- Handout SCPY142
