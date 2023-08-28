@@ -1,7 +1,9 @@
 ---
 share: true
 ---
+
 # Kinematic
+
 - Coordinate System
 	- Origin
 - Position ($\vec{x}$)
