@@ -1,0 +1,36 @@
+---
+share: true
+---
+
+# Differentiation
+
+- $\displaystyle f^{\prime}(x)=\frac{d}{dx}f(x)=\lim_{h\to0}\frac{f(x+h)-f(x)}{h}$
+- $\displaystyle f^{\prime}(a)=\left.\frac{d}{dx}f(x)\right\rvert_{x=a}=\lim_{x\to a}\frac{f(x)-f(a)}{x-a}$
+- Equiv.
+	- Slope of tangent line at $x=a$.
+- Linear
+	- $(cf)^{\prime}=c\cdot f^{\prime}$
+	- $(f+g)^{\prime}=f^{\prime}+g^{\prime}$
+- Rules
+	- $(f\cdot g)^{\prime}=f^{\prime}\cdot g+f\cdot g^{\prime}$
+		- $(\frac{f}{g})^{\prime}=\frac{f^{\prime}\cdot g-f\cdot g^{\prime}}{g^2}$
+		- $(f\cdot g\cdot h)^{\prime}=f^{\prime}\cdot g\cdot h+f\cdot g^{\prime}\cdot h+f\cdot g\cdot h^{\prime}$
+		- $(f\cdot g)^{\prime\prime}=f^{\prime\prime}\cdot g+2f^{\prime}\cdot g^{\prime}+f\cdot g^{\prime\prime}$
+	- $(f\circ g)^{\prime}=(f^{\prime}\circ g)\cdot g^{\prime}$
+- Exact forms
+	- $\displaystyle\frac{d}{dx}c=0$
+	- $\displaystyle\frac{d}{dx}x^{r}=rx^{r-1}$
+	- $\displaystyle\frac{d}{dx}\sin x=\cos x$
+	- $\displaystyle\frac{d}{dx}\cos x=-\sin x$
+	- $\displaystyle\frac{d}{dx}\tan x=\sec^2 x$
+	- $\displaystyle\frac{d}{dx}\cot x=-\csc^2 x$
+	- $\displaystyle\frac{d}{dx}\sec x=\sec x\tan x$
+	- $\displaystyle\frac{d}{dx}\csc x=-\csc x\cot x$
+	- $\displaystyle\frac{d}{dx}e^x=e^x$
+	- $\displaystyle\frac{d}{dx}a^{x}=a^{x}\ln a$
+	- $\displaystyle\frac{d}{dx}\ln x=\frac{1}{x}$
+	- $\displaystyle\frac{d}{dx}\log_{a}x=\frac{1}{x\ln a}$
+
+## Reference
+
+- [[../../00 - Summary/SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science/02 - Differentiation|02 - Differentiation]]
