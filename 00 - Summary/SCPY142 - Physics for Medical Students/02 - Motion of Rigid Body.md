@@ -2,7 +2,7 @@
 share: true
 ---
 
-# Angular Motion
+# Motion of Rigid Body
 
 - Angle ($\theta$)
 	- $\Delta x=r\Delta \theta$
