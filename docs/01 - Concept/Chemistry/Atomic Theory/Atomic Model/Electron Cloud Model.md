@@ -6,11 +6,16 @@ share: true
 
 - Energy eigenfunction (Orbitals)
 	- Solve [[../../../Physics/Quantum Mechanics/Schrödinger’s Wave Equation|Schrödinger’s Wave Equation]]
-	- Quantum Numbers ($n$, $l$, $m_l$, $m_s$)
-		- Principal Quantum Number ($n$): Energy Level / Radial function
-		- Azimuthal Quantum Number ($l$): Shapes / Polar function
-		- Magnetic Quantum Number ($m_l$): Orientation, Angular Momentum / Azimuthal function
-		- Spin Quantum Number ($m_s$): Intrinsic Angular Momentum of electron
+	- Quantum Numbers ($n$, $l$, $m_{l}$, $m_{s}$)
+		- Principal Quantum Number ($n=1,\dots$):  
+		  Energy Level, Diameter / Radial function
+		- Azimuthal Quantum Number ($l=0,\dots,n-1$):  
+		  Shapes / Polar function
+		- Magnetic Quantum Number ($m_{l}=-l,\dots,l$):  
+		  Orientation, Angular Momentum / Azimuthal function
+		- Spin Quantum Number ($m_{s}=\pm1$):  
+		  Intrinsic Angular Momentum of electron
+- [[../../../Physics/Quantum Mechanics/Pauli’s Exclusion Principle|Pauli’s Exclusion Principle]]
 
 ## Reference
 
