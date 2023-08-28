@@ -4,10 +4,10 @@ share: true
 
 # Limit
 
-- $\lim\limits_{x\to a^-}f(x)=f(x)\mid x\lessapprox a$  
-- $\lim\limits_{x\to a^+}f(x)=f(x)\mid x\gtrapprox a$  
-- $\lim\limits_{x\to a}f(x)=L\iff\lim\limits_{x\to a^-}f(x)=\lim\limits_{x\to a^{+}}f(x)=L$  
-- $\lim\limits_{x\to a}f(x)=L \iff \forall \varepsilon>0,\exists \delta>0,\forall x\left[0<\left\lvert x-a\right\rvert<\delta\implies\left\lvert f(x)-L\right\rvert<\varepsilon\right]$  
+- $\displaystyle\lim_{x\to a^-}f(x)=f(x)\mid x\lessapprox a$  
+- $\displaystyle\lim_{x\to a^+}f(x)=f(x)\mid x\gtrapprox a$  
+- $\displaystyle\lim_{x\to a}f(x)=L\iff\lim_{x\to a^-}f(x)=\lim_{x\to a^{+}}f(x)=L$  
+- $\displaystyle\lim_{x\to a}f(x)=L \iff \forall \varepsilon>0,\exists \delta>0,\forall x\left[0<\left\lvert x-a\right\rvert<\delta\implies\left\lvert f(x)-L\right\rvert<\varepsilon\right]$  
 
   ``` tikz
 	\usetikzlibrary{arrows.meta}
