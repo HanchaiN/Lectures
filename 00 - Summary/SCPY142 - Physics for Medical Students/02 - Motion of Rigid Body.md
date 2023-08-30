@@ -19,7 +19,7 @@ share: true
 	- $\omega_{f}^{2}=\omega_{i}^{2}+2\alpha\Delta \theta$
 - $\vec{\tau}=I\vec{\alpha}$
 	- Torque ($\vec{\tau}=\vec{r}\times\vec{F}$)
-	- Moment of Inertia ($I=\int_{M}r^2fm$)
+	- Moment of Inertia ($I=\int_{M}r^{2}dm$)
 - Parallel Axis Theorem
 	- Center of Mass ($\vec{x}_\text{cm}=\frac{1}{M}\int_{M}\vec{x}dm$)
 	- $I=I_\text{cm}+Md^2$
