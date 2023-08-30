@@ -6,6 +6,7 @@ share: true
 
 - $\displaystyle f^{\prime}(x)=\frac{d}{dx}f(x)=\lim_{h\to0}\frac{f(x+h)-f(x)}{h}$
 - $\displaystyle f^{\prime}(a)=\left.\frac{d}{dx}f(x)\right\rvert_{x=a}=\lim_{x\to a}\frac{f(x)-f(a)}{x-a}$
+- $\displaystyle f^{(n)}(x)=\frac{d^{n}}{dx^{n}}f(x)=\frac{d}{dx}f^{(n-1)}(x)$
 - Equiv.
 	- Slope of tangent line at $x=a$.
 - Linearity
@@ -28,7 +29,7 @@ share: true
 	- $\displaystyle\frac{d}{dx}\csc x=-\csc x\cot x$
 	- $\displaystyle\frac{d}{dx}e^x=e^x$
 	- $\displaystyle\frac{d}{dx}a^{x}=a^{x}\ln a$
-	- $\displaystyle\frac{d}{dx}\ln x=\frac{1}{x}$
+	- $\displaystyle\frac{d}{dx}\ln \left\lvert x\right\rvert=\frac{1}{x}$
 	- $\displaystyle\frac{d}{dx}\log_{a}x=\frac{1}{x\ln a}$
 
 ## Reference

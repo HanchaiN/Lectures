@@ -9,6 +9,12 @@ share: true
 	- Discontinuous (DNE)
 	- Vertex (DNE)
 	- Vertical Asymptote ($\pm\infty$)
+- Technique for finding derivatives
+	- Explicit differentiation vs Implicit differentiation
+		- Explicit: $\displaystyle y=f(x)\implies\frac{dy}{dx}=\frac{d}{dx}f(x)$
+		- Implicit: $\displaystyle f(x,y)=c\implies\frac{d}{dx}f(x,y)=\frac{d}{dx}c=0$
+	- Log-der
+		- $\displaystyle\frac{d}{dx}\ln y=\frac{1}{y}\frac{dy}{dx}$
 
 ## Reference
 

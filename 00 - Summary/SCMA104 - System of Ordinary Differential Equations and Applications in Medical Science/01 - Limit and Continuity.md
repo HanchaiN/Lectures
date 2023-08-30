@@ -25,6 +25,7 @@ share: true
 		- $f$ is continuous at $b$, or  
 		- $g(a\pm\varepsilon)\ne b$.
 	- L’Hôpital’s rule
+		- $\displaystyle\frac{f(x)}{g(x)}=\frac{0}{0},\frac{\infty}{\infty}\implies\lim_{x\to a}\frac{f(x)}{g(x)}=\lim_{x\to a}\frac{f^{\prime}(x)}{g^{\prime}(x)}$
 
 ## Reference
 
