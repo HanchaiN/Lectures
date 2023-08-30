@@ -13,7 +13,7 @@ share: true
 	- Explicit differentiation vs Implicit differentiation
 		- Explicit: $\displaystyle y=f(x)\implies\frac{dy}{dx}=\frac{d}{dx}f(x)$
 		- Implicit: $\displaystyle f(x,y)=c\implies\frac{d}{dx}f(x,y)=\frac{d}{dx}c=0$
-	- Log-der
+	- Logarithmic differentiation
 		- $\displaystyle\frac{d}{dx}\ln y=\frac{1}{y}\frac{dy}{dx}$
 
 ## Reference

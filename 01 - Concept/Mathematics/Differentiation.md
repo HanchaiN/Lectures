@@ -18,6 +18,8 @@ share: true
 		- $(f\cdot g\cdot h)^{\prime}=f^{\prime}\cdot g\cdot h+f\cdot g^{\prime}\cdot h+f\cdot g\cdot h^{\prime}$
 		- $(f\cdot g)^{\prime\prime}=f^{\prime\prime}\cdot g+2f^{\prime}\cdot g^{\prime}+f\cdot g^{\prime\prime}$
 	- $(f\circ g)^{\prime}=(f^{\prime}\circ g)\cdot g^{\prime}$
+		- $(f^{-1})^{\prime}=\frac{1}{f^{\prime}\circ f^{-1}}$
+	- $(f^{g})^\prime=f^{g}(f^{\prime}\frac{g}{f}+g^{\prime}\ln f)$
 - Exact forms
 	- $\displaystyle\frac{d}{dx}c=0$
 	- $\displaystyle\frac{d}{dx}x^{r}=rx^{r-1}$
@@ -35,3 +37,4 @@ share: true
 ## Reference
 
 - [[02 - Differentiation]]
+- [Differentiation rules - Wikipedia](https://en.wikipedia.org/wiki/Differentiation_rules)
