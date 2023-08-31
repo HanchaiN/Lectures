@@ -39,7 +39,7 @@
       ]
     },
     "folderNote": {
-      "enable": false,
+      "enable": true,
       "rename": "index.md"
     },
     "metadataExtractorPath": "",
@@ -57,7 +57,8 @@
     "links": {
       "internal": true,
       "unshared": false,
-      "wiki": false
+      "wiki": false,
+      "slugify": true
     }
   },
   "embed": {
