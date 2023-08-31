@@ -4,7 +4,7 @@ share: true
 
 # Introduction to Quantum Mechanics
 
-- [[../../01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics|Breakdown of Classical Physics]]
+- [[../../01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/index|Breakdown of Classical Physics]]
 	- [[../../01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Ultraviolet Catastrophe|Ultraviolet Catastrophe]]
 	- [[../../01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Photoelectric Effect|Photoelectric Effect]]
 	- [[../../01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Double-Slit Experiment|Double-Slit Experiment]]
