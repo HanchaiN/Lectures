@@ -8,6 +8,7 @@ share: true
 	- $\Delta x=r\Delta \theta$
 - Angular Velocity ($\omega=\frac{d\theta}{dt}$)
 	- $v_\theta=r\omega$
+	- $\vec{\omega}=\frac{\vec{r}\times\vec{v}}{r^2}​$
 - Angular Acceleration ($\alpha=\frac{d\omega}{dt}$)
 	- $a_r=r\omega^{2}$
 	- $a_\theta=r\alpha$
