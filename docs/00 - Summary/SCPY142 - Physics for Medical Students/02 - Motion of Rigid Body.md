@@ -6,8 +6,10 @@ share: true
 
 - Angle ($\theta$)
 	- $\Delta x=r\Delta \theta$
+	- $d\vec{\theta}=\frac{\vec{r}\times d\vec{x}}{r^2}$
 - Angular Velocity ($\omega=\frac{d\theta}{dt}$)
 	- $v_\theta=r\omega$
+	- $\vec{\omega}=\frac{\vec{r}\times\vec{v}}{r^2}​$
 - Angular Acceleration ($\alpha=\frac{d\omega}{dt}$)
 	- $a_r=r\omega^{2}$
 	- $a_\theta=r\alpha$
@@ -20,10 +22,13 @@ share: true
 - $\vec{\tau}=I\vec{\alpha}$
 	- Torque ($\vec{\tau}=\vec{r}\times\vec{F}$)
 	- Moment of Inertia ($I=\int_{M}r^{2}dm$)
+		- Inertia tensor ($I_{ij}=\int_{M}x_{i}x_{j}dm$; $\vec{\tau}=\mathbf{I}\vec{\alpha}$)
 - Parallel Axis Theorem
 	- Center of Mass ($\vec{x}_\text{cm}=\frac{1}{M}\int_{M}\vec{x}dm$)
-	- $I=I_\text{cm}+Md^2$
+	- $I=I_\text{cm}+md^2$
+		- $\mathbf{I}=\mathbf{I}_\text{cd}+m\left(\left(\vec{r}\cdot\vec{r}\right)\mathbf{E}-\vec{r}\otimes\vec{r}\right)$ ($\mathbf{E}$: Identity Tensor)
 
 ## Reference
 
 - Handout SCPY142
+- [Moment of inertia - Wikipedia](https://en.wikipedia.org/wiki/Moment_of_inertia)

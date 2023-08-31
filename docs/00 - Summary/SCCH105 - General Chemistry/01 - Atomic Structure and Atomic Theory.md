@@ -4,7 +4,7 @@ share: true
 
 # Atomic Structure and Atomic Theory
 
-- [[../../01 - Concept/Chemistry/Atomic Theory/Atomic Model|Atomic Model]]
+- [[../../01 - Concept/Chemistry/Atomic Theory/Atomic Model/index|Atomic Model]]
 	- Related Discoveries
 		- Henri Becquerel (1896): Radioactivity
 		- J. J. Thomson (1897): Cathode Rays: $\frac{e}{m}=-1.76\mathrm{e}{8}\ \text{C}\text{g}^{-1}$
@@ -37,7 +37,7 @@ share: true
 				- Max $n$
 				- May include partially filled $d$-orbital or $f$-orbital
 			- Oppose to Inner electrons
-- [[../../01 - Concept/Chemistry/Atomic Theory/Property of Element|Property of Element]]
+- [[../../01 - Concept/Chemistry/Atomic Theory/Property of Element/index|Property of Element]]
 	- Alkali Metals (IA)
 	- Alkali Earth Metals (IIA)
 	- Boron Family (IIIA)
