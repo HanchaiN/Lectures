@@ -7,6 +7,7 @@ share: true
 - [[Ionic Bonding]]
 	- Hard, Rigid, Brittle, High Boiling Points
 	- Electrically conductive when melted/dissolved
+	- Lattice packing
 - [[Covalent Bonding]]
 	- [[Characteristic Infrared Band]]
 		- UV → Break bonds
