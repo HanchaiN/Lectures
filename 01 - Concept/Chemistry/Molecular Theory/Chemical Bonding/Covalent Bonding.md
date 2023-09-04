@@ -43,6 +43,10 @@ share: true
 				- Average to same energy level orbitals
 			- Maximize overlapping
 	- Molecular Orbital Theory
+		- New Molecular Orbital across entire molecule
+			- approx. superposition of originals
+			- → Bonding ($\sigma$, $\pi$, $\delta$, $\phi$) / Antibonding ($\sigma^\ast$, $\pi^\ast$, $\delta^\ast$, $\phi^\ast$)
+			- Bond order: $\frac{1}{2}\left(\#_\text{bonding}-\#_\text{antibonding}\right)$
 
 ## Reference
 
