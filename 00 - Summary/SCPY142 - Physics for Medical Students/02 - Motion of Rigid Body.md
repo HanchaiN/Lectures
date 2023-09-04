@@ -7,9 +7,11 @@ share: true
 - Angle ($\theta$)
 	- $\Delta x=r\Delta \theta$
 	- $d\vec{\theta}=\frac{\vec{r}\times d\vec{x}}{r^2}$
+	- $dx_\perp=d\vec{\theta}\times\vec{r}$
 - Angular Velocity ($\omega=\frac{d\theta}{dt}$)
 	- $v_\theta=r\omega$
 	- $\vec{\omega}=\frac{\vec{r}\times\vec{v}}{r^2}​$
+	- $v_\perp=\vec{\omega}\times\vec{r}$
 - Angular Acceleration ($\alpha=\frac{d\omega}{dt}$)
 	- $a_r=r\omega^{2}$
 	- $a_\theta=r\alpha$
