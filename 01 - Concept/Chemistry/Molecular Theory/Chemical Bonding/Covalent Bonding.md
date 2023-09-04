@@ -39,6 +39,7 @@ share: true
 			- Orientation of the bond
 		- Hybrid Orbital
 			- Hybridization (Mixing) of multiple [[Atomic Orbital]]
+			- Excite electron from ground state
 			- Maximize overlapping
 	- Molecular Orbital Theory
 
