@@ -35,11 +35,12 @@ share: true
 	- $\phi$-bond: Lateral (6-lobe ~ $f$-orbital)
 	- Valence Bond Theory
 		- Overlapped [[Atomic Orbital]]
-		- Strength depends on extent of overlap 
+		- Strength depends on extent of overlap
 			- Orientation of the bond
 		- Hybrid Orbital
 			- Hybridization (Mixing) of multiple [[Atomic Orbital]]
-			- Excite electron from ground state
+				- Excite electron from ground state
+				- Average to same energy level orbitals
 			- Maximize overlapping
 	- Molecular Orbital Theory
 
