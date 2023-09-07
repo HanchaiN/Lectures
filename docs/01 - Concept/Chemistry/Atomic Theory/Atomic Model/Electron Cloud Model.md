@@ -4,7 +4,7 @@ share: true
 
 # Electron Cloud Model
 
-- Energy eigenfunction (Orbitals)
+- Energy eigenfunction ([[Atomic Orbital]])
 	- Solve [[../../../Physics/Quantum Mechanics/Schrödinger’s Wave Equation|Schrödinger’s Wave Equation]]
 	- Quantum Numbers ($n$, $l$, $m_{l}$, $m_{s}$)
 		- Principal Quantum Number ($n=1,\dots$):  
