@@ -7,9 +7,11 @@ share: true
 - Angle ($\theta$)
 	- $\Delta x=r\Delta \theta$
 	- $d\vec{\theta}=\frac{\vec{r}\times d\vec{x}}{r^2}$
+	- $dx_\perp=d\vec{\theta}\times\vec{r}$
 - Angular Velocity ($\omega=\frac{d\theta}{dt}$)
 	- $v_\theta=r\omega$
 	- $\vec{\omega}=\frac{\vec{r}\times\vec{v}}{r^2}​$
+	- $v_\perp=\vec{\omega}\times\vec{r}$
 - Angular Acceleration ($\alpha=\frac{d\omega}{dt}$)
 	- $a_r=r\omega^{2}$
 	- $a_\theta=r\alpha$
@@ -27,6 +29,9 @@ share: true
 	- Center of Mass ($\vec{x}_\text{cm}=\frac{1}{M}\int_{M}\vec{x}dm$)
 	- $I=I_\text{cm}+md^2$
 		- $\mathbf{I}=\mathbf{I}_\text{cd}+m\left(\left(\vec{r}\cdot\vec{r}\right)\mathbf{E}-\vec{r}\otimes\vec{r}\right)$ ($\mathbf{E}$: Identity Tensor)
+- Perpendicular Axis Theorem ^perp-axs-thm
+	- Assume $z=0$
+	- $I_z=\int_{M}{x^2+y^2}dm=\int_{M}{x^2}dm+\int_{M}{y^2}dm=\int_{M}{x^2+z^2}dm+\int_{M}{y^2+z^2}dm=I_y+I_x$
 
 ## Reference
 
