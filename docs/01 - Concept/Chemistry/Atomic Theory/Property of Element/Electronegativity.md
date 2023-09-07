@@ -5,7 +5,7 @@ share: true
 # Electronegativity
 
 - Tendency to attract bonding electron
-	- $\Delta \chi < 1.7$: [[../../Molecular Theory/Chemical Bonding/Covalent Bonding|Covalent Bonding]]
+	- $\Delta \chi < 1.7$: [[../../Molecular Theory/Chemical Bonding/Covalent Bonding/index|Covalent Bonding]]
 	- $\Delta \chi > 1.7$: [[../../Molecular Theory/Chemical Bonding/Ionic Bonding|Ionic Bonding]]
 - $\displaystyle\propto Z_\text{eff}$
 
