@@ -5,7 +5,7 @@ share: true
 # Electron Cloud Model
 
 - Energy eigenfunction ([[Atomic Orbital]])
-	- Solve [[../../../Physics/Quantum Mechanics/Schrödinger’s Wave Equation|Schrödinger’s Wave Equation]]
+	- Solve [[Schrödinger’s Wave Equation|Schrödinger’s Wave Equation]]
 	- Quantum Numbers ($n$, $l$, $m_{l}$, $m_{s}$)
 		- Principal Quantum Number ($n=1,\dots$):  
 		  Energy Level, Diameter / Radial function
@@ -15,8 +15,8 @@ share: true
 		  Orientation, Angular Momentum / Azimuthal function
 		- Spin Quantum Number ($m_{s}=\pm1$):  
 		  Intrinsic Angular Momentum of electron
-- [[../../../Physics/Quantum Mechanics/Pauli’s Exclusion Principle|Pauli’s Exclusion Principle]]
+- [[Pauli’s Exclusion Principle|Pauli’s Exclusion Principle]]
 
 ## Reference
 
-- [[../../../../00 - Summary/SCCH105 - General Chemistry/01 - Atomic Structure and Atomic Theory|01 - Atomic Structure and Atomic Theory]]
+- [[01 - Atomic Structure and Atomic Theory|01 - Atomic Structure and Atomic Theory]]
