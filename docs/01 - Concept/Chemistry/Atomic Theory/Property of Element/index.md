@@ -8,11 +8,11 @@ tags:
 
 # Property of Element
 
-- [[./Effective Nuclear Charge|Effective Nuclear Charge]]
-- [[./Atomic Radius|Atomic Radius]]
-- [[./Ionization Energy|Ionization Energy]]
-- [[./Electron Affinity|Electron Affinity]]
-- [[./Electronegativity|Electronegativity]]
+- [[Effective Nuclear Charge|Effective Nuclear Charge]]
+- [[Atomic Radius|Atomic Radius]]
+- [[Ionization Energy|Ionization Energy]]
+- [[Electron Affinity|Electron Affinity]]
+- [[Electronegativity|Electronegativity]]
 - Magnetism
 	- Diamagnetic ← No unpaired electron
 	- Paramagnetic ← w/ unpaired electron
