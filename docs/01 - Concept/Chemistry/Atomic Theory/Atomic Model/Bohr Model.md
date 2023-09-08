@@ -10,7 +10,7 @@ share: true
   From Coulomb’s electric force: $F_e=\frac{1}{4\pi\varepsilon_0}\frac{q_1q_2}{r^2}$;  
   $\therefore v=\sqrt{\frac{1}{4\pi\varepsilon_0}\frac{e^2}{m_er}}$,  
   From standing wave on a circle: $2\pi r=n\lambda$,  
-  From [[../../../Physics/Quantum Mechanics/De Broglie Wavelength|De Broglie Wavelength]]: $\lambda=\frac{h}{mv}$,  
+  From [[De Broglie Wavelength|De Broglie Wavelength]]: $\lambda=\frac{h}{mv}$,  
    $\therefore r=\frac{4\pi\varepsilon_0\hbar^2}{e^2m_e}n^2$.
 - Total energy is $E=-R_H\frac{1}{n^2}$ where $R_H=\frac{\mu m_ee^4}{32\pi^2\varepsilon_0^2\hbar^{2}}$ is Rydberg constant.  
   Johannes Robert Rydberg (1890)  
@@ -22,4 +22,4 @@ share: true
 
 ## Reference
 
-- [[../../../../00 - Summary/SCCH105 - General Chemistry/01 - Atomic Structure and Atomic Theory|01 - Atomic Structure and Atomic Theory]]
+- [[01 - Atomic Structure and Atomic Theory|01 - Atomic Structure and Atomic Theory]]
