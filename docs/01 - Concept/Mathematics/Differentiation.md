@@ -36,5 +36,5 @@ share: true
 
 ## Reference
 
-- [[../../00 - Summary/SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science/02 - Differentiation|02 - Differentiation]]
+- [[02 - Differentiation|02 - Differentiation]]
 - [Differentiation rules - Wikipedia](https://en.wikipedia.org/wiki/Differentiation_rules)
