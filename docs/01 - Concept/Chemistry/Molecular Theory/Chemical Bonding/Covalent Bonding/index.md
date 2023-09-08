@@ -8,7 +8,7 @@ share: true
 - Bond Energy
 	- $\propto \text{Bond Order}$
 - Bond Length
-	- Approx. sum of [[../../../Atomic Theory/Property of Element/Atomic Radius|Covalent Radius]]
+	- Approx. sum of [[Atomic Radius|Covalent Radius]]
 - Bond Order
 	- Single bond ~ $+1\sigma$
 	- Double bond ~ $+1\sigma+1\pi$
@@ -22,7 +22,7 @@ share: true
 - Bond [Dipole Moment](https://en.wikipedia.org/wiki/Electric_dipole_moment): $\mu$
 	- Molecular Dipole Moment = Directional Sum of Bond Dipole Moment
 	- Ionic Character = $\dfrac{\mu_\text{observed}}{\mu_\text{ionic}}$
-- [[./Characteristic Infrared Band|Characteristic Infrared Band]]
+- [[Characteristic Infrared Band|Characteristic Infrared Band]]
 - Lewis Structure
 	- Octet rules
 	- [[Formal Charge|Formal Charge]]
@@ -50,4 +50,4 @@ share: true
 
 ## Reference
 
-- [[../../../../../00 - Summary/SCCH105 - General Chemistry/02 - Chemical Bonding|02 - Chemical Bonding]]
+- [[02 - Chemical Bonding|02 - Chemical Bonding]]

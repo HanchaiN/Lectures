@@ -29,9 +29,6 @@ share: true
 	- Center of Mass ($\vec{x}_\text{cm}=\frac{1}{M}\int_{M}\vec{x}dm$)
 	- $I=I_\text{cm}+md^2$
 		- $\mathbf{I}=\mathbf{I}_\text{cd}+m\left(\left(\vec{r}\cdot\vec{r}\right)\mathbf{E}-\vec{r}\otimes\vec{r}\right)$ ($\mathbf{E}$: Identity Tensor)
-- Perpendicular Axis Theorem ^perp-axs-thm
-	- Assume $z=0$
-	- $I_z=\int_{M}{x^2+y^2}dm=\int_{M}{x^2}dm+\int_{M}{y^2}dm=\int_{M}{x^2+z^2}dm+\int_{M}{y^2+z^2}dm=I_y+I_x$
 
 ## Reference
 

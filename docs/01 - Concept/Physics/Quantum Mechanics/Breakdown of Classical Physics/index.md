@@ -8,6 +8,6 @@ tags:
 
 # Breakdown of Classical Physics
 
-- [[./Ultraviolet Catastrophe|Ultraviolet Catastrophe]]
-- [[./Photoelectric Effect|Photoelectric Effect]]
-- [[./Double-Slit Experiment|Double-Slit Experiment]]
+- [[Ultraviolet Catastrophe|Ultraviolet Catastrophe]]
+- [[Photoelectric Effect|Photoelectric Effect]]
+- [[Double-Slit Experiment|Double-Slit Experiment]]
