@@ -32,5 +32,5 @@ share: true
 
 ## Reference
 
-- [[../../00 - Summary/SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science/01 - Limit and Continuity|01 - Limit and Continuity]]
+- [[01 - Limit and Continuity|01 - Limit and Continuity]]
 - [Limit of a function - Wikipedia](https://en.wikipedia.org/wiki/Limit_of_a_function)
