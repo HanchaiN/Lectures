@@ -12,4 +12,4 @@ share: true
 
 ## References
 
-- [[../../../../00 - Summary/SCCH105 - General Chemistry/01 - Atomic Structure and Atomic Theory|01 - Atomic Structure and Atomic Theory]]
+- [[01 - Atomic Structure and Atomic Theory|01 - Atomic Structure and Atomic Theory]]
