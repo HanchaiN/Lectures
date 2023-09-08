@@ -24,7 +24,7 @@ share: true
 		- aka. Area Moment of Inertia, Moment of Inertial of Area
 		- Parallel Axis Theorem: $I_A=I_{A,\text{cm}}+Ad^2$
 	- Polar Moment of Inertia ($J=I_x+I_y$)
-		- [[./02 - Motion of Rigid Body#^perp-axs-thm|Perpendicular Axis Theorem]]
+		- [[02 - Motion of Rigid Body#^perp-axs-thm|Perpendicular Axis Theorem]]
 		- Torsional Deformation
 
 ## Reference
