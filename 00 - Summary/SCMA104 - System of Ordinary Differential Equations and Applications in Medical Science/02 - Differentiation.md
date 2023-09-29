@@ -15,7 +15,7 @@ share: true
 		- Implicit: $\displaystyle f(x,y)=c\implies\frac{d}{dx}f(x,y)=\frac{d}{dx}c=0$
 	- Logarithmic differentiation
 		- $\displaystyle\frac{d}{dx}\ln y=\frac{1}{y}\frac{dy}{dx}$
-
+- Applicatio
 ## Reference
 
 - Handout SCMA104
