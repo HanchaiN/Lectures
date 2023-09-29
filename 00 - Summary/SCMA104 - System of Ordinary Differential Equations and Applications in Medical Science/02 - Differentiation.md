@@ -39,6 +39,7 @@ share: true
 		- Global extrema
 			- Interval boundaries
 			- Local extrema
+
 ## Reference
 
 - Handout SCMA104
