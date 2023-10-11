@@ -10,8 +10,9 @@ share: true
 	- Lattice packing
 - [[Covalent Bonding]]
 	- [[Characteristic Infrared Band]]
-		- UV → Break bonds
+		- UV → Break Bonds
 		- $\mu$W → Rotate Molecule
+		- IR → Move Bonds
 - [[Metallic Bonding]]
 
 ## References
