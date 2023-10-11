@@ -14,13 +14,17 @@ share: true
 	- Define on some open interval.
 	- Differentiable up to the equation’s order.
 	- Satisfy the DE ($F(t,y,y^{\prime},\dots,y^{(n)})=0$ for ODE).
-	- Initial value problem: w/ initial condition: exact value of $y(t_{0}),y^{\prime}(t_{0}),\dots,y^{(n)}(t_{0})$
-		- General solution will have variable constant (related to constant of integration)
-		- Exact solution (w/ initial value): solved for the constants
+	- Initial value problem: DE w/ initial conditions: exact value of $y(t_{0}),y^{\prime}(t_{0}),\dots,y^{(n)}(t_{0})$
+		- General solution will have arbitrary constants (related to constant of integration)
+		- Exact solution (w/ initial value): solved for the constants using initial conditions
 	- Explicit solution: have the forms of $y(t)$
-- Separable Differential Equation
-	- (First-order ODE): $P(y)dy=Q(t)dt$ → $\int P(y)dy = \int Q(t)dt$
-		- Note: $P$ and/or $Q$ may be constants, multiplicative inverse, or quotients
+- Solving Techniques
+	- Separation of Variable
+		- (First-order ODE): $P(y)dy=Q(t)dt$ → $\int P(y)dy = \int Q(t)dt$
+			- Note: $P$ and/or $Q$ may be constants, multiplicative inverse, or quotients
+	- Integrating Factor
+		- Multiply both side by some factor to make it easier to integrate
+		- (First-order LDE):
 
 ## Reference
 
