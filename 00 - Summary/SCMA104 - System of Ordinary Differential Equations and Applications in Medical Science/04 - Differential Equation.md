@@ -18,7 +18,7 @@ share: true
 		- General solution will have arbitrary constants (related to constant of integration)
 		- Exact solution (w/ initial value): solved for the constants using initial conditions
 	- Explicit solution: have the forms of $y(t)$
-- Solving Techinques
+- Solving Techniques
 	- Separation of Variable
 		- (First-order ODE): $P(y)dy=Q(t)dt$ → $\int P(y)dy = \int Q(t)dt$
 			- Note: $P$ and/or $Q$ may be constants, multiplicative inverse, or quotients
