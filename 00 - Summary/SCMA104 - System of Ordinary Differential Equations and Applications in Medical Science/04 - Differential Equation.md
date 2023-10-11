@@ -21,3 +21,7 @@ share: true
 - Separable Differential Equation
 	- (First-order ODE): $P(y)dy=Q(t)dt$ → $\int P(y)dy = \int Q(t)dt$
 		- Note: $P$ and/or $Q$ may be constants, multiplicative inverse, or quotients
+
+## Reference
+
+- Handout SCMA104
