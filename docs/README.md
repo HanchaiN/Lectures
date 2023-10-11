@@ -17,6 +17,8 @@ tags:
 	- [[01 - Limit and Continuity|01 - Limit and Continuity]]
 	- [[02 - Differentiation|02 - Differentiation]]
 	- [[03 - Integration|03 - Integration]]
+	- [[04 - Differential Equation|04 - Differential Equation]]
 - SCPY142 - Physics for Medical Students
 	- [[01 - Kinematic|01 - Kinematic]]
 	- [[02 - Motion of Rigid Body|02 - Motion of Rigid Body]]
+	- [[03 - Elasticity|03 - Elasticity]]
