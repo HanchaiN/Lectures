@@ -14,7 +14,7 @@ share: true
 	- Define on some open interval.
 	- Differentiable up to the equation’s order.
 	- Satisfy the DE ($F(t,y,y^{\prime},\dots,y^{(n)})=0$ for ODE).
-	- Initial value problem: w/ initial condition: exact value of $y(t_{0}),y^{\prime}(t_{0}),\dots,y^{(n)}(t_{0})$
+	- Initial value problem: DE w/ initial condition: exact value of $y(t_{0}),y^{\prime}(t_{0}),\dots,y^{(n)}(t_{0})$
 		- General solution will have variable constant (related to constant of integration)
 		- Exact solution (w/ initial value): solved for the constants
 	- Explicit solution: have the forms of $y(t)$
