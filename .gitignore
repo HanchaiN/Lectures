@@ -1,4 +1,8 @@
 .vscode/settings.json
 desktop.ini
-Pipfile
+# Pipfile
 Pipfile.lock
+.python-version
+__pycache__
+site
+*.cache
