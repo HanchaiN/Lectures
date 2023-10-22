@@ -30,7 +30,7 @@ jobs:
         run: |
           rm -rf docs/src
           mkdir docs/src
-          ./bin/obsidian-export --frontmatter never --hard-linebreaks ./vault docs/src
+          ./bin/obsidian-export --frontmatter never ./vault docs/src
           cd docs
           git add src
           git config user.name "GitHub Actions"
