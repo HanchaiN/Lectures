@@ -25,6 +25,7 @@ jobs:
           rm -rf .build
           mkdir .build
           ./bin/obsidian-export --frontmatter never --hard-linebreaks . ./.build
+          ls .build
       - name: Push
         uses: s0/git-publish-subdir-action@develop
         env:
