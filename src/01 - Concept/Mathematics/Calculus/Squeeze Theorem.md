@@ -1,7 +1,7 @@
 # Squeeze Theorem
 
-$$  
-g(x)\le f(x)\le h(x); \lim\_{x\to a}g(x)=\lim\_{x\to a}h(x)=L\implies\lim\_{x\to a}f(x)=L  
+$$
+g(x)\le f(x)\le h(x); \lim\_{x\to a}g(x)=\lim\_{x\to a}h(x)=L\implies\lim\_{x\to a}f(x)=L
 $$
 
 ````tikz
