@@ -1,0 +1,30 @@
+[book]
+authors = ["HanchaiN"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Lectures"
+
+[preprocessor.tikzjax]
+renderers = ["html"]
+command = "python scripts/tikzjax.py"
+
+[output.html]
+curly-quotes = true
+mathjax-support = true
+additional-css = [
+	"theme/css/catppuccin.css",
+	"theme/css/catppuccin-admonish.css"
+]
+no-section-label = true
+git-repository-url = "https://github.com/HanchaiN/Lectures.git"
+site-url = "https://hanchain.github.io/Lectures/"
+
+[output.html.print]
+enable = true
+
+[output.html.fold]
+enable = false
+
+[output.html.search]
+enable = true
