@@ -7,11 +7,10 @@ def process_content(content):
     return content
 
 def process_item(item):
-    if (not "content" in item):
+    if (not "Chapter" in item):
         return
-    chapter = item['Chapter']
-    chapter['content'] = process_content(chapter['content']);
-    for sub_item in chapter['sub_items']:
+    item['Chapter']['content'] = process_content(item['Chapter']['content']);
+    for sub_item in item['Chapter']['sub_items']:
         process_item(sub_item)
 
 if __name__ == '__main__':
