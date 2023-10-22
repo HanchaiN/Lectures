@@ -1,5 +1,9 @@
 name: Deploy
 on:
+  workflow_run:
+    workflows: ["Export"]
+    types:
+      - completed
   push:
     branches:
       - docs
@@ -36,4 +40,4 @@ jobs:
           path: 'book'
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
