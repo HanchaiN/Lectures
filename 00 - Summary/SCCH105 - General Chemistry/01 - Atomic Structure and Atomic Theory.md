@@ -23,7 +23,7 @@ aliases:
 		- [[01A - Introduction to Quantum Mechanics]]
 	- [[Bohr Model]]
 	- [[Electron Cloud Model]]
-		- [[Pauli's Exclusion Principle]]
+		- [[Pauli’s Exclusion Principle]]
 		- Aufbau Principle: Lowest Energy First
 		- Hund’s Rule: Parallel Spin First
 		- Special Electron Configuration

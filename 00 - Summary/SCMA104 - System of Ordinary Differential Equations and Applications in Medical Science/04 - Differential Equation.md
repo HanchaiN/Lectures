@@ -9,7 +9,7 @@ aliases:
 - Differential Equation: Functional Equation with differential
 	- Ordinary Differential Equation: Single independent variable (with $u^\prime=\frac{d}{d t}u$)
 		- Linear Differential Equation: $\sum\limits_{i=0}^{n}a_{n}(t)y^{(i)}(t)=g(t)$
-			- Homogenous Differential Equation: $g(t)=0$
+			- Homogeneous Differential Equation: $g(t)=0$
 		- Autonomous Differential Equation: No explicit independent variable $F(y,y^\prime,\dots,y^{(n)})=0$
 	- Partial Differential Equation: Multiple independent variables (with $u_x=\frac{\partial}{\partial x}u$, assume that other independent variables are independent/constants relative to $x$)
 - Order: highest order of differentiation in canonical forms (no integral terms, use FTC-I)
