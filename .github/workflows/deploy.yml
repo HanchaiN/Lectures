@@ -17,14 +17,14 @@ jobs:
         run: |
           tag=$(curl 'https://api.github.com/repos/zoni/obsidian-export/releases/latest' | jq -r '.tag_name')
           url="https://github.com/zoni/obsidian-export/releases/download/${tag}/obsidian-export_Linux-x86_64.bin"
-          mkdir bin
-          curl -o bin/obsidian-export $url
-          chmod +x bin/obsidian-export
+          mkdir .bin
+          curl -Lo .bin/obsidian-export $url
+          chmod +x .bin/obsidian-export
       - name: Export vault
         run: |
           rm -rf .build
           mkdir .build
-          ./bin/obsidian-export --frontmatter never --hard-linebreaks . ./.build
+          ./.bin/obsidian-export --frontmatter never --hard-linebreaks . .build
           ls -a .build
       - name: Push
         uses: s0/git-publish-subdir-action@develop
