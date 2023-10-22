@@ -1,6 +1,6 @@
 # Electron Cloud Model
 
-* Energy eigenfunction (*Atomic Orbital*)
+* Energy eigenfunction ([Atomic Orbital](../Atomic%20Orbital.md))
   * Solve [Schrodinger's Wave Equation](../../../Physics/Quantum%20Mechanics/Schrodinger's%20Wave%20Equation.md)
   * Quantum Numbers ($n$, $l$, $m\_{l}$, $m\_{s}$)
     * Principal Quantum Number ($n=1,\dots$):  

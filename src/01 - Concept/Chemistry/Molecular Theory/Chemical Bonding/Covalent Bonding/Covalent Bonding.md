@@ -30,11 +30,11 @@
   * $\delta$-bond: Lateral (4-lobe ~ $d$-orbital)
   * $\phi$-bond: Lateral (6-lobe ~ $f$-orbital)
   * Valence Bond Theory
-    * Overlapped *Atomic Orbital*
+    * Overlapped [Atomic Orbital](../../../Atomic%20Theory/Atomic%20Orbital.md)
     * Strength depends on extent of overlap
       * Orientation of the bond
     * Hybrid Orbital
-      * Hybridization (Mixing) of multiple *Atomic Orbital*
+      * Hybridization (Mixing) of multiple [Atomic Orbital](../../../Atomic%20Theory/Atomic%20Orbital.md)
         * Excite electron from ground state
         * Average to same energy level orbitals
       * Maximize overlapping
