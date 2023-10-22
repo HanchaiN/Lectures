@@ -1,4 +1,4 @@
-name: Deploy
+name: Export
 on:
   push:
     branches:
@@ -25,7 +25,6 @@ jobs:
           rm -rf .build
           mkdir .build
           ./.bin/obsidian-export --frontmatter never --hard-linebreaks . .build
-          ls -a .build
       - name: Push
         uses: s0/git-publish-subdir-action@develop
         env:
