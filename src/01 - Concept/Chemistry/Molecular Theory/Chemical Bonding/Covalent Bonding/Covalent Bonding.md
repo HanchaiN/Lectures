@@ -4,7 +4,7 @@
 * Bond Energy
   * $\propto \text{Bond Order}$
 * Bond Length
-  * Approx. sum of [Covalent Radius](../../Atomic%20Theory/Property%20of%20Element/Atomic%20Radius.md)
+  * Approx. sum of [Covalent Radius](../../../Atomic%20Theory/Property%20of%20Element/Atomic%20Radius.md)
 * Bond Order
   * Single bond ~ $+1\sigma$
   * Double bond ~ $+1\sigma+1\pi$
@@ -18,10 +18,10 @@
 * Bond [Dipole Moment](https://en.wikipedia.org/wiki/Electric_dipole_moment): $\mu$
   * Molecular Dipole Moment = Directional Sum of Bond Dipole Moment
   * Ionic Character = $\dfrac{\mu\_\\text{observed}}{\mu\_\\text{ionic}}$
-* [Characteristic Infrared Band](Covalent%20Bonding/Characteristic%20Infrared%20Band.md)
+* [Characteristic Infrared Band](Characteristic%20Infrared%20Band.md)
 * Lewis Structure
   * Octet rules
-  * [Formal Charge](Covalent%20Bonding/Formal%20Charge.md)
+  * [Formal Charge](Formal%20Charge.md)
 * Molecular Geometry
   * Valence-Shell Electron Pair Repulsion (VSEPR) Theory
 * Molecular Orbital
@@ -46,4 +46,4 @@
 
 ## Reference
 
-* [02 - Chemical Bonding](../../../../00%20-%20Summary/SCCH105%20-%20General%20Chemistry/02%20-%20Chemical%20Bonding.md)
+* [02 - Chemical Bonding](../../../../../00%20-%20Summary/SCCH105%20-%20General%20Chemistry/02%20-%20Chemical%20Bonding.md)

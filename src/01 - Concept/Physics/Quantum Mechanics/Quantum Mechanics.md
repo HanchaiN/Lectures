@@ -1,6 +1,6 @@
 # Quantum Mechanics
 
-* [Breakdown of Classical Physics](Breakdown%20of%20Classical%20Physics/Breakdown%20of%20Classical%20Physics.md)
+* *Breakdown of Classical Physics*
   * [Double-Slit Experiment](Breakdown%20of%20Classical%20Physics/Double-Slit%20Experiment.md)
   * [Photoelectric Effect](Breakdown%20of%20Classical%20Physics/Photoelectric%20Effect.md)
   * [Ultraviolet Catastrophe](Breakdown%20of%20Classical%20Physics/Ultraviolet%20Catastrophe.md)

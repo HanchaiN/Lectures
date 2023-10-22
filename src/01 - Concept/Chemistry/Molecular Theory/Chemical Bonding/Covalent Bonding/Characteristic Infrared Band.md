@@ -1,6 +1,6 @@
 # Characteristic Infrared Band
 
-* Resonance with [Covalent Bonding](../Covalent%20Bonding.md)
+* Resonance with [Covalent Bonding](Covalent%20Bonding.md)
   * Stretching
   * Bending
 

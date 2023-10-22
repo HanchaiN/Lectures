@@ -1,6 +1,6 @@
 # Introduction to Quantum Mechanics
 
-* [Breakdown of Classical Physics](../../01%20-%20Concept/Physics/Quantum%20Mechanics/Breakdown%20of%20Classical%20Physics/Breakdown%20of%20Classical%20Physics.md)
+* *Breakdown of Classical Physics*
   * [Ultraviolet Catastrophe](../../01%20-%20Concept/Physics/Quantum%20Mechanics/Breakdown%20of%20Classical%20Physics/Ultraviolet%20Catastrophe.md)
   * [Photoelectric Effect](../../01%20-%20Concept/Physics/Quantum%20Mechanics/Breakdown%20of%20Classical%20Physics/Photoelectric%20Effect.md)
   * [Double-Slit Experiment](../../01%20-%20Concept/Physics/Quantum%20Mechanics/Breakdown%20of%20Classical%20Physics/Double-Slit%20Experiment.md)
