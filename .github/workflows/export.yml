@@ -32,5 +32,7 @@ jobs:
           ./bin/obsidian-export --frontmatter never --hard-linebreaks ./vault docs/src
           cd docs
           git add src
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           git commit -m "deploy: update from ${GITHUB_SHA}"
           git push
