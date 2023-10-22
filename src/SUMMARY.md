@@ -2,24 +2,24 @@
 
 # Lectures
 
-* [SCCH105 - General Chemistry](SUMMARY.md)
+* *SCCH105 - General Chemistry*
   * [01 - Atomic Structure and Atomic Theory](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)
     * [01A - Introduction to Quantum Mechanics](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01A%20-%20Introduction%20to%20Quantum%20Mechanics.md)
   * [02 - Chemical Bonding](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/02%20-%20Chemical%20Bonding.md)
-* [SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science](SUMMARY.md)
+* *SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science*
   * [01 - Limit and Continuity](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/01%20-%20Limit%20and%20Continuity.md)
   * [02 - Differentiation](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/02%20-%20Differentiation.md)
   * [03 - Integration](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/03%20-%20Integration.md)
   * [04 - Differential Equation](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/04%20-%20Differential%20Equation.md)
-* [SCPY142 - Physics for Medical Students](SUMMARY.md)
+* *SCPY142 - Physics for Medical Students*
   * [01 - Kinematic](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/01%20-%20Kinematic.md)
   * [02 - Motion of Rigid Body](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/02%20-%20Motion%20of%20Rigid%20Body.md)
   * [03 - Elasticity](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/03%20-%20Elasticity.md)
 
 # Concept
 
-* [Chemistry](SUMMARY.md)
-  * [Atomic Theory](SUMMARY.md)
+* *Chemistry*
+  * *Atomic Theory*
     * [Atomic Model](01%20-%20Concept/Chemistry/Atomic%20Theory/Atomic%20Model/Atomic%20Model.md)
       * [Bohr Model](01%20-%20Concept/Chemistry/Atomic%20Theory/Atomic%20Model/Bohr%20Model.md)
       * [Electron Cloud Model](01%20-%20Concept/Chemistry/Atomic%20Theory/Atomic%20Model/Electron%20Cloud%20Model.md)
@@ -29,15 +29,15 @@
       * [Ionization Energy](01%20-%20Concept/Chemistry/Atomic%20Theory/Property%20of%20Element/Ionization%20Energy.md)
       * [Electron Affinity](01%20-%20Concept/Chemistry/Atomic%20Theory/Property%20of%20Element/Electron%20Affinity.md)
       * [Electronegativity](01%20-%20Concept/Chemistry/Atomic%20Theory/Property%20of%20Element/Electronegativity.md)
-  * [Molecular Theory](SUMMARY.md)
-    * [Chemical Bonding](SUMMARY.md)
+  * *Molecular Theory*
+    * *Chemical Bonding*
       * [Ionic Bonding](01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Ionic%20Bonding.md)
       * [Covalent Bonding](01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Covalent%20Bonding.md)
         * [Characteristic Infrared Band](01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Characteristic%20Infrared%20Band.md)
         * [Formal Charge](01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Formal%20Charge.md)
       * [Metallic Bonding](01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Metallic%20Bonding.md)
-* [Mathematics](SUMMARY.md)
-  * [Calculus](SUMMARY.md)
+* *Mathematics*
+  * *Calculus*
     * [Limit](01%20-%20Concept/Mathematics/Calculus/Limit.md)
       * [Algebraic Limit Theorem](01%20-%20Concept/Mathematics/Calculus/Algebraic%20Limit%20Theorem.md)
       * [Infinite Limit](01%20-%20Concept/Mathematics/Calculus/Infinite%20Limit.md)
@@ -46,8 +46,8 @@
     * [Continuity](01%20-%20Concept/Mathematics/Calculus/Continuity.md)
     * [Differentiation](01%20-%20Concept/Mathematics/Calculus/Differentiation.md)
     * [Differentiability](01%20-%20Concept/Mathematics/Calculus/Differentiability.md)
-* [Physics](SUMMARY.md)
-  * [Quantum Mechanics](SUMMARY.md)
+* *Physics*
+  * *Quantum Mechanics*
     * *Breakdown of Classical Physics*
       * [Double-Slit Experiment](01%20-%20Concept/Physics/Quantum%20Mechanics/Breakdown%20of%20Classical%20Physics/Double-Slit%20Experiment.md)
       * [Photoelectric Effect](01%20-%20Concept/Physics/Quantum%20Mechanics/Breakdown%20of%20Classical%20Physics/Photoelectric%20Effect.md)
