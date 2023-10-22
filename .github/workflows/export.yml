@@ -10,13 +10,13 @@ jobs:
     permissions:
       contents: write  # To push a branch
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          ref: main
           path: vault
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          ref: docs
           path: docs
       - name: Install latest Obsidian Export
         run: |
