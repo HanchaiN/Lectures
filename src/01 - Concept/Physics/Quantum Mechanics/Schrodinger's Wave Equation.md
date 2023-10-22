@@ -1,4 +1,4 @@
-# Schrödinger’s Wave Equation
+# Schrödinger's Wave Equation
 
 * $\hat{H}\Psi=\hat{E}\Psi$  
   Total Energy: $\hat{E}=i\hbar\frac{d}{dt}$  

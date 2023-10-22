@@ -19,7 +19,7 @@
   * [Electron Cloud Model](../../01%20-%20Concept/Chemistry/Atomic%20Theory/Atomic%20Model/Electron%20Cloud%20Model.md)
     * [Pauli's Exclusion Principle](../../01%20-%20Concept/Physics/Quantum%20Mechanics/Pauli's%20Exclusion%20Principle.md)
     * Aufbau Principle: Lowest Energy First
-    * Hund’s Rule: Parallel Spin First
+    * Hund's Rule: Parallel Spin First
     * Special Electron Configuration
       * $\ce{Cr}\to\left\[\\ce{Ar}\right\]4s^1 3d^5$ (half-filled $3d$)
       * $\ce{Cu}\to\left\[\\ce{Ar}\right\]4s^1 3d^{10}$ (full-filled $3d$)

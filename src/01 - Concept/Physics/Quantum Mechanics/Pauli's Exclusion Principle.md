@@ -1,4 +1,4 @@
-# Pauli’s Exclusion Principle
+# Pauli's Exclusion Principle
 
 Two or more identical fermions (e.g. fermions) cannot occupy the same quantum state within a quantum system simultaneously.
 

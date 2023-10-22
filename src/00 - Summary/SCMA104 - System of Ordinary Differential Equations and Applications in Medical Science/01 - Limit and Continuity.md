@@ -20,7 +20,7 @@
   * $\displaystyle\lim\_{x\to b}f(x)=c,\lim\_{x\to a}g(x)=b\implies\lim\_{x\to a}f(g(x))=c$ if and only if:
     * $f$ is continuous at $b$, or
     * $g(a\pm\varepsilon)\ne b$.
-  * L’Hôpital’s rule
+  * L'Hôpital's rule
     * $\displaystyle\frac{f(x)}{g(x)}=\frac{0}{0},\frac{\infty}{\infty}\implies\lim\_{x\to a}\frac{f(x)}{g(x)}=\lim\_{x\to a}\frac{f^{\prime}(x)}{g^{\prime}(x)}$
 
 ## Reference

@@ -11,7 +11,7 @@
     * [Electron Affinity](Atomic%20Theory/Property%20of%20Element/Electron%20Affinity.md)
     * [Electronegativity](Atomic%20Theory/Property%20of%20Element/Electronegativity.md)
 * [Molecular Theory](Molecular%20Theory/Molecular%20Theory.md)
-  * [Chemical Bonding](Molecular%20Theory/Chemical%20Bonding.md)
+  * [Chemical Bonding](Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Chemical%20Bonding.md)
     * [Ionic Bonding](Molecular%20Theory/Chemical%20Bonding/Ionic%20Bonding.md)
     * [Covalent Bonding](Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding.md)
       * [Characteristic Infrared Band](Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Characteristic%20Infrared%20Band.md)

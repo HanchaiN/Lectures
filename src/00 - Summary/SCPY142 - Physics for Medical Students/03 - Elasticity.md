@@ -4,7 +4,7 @@
   * Stress ($\sigma=\frac{F}{A}$)
   * Strain (Young: $\varepsilon=\frac{\Delta L}{L_0}$)
   * Modulus (Young: $Y=\frac{kL_0}{A}$)
-  * Elastic region: Constant Modulus: Hooke’s law ($F=k\Delta L$)
+  * Elastic region: Constant Modulus: Hooke's law ($F=k\Delta L$)
 * Bending Moments
   * Consider simple system ($F/2$ @ $x=-L/2$, $-F$ @ $x=0$, $F/2$ @ $x=+L/2$)
   * Internal Torque
