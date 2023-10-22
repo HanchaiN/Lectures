@@ -6,7 +6,7 @@ aliases:
 
 # Introduction to Quantum Mechanics
 
-- [[Breakdown of Classical Physics]]
+- Breakdown of Classical Physics
 	- [[Ultraviolet Catastrophe]]
 	- [[Photoelectric Effect]]
 	- [[Double-Slit Experiment]]
