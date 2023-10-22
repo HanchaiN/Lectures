@@ -34,5 +34,5 @@ jobs:
           git add src
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git commit -m "deploy: update from ${GITHUB_SHA}"
+          git commit -m "deploy: update from ${GITHUB_SHA}" --allow-empty
           git push
