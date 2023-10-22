@@ -1,5 +1,7 @@
 ---
 share: true
+aliases:
+  - Motion of Rigid Body
 ---
 
 # Motion of Rigid Body

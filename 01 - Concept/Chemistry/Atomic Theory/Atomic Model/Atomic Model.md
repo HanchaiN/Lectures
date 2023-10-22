@@ -1,6 +1,7 @@
 ---
 share: true
-tag: overview
+tags:
+  - overview
 ---
 
 # Atomic Model

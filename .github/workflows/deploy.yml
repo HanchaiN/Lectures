@@ -1,0 +1,35 @@
+name: Deploy
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # To push a branch
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Install latest Obsidian Export
+        run: |
+          tag=$(curl 'https://api.github.com/repos/zoni/obsidian-export/releases/latest' | jq -r '.tag_name')
+          url="https://github.com/zoni/obsidian-export/releases/download/${tag}/obsidian-export_Linux-x86_64.bin"
+          mkdir bin
+          curl -o bin/obsidian-export $url
+          chmod +x bin/obsidian-export
+      - name: Export vault
+        run: |
+          rm -rf .build
+          mkdir .build
+          ./bin/obsidian-export --frontmatter never --hard-linebreaks . ./.build
+      - name: Push
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: docs # The branch name where you want to push the assets
+          FOLDER: .build # The directory where your assets are generated
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub will automatically add this - you don't need to bother getting a token
+          TARGET_DIR: src # The directory where your assets are pushed to

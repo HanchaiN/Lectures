@@ -1,5 +1,7 @@
 ---
 share: true
+aliases:
+  - Introduction to Quantum Mechanics
 ---
 
 # Introduction to Quantum Mechanics
@@ -9,8 +11,8 @@ share: true
 	- [[Photoelectric Effect]]
 	- [[Double-Slit Experiment]]
 - [[De Broglie Wavelength]]
-- [[Schrödinger’s Wave Equation]]
-- [[Heisenberg’s Uncertainty Principle]]
+- [[Schrodinger's Wave Equation]]
+- [[Heisenberg's Uncertainty Principle]]
 
 ## References
 

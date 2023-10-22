@@ -1,5 +1,7 @@
 ---
 share: true
+aliases:
+  - Integration
 ---
 
 # Integration

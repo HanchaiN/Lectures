@@ -1,5 +1,7 @@
 ---
 share: true
+aliases:
+  - Differential Equation
 ---
 
 # Ordinary Differential Equation

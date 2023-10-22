@@ -1,5 +1,7 @@
 ---
 share: true
+aliases:
+  - Limit and Continuity
 ---
 
 # Limit and Continuity
