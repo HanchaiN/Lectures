@@ -23,9 +23,9 @@ aliases:
 		- [[01A - Introduction to Quantum Mechanics]]
 	- [[Bohr Model]]
 	- [[Electron Cloud Model]]
-		- [[Pauli’s Exclusion Principle]]
+		- [[Pauli's Exclusion Principle]]
 		- Aufbau Principle: Lowest Energy First
-		- Hund’s Rule: Parallel Spin First
+		- Hund's Rule: Parallel Spin First
 		- Special Electron Configuration
 		    - $\ce{Cr}\to\left[\ce{Ar}\right]4s^1 3d^5$ (half-filled $3d$)
 		    - $\ce{Cu}\to\left[\ce{Ar}\right]4s^1 3d^{10}$ (full-filled $3d$)

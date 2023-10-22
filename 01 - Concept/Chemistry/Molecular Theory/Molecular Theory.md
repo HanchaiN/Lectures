@@ -6,7 +6,7 @@ tags:
 
 # Molecular Theory
 
-- [[01 - Concept/Chemistry/Molecular Theory/Chemical Bonding]]
+- [[Chemical Bonding]]
 	- [[Ionic Bonding]]
 	- [[Covalent Bonding]]
 		- [[Characteristic Infrared Band]]

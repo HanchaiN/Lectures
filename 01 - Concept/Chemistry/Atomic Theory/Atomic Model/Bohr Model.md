@@ -7,7 +7,7 @@ share: true
 - Quantized Energy Level (Orbits)
 - The radius is $r=a_0n^2$ where $a_0=\frac{4\pi\varepsilon_0\hbar^2}{e^2m_e}$ is Bohr radius.  
   From centrifugal force of circular motion: $F_c=\frac{mv^2}{r}$,  
-  From Coulomb’s electric force: $F_e=\frac{1}{4\pi\varepsilon_0}\frac{q_1q_2}{r^2}$;  
+  From Coulomb's electric force: $F_e=\frac{1}{4\pi\varepsilon_0}\frac{q_1q_2}{r^2}$;  
   $\therefore v=\sqrt{\frac{1}{4\pi\varepsilon_0}\frac{e^2}{m_er}}$,  
   From standing wave on a circle: $2\pi r=n\lambda$,  
   From [[De Broglie Wavelength]]: $\lambda=\frac{h}{mv}$,  

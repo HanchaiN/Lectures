@@ -11,8 +11,8 @@ aliases:
 	- [[Photoelectric Effect]]
 	- [[Double-Slit Experiment]]
 - [[De Broglie Wavelength]]
-- [[Schrodinger’s Wave Equation]]
-- [[Heisenberg’s Uncertainty Principle]]
+- [[Schrodinger's Wave Equation]]
+- [[Heisenberg's Uncertainty Principle]]
 
 ## References
 

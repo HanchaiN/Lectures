@@ -118,9 +118,9 @@
     "quote-style": {
       "enabled": true,
       "single-quote-enabled": true,
-      "single-quote-style": "‘’",
+      "single-quote-style": "''",
       "double-quote-enabled": true,
-      "double-quote-style": "“”"
+      "double-quote-style": "\"\""
     },
     "remove-consecutive-list-markers": {
       "enabled": true
@@ -243,7 +243,7 @@
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
   "linterLocale": "system-default",
-  "logLevel": 4,
+  "logLevel": "ERROR",
   "lintCommands": [],
   "customRegexes": [],
   "commonStyles": {
