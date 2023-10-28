@@ -44,7 +44,8 @@ aliases:
 			- If $r_{1}\ne r_{2}=\lambda\pm\mu i\in\mathbb{C}$, $y=e^{\lambda t}\left(A\sin(\mu t + \phi)\right)$
 		- If $r_1=r_2$, $y=c_{1}e^{rt}+c_{2}te^{rt}$
 	- $n$th-order homogeneous DE w/ const. coefficient ($\sum\limits_{i=0}^{n} a_{i}y^{(i)} = 0$)
-		- Solve characteristic equation: $\sum\limits_{i=0}^{n} a_{i}r^{i} = 0$ (Assume that the solution is in the forms of $e^{rt}$ so that it can cancel its derivatives out.)
+		- Solve characteristic equation: $\sum\limits_{i=0}^{n} a_{i}r^{i} = 0$  
+		  (Assume that the solution is in the forms of $e^{rt}$ so that it can cancel its derivatives out.)
 		- For each simple root $r$, the associated bases solution is $e^{rt}$.
 		- For each multiple root $r$ (with multiplicity $k$), the associated bases solution are $t^{i}e^{rt}$ for $i=0,\dots,k-1$. (Reduction of Order)
 		- The general solution are the linear combinations of the bases.
