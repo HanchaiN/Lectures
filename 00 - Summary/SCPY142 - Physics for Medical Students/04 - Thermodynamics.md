@@ -68,6 +68,7 @@ aliases:
 		- $dS_{universe} = 0$ iff. reversible process
 			- Quasistatic: System is in equilibrium with itself
 			- Reversible: System is quasistatic and in equilibrium with environment
+		- Equiv. $\delta G\le 0$
 
 ## Reference
 
