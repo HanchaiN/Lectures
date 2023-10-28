@@ -50,7 +50,7 @@
     * Isothermal heat transfer (reversible)
     * Adiabatic temperature changes (no lost)
     * $e=1-\frac{T\_{C}}{T\_{H}}$
-* [Entropy](Entropy.md) $S$
+* [Entropy](../../01%20-%20Concept/Physics/Thermodynamics/Entropy.md) $S$
   * $dS = \frac{\delta Q\_\\text{reversible}}{T}$
 * [Gibbs free energy](../../01%20-%20Concept/Physics/Thermodynamics/Gibbs%20free%20energy.md) $G$
 * Laws of Thermodynamics
@@ -62,6 +62,7 @@
     * $dS\_{universe} = 0$ iff. reversible process
       * Quasistatic: System is in equilibrium with itself
       * Reversible: System is quasistatic and in equilibrium with environment
+    * Equiv. $\delta G\le 0$
 
 ## Reference
 
