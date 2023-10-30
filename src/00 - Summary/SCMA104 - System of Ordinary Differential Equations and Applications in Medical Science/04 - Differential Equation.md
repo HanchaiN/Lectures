@@ -2,14 +2,19 @@
 
 * Differential Equation: Functional Equation with differential
   * Ordinary Differential Equation: Single independent variable: $F(t,y,y^\prime,\dots,y^{(n)})=0$ (with $u^\prime=\frac{d}{d t}u$)
-    * Linear Differential Equation: $\sum\limits\_{i=0}^{n}a\_{n}(t)y^{(i)}(t)=g(t)$
-      * Homogeneous Linear Differential Equation: $g(t)=0$
+    * Linear Differential Equation: $L\[y\]=\sum\limits\_{i=0}^{n}a\_{n}(t)y^{(i)}(t)=g(t)$  
+      ($L$ is an $n$-th order linear differential operator)
+      * Homogeneous Linear Differential Equation: $L\[y\]=g(t)=0$
   * Partial Differential Equation: Multiple independent variables (with $u_x=\frac{\partial}{\partial x}u$, assume that other independent variables are independent/constants relative to $x$)
-* Autonomous Differential Equation: No explicit dependent of independent variable $F(y,y^\prime,\dots,y^{(n)})=0$ (For ODE, may include $\frac{\partial}{\partial x\_{i}} y$ for PDE)
-* Homogenous Differential Equation: Homogenous function of derivatives and independent variables (?)
+* Autonomous Differential Equation: No explicit dependent of independent variable: $F(y,y^\prime,\dots,y^{(n)})=0$ (For ODE, may include $\frac{\partial}{\partial x\_{i}} y$ for PDE)
+* Homogenous Differential Equation: Homogenous function of derivatives and independent variables
   * $\exists k\_{i},l;\forall\lambda$ If $(x\_{i}, y)$ is a solution, $(\lambda^{k\_{i}} x\_{i}, \lambda^{l} y)$ is also a solution.
-    * Since $\bar{y}=\lambda^{l} y(\lambda^{-k}x)$, then $\bar{y}^{(n)}=\lambda^{l-nk} y^{(n)}$
-    * For LDE, Homogeneous if $k=0$ and $g(t)=0$ (?).
+    * Since $\bar{y}=\lambda^{l} y(\lambda^{-k}t)$, then $\bar{y}^{(n)}=\lambda^{l-nk} y^{(n)}$.
+  * $k=0$ and (WLOG) $l=1$: Homogeneity by function  
+    (as in Homogenous LDE/LPDE, provably equivalent to $L\[y\]=0$)
+  * $k=l$ and (WLOG) $l=1$: Uniformly homogenous  
+    (as in Homogenous First-order ODE: $M(x,y)dx=N(x,y)dy$)
+    * $\overset{\lambda=\frac{1}{x},y=ux}{\implies} u^{\prime}x+u=y^{\prime}=\frac{M(x,y)}{N(x,y)}=\frac{\lambda^{\alpha}M(\lambda x,\lambda y)}{\lambda^{\alpha}N(\lambda x,\lambda y)}=\frac{M(1,u)}{N(1,u)}=f(u)$
 * Order: highest order of differentiation in canonical forms (no integral terms, use FTC-I)
 * Degree: the maximum degree (sum of exponents) of the highest order term
 * Solution
@@ -21,10 +26,11 @@
     * Exact solution (w/ initial value): solved for the constants using initial conditions
   * Explicit solution: have the forms of $y(t)$
   * Superposition principle
-    * If $y_1$ and $y_2$ are solutions of the Homogeneous LDE, their linear combination (i.e. $c\_{1}y\_{1}+c\_{2}y\_{2}$) are also solutions of the same DE.
+    * (Linear superposition) If $y_1$ and $y_2$ are solutions of the Homogeneous LDE, their linear combination (i.e. $c\_{1}y\_{1}+c\_{2}y\_{2}$) are also solutions of the same DE.
 * Wronskian ($W(f,g)=f\cdot g^{\prime}-g\cdot f^{\prime}$)
   * Generally, $W(f\_{1},\dots,f\_{n})=\det\begin{bmatrix}f\_{1}&f\_{2}&\dots&f\_{n}\\ f\_{1}^{\prime}&f\_{2}^{\prime}&\dots&f\_{n}^{\prime}\\ \vdots&\vdots&\ddots&\vdots \\ f\_{1}^{(n-1)}&f\_{2}^{(n-1)}&\dots&f\_{n}^{(n-1)}\end{bmatrix}$
-  * If the Wronskian is non-zero, the solutions $f\_{i}$ are linearly-independent. (If the Wronskian is zero, it is inconclusive.)
+  * If the Wronskian is non-zero, the functions $f\_{i}$ are linearly-independent.  
+    (If the Wronskian is zero, it is inconclusive.)
     * For $n$-th order LDE, the $n$ independent solutions are the bases that span through all general solutions.
     * The last solution can be find by solving for the Wronskian first.
 * Abel's identity
@@ -37,6 +43,8 @@
     * Multiply both side by some factor to make it easier to integrate
     * $y^{\prime}+p(t)y=g(t)$ (First-order LDE): $\mu(t)=e^{\int p(t) dt}$  
       $(y\cdot\mu)^{\prime}=y^{\prime}\cdot\mu+y\cdot\mu^{\prime}=y^{\prime}\cdot\mu+y\cdot\mu\cdot p=(y^{\prime}+p\cdot y)\cdot \mu=(g\cdot\mu)$
+  * Homogenous First-order ODE ($M(x,y)dx=N(x,y)dy$ where $M$ and $N$ are homogenous function with equal degree $\alpha$)
+    * $\overset{\lambda=\frac{1}{x},y=ux}{\implies} u^{\prime}x+u=y^{\prime}=\frac{M(x,y)}{N(x,y)}=\frac{\lambda^{\alpha}M(\lambda x,\lambda y)}{\lambda^{\alpha}N(\lambda x,\lambda y)}=\frac{M(1,u)}{N(1,u)}=f(u)$
   * Second-order homogeneous LDE w/ (real) const. coefficient ($a y^{\prime\prime}+b y^{\prime}+c y = 0$)
     * Solve characteristic equation: $ar^{2}+br+c=0$
     * If $r\_{1}\ne r\_{2}$, $y=c\_{1}e^{r\_{1}t}+c\_{2}e^{r\_{2}t}$
