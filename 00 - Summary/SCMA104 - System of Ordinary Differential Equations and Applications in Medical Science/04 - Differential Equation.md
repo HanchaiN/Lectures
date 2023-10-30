@@ -7,12 +7,15 @@ aliases:
 # Ordinary Differential Equation
 
 - Differential Equation: Functional Equation with differential
-	- Ordinary Differential Equation: Single independent variable (with $u^\prime=\frac{d}{d t}u$)
+	- Ordinary Differential Equation: Single independent variable: $F(t,y,y^\prime,\dots,y^{(n)})=0$ (with $u^\prime=\frac{d}{d t}u$)
 		- Linear Differential Equation: $\sum\limits_{i=0}^{n}a_{n}(t)y^{(i)}(t)=g(t)$
-			- Homogeneous Differential Equation: $g(t)=0$
+			- Homogeneous Linear Differential Equation: $g(t)=0$
 	- Partial Differential Equation: Multiple independent variables (with $u_x=\frac{\partial}{\partial x}u$, assume that other independent variables are independent/constants relative to $x$)
-	- Autonomous Differential Equation: No explicit dependent of independent variable $F(y,y^\prime,\dots,y^{(n)})=0$ (For ODE, may include $\frac{\partial}{\partial x_{i}} y$ for PDE)
+- Autonomous Differential Equation: No explicit dependent of independent variable $F(y,y^\prime,\dots,y^{(n)})=0$ (For ODE, may include $\frac{\partial}{\partial x_{i}} y$ for PDE)
+- Homogenous Differential Equation: Homogenous function of derivatives and independent variables: $F(\lambda t,\lambda y,\lambda y^{\prime},\dots,\lambda y^{(n)})=\lambda^{k}F(t,y,y^{\prime},\dots,y^{(n)})$ (For ODE, may include $\frac{\partial}{\partial x_{i}} y$ for PDE)
+	- If $u$ is a solution, $\lambda u$ is also a solution. Hence, finding base solution is sufficient.
 - Order: highest order of differentiation in canonical forms (no integral terms, use FTC-I)
+- Degree: the maximum degree (sum of exponents) of the highest order term
 - Solution
 	- Define on some open interval.
 	- Differentiable up to the equation's order.
