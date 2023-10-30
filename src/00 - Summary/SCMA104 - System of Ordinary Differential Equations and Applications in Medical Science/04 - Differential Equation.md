@@ -7,7 +7,7 @@
   * Partial Differential Equation: Multiple independent variables (with $u_x=\frac{\partial}{\partial x}u$, assume that other independent variables are independent/constants relative to $x$)
 * Autonomous Differential Equation: No explicit dependent of independent variable $F(y,y^\prime,\dots,y^{(n)})=0$ (For ODE, may include $\frac{\partial}{\partial x\_{i}} y$ for PDE)
 * Homogenous Differential Equation: Homogenous function of derivatives and independent variables: $F(\lambda t,\lambda y,\lambda y^{\prime},\dots,\lambda y^{(n)})=\lambda^{k}F(t,y,y^{\prime},\dots,y^{(n)})$ (For ODE, may include $\frac{\partial}{\partial x\_{i}} y$ for PDE)
-  * If $u$ is a solution, $\lambda u$ is also a solution. Hence, finding base solution is sufficient.
+  * If $u$ is a solution, $\lambda u$ is also a solution.
 * Order: highest order of differentiation in canonical forms (no integral terms, use FTC-I)
 * Degree: the maximum degree (sum of exponents) of the highest order term
 * Solution
