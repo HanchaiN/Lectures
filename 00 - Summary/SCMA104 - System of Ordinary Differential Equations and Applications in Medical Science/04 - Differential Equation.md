@@ -37,7 +37,7 @@ aliases:
 	- Generally, $W(f_{1},\dots,f_{n})=\det\begin{bmatrix}f_{1}&f_{2}&\dots&f_{n}\\ f_{1}^{\prime}&f_{2}^{\prime}&\dots&f_{n}^{\prime}\\ \vdots&\vdots&\ddots&\vdots \\ f_{1}^{(n-1)}&f_{2}^{(n-1)}&\dots&f_{n}^{(n-1)}\end{bmatrix}$
 	- If the Wronskian is non-zero, the functions $f_{i}$ are linearly-independent.  
 	  (If the Wronskian is zero, it is inconclusive.)
-		- For $n$-th order LDE, the $n$ independent solutions are the bases that span through all general solutions.
+		- For $n$-th order homogenous LDE, the $n$ independent solutions are the bases that span through all general solutions.
 		- The last solution can be find by solving for the Wronskian first.
 - Abel's identity
 	- For Second-order homogeneous LDE ($y^{\prime\prime}+p y^{\prime}+q y = 0$), the Wronskian $W=c\cdot e^{-\int p(t)dt}$ (on an interval where $p$ and $q$ is continuous.
