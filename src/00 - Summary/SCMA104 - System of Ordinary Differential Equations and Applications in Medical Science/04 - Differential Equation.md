@@ -18,17 +18,18 @@
 * Order: highest order of differentiation in canonical forms (no integral terms, use FTC-I)
 * Degree: the maximum degree (sum of exponents) of the highest order term
 * Solution
-  * Define on some open interval.
-  * Differentiable up to the equation's order.
-  * Satisfy the DE ($F(t,y,y^{\prime},\dots,y^{(n)})=0$ for ODE).
+  * Define on some open interval
+  * Differentiable up to the equation's order
+  * Satisfy the DE ($F(t,y,y^{\prime},\dots,y^{(n)})=0$ for ODE)
   * Initial value problem: DE w/ initial conditions: exact value of $y(t\_{0}),y^{\prime}(t\_{0}),\dots,y^{(n)}(t\_{0})$
     * General solution will have arbitrary constants (related to constant of integration)
     * Exact solution (w/ initial value): solved for the constants using initial conditions
   * Explicit solution: have the forms of $y(t)$
+    * General solution can be explicit
   * Superposition principle
     * (Linear superposition) If $y_1$ and $y_2$ are solutions of the Homogeneous LDE, their linear combination (i.e. $c\_{1}y\_{1}+c\_{2}y\_{2}$) are also solutions of the same DE.
 * Wronskian ($W(f,g)=f\cdot g^{\prime}-g\cdot f^{\prime}$)
-  * Generally, $W(f\_{1},\dots,f\_{n})=\det\begin{bsmallmatrix}f\_{1}&f\_{2}&\dots&f\_{n}\\ f\_{1}^{\prime}&f\_{2}^{\prime}&\dots&f\_{n}^{\prime}\\ \vdots&\vdots&\ddots&\vdots \\ f\_{1}^{(n-1)}&f\_{2}^{(n-1)}&\dots&f\_{n}^{(n-1)}\end{bsmallmatrix}$
+  * Generally, $W(f\_{1},\dots,f\_{n})=\det\left\[\\begin{smallmatrix}f\_{1}&f\_{2}&\dots&f\_{n}\\ f\_{1}^{\prime}&f\_{2}^{\prime}&\dots&f\_{n}^{\prime}\\ \vdots&\vdots&\ddots&\vdots \\ f\_{1}^{(n-1)}&f\_{2}^{(n-1)}&\dots&f\_{n}^{(n-1)}\end{smallmatrix}\right\]$
   * If the Wronskian is non-zero, the functions $f\_{i}$ are linearly-independent.  
     (If the Wronskian is zero, it is inconclusive.)
     * For $n$-th order homogenous LDE, the $n$ independent solutions are the bases that span through all general solutions.
