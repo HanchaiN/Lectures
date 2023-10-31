@@ -34,7 +34,7 @@ aliases:
 	- Superposition principle
 		- (Linear superposition) If $y_1$ and $y_2$ are solutions of the Homogeneous LDE, their linear combination (i.e. $c_{1}y_{1}+c_{2}y_{2}$) are also solutions of the same DE.
 - Wronskian ($W(f,g)=f\cdot g^{\prime}-g\cdot f^{\prime}$)
-	- Generally, $W(f_{1},\dots,f_{n})=\det\begin{bmatrix}f_{1}&f_{2}&\dots&f_{n}\\ f_{1}^{\prime}&f_{2}^{\prime}&\dots&f_{n}^{\prime}\\ \vdots&\vdots&\ddots&\vdots \\ f_{1}^{(n-1)}&f_{2}^{(n-1)}&\dots&f_{n}^{(n-1)}\end{bmatrix}$
+	- Generally, $W(f_{1},\dots,f_{n})=\det\begin{bsmallmatrix}f_{1}&f_{2}&\dots&f_{n}\\ f_{1}^{\prime}&f_{2}^{\prime}&\dots&f_{n}^{\prime}\\ \vdots&\vdots&\ddots&\vdots \\ f_{1}^{(n-1)}&f_{2}^{(n-1)}&\dots&f_{n}^{(n-1)}\end{bsmallmatrix}$
 	- If the Wronskian is non-zero, the functions $f_{i}$ are linearly-independent.  
 	  (If the Wronskian is zero, it is inconclusive.)
 		- For $n$-th order homogenous LDE, the $n$ independent solutions are the bases that span through all general solutions.
