@@ -2,7 +2,7 @@
 
 * Differential Equation: Functional Equation with differential
   * Ordinary Differential Equation: Single independent variable: $F(t,y,y^\prime,\dots,y^{(n)})=0$ (with $u^\prime=\frac{d}{d t}u$)
-    * Linear Differential Equation: $L\[y\]=\sum\limits\_{i=0}^{n}a\_{n}(t)y^{(i)}(t)=g(t)$  
+    * Linear Differential Equation: $L\[y\]=\sum\limits\_{i=0}^{n}a\_{i}(t)y^{(i)}(t)=g(t)$  
       ($L$ is an $n$-th order linear differential operator)
       * Homogeneous Linear Differential Equation: $L\[y\]=g(t)=0$
   * Partial Differential Equation: Multiple independent variables (with $u_x=\frac{\partial}{\partial x}u$, assume that other independent variables are independent/constants relative to $x$)
@@ -29,13 +29,13 @@
   * Superposition principle
     * (Linear superposition) If $y_1$ and $y_2$ are solutions of the Homogeneous LDE, their linear combination (i.e. $c\_{1}y\_{1}+c\_{2}y\_{2}$) are also solutions of the same DE.
 * Wronskian ($W(f,g)=f\cdot g^{\prime}-g\cdot f^{\prime}$)
-  * Generally, $W(f\_{1},\dots,f\_{n})=\det\left\[\\begin{smallmatrix}f\_{1}&f\_{2}&\dots&f\_{n}\\ f\_{1}^{\prime}&f\_{2}^{\prime}&\dots&f\_{n}^{\prime}\\ \vdots&\vdots&\ddots&\vdots \\ f\_{1}^{(n-1)}&f\_{2}^{(n-1)}&\dots&f\_{n}^{(n-1)}\end{smallmatrix}\right\]$
+  * Generally, $W(f\_{1},\dots,f\_{n})=\det\left(a\_{i,j}=f\_{i}^{(j)}\right)=\det\left\[\\begin{smallmatrix}f\_{1},&f\_{2},&\dots&f\_{n};\\ f\_{1}^{\prime},&f\_{2}^{\prime},&\dots&f\_{n}^{\prime};\\ \vdots&\vdots&\ddots&\vdots \\ f\_{1}^{(n-1)},&f\_{2}^{(n-1)},&\dots&f\_{n}^{(n-1)};\end{smallmatrix}\right\]$
   * If the Wronskian is non-zero, the functions $f\_{i}$ are linearly-independent.  
     (If the Wronskian is zero, it is inconclusive.)
     * For $n$-th order homogenous LDE, the $n$ independent solutions are the bases that span through all general solutions.
     * The last solution can be find by solving for the Wronskian first.
 * Abel's identity
-  * For Second-order homogeneous LDE ($y^{\prime\prime}+p y^{\prime}+q y = 0$), the Wronskian $W=c\cdot e^{-\int p(t)dt}$ (on an interval where $p$ and $q$ is continuous.
+  * For Second-order homogeneous LDE ($y^{\prime\prime}+p y^{\prime}+q y = 0$), the Wronskian $W=c\cdot e^{-\int p(t)dt}$ (on an interval where $p$ and $q$ is continuous).
 * Solving Techniques
   * Separation of Variable
     * (First-order ODE): $P(y)dy=Q(t)dt$ → $\int P(y)dy = \int Q(t)dt$
@@ -55,12 +55,22 @@
     * Solve characteristic equation: $\sum\limits\_{i=0}^{n} a\_{i}r^{i} = 0$  
       (Assume that the solution is in the forms of $e^{rt}$ so that it can cancel its derivatives out.)
     * For each simple root $r$, the associated bases solution is $e^{rt}$.
-    * For each multiple root $r$ (with multiplicity $k$), the associated bases solution are $t^{i}e^{rt}$ for $i=0,\dots,k-1$. (Reduction of Order)
+    * For each multiple root $r$ (with multiplicity $k$), the associated bases solution are $t^{i}e^{rt}$ for $i=0,\dots,k-1$. (by Reduction of Order)
     * The general solution are the linear combinations of the bases.
-  * Non-homogeneous LDE w/ const. coefficient ($\sum\limits\_{i=0}^{n} a\_{i}y^{(i)} = g(t)$)
-    * The general solution is $y_c+y_p$ where
-      * Complementary function ($y_c$) is the solution of the homogeneous DE ($\sum\limits\_{i=0}^{n} a\_{i}y^{(i)} = 0$).
-      * Particular integral ($y_p$) differs for each LDE.
+  * Non-homogeneous LDE $L\[y\] = g(t)$
+    * The general solution is $y\_{c}+y\_{p}$ where
+      * Complementary function ($y\_{c}$) is the solutions of $L\[y\] = 0$.
+      * Particular integral ($y\_{p}$) is a solution of the LDE.
+  * Variation of Parameter (finding particular integral for non-homogeneous LDE)
+    * (Optional) Rearrange into canonical forms: $L\[y\]=\sum\limits\_{i=0}^{n}a\_{i}y^{(i)}$ where $a\_{n}=1$
+    * Assume $y\_{p}=\sum\limits\_{i=1}^{n}c\_{i}y\_{c,i}$ and $\sum\limits\_{i=1}^{n}c\_{i}^{\prime}y\_{c,i}^{(j)}=0$ for $j=0,\dots,n-2$
+    * Therefore $y\_{p}^{(j)}=\sum\limits\_{i=1}^{n}c\_{i}y\_{c,i}^{(j)}$ and $y\_{p}^{(n)}=\sum\limits\_{i=1}^{n}c\_{i}y\_{c,i}^{(n)}+\sum\limits\_{i=1}^{n}c\_{i}^{\prime}y\_{c,i}^{(n-1)}$
+    * Hence $0=\sum\limits\_{i=1}^{n}c\_{i}^{\prime}y\_{c,i}^{(j)}$ for $j=0,\dots,n-2$ and $L\[y\]=a\_{n}\sum\limits\_{i=1}^{n}c\_{i}^{\prime}y\_{c,i}^{(n-1)}$  
+      (factor out $c\_{i}$ and satisfy $L\[y\_{c,i}\]=0$)
+    * Solve for $c\_{i}^{\prime}$ using Cramer's rule: $c\_{i}^{\prime}=\frac{W\_{i}}{W}$  
+      ($W\_{i}$ replace $(y\_{i},\dots,y\_{i}^{(n-1)})$ with $(0,\dots,0,\frac{L\[y\]}{a\_{n}})$)
+    * Solve for $c\_{i}=\int c\_{i}^{\prime}(t)dt$ and $y\_{p}=\sum\limits\_{i=1}^{n}c\_{i}y\_{c,i}$  
+      (constant of integration for $c\_{i}$ is equivalent to complementary function in general solution)
 
 ## Reference
 
