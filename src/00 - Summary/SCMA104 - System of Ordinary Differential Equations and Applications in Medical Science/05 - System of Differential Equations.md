@@ -9,22 +9,24 @@
   * Find Eigenvector: Solve $(\lambda\mathbf{I}-\mathbf{A})\vec{v}=0$
 * Solution
   * Trivial Solution (Homogeneous): $\mathbf{y}=\vec{0}$
-  * General solution (Homogeneous, Constant $\mathbf{A}$): $\mathbf{y}=\sum\limits\_{i}c\_{i}e^{\lambda\_{i}t}\mathbf{v}*{i}$ where $\mathbf{v}*{i}$ and $\lambda\_{i}$ are eigenvectors and eigenvalues.
+  * General solution (Homogeneous, Constant $\mathbf{A}$)
+    * For each eigenvalue $\lambda\_{i}$, the basis is $\mathbf{v}*{i}e^{\lambda*{i}t}$, $\mathbf{v}*{i}te^{\lambda*{i}t}+\eta e^{\lambda\_{i}t}$ where $(\lambda\mathbf{I}-\mathbf{A})\mathbf{\eta}=-\mathbf{v}$ if eigenvalue $\lambda\_{i}$ is degenerate (have more multiplicity than the number of derived eigenvector $\mathbf{v}\_{i}$.
     * Equiv. $\mathbf{y}=e^{\mathbf{A}t}\mathbf{y}\_{0}$
 * Behaviors ($\operatorname{Tr}\mathbf{A}=\sum\limits\_{i}\lambda\_{i}$ and $\det\mathbf{A}=\prod\limits\_{i}\lambda\_{i}$) ![File:Stability Diagram.png](https://upload.wikimedia.org/wikipedia/commons/3/3b/Stability_Diagram.png)
   1. $\lambda\_{1},\lambda\_{2}\in\mathbb{R}$: $\mathbf{y}=c\_{i}e^{\lambda\_{i}t}\mathbf{v}\_{i}$
      1. $\lambda\_{1}\cdot\lambda\_{2}\<0$: Unstable Saddle (Saddle)
      1. $\lambda\_{i}>0$: Unstable Node (Source)
      1. $\lambda\_{i}\<0$: Asymptotically Stable Node (Sink)
-  1. $\lambda\_{1},\lambda\_{2}=\lambda\pm\mu i\in\mathbb{C}$: $\mathbf{y}=c\_{i}e^{\lambda\_{i}t}\mathbf{v}*{i}=c*{1}e^{\lambda t}(\mathbf{a}\cos\mu t-\mathbf{b}\sin\mu t)+c\_{2}e^{\lambda t}(\mathbf{a}\cos\mu t+\mathbf{b}\sin\mu t)$ ($\mathbf{v}*{1},\mathbf{v}*{2}=\mathbf{a}\pm\mathbf{b}i$)
-     1. $\lambda=0$: Stable Orbit (Center)
+  1. $\lambda\_{1},\lambda\_{2}=\lambda\pm\mu i\in\mathbb{C}$: $\mathbf{y}=c\_{1}e^{\lambda t}(\mathbf{a}\cos\mu t-\mathbf{b}\sin\mu t)+c\_{2}e^{\lambda t}(\mathbf{a}\cos\mu t+\mathbf{b}\sin\mu t)$  
+     ($\mathbf{v}*{1},\mathbf{v}*{2}=\mathbf{a}\pm\mathbf{b}i$)
+     1. $\lambda=0$: Neutrally Stable Orbit (Center)
      1. $\lambda>0$: Unstable Spiral (Spiral Source)
      1. $\lambda\<0$: Asymptotically Stable Spiral (Spiral Sink)
   1. $\lambda\_{1}=\lambda\_{2}$
-     1. $A=\lambda I$: $\mathbf{y}=\mathbf{v}e^{\lambda t}$ ($\mathbf{v}$ is any 2D-vector)
+     1. $A=\lambda I$: $\mathbf{y}=\mathbf{v}e^{\lambda t}$ ($\mathbf{v}$ is any 2D-vector since the eigenvectors span the space)
         1. $\lambda>0$: Unstable Proper Node (Source, Symmetric)
         1. $\lambda\<0$: Asymptotically Stable Proper Node (Sink, Symmetric)
-     1. $A\ne\lambda I$: $\mathbf{y}=c\_{1}\mathbf{v}e^{\lambda t}+c\_{2}(\mathbf{v}te^{\lambda t}+\mathbf{\eta}e^{\lambda t})$ where $(\lambda\mathbf{I}-\mathbf{A})\mathbf{\eta}=-\mathbf{v}$
+     1. $A\ne\lambda I$: $\mathbf{y}=c\_{1}\mathbf{v}e^{\lambda t}+c\_{2}(\mathbf{v}te^{\lambda t}+\mathbf{\eta}e^{\lambda t})$
         1. $\lambda>0$: Unstable Improper Node (Degenerate Source)
         1. $\lambda\<0$: Asymptotically Stable Improper Node (Degenerate Sink)
 
