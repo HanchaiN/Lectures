@@ -20,6 +20,7 @@ include-src = true
 
 [output.html]
 curly-quotes = true
+mathjax-support = true
 additional-css = [
 	"theme/css/catppuccin.css",
 	"theme/css/catppuccin-admonish.css"
