@@ -24,6 +24,14 @@ jobs:
           url="https://github.com/rust-lang/mdbook/releases/download/${tag}/mdbook-${tag}-x86_64-unknown-linux-gnu.tar.gz"
           mkdir bin
           curl -sSL $url | tar -xz --directory=./bin
+      - name: Install latest mdbook-katex
+        run: |
+          tag=$(curl 'https://api.github.com/repos/lzanini/mdbook-katex/releases/latest' | jq -r '.tag_name')
+          url="https://github.com/lzanini/mdbook-katex/releases/download/${tag}/mdbook-${tag}-x86_64-unknown-linux-gnu.tar.gz"
+          mkdir bin
+          curl -sSL $url | tar -xz --directory=./bin
+      - name: Add binaries to PATH
+        run: |
           echo `pwd`/bin >> $GITHUB_PATH
       - name: Build Book
         run: |
@@ -35,7 +43,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          # Upload entire repository
           path: 'book'
       - name: Deploy to GitHub Pages
         id: deployment

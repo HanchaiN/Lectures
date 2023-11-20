@@ -49,7 +49,7 @@
     <link rel="stylesheet" href="{{ ../path_to_root }}{{ this }}">
     {{/each}}
 
-    {{#if mathjax_support}}
+    {{!-- {{#if mathjax_support}}
     <!-- MathJax -->
     <script>
         window.MathJax = {
@@ -62,7 +62,7 @@
     <script type="text/javascript" id="MathJax-script" async
         src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
         </script>
-    {{/if}}
+    {{/if}} --}}
 </head>
 
 <body class="sidebar-visible no-js">
@@ -351,7 +351,7 @@
         {{/each}}
 
         {{#if is_print}}
-        {{#if mathjax_support}}
+        {{!-- {{#if mathjax_support}}
         <script>
             window.addEventListener('load', function () {
                 MathJax.Hub.Register.StartupHook('End', function () {
@@ -365,7 +365,7 @@
                 window.setTimeout(window.print, 100);
             });
         </script>
-        {{/if}}
+        {{/if}} --}}
         {{/if}}
 
     </div>
