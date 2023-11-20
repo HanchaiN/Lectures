@@ -12,11 +12,11 @@ extra-watch-dirs = ["scripts"]
 renderers = ["html"]
 command = "python scripts/tikzjax.py"
 
-[preprocessor.katex]
-after = ["links", "tikzjax"]
-renderers = ["html"]
-output = "htmlAndMathml"
-include-src = true
+# [preprocessor.katex]
+# after = ["links", "tikzjax"]
+# renderers = ["html"]
+# output = "htmlAndMathml"
+# include-src = true
 
 [output.html]
 curly-quotes = true
