@@ -3,9 +3,9 @@ import sys
 import re
 
 def process_content(content):
-    content = re.sub(r'\\\\', r'\\\\\\\\\', content, re.DOTALL)
-    content = re.sub(r'(?<!\\)\$\$([\s\S]*?)(?<!\\)\$\$', r'\\\\\[\1\\\\\]', content, re.DOTALL)
-    content = re.sub(r'(?<!\\)\$([\s\S]*?)(?<!\\)\$', r'\\\\\(\1\\\\\)', content, re.DOTALL)
+    content = re.sub(r'\\\\', r'\\\\\\\\', content, re.DOTALL)
+    content = re.sub(r'(?<!\\)\$\$([\s\S]*?)(?<!\\)\$\$', r'\\[\1\\]', content, re.DOTALL)
+    content = re.sub(r'(?<!\\)\$([\s\S]*?)(?<!\\)\$', r'\\(\1\\)', content, re.DOTALL)
     return content
 
 def process_item(item):
