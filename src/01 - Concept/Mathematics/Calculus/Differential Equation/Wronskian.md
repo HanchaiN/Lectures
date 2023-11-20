@@ -7,7 +7,14 @@ $$
 Generally,
 
 $$
-W(f\_{1},\dots,f\_{n})=\det\left(a\_{i,j}=f\_{i}^{(j)}\right)=\det\left\[\\begin{smallmatrix}f\_{1},&f\_{2},&\dots&f\_{n};\\ f\_{1}^{\prime},&f\_{2}^{\prime},&\dots&f\_{n}^{\prime};\\ \vdots&\vdots&\ddots&\vdots \\ f\_{1}^{(n-1)},&f\_{2}^{(n-1)},&\dots&f\_{n}^{(n-1)};\end{smallmatrix}\right\]
+W(f\_{1},\dots,f\_{n})
+=\det\left(a\_{i,j}=f\_{i}^{(j)}\right)
+=\det
+\\begin{pmatrix}
+f\_{1},&f\_{2},&\dots&f\_{n}; \newline f\_{1}^{\prime},&f\_{2}^{\prime},&\dots&f\_{n}^{\prime}; \newline
+\\vdots&\vdots&\ddots&\vdots \newline 
+f\_{1}^{(n-1)},&f\_{2}^{(n-1)},&\dots&f\_{n}^{(n-1)}; \newline
+\\end{pmatrix}
 $$
 
 If $f\_{1},\dots,f\_{n}$ are linearly dependent then $W=0$. (the reverse is not necessary true)
