@@ -12,29 +12,12 @@
   * Logarithmic differentiation
     * $\displaystyle\frac{d}{dx}\ln y=\frac{1}{y}\frac{dy}{dx}$
 * Applications
-  * Increasing-Decreasing function
-    * (Strictly)-Increasing function
-      * $x\_{1}\<x\_{2}\implies f(x\_{1}) \< f(x\_{2})$
-      * Equiv. $f^{\prime}(x)>0$ (sufficient but not necessary)
-    * (Strictly)-Decreasing function
-      * $x\_{1} \< x\_{2}\implies f(x\_{1}) > f(x\_{2})$
-      * Equiv. $f^{\prime}(x)\<0$ (sufficient but not necessary)
-  * Convex-Concave function
-    * Convex / Concave upwards: Increasing $f^{\prime}$
-    * Concave / Concave downwards: Decreasing $f^{\prime}$
-    * Point of inflection: Change of concavity ($f^{\prime\prime}(x)=0$ is necessary but insufficient)
-  * Extreme value problem
-    * Critical point: $f^{\prime}(x)=0$ or $f^{\prime}(x)\sim\text{DNE}$
-      * $f^{\prime}(x)$ from positive to negative (decreasing) then local maxima
-      * $f^{\prime}(x)$ from negative to positive (increasing) then local minima
-      * Otherwise, not a local extrema
-    * Stationary point: $f^{\prime}(x)=0$
-      * $f^{\prime\prime}(x)\<0$ then local maxima
-      * $f^{\prime\prime}(x)>0$ then local minima
-      * Otherwise, inconclusive
-    * Global extrema
-      * Interval boundaries
-      * Local extrema
+  * [Increasing Function](../../01%20-%20Concept/Mathematics/Calculus/Application/Increasing%20Function.md) and [Decreasing Function](../../01%20-%20Concept/Mathematics/Calculus/Application/Decreasing%20Function.md)
+  * [Convex Function](../../01%20-%20Concept/Mathematics/Calculus/Application/Convex%20Function.md) and [Concave Function](../../01%20-%20Concept/Mathematics/Calculus/Application/Concave%20Function.md)
+    * [Point of inflection](../../01%20-%20Concept/Mathematics/Calculus/Application/Point%20of%20inflection.md)
+  * [Extreme Value Problem](../../01%20-%20Concept/Mathematics/Calculus/Application/Extreme%20Value%20Problem.md)
+    * [Critical point](../../01%20-%20Concept/Mathematics/Calculus/Application/Critical%20Point.md)
+    * [Stationary point](../../01%20-%20Concept/Mathematics/Calculus/Application/Stationary%20Point.md)
 
 ## Reference
 
