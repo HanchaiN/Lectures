@@ -4,10 +4,10 @@ Functional Equation with differential
 
 ## Classification
 
-* [Ordinary Differential Equation](Ordinary%20Differential%20Equation/Ordinary%20Differential%20Equation.md)
-  * [Linear Differential Equation](Ordinary%20Differential%20Equation/Linear%20Differential%20Equation.md)
-    * [Homogeneous Linear Differential Equation](Ordinary%20Differential%20Equation/Homogeneous%20Linear%20Differential%20Equation.md)
-* *Partial Differential Equation*
+* [Ordinary Differential Equation](Ordinary%20Differential%20Equation.md)
+  * [Linear Differential Equation](Linear%20Differential%20Equation.md)
+    * [Homogeneous Linear Differential Equation](Homogeneous%20Linear%20Differential%20Equation.md)
+* [Partial Differential Equation](Partial%20Differential%20Equation.md)
 
 ## Properties
 
@@ -16,9 +16,9 @@ Functional Equation with differential
   * $\exists k\_{i},l;\forall\lambda$ If $(x\_{i}, y)$ is a solution, $(\lambda^{k\_{i}} x\_{i}, \lambda^{l} y)$ is also a solution.
     * Since $\bar{y}=\lambda^{l} y(\lambda^{-k}t)$, then $\bar{y}^{(n)}=\lambda^{l-nk} y^{(n)}$.
   * $k=0$ and (WLOG) $l=1$: Homogeneity by function  
-    (as in [Homogeneous LDE](Ordinary%20Differential%20Equation/Homogeneous%20Linear%20Differential%20Equation.md), provably equivalent to $L\[y\]=0$)
+    (as in [Homogeneous LDE](Homogeneous%20Linear%20Differential%20Equation.md), provably equivalent to $L\[y\]=0$)
   * $k=l$ and (WLOG) $l=1$: Uniformly homogenous  
-    (as in Homogenous First-order [ODE](Ordinary%20Differential%20Equation/Ordinary%20Differential%20Equation.md): $M(x,y)dx=N(x,y)dy$)
+    (as in Homogenous First-order [ODE](Ordinary%20Differential%20Equation.md): $M(x,y)dx=N(x,y)dy$)
     * $\overset{\lambda=\frac{1}{x},y=ux}{\implies} u^{\prime}x+u=y^{\prime}=\frac{M(x,y)}{N(x,y)}=\frac{\lambda^{\alpha}M(\lambda x,\lambda y)}{\lambda^{\alpha}N(\lambda x,\lambda y)}=\frac{M(1,u)}{N(1,u)}=f(u)$
 * Order: highest order of differentiation in canonical forms (no integral terms, use FTC-I)
 * Degree: the maximum degree (sum / max of exponents) of the highest order term
@@ -33,8 +33,6 @@ Functional Equation with differential
   * Exact solution (w/ initial value): solved for the constants using initial conditions
 * Explicit solution: have the forms of $y(t)$
   * General solution can be explicit
-* Superposition principle
-  * (Linear superposition) If $y_1$ and $y_2$ are solutions of the Homogeneous LDE, their linear combination (i.e. $c\_{1}y\_{1}+c\_{2}y\_{2}$) are also solutions of the same DE.
 
 ## Reference
 

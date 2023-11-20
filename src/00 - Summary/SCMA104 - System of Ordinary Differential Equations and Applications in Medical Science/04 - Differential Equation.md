@@ -1,24 +1,13 @@
 # Ordinary Differential Equation
 
 * [Differential Equation](../../01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Differential%20Equation.md)
-  * [Ordinary Differential Equation](../../01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Ordinary%20Differential%20Equation/Ordinary%20Differential%20Equation.md)
-    * Linear Differential Equation: $L\[y\]=\sum\limits\_{i=0}^{n}a\_{i}(t)y^{(i)}(t)=g(t)$  
-      ($L$ is an $n$-th order linear differential operator)
-      * Homogeneous Linear Differential Equation: $L\[y\]=g(t)=0$
-  * Partial Differential Equation: Multiple independent variables (with $u_x=\frac{\partial}{\partial x}u$, assume that other independent variables are independent/constants relative to $x$)
-* Solution
-  * Define on some open interval
-  * Differentiable up to the equation's order
-  * Satisfy the DE ($F(t,y,y^{\prime},\dots,y^{(n)})=0$ for ODE)
-  * Initial value problem: DE w/ initial conditions: exact value of $y(t\_{0}),y^{\prime}(t\_{0}),\dots,y^{(n)}(t\_{0})$
-    * General solution will have arbitrary constants (related to constant of integration)
-    * Exact solution (w/ initial value): solved for the constants using initial conditions
-  * Explicit solution: have the forms of $y(t)$
-    * General solution can be explicit
-  * Superposition principle
-    * (Linear superposition) If $y_1$ and $y_2$ are solutions of the Homogeneous LDE, their linear combination (i.e. $c\_{1}y\_{1}+c\_{2}y\_{2}$) are also solutions of the same DE.
-* [Wronskian](../../01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Ordinary%20Differential%20Equation/Wronskian.md)
-* [Abel's identity](../../01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Ordinary%20Differential%20Equation/Abel's%20Identity.md)
+  * [Ordinary Differential Equation](../../01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Ordinary%20Differential%20Equation.md)
+    * [Linear Differential Equation](../../01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Linear%20Differential%20Equation.md)
+      * [Homogeneous Linear Differential Equation](../../01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Homogeneous%20Linear%20Differential%20Equation.md)
+  * [Partial Differential Equation](../../01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Partial%20Differential%20Equation.md)
+* [Solution](../../01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Differential%20Equation.md#solution)
+* [Wronskian](../../01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Wronskian.md)
+* [Abel's Identity](../../01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Abel's%20Identity.md)
 * Solving Techniques
   * Separation of Variable
     * (First-order ODE): $P(y)dy=Q(t)dt$ → $\int P(y)dy = \int Q(t)dt$
