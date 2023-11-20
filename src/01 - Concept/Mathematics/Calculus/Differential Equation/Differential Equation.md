@@ -7,6 +7,7 @@ Functional Equation with differential
 * [Ordinary Differential Equation](Ordinary%20Differential%20Equation.md)
   * [Linear Differential Equation](Linear%20Differential%20Equation.md)
     * [Homogeneous Linear Differential Equation](Homogeneous%20Linear%20Differential%20Equation.md)
+    * [Non-homogeneous Linear Differential Equation](Non-homogeneous%20Linear%20Differential%20Equation.md)
 * [Partial Differential Equation](Partial%20Differential%20Equation.md)
 
 ## Properties
@@ -38,3 +39,4 @@ Functional Equation with differential
 
 * [04 - Differential Equation](../../../../00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/04%20-%20Differential%20Equation.md)
 * [Differential equation - Wikipedia](https://en.wikipedia.org/wiki/Differential_equation)
+* [A Practical Course in Differential Equations and Mathematical Modelling](https://doi.org/10.1142/7573)
