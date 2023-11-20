@@ -64,6 +64,14 @@ share: true
 			- [[Extreme Value Problem]]
 				- [[Stationary Point]]
 				- [[Critical Point]]
+		- [[Differential Equation]]
+			- [[Ordinary Differential Equation]]
+				- [[Linear Differential Equation]]
+					- [[Homogeneous Linear Differential Equation]]
+						- [[Abel's Identity]]
+					- [[Non-homogeneous Linear Differential Equation]]
+					- [[Wronskian]]
+			- [[Partial Differential Equation]]
 - [Physics]()
 	- [Quantum Mechanics]()
 		- [Breakdown of Classical Physics]()
