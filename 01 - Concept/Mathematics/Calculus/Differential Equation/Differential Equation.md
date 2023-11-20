@@ -33,8 +33,6 @@ Functional Equation with differential
 	- Exact solution (w/ initial value): solved for the constants using initial conditions
 - Explicit solution: have the forms of $y(t)$
 	- General solution can be explicit
-- Superposition principle
-	- (Linear superposition) If $y_1$ and $y_2$ are solutions of the Homogeneous LDE, their linear combination (i.e. $c_{1}y_{1}+c_{2}y_{2}$) are also solutions of the same DE.
 
 ## Reference
 

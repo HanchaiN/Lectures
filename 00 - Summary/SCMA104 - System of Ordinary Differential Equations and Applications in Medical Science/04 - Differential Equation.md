@@ -8,23 +8,12 @@ aliases:
 
 - [[Differential Equation]]
 	- [[Ordinary Differential Equation]]
-		- Linear Differential Equation: $L[y]=\sum\limits_{i=0}^{n}a_{i}(t)y^{(i)}(t)=g(t)$  
-		  ($L$ is an $n$-th order linear differential operator)
-			- Homogeneous Linear Differential Equation: $L[y]=g(t)=0$
-	- Partial Differential Equation: Multiple independent variables (with $u_x=\frac{\partial}{\partial x}u$, assume that other independent variables are independent/constants relative to $x$)
-- Solution
-	- Define on some open interval
-	- Differentiable up to the equation's order
-	- Satisfy the DE ($F(t,y,y^{\prime},\dots,y^{(n)})=0$ for ODE)
-	- Initial value problem: DE w/ initial conditions: exact value of $y(t_{0}),y^{\prime}(t_{0}),\dots,y^{(n)}(t_{0})$
-		- General solution will have arbitrary constants (related to constant of integration)
-		- Exact solution (w/ initial value): solved for the constants using initial conditions
-	- Explicit solution: have the forms of $y(t)$
-		- General solution can be explicit
-	- Superposition principle
-		- (Linear superposition) If $y_1$ and $y_2$ are solutions of the Homogeneous LDE, their linear combination (i.e. $c_{1}y_{1}+c_{2}y_{2}$) are also solutions of the same DE.
+		- [[Linear Differential Equation]]
+			- [[Homogeneous Linear Differential Equation]]
+	- [[Partial Differential Equation]]
+- [[Differential Equation#Solution|Solution]]
 - [[Wronskian]]
-- [[Abel's identity]]
+- [[Abel's Identity]]
 - Solving Techniques
 	- Separation of Variable
 		- (First-order ODE): $P(y)dy=Q(t)dt$ → $\int P(y)dy = \int Q(t)dt$
