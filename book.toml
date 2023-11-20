@@ -12,6 +12,10 @@ extra-watch-dirs = ["scripts"]
 renderers = ["html"]
 command = "python scripts/tikzjax.py"
 
+[preprocessor.mathjax-fix]
+renderers = ["html"]
+command = "python scripts/mathjax-fix.py"
+
 # [preprocessor.katex]
 # after = ["links", "tikzjax"]
 # renderers = ["html"]
