@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Covalent Bonding
 
 - Shared Valence Electrons

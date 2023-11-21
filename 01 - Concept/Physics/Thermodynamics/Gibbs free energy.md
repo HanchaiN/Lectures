@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Gibbs free energy
 
 $G=H-TS$: Measure of universal entropy

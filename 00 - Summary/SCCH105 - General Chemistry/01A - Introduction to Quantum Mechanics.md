@@ -1,5 +1,4 @@
 ---
-share: true
 aliases:
   - Introduction to Quantum Mechanics
 ---

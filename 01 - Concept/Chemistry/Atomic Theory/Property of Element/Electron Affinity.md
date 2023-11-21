@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Electron Affinity
 
 - $\ce{X(g) + e- -> X-(g)}; \Delta H=-EA$

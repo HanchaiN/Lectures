@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Characteristic Infrared Band
 
 - Resonance with [[Covalent Bonding]]

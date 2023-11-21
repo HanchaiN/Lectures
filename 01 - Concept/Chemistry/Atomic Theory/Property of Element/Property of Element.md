@@ -1,9 +1,3 @@
----
-share: true
-tags:
-  - overview
----
-
 # Property of Element
 
 - [[Effective Nuclear Charge]]

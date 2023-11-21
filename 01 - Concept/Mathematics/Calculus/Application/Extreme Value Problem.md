@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Extreme Value Problem
 
 Find extrema of a function

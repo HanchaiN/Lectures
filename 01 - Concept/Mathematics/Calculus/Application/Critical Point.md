@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Critical Point
 
 $$

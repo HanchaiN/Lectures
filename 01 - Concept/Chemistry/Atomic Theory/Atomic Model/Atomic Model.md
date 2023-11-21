@@ -1,9 +1,3 @@
----
-share: true
-tags:
-  - overview
----
-
 # Atomic Model
 
 - Philosophical Model

@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Continuity
 
 - Continuous at $a$: $\displaystyle\lim_{x\to a} f(x)=f(a)$;

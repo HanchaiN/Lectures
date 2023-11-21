@@ -1,5 +1,4 @@
 ---
-share: true
 aliases:
   - Motion of Rigid Body
 ---

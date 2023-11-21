@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Intermediate Form
 
 - $\displaystyle\frac{0}{0},\frac{\infty}{\infty}$→ Factorization

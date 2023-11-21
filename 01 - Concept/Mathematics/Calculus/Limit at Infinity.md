@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Limit at Infinity
 
 - $\displaystyle\lim_{x\to \infty} f(x)$ and $\displaystyle\lim_{x\to -\infty} f(x)$

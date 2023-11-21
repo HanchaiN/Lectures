@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Schrödinger's Wave Equation
 
 - $\hat{H}\Psi=\hat{E}\Psi$  

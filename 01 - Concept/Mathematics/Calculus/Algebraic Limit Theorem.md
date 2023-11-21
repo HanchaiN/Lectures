@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Algebraic Limit Theorem
 
 If and only if RHS exists, else [[Intermediate Form]] or DNE.

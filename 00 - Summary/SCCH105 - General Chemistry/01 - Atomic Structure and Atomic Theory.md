@@ -1,5 +1,4 @@
 ---
-share: true
 aliases:
   - Atomic Structure and Atomic Theory
 ---

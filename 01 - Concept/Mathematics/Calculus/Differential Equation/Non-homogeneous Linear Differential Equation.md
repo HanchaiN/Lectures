@@ -1,5 +1,4 @@
 ---
-share: true
 aliases:
   - Non-homogeneous LDE
 ---

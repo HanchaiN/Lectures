@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Electronegativity
 
 - Tendency to attract bonding electron

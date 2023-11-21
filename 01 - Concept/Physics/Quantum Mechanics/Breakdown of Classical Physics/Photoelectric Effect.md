@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Photoelectric Effect
 
 - Matter Behavior of Wave: Collision of photon and electron

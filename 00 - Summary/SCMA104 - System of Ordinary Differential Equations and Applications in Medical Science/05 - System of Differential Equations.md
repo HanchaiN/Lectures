@@ -1,5 +1,4 @@
 ---
-share: true
 aliases:
   - System of Differential Equations
 ---

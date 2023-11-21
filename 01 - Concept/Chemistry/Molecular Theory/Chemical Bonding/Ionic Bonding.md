@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Ionic Bonding
 
 - Transferred Valence Electron

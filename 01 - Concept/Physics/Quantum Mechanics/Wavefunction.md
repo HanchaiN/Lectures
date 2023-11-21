@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Wavefunction
 
 Complex function (field) $\Psi$ over set of the state

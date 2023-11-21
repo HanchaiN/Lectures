@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Point of inflection
 
 Change of concavity ([[Convex Function]] / [[Concave Function]])

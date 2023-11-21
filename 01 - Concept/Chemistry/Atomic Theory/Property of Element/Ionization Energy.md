@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Ionization Energy
 
 - $\ce{X(g) -> X+(g) + e-}; \Delta H=IE_{1}$

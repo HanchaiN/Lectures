@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Concave Function
 
 AKA Concave Downwards Functions

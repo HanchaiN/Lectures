@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Squeeze Theorem
 
 $$

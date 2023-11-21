@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Differentiability
 
 - Differentiable at $a$: $f^{\prime}(a)$ is defined

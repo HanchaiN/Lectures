@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Atomic Radius
 
 - Metallic / Covalent

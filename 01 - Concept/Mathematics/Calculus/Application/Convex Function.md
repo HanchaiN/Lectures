@@ -1,7 +1,3 @@
----
-share: true
----
-
 # Convex Function
 
 AKA Concave Upwards Functions
