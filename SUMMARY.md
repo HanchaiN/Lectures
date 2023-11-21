@@ -31,6 +31,7 @@ share: true
 		- [[Atomic Model]]
 			- [[Bohr Model]]
 			- [[Electron Cloud Model]]
+				- [[Atomic Orbital]]
 		- [[Property of Element]]
 			- [[Effective Nuclear Charge]]
 			- [[Atomic Radius]]
@@ -51,6 +52,7 @@ share: true
 			- [[Infinite Limit]]
 			- [[Limit at Infinity]]
 			- [[Intermediate Form]]
+			- [[Squeeze Theorem]]
 		- [[Continuity]]
 		- [[Differentiation]]
 			- [[Differentiability]]
@@ -72,6 +74,7 @@ share: true
 					- [[Non-homogeneous Linear Differential Equation]]
 					- [[Wronskian]]
 			- [[Partial Differential Equation]]
+	- [[Linear Transformation]]
 - [Physics]()
 	- [Quantum Mechanics]()
 		- [Breakdown of Classical Physics]()
@@ -83,3 +86,7 @@ share: true
 		- [[Wavefunction]]
 		- [[Schrodinger's Wave Equation]]
 		- [[Pauli's Exclusion Principle]]
+	- [Thermodynamics]()
+		- [[Enthalpy]]
+		- [[Entropy]]
+		- [[Gibbs free energy]]

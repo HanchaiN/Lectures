@@ -8,13 +8,6 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#overview",
-      "color": {
-        "a": 1,
-        "rgb": 49151
-      }
-    },
-    {
       "query": "path:\"00 - Summary\"",
       "color": {
         "a": 1,
