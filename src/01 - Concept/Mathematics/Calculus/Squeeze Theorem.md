@@ -8,8 +8,8 @@ $$
 \begin{document}
 \begin{tikzpicture}[scale=10]
   % Axis
-  \draw[->] (-.45,0) -- (+.45,0) node[right] {$x$};
-  \draw[->] (0,-.3) -- (0,+.3) node[above] {$y$};
+  \draw[->] (-.45,0) -- (+.45,0) node[right] {\(x\)};
+  \draw[->] (0,-.3) -- (0,+.3) node[above] {\(y\)};
   
   % Graphs
   \draw[domain=-.4:-.01, range=-.25:.25, smooth, variable=\x, blue, thick] plot ({\x}, {-\x*\x * sin(1/(-\x) r)});

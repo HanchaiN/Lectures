@@ -5,9 +5,9 @@ $G=H-TS$: Measure of universal entropy
 $$
 \\begin{align\*}
 dG
-&= dH-TdS\\
-&= \delta Q-TdS-PdV+d(PV)\\
-&= TdS\_\\text{sys. transfer}-TdS\_\\text{sys. total}+\varepsilon\\
+&= dH-TdS\newline
+&= \delta Q-TdS-PdV+d(PV)\newline
+&= TdS\_\\text{sys. transfer}-TdS\_\\text{sys. total}+\varepsilon\newline
 &= -TdS\_\\text{univ}+\varepsilon
 \\end{align\*}
 $$
