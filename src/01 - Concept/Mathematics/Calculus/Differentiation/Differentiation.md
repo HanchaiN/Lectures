@@ -30,7 +30,11 @@
   * $\displaystyle\frac{d}{dx}\ln \left\lvert x\right\rvert=\frac{1}{x}$
   * $\displaystyle\frac{d}{dx}\log\_{a}x=\frac{1}{x\ln a}$
 
+## Related Topics
+
+* [Limit](../Limits/Limit.md)
+
 ## Reference
 
-* [02 - Differentiation](../../../00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/02%20-%20Differentiation.md)
+* [02 - Differentiation](../../../../00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/02%20-%20Differentiation.md)
 * [Differentiation rules - Wikipedia](https://en.wikipedia.org/wiki/Differentiation_rules)

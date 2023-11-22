@@ -18,51 +18,34 @@
   * Material Expansion: $\Delta L = L\_{0}\alpha\Delta T$
 * Heat $Q$: transferred energy due to difference of temperature
   * as vibration of atoms
-* [Enthalpy](../../01%20-%20Concept/Physics/Thermodynamics/Enthalpy.md) $H$
+* [Enthalpy](../../01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Variables/Enthalpy.md) $H$
 * Ideal gas
   * No interaction (except elastic collision)
   * Occupy no volume
   * Ideal gas law: $PV=nRT=k\_{B}NT$
-  * Internal Energy: $U=\frac{3}{2}k\_{B}NT$ (monoatomic gas; replace to $\frac{5}{2}$ for non-stretching diatomic gas)
+  * Internal Energy: $U=\frac{3}{2}k\_{B}NT$ ($C\_{V}=\frac{3}{2}$ for monoatomic gas; replace to $\frac{5}{2}$ for non-stretching diatomic gas)
     * Equipartition theorem assumes each (quadratic) degree of freedom have equal energy: $\frac{1}{2}k\_{b}T$
 * Thermodynamic processes
-  * Isochoric process: $dV=0$
-    * $W=0$
-    * $Q=\Delta U=\frac{3}{2}nR\Delta T=nC\_{V}\Delta T$
-  * Isobaric process: $dP=0$
-    * $W=\int P \delta V = P\Delta V=nR\Delta T$
-    * $\Delta U=\frac{3}{2}nR\Delta T$
-    * $Q=\Delta U + W = \frac{5}{2}nR\Delta T=nC\_{P}\Delta T$
-    * $C\_{P}=C\_{V}+R$
-  * Isothermal process: $dT = 0$
-    * $\Delta U=0$
-    * $Q=W=\int P \delta V=\int \frac{nRT}{V} \delta V = nRT\ln \frac{V\_{f}}{V\_{i}}$
-  * Adiabatic process: $\delta Q=0$
-    * $W=\Delta U=\frac{3}{2}nR\Delta T$
-    * $PV^{\gamma}\sim\text{const.}$
-      * $\gamma=\frac{C\_{P}}{C\_{V}}$
+  * [Isochoric Process](../../01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Processes/Isochoric%20Process.md)
+  * [Isobaric Process](../../01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Processes/Isobaric%20Process.md)
+  * [Isothermal Process](../../01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Processes/Isothermal%20Process.md)
+  * [Adiabatic Process](../../01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Processes/Adiabatic%20Process.md)
 * Heat engine
   * Heat transferred between reservoirs (const. temp.) and work done by engine
   * $e=\frac{W}{Q_H}$
   * Heat pump: Reversed heat transferred and work done to pump
     * $e=\frac{Q}{W}$ ($Q\_{C}$ for cooling and $Q\_{H}$ for heating)
-  * Carnot Engine: Reversible engine with two reservoirs
-    * Isothermal heat transfer (reversible)
-    * Adiabatic temperature changes (no lost)
+  * Carnot Engine: [Reversible](../../01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Processes/Reversible%20Process.md) engine with two reservoirs
+    * [Isothermal](../../01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Processes/Isothermal%20Process.md) heat transfer (reversible)
+    * [Adiabatic](../../01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Processes/Adiabatic%20Process.md) temperature changes (no lost)
     * $e=1-\frac{T\_{C}}{T\_{H}}$
-* [Entropy](../../01%20-%20Concept/Physics/Thermodynamics/Entropy.md) $S$
+* [Entropy](../../01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Variables/Entropy.md) $S$
   * $dS = \frac{\delta Q\_\\text{reversible}}{T}$
-* [Gibbs free energy](../../01%20-%20Concept/Physics/Thermodynamics/Gibbs%20free%20energy.md) $G$
+* [Gibbs free energy](../../01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Variables/Gibbs%20free%20energy.md) $G$
 * Laws of Thermodynamics
-  * 0th: heat transferred until temperature equals
-    * agrees with equipartition theorem
-  * 1st: $dU=\delta Q-\delta W$ (depends of choice of sign)
-    * agrees with conservation of energy
-  * 2nd: $dS\_{universe}\ge 0$
-    * $dS\_{universe} = 0$ iff. reversible process
-      * Quasistatic: System is in equilibrium with itself
-      * Reversible: System is quasistatic and in equilibrium with environment
-    * Equiv. $\delta G\le 0$
+  * [Zeroth Law of Thermodynamics](../../01%20-%20Concept/Physics/Thermodynamics/Laws%20of%20Thermodynamics/Zeroth%20Law%20of%20Thermodynamics.md)
+  * [First Law of Thermodynamics](../../01%20-%20Concept/Physics/Thermodynamics/Laws%20of%20Thermodynamics/First%20Law%20of%20Thermodynamics.md)
+  * [Second Law of Thermodynamics](../../01%20-%20Concept/Physics/Thermodynamics/Laws%20of%20Thermodynamics/Second%20Law%20of%20Thermodynamics.md)
 
 ## Reference
 

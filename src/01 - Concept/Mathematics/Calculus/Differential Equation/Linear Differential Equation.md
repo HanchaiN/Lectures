@@ -6,6 +6,15 @@ $$
 
 where $L$ is a [Linear](../../Linear%20Transformation.md) differential operator
 
+## Solving Techinque
+
+* [Integrating Factor](Integrating%20Factor.md) (First-order)
+
+## Related Topics
+
+* [Homogeneous Linear Differential Equation](Homogeneous%20Linear%20Differential%20Equation.md)
+* [Non-homogeneous Linear Differential Equation](Non-homogeneous%20Linear%20Differential%20Equation.md)
+
 ## Reference
 
 * [04 - Differential Equation](../../../../00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/04%20-%20Differential%20Equation.md)

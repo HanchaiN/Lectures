@@ -13,5 +13,5 @@ If and only if RHS exists, else [Intermediate Form](Intermediate%20Form.md) or D
 
 ## Reference
 
-* [01 - Limit and Continuity](../../../00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/01%20-%20Limit%20and%20Continuity.md)
+* [01 - Limit and Continuity](../../../../00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/01%20-%20Limit%20and%20Continuity.md)
 * [Limit of a function - Wikipedia](https://en.wikipedia.org/wiki/Limit_of_a_function)

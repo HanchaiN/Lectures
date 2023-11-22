@@ -1,7 +1,7 @@
 # Differentiation
 
-* [Differentiation](../../01%20-%20Concept/Mathematics/Calculus/Differentiation.md)
-* [Differentiability](../../01%20-%20Concept/Mathematics/Calculus/Differentiability.md)
+* [Differentiation](../../01%20-%20Concept/Mathematics/Calculus/Differentiation/Differentiation.md)
+* [Differentiability](../../01%20-%20Concept/Mathematics/Calculus/Differentiation/Differentiability.md)
   * Discontinuous (DNE)
   * Vertex (DNE)
   * Vertical Asymptote ($\pm\infty$)
@@ -12,12 +12,12 @@
   * Logarithmic differentiation
     * $\displaystyle\frac{d}{dx}\ln y=\frac{1}{y}\frac{dy}{dx}$
 * Applications
-  * [Increasing Function](../../01%20-%20Concept/Mathematics/Calculus/Application/Increasing%20Function.md) and [Decreasing Function](../../01%20-%20Concept/Mathematics/Calculus/Application/Decreasing%20Function.md)
-  * [Convex Function](../../01%20-%20Concept/Mathematics/Calculus/Application/Convex%20Function.md) and [Concave Function](../../01%20-%20Concept/Mathematics/Calculus/Application/Concave%20Function.md)
-    * [Point of inflection](../../01%20-%20Concept/Mathematics/Calculus/Application/Point%20of%20inflection.md)
-  * [Extreme Value Problem](../../01%20-%20Concept/Mathematics/Calculus/Application/Extreme%20Value%20Problem.md)
-    * [Critical point](../../01%20-%20Concept/Mathematics/Calculus/Application/Critical%20Point.md)
-    * [Stationary point](../../01%20-%20Concept/Mathematics/Calculus/Application/Stationary%20Point.md)
+  * [Increasing Function](../../01%20-%20Concept/Mathematics/Calculus/Properties%20of%20Functions/Increasing%20Function.md) and [Decreasing Function](../../01%20-%20Concept/Mathematics/Calculus/Properties%20of%20Functions/Decreasing%20Function.md)
+  * [Convex Function](../../01%20-%20Concept/Mathematics/Calculus/Properties%20of%20Functions/Convex%20Function.md) and [Concave Function](../../01%20-%20Concept/Mathematics/Calculus/Properties%20of%20Functions/Concave%20Function.md)
+    * [Point of inflection](../../01%20-%20Concept/Mathematics/Calculus/Properties%20of%20Functions/Point%20of%20inflection.md)
+  * [Extreme Value Problem](../../01%20-%20Concept/Mathematics/Calculus/Properties%20of%20Functions/Extreme%20Value%20Problem.md)
+    * [Critical Point](../../01%20-%20Concept/Mathematics/Calculus/Properties%20of%20Functions/Critical%20Point.md)
+    * [Stationary Point](../../01%20-%20Concept/Mathematics/Calculus/Properties%20of%20Functions/Stationary%20Point.md)
 
 ## Reference
 

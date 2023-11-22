@@ -6,7 +6,11 @@ Measure of likelihood of a state
   * Microstate are configurations for each individual particles
   * Macrostate are overall configuration of the system
 
+## Related Topics
+
+* [Gibbs free energy](Gibbs%20free%20energy.md)
+
 ## Reference
 
-* [04 - Thermodynamics](../../../00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/04%20-%20Thermodynamics.md)
+* [04 - Thermodynamics](../../../../00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/04%20-%20Thermodynamics.md)
 * [Entropy - Wikipedia](https://en.wikipedia.org/wiki/Entropy)
