@@ -94,7 +94,7 @@ share: true
 		- [[Schrodinger's Wave Equation]]
 		- [[Pauli's Exclusion Principle]]
 	- [Thermodynamics]()
-		- [Thermodynamic Variables]
+		- [Thermodynamic Variables]()
 			- [[Enthalpy]]
 			- [[Entropy]]
 			- [[Gibbs free energy]]
