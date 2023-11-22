@@ -90,7 +90,7 @@
     * [Schrodinger's Wave Equation](01%20-%20Concept/Physics/Quantum%20Mechanics/Schrodinger's%20Wave%20Equation.md)
     * [Pauli's Exclusion Principle](01%20-%20Concept/Physics/Quantum%20Mechanics/Pauli's%20Exclusion%20Principle.md)
   * [Thermodynamics]()
-    * \[Thermodynamic Variables\]
+    * [Thermodynamic Variables]()
       * [Enthalpy](01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Variables/Enthalpy.md)
       * [Entropy](01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Variables/Entropy.md)
       * [Gibbs free energy](01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Variables/Gibbs%20free%20energy.md)
