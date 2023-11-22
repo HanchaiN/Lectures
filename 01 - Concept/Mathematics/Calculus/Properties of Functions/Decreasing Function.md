@@ -17,6 +17,7 @@ Equiv. $f^{\prime}\left(x\right)<0$ (sufficient but not necessary)
 ## Related Topics
 
 - [[Increasing Function]]
+- [[Differentiation]]
 
 ## Reference
 

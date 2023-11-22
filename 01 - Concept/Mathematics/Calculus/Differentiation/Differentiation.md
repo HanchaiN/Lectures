@@ -30,6 +30,10 @@
 	- $\displaystyle\frac{d}{dx}\ln \left\lvert x\right\rvert=\frac{1}{x}$
 	- $\displaystyle\frac{d}{dx}\log_{a}x=\frac{1}{x\ln a}$
 
+## Related Topics
+
+- [[Limit]]
+
 ## Reference
 
 - [[02 - Differentiation]]

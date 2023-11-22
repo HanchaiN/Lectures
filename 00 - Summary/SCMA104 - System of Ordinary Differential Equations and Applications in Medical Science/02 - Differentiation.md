@@ -21,8 +21,8 @@ aliases:
 	- [[Convex Function]] and [[Concave Function]]
 		- [[Point of inflection]]
 	- [[Extreme Value Problem]]
-		- [[Critical point]]
-		- [[Stationary point]]
+		- [[Critical Point]]
+		- [[Stationary Point]]
 
 ## Reference
 

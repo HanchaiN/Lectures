@@ -28,46 +28,29 @@ aliases:
 	- No interaction (except elastic collision)
 	- Occupy no volume
 	- Ideal gas law: $PV=nRT=k_{B}NT$
-	- Internal Energy: $U=\frac{3}{2}k_{B}NT$ (monoatomic gas; replace to $\frac{5}{2}$ for non-stretching diatomic gas)
+	- Internal Energy: $U=\frac{3}{2}k_{B}NT$ ($C_{V}=\frac{3}{2}$ for monoatomic gas; replace to $\frac{5}{2}$ for non-stretching diatomic gas)
 		- Equipartition theorem assumes each (quadratic) degree of freedom have equal energy: $\frac{1}{2}k_{b}T$
 - Thermodynamic processes
-	- Isochoric process: $dV=0$
-		- $W=0$
-		- $Q=\Delta U=\frac{3}{2}nR\Delta T=nC_{V}\Delta T$
-	- Isobaric process: $dP=0$
-		- $W=\int P \delta V = P\Delta V=nR\Delta T$
-		- $\Delta U=\frac{3}{2}nR\Delta T$
-		- $Q=\Delta U + W = \frac{5}{2}nR\Delta T=nC_{P}\Delta T$
-		- $C_{P}=C_{V}+R$
-	- Isothermal process: $dT = 0$
-		- $\Delta U=0$
-		- $Q=W=\int P \delta V=\int \frac{nRT}{V} \delta V = nRT\ln \frac{V_{f}}{V_{i}}$
-	- Adiabatic process: $\delta Q=0$
-		- $W=\Delta U=\frac{3}{2}nR\Delta T$
-		- $PV^{\gamma}\sim\text{const.}$
-			- $\gamma=\frac{C_{P}}{C_{V}}$
+	- [[Isochoric Process]]
+	- [[Isobaric Process]]
+	- [[Isothermal Process]]
+	- [[Adiabatic Process]]
 - Heat engine
 	- Heat transferred between reservoirs (const. temp.) and work done by engine
 	- $e=\frac{W}{Q_H}$
 	- Heat pump: Reversed heat transferred and work done to pump
 		- $e=\frac{Q}{W}$ ($Q_{C}$ for cooling and $Q_{H}$ for heating)
-	- Carnot Engine: Reversible engine with two reservoirs
-		- Isothermal heat transfer (reversible)
-		- Adiabatic temperature changes (no lost)
+	- Carnot Engine: [[Reversible Process|Reversible]] engine with two reservoirs
+		- [[Isothermal Process|Isothermal]] heat transfer (reversible)
+		- [[Adiabatic Process|Adiabatic]] temperature changes (no lost)
 		- $e=1-\frac{T_{C}}{T_{H}}$
 - [[Entropy]] $S$
 	- $dS = \frac{\delta Q_\text{reversible}}{T}$
 - [[Gibbs free energy]] $G$
 - Laws of Thermodynamics
-	- 0th: heat transferred until temperature equals
-		- agrees with equipartition theorem
-	- 1st: $dU=\delta Q-\delta W$ (depends of choice of sign)
-		- agrees with conservation of energy
-	- 2nd: $dS_{universe}\ge 0$
-		- $dS_{universe} = 0$ iff. reversible process
-			- Quasistatic: System is in equilibrium with itself
-			- Reversible: System is quasistatic and in equilibrium with environment
-		- Equiv. $\delta G\le 0$
+	- [[Zeroth Law of Thermodynamics]]
+	- [[First Law of Thermodynamics]]
+	- [[Second Law of Thermodynamics]]
 
 ## Reference
 

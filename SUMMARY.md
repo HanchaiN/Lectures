@@ -53,9 +53,11 @@ share: true
 			- [[Limit at Infinity]]
 			- [[Intermediate Form]]
 			- [[Squeeze Theorem]]
-		- [[Continuity]]
+			- [[L'Hopital's rule|L'Hôpital's rule]]
 		- [[Differentiation]]
 			- [[Differentiability]]
+		- [Properties of Functions]()  
+			- [[Continuity]]
 			- [Increasing / Decreasing Function]()
 				- [[Increasing Function]]
 				- [[Decreasing Function]]
@@ -64,16 +66,21 @@ share: true
 				- [[Concave Function]]
 				- [[Point of inflection]]
 			- [[Extreme Value Problem]]
-				- [[Stationary Point]]
+				- [[Stationary Point]]  
 				- [[Critical Point]]
 		- [[Differential Equation]]
 			- [[Ordinary Differential Equation]]
 				- [[Linear Differential Equation]]
 					- [[Homogeneous Linear Differential Equation]]
-						- [[Abel's Identity]]
 					- [[Non-homogeneous Linear Differential Equation]]
-					- [[Wronskian]]
 			- [[Partial Differential Equation]]
+			- [Properties and Identities]()
+				- [[Abel's Identity]]
+				- [[Wronskian]]
+			- [Solving Techniques]()
+				- [[Variation of Parameter]]
+				- [[Integrating Factor]]
+				- [[Separation of Variable]]
 	- [[Linear Transformation]]
 - [Physics]()
 	- [Quantum Mechanics]()
@@ -87,6 +94,20 @@ share: true
 		- [[Schrodinger's Wave Equation]]
 		- [[Pauli's Exclusion Principle]]
 	- [Thermodynamics]()
+		- [Thermodynamic Variables]
+			- [[Enthalpy]]
+			- [[Entropy]]
+			- [[Gibbs free energy]]
+		- [Thermodynamic Processes]()
+			- [[Isochoric Process]]
+			- [[Isobaric Process]]
+			- [[Isothermal Process]]
+			- [[Adiabatic Process]]
+			- [[Reversible Process]]
+		- [Laws of Thermodynamics]()
+			- [[Zeroth Law of Thermodynamics]]
+			- [[First Law of Thermodynamics]]
+			- [[Second Law of Thermodynamics]]
 		- [[Enthalpy]]
 		- [[Entropy]]
 		- [[Gibbs free energy]]

@@ -16,6 +16,11 @@ Therefore, $dS_\text{univ.}\ge 0\implies dG\le 0$
 
 - Use $dS_\text{sys}$, $dH$, and $T$ to determine if $dS_{univ.}\ge0$
 
+## Related Topics
+
+- [[Entropy]]
+- [[Enthalpy]]
+
 ## Reference
 
 - [[04 - Thermodynamics]]

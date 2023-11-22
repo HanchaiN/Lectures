@@ -7,6 +7,7 @@ AKA Concave Upwards Functions
 ## Related Topics
 
 - [[Concave Function]]
+- [[Differentiation]]
 
 ## Reference
 

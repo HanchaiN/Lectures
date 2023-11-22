@@ -6,6 +6,10 @@ Measure of likelihood of a state
 	- Microstate are configurations for each individual particles  
 	- Macrostate are overall configuration of the system
 
+## Related Topics
+
+- [[Gibbs free energy]]
+
 ## Reference
 
 - [[04 - Thermodynamics]]

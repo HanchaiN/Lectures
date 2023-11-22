@@ -14,9 +14,6 @@ aliases:
 - [[Wronskian]]
 - [[Abel's Identity]]
 - Solving Techniques
-	- Separation of Variable
-		- (First-order ODE): $P(y)dy=Q(t)dt$ → $\int P(y)dy = \int Q(t)dt$
-			- Note: $P$ and/or $Q$ may be constants, multiplicative inverse, or quotients
 	- Integrating Factor
 		- Multiply both side by some factor to make it easier to integrate
 		- $y^{\prime}+p(t)y=g(t)$ (First-order LDE): $\mu(t)=e^{\int p(t) dt}$  
