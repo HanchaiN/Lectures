@@ -68,7 +68,7 @@
       * [Ordinary Differential Equation](01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Ordinary%20Differential%20Equation.md)
         * [Linear Differential Equation](01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Linear%20Differential%20Equation.md)
           * [Homogeneous Linear Differential Equation](01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Homogeneous%20Linear%20Differential%20Equation.md)
-          * [Non-homogeneous Linear Differential Equation](01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Non-homogeneous%20Linear%20Differential%20Equation.md)
+          * [Inhomogeneous Linear Differential Equation](01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Inhomogeneous%20Linear%20Differential%20Equation.md)
       * [Partial Differential Equation](01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Partial%20Differential%20Equation.md)
       * [Properties and Identities]()
         * [Abel's Identity](01%20-%20Concept/Mathematics/Calculus/Differential%20Equation/Abel's%20Identity.md)

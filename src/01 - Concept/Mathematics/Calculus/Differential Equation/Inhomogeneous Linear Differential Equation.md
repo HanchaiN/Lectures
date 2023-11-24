@@ -1,14 +1,14 @@
-# Non-homogeneous Linear Differential Equation
+# Inhomogeneous Linear Differential Equation
 
 $$
 L\left\[y\right\]=\sum\limits\_{i=0}^{n}a\_{i}(t)y^{(i)}(t)=g(t)\ne0
 $$
 
-* The general solution is $y\_{c}+y\_{p}$ where
+* General solution: $y\_{c}+y\_{p}$ where
   * Complementary function ($y\_{c}$) is the solutions of $L\[y\] = 0$ ([Homogeneous LDE](Homogeneous%20Linear%20Differential%20Equation.md)).
   * Particular integral ($y\_{p}$) is a solution of the equation.
 
-## Solving Technique
+## Solving Techniques
 
 * [Variation of Parameter](Variation%20of%20Parameter.md) (for $a\_{i}\sim\text{const.}$)
 

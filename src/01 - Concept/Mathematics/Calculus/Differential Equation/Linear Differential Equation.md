@@ -6,14 +6,14 @@ $$
 
 where $L$ is a [Linear](../../Linear%20Transformation.md) differential operator
 
-## Solving Techinque
+## Solving Techniques
 
 * [Integrating Factor](Integrating%20Factor.md) (First-order)
 
 ## Related Topics
 
 * [Homogeneous Linear Differential Equation](Homogeneous%20Linear%20Differential%20Equation.md)
-* [Non-homogeneous Linear Differential Equation](Non-homogeneous%20Linear%20Differential%20Equation.md)
+* [Inhomogeneous Linear Differential Equation](Inhomogeneous%20Linear%20Differential%20Equation.md)
 
 ## Reference
 
