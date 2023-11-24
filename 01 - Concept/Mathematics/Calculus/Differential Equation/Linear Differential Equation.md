@@ -11,14 +11,14 @@ $$
 
 where $L$ is a [[Linear Transformation|Linear]] differential operator
 
-## Solving Techinque
+## Solving Techniques
 
 - [[Integrating Factor]] (First-order)
 
 ## Related Topics
 
 - [[Homogeneous Linear Differential Equation]]
-- [[Non-homogeneous Linear Differential Equation]]
+- [[Inhomogeneous Linear Differential Equation]]
 
 ## Reference
 

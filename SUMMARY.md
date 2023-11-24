@@ -72,7 +72,7 @@ share: true
 			- [[Ordinary Differential Equation]]
 				- [[Linear Differential Equation]]
 					- [[Homogeneous Linear Differential Equation]]
-					- [[Non-homogeneous Linear Differential Equation]]
+					- [[Inhomogeneous Linear Differential Equation]]
 			- [[Partial Differential Equation]]
 			- [Properties and Identities]()
 				- [[Abel's Identity]]

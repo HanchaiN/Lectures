@@ -7,7 +7,7 @@ Functional Equation with differential
 - [[Ordinary Differential Equation]]
 	- [[Linear Differential Equation]]
 		- [[Homogeneous Linear Differential Equation]]
-		- [[Non-homogeneous Linear Differential Equation]]
+		- [[Inhomogeneous Linear Differential Equation]]
 - [[Partial Differential Equation]]
 
 ## Properties
