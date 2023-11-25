@@ -1,3 +1,8 @@
+---
+aliases:
+  - Differential
+---
+
 # Differentiation
 
 - $\displaystyle f^{\prime}(x)=\frac{d}{dx}f(x)=\lim_{h\to0}\frac{f(x+h)-f(x)}{h}$

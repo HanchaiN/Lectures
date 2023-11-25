@@ -16,6 +16,7 @@ $$
 ## Solving Techniques
 
 - [[Variation of Parameter]] (for $a_{i}\sim\text{const.}$)
+- [[Green's Function]]
 
 ## Reference
 

@@ -3,7 +3,7 @@
 (First-order)
 
 $$
-y_{i}=f_i\left(t,y_{1},\dots,y_{n}\right)
+y_{i}^{\prime}=f_i\left(t,y_{1},\dots,y_{n}\right)
 $$
 
 for $i=1,\dots,n$
