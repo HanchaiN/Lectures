@@ -4,7 +4,7 @@ $$
 L\left\[y\right\]=\sum\limits\_{i=0}^{n}a\_{i}(t)y^{(i)}(t)=g(t)
 $$
 
-where $L$ is a [Linear](../../Linear%20Transformation.md) differential operator
+where $L$ is a [Linear](../../Linear%20Transformation.md) [Differential](../Differentiation/Differentiation.md) operator
 
 ## Solving Techniques
 

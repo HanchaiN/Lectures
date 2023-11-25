@@ -3,7 +3,7 @@
 (First-order)
 
 $$
-y\_{i}=L\left\[y\_{1},\dots,y\_{n}\right\]
+y\_{i}^{\prime}=L\left\[y\_{1},\dots,y\_{n}\right\]
 $$
 
 for $i=1,\dots,n$ and $L$ is a [Linear](../../../Linear%20Transformation.md) operator

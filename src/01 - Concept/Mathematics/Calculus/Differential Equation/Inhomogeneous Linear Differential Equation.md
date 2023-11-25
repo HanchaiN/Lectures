@@ -11,6 +11,7 @@ $$
 ## Solving Techniques
 
 * [Variation of Parameter](Variation%20of%20Parameter.md) (for $a\_{i}\sim\text{const.}$)
+* [Green's Function](Green's%20Function.md)
 
 ## Reference
 
