@@ -39,7 +39,7 @@ Noted that $G$ already account for the complementary function $y_{c}$ but with t
 
 $L$ | $G\left(x;\xi\right)$ | Boundary Condition
 --- | --- | ---
-$\nabla^{2}$ | $-\frac{1}{4\pi\left\lvert x-\xi\right\rvert}$ | $\lim\limits_{\left\lvert x-\xi\right\rvert\to\infty}G\left(x;\xi\right)=0$
+$\nabla_\text{3D}^{2}$ | $-\frac{1}{4\pi\left\lvert x-\xi\right\rvert}$ | $\lim\limits_{\left\lvert x\right\rvert\to\infty}G\left(x;\xi\right)=0$
 
 ## Related Topics
 
