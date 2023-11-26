@@ -6,6 +6,24 @@ $$
 
 where $L$ is a [Linear](../../Linear%20Transformation.md) [Differential](../Differentiation/Differentiation.md) operator
 
+Equivalent to first-order [System of Linear Differential Equations](System%20of%20Differential%20Equation/System%20of%20Linear%20Differential%20Equations.md):
+
+$$
+\\mathbf{y}^{\prime}=
+\\begin{bmatrix}
+\\mathbf{0}, & \mathbf{I}*{n-1}; \newline
+\\frac{a*{0}}{a\_{n}}, & \frac{a\_{i}}{a\_{n}}; \newline
+\\end{bmatrix}
+\\mathbf{y}
+
+* 
+
+\\begin{bmatrix}
+\\mathbf{0}; \newline
+\\frac{g}{a\_{n}}; \newline
+\\end{bmatrix}
+$$
+
 ## Solving Techniques
 
 * [Integrating Factor](Integrating%20Factor.md) (First-order)
