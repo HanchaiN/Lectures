@@ -19,5 +19,5 @@ $$
 
 ## Reference
 
-- [[04 - Thermodynamics]]
+- [[00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics]]
 - [Heat capacity ratio - Wikipedia](https://en.wikipedia.org/wiki/Heat_capacity_ratio)

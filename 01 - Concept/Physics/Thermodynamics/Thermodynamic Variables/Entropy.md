@@ -12,5 +12,5 @@ Measure of likelihood of a state
 
 ## Reference
 
-- [[04 - Thermodynamics]]
+- [[00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics]]
 - [Entropy - Wikipedia](https://en.wikipedia.org/wiki/Entropy)

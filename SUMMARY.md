@@ -7,6 +7,7 @@
 		- [[01A - Introduction to Quantum Mechanics]]
 	- [[02 - Chemical Bonding]]
 	- [Halted]()
+	- [[00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics|04 - Thermodynamics]]
 - [SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science]()
 	- [[01 - Limit and Continuity]]
 	- [[02 - Differentiation]]
@@ -17,7 +18,7 @@
 	- [[01 - Kinematic]]
 	- [[02 - Motion of Rigid Body]]
 	- [[03 - Elasticity]]
-	- [[04 - Thermodynamics]]
+	- [[00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics|04 - Thermodynamics]]
 	- [Halted]()
 
 # Concept
