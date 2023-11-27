@@ -7,6 +7,7 @@
     * [01A - Introduction to Quantum Mechanics](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01A%20-%20Introduction%20to%20Quantum%20Mechanics.md)
   * [02 - Chemical Bonding](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/02%20-%20Chemical%20Bonding.md)
   * [Halted]()
+  * [04 - Thermodynamics](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/04%20-%20Thermodynamics.md)
 * [SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science]()
   * [01 - Limit and Continuity](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/01%20-%20Limit%20and%20Continuity.md)
   * [02 - Differentiation](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/02%20-%20Differentiation.md)
