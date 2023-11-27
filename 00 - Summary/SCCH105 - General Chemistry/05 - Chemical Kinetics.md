@@ -19,7 +19,7 @@ aliases:
 - Rate-determining step: slowest step (highest $E_{a}$)
 - Catalyst lower $E_{a}$
 	- Homogeneous catalyst: same phase as mixture
-	- Lock-and-key model: fixed active site matches the substrates
+	- Lock-and-key model: fixed active site matches the substratesgreat27jan05
 	- Induced-fit model: active site change shape to bind more effectively
 
 ## References

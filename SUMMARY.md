@@ -6,9 +6,11 @@
 	- [[01 - Atomic Structure and Atomic Theory]]
 		- [[01A - Introduction to Quantum Mechanics]]
 	- [[02 - Chemical Bonding]]
-	- [Halted]()
+	- [03 - The Properties of Matters and Solutions]()
 	- [[00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics|04 - Thermodynamics]]
 	- [[05 - Chemical Kinetics]]
+	- [06 - Chemical Equilibrium]()
+	- [07 - Ionic Equilibrium]()
 - [SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science]()
 	- [[01 - Limit and Continuity]]
 	- [[02 - Differentiation]]
