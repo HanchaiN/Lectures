@@ -8,6 +8,7 @@
 	- [[02 - Chemical Bonding]]
 	- [Halted]()
 	- [[00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics|04 - Thermodynamics]]
+	- [[05 - Chemical Kinetics]]
 - [SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science]()
 	- [[01 - Limit and Continuity]]
 	- [[02 - Differentiation]]
