@@ -10,6 +10,8 @@ for $i=1,\dots,n$ and $L$ is a [[Linear Transformation|Linear]] operator
 
 Alternatively, $\mathbf{y}^{\prime}=\mathbf{A}\mathbf{y}+\mathbf{b}$.
 
+The equations can be reduced into sets of independent [[Linear Differential Equation]] and the solutions of one will correspond to solutions of the other.
+
 ## Related Topics
 
 - [[Linear Differential Equation]]
