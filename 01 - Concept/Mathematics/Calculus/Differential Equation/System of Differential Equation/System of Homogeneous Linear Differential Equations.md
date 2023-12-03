@@ -11,10 +11,12 @@ $$
 - Trivial solution: $\mathbf{y}=\mathbf{0}$
 - w/ constant coefficient $\mathbf{A}\sim\text{const.}$
 	- Solve for eigenvalues and eigenvectors $\lambda_{i}$ and $\mathbf{v}_{i}$.
-	- For each eigenvalue-eigenvector pairs $\lambda_{i}$ and $\mathbf{v}_{i}$, the basis is $\mathbf{v}_{i}e^{\lambda_{i}t}$.
-	- (In case of $A_{2\times2}$) For each pair with multiplicity of $2$, the second basis is $\mathbf{v}_{i}te^{\lambda_{i}t}+\mathbf{\eta} e^{\lambda_{i}t}$ where $(\lambda\mathbf{I}-\mathbf{A})\mathbf{\eta}=-\mathbf{v}_{i}$.
-	- For each eigenvalue with multiplicity $k$, the associated bases solution are $\mathbf{\eta}_{i} t^{i}e^{\lambda t}$ for $i=0,\dots,k-1$. (solve for $\mathbf{\eta}_{i}$)
+	- For each eigenvalue-eigenvector pairs $\lambda$ and $\mathbf{v}$, the basis is $\mathbf{v}e^{\lambda t}$.
+	- For each pair with multiplicity of $2$, the second basis is $\mathbf{v}te^{\lambda t}+\mathbf{\eta} e^{\lambda t}$ where $(\mathbf{A}-\lambda\mathbf{I})\mathbf{\eta}=\mathbf{v}$.
+	- For each eigenvalue with multiplicity $k$, the associated bases solution are $\sum\limits_{i}\mathbf{\eta}_{i} t^{i}e^{\lambda t}$ for $i=0,\dots,k-1$. (solve for $\mathbf{\eta}_{i}$)
 		- If the eigenvectors are unique, the coefficients $\mathbf{\eta}_{i}$ are the eigenvectors.
+		- $\mathbf{\eta}_{k}\coloneqq\mathbf{0}$
+		- $\left(\mathbf{A}-\lambda\mathbf{I}\right)\mathbf{\eta}_{i}=\left(i+1\right)\mathbf{\eta}_{i+1}$
 	- Equivalent to $\mathbf{y}=\mathbf{y}(0) e^{\mathbf{A}t}$
 
 ## Behaviors
