@@ -49,7 +49,7 @@ $$
 
 $$
 \begin{align*}
-\mathbf{y}&=\mathbf{\Psi}\mathbf{c}\newline
+\mathbf{y}&=\mathbf{\Phi}\mathbf{c}\newline
 \mathbf{y}^{\prime}&=\mathbf{\Phi}^{\prime}\mathbf{c}+\mathbf{\Phi}\mathbf{c}^{\prime}\newline
 \mathbf{y}^{\prime}&=\mathbf{A}\mathbf{y}+\mathbf{b}\newline
 \mathbf{\Phi}^{\prime}\mathbf{c}+\mathbf{\Phi}\mathbf{c}^{\prime}&=\mathbf{A}\mathbf{\Phi}\mathbf{c}+\mathbf{b}\newline
