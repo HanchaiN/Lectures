@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "c8c6f28f4cd3082d",
   "lastOpenFiles": [
+    "00 - Summary/SCCH105 - General Chemistry/01A - Introduction to Quantum Mechanics.md",
+    "SUMMARY.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Homogeneous Linear Differential Equations.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Integrating Factor.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Partial Differential Equation.md",
@@ -170,7 +172,6 @@
     "00 - Summary/SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science/05 - System of Differential Equations.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Linear Differential Equation.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Ordinary Differential Equation.md",
-    "SUMMARY.md",
     "00 - Summary/SCCH105 - General Chemistry/05 - Chemical Kinetics.md",
     "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
     "00 - Summary/SCCH105 - General Chemistry/Untitled.md",
@@ -184,7 +185,6 @@
     "01 - Concept/Mathematics/Calculus/Differentiation/Differentiability.md",
     "Template",
     "00 - Summary/SCPY142 - Physics for Medical Students/03 - Elasticity.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Wronskian.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation",
     "src/01 - Concept/Physics/Thermodynamics/Thermodynamic Processes",
     "src/01 - Concept/Physics/Thermodynamics/Laws of Thermodynamics",
