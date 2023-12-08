@@ -27,7 +27,7 @@
 	- [07 - Optics]()
 	- [08 - Electric Force and Field]()
 	- [09 - Magnetism and Magnetic Field]()
-	- [10 - Modern Physics]
+	- [10 - Modern Physics]()
 
 # Concept
 
@@ -61,7 +61,7 @@
 			- [[L'Hopital's rule|L'Hôpital's rule]]
 		- [[Differentiation]]
 			- [[Differentiability]]
-		- [Properties of Functions]()  
+		- [Properties of Functions]()
 			- [[Continuity]]
 			- [Increasing / Decreasing Function]()
 				- [[Increasing Function]]
@@ -71,7 +71,7 @@
 				- [[Concave Function]]
 				- [[Point of inflection]]
 			- [[Extreme Value Problem]]
-				- [[Stationary Point]]  
+				- [[Stationary Point]]
 				- [[Critical Point]]
 		- [[Differential Equation]]
 			- [[Ordinary Differential Equation]]
