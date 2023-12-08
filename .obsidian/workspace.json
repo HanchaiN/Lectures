@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eae717783323b12c",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md"
+                "file": "SUMMARY.md"
               }
             }
           },
@@ -172,8 +171,8 @@
   },
   "active": "d6c714d8331b64cd",
   "lastOpenFiles": [
-    "00 - Summary/SCPY142 - Physics for Medical Students/01 - Kinematic.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/01 - Kinematic.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics.md",
     "SUMMARY.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/02 - Motion of Rigid Body.md",
