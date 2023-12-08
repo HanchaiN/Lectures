@@ -5,8 +5,9 @@
   * Strain (Young: $\varepsilon=\frac{\Delta L}{L_0}$)
   * Modulus (Young: $Y=\frac{kL_0}{A}$)
   * Elastic region: Constant Modulus: Hooke's law ($F=k\Delta L$)
-* Bending Moments
-  * Consider simple system ($F/2$ @ $x=-L/2$, $-F$ @ $x=0$, $F/2$ @ $x=+L/2$)
+* Bending Moments  
+  ![Beam\_bending\_moment\_plain.svg](https://upload.wikimedia.org/wikipedia/commons/e/e5/Beam_bending_moment_plain.svg)
+  * Consider simple system ($F/2$ @ $x\_{O}=-L/2$, $-F$ @ $x\_{A}=0$, $F/2$ @ $x\_{B}=+L/2$)
   * Internal Torque
     * Consider part of object (assume $x>0$)
       * Total torque should be the same w/ or w/o splitting
@@ -26,3 +27,4 @@
 ## Reference
 
 * Handout SCPY142
+* [Bending moment - Wikipedia](https://en.wikipedia.org/wiki/Bending_moment)
