@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6c714d8331b64cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md"
               }
             }
           },
@@ -157,11 +170,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "c8c6f28f4cd3082d",
+  "active": "d6c714d8331b64cd",
   "lastOpenFiles": [
+    "00 - Summary/SCPY142 - Physics for Medical Students/01 - Kinematic.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics.md",
+    "SUMMARY.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/02 - Motion of Rigid Body.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/03 - Elasticity.md",
+    "00 - Summary/SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science/02 - Differentiation.md",
     "00 - Summary/SCCH105 - General Chemistry/07 - Ionic Equilibrium.md",
     "00 - Summary/SCCH105 - General Chemistry/Untitled.md",
-    "SUMMARY.md",
     "00 - Summary/SCCH105 - General Chemistry/06 - Chemical Equilibrium.md",
     "00 - Summary/SCCH105 - General Chemistry/05 - Chemical Kinetics.md",
     "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
@@ -179,12 +198,6 @@
     "00 - Summary/SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science/05 - System of Differential Equations.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Linear Differential Equation.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Ordinary Differential Equation.md",
-    "00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics.md",
-    "Template/Entry.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Green's Function.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Differential Equation.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Inhomogeneous Linear Differential Equation.md",
-    "01 - Concept/Mathematics/Calculus/Differentiation/Differentiation.md",
     "Template",
     "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation",
     "src/01 - Concept/Physics/Thermodynamics/Thermodynamic Processes",
