@@ -1,4 +1,4 @@
-# 05 - Chemical Kinetics
+# Chemical Kinetics
 
 * Reaction Rate: $r\_{A}=\frac{d\left\[A\right\]}{dt}$
   * Reaction Order: $r\propto \left\[A\right\]^{n}$
