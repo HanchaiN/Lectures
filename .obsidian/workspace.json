@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "af40e52879d2c832",
+    "type": "split",
+    "children": [
+      {
+        "id": "c47150e7a0aa252b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8c6f28f4cd3082d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUMMARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e90274d8e5481c42",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ecd690ad0f254a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4edc4d65c3846c5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42db36a35d59ccbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b8c6c9ae255aeaf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eae717783323b12c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d32b31839289e4a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2a33d548b1b5279",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SUMMARY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29ec5a0e5c6d4dec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SUMMARY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f48ad81a56fe02f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "195e3b59dfa36b52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SUMMARY.md"
+              }
+            }
+          },
+          {
+            "id": "050bf8dfded18ccc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "c8c6f28f4cd3082d",
+  "lastOpenFiles": [
+    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Homogeneous Linear Differential Equations.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Integrating Factor.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Partial Differential Equation.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Separation of Variable.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Variation of Parameter.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Linear Differential Equations.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Inhomogeneous Linear Differential Equations.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Homogeneous Linear Differential Equation.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Ordinary Differential Equations.md",
+    "00 - Summary/SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science/05 - System of Differential Equations.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Linear Differential Equation.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Ordinary Differential Equation.md",
+    "SUMMARY.md",
+    "00 - Summary/SCCH105 - General Chemistry/05 - Chemical Kinetics.md",
+    "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
+    "00 - Summary/SCCH105 - General Chemistry/Untitled.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics.md",
+    "00 - Summary/SCCH105 - General Chemistry/02 - Chemical Bonding.md",
+    "Template/Entry.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Green's Function.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Differential Equation.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Inhomogeneous Linear Differential Equation.md",
+    "01 - Concept/Mathematics/Calculus/Differentiation/Differentiation.md",
+    "01 - Concept/Mathematics/Calculus/Differentiation/Differentiability.md",
+    "Template",
+    "00 - Summary/SCPY142 - Physics for Medical Students/03 - Elasticity.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Wronskian.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation",
+    "src/01 - Concept/Physics/Thermodynamics/Thermodynamic Processes",
+    "src/01 - Concept/Physics/Thermodynamics/Laws of Thermodynamics",
+    "src/01 - Concept/Physics/Thermodynamics/Thermodynamic Variables",
+    "src/01 - Concept/Mathematics/Calculus/Properties of Functions",
+    "src/01 - Concept/Mathematics/Calculus/Limits",
+    "src/01 - Concept/Mathematics/Calculus/Differentiation",
+    "theme/fonts/source-code-pro-v11-all-charsets-500.woff2",
+    "theme/fonts/SOURCE-CODE-PRO-LICENSE.txt",
+    "theme/favicon.svg",
+    "theme/favicon.png",
+    "Untitled.canvas"
+  ]
+}

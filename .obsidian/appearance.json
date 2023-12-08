@@ -4,7 +4,7 @@
   "cssTheme": "Catppuccin",
   "nativeMenus": false,
   "translucency": true,
-  "monospaceFontFamily": "SF Mono",
-  "textFontFamily": "SF Pro Text",
-  "interfaceFontFamily": "SF Pro Display"
+  "monospaceFontFamily": "SF Mono,Monaspace Neon Var,Monaco,Source Code Pro",
+  "textFontFamily": "SF Pro Text,Inter",
+  "interfaceFontFamily": "SF Pro Display,Inter"
 }
