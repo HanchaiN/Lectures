@@ -22,15 +22,13 @@ jobs:
       - name: Install latest Obsidian Export
         run: |
           tag=$(curl 'https://api.github.com/repos/zoni/obsidian-export/releases/latest' | jq -r '.tag_name')
-          url="https://github.com/zoni/obsidian-export/releases/download/${tag}/obsidian-export_Linux-x86_64.bin"
-          mkdir bin
-          curl -Lo bin/obsidian-export $url
-          chmod +x bin/obsidian-export
+          url="https://github.com/zoni/obsidian-export/releases/download/${tag}/obsidian-export-installer.sh"
+          curl --proto '=https' --tlsv1.2 -LsSf $url | sh
       - name: Export vault
         run: |
           rm -rf docs/src
           mkdir docs/src
-          ./bin/obsidian-export --frontmatter never ./vault docs/src
+          obsidian-export --frontmatter never ./vault docs/src
           cd docs
           git add src
           git config user.name "GitHub Actions"
