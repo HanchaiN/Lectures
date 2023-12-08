@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "00 - Summary/SCCH105 - General Chemistry/07 - Ionic Equilibrium.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eae717783323b12c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "00 - Summary/SCCH105 - General Chemistry/07 - Ionic Equilibrium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "00 - Summary/SCCH105 - General Chemistry/07 - Ionic Equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "00 - Summary/SCCH105 - General Chemistry/07 - Ionic Equilibrium.md"
               }
             }
           },
@@ -158,11 +159,14 @@
   },
   "active": "c8c6f28f4cd3082d",
   "lastOpenFiles": [
-    "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
+    "00 - Summary/SCCH105 - General Chemistry/Untitled.md",
+    "00 - Summary/SCCH105 - General Chemistry/07 - Ionic Equilibrium.md",
+    "SUMMARY.md",
+    "00 - Summary/SCCH105 - General Chemistry/06 - Chemical Equilibrium.md",
     "00 - Summary/SCCH105 - General Chemistry/05 - Chemical Kinetics.md",
+    "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
     "00 - Summary/SCCH105 - General Chemistry/02 - Chemical Bonding.md",
     "00 - Summary/SCCH105 - General Chemistry/01A - Introduction to Quantum Mechanics.md",
-    "SUMMARY.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Homogeneous Linear Differential Equations.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Integrating Factor.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Partial Differential Equation.md",
@@ -175,16 +179,13 @@
     "00 - Summary/SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science/05 - System of Differential Equations.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Linear Differential Equation.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Ordinary Differential Equation.md",
-    "00 - Summary/SCCH105 - General Chemistry/Untitled.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics.md",
     "Template/Entry.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Green's Function.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Differential Equation.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Inhomogeneous Linear Differential Equation.md",
     "01 - Concept/Mathematics/Calculus/Differentiation/Differentiation.md",
-    "01 - Concept/Mathematics/Calculus/Differentiation/Differentiability.md",
     "Template",
-    "00 - Summary/SCPY142 - Physics for Medical Students/03 - Elasticity.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation",
     "src/01 - Concept/Physics/Thermodynamics/Thermodynamic Processes",
     "src/01 - Concept/Physics/Thermodynamics/Laws of Thermodynamics",
