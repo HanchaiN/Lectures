@@ -3,7 +3,7 @@ aliases:
   - Chemical Kinetics
 ---
 
-# 05 - Chemical Kinetics
+# Chemical Kinetics
 
 - Reaction Rate: $r_{A}=\frac{d\left[A\right]}{dt}$
 	- Reaction Order: $r\propto \left[A\right]^{n}$

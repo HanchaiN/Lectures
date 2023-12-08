@@ -3,12 +3,12 @@ aliases:
   - Thermodynamics
 ---
 
-# 04 - Thermodynamics
+# Thermodynamics
 
 - [[Enthalpy]]
-	- Standard Temperature and Pressure: 1 atm, 25 degree Celsius
+	- Standard Temperature and Pressure: $1\;\text{atm}$, $25\degree\text{C}$
 	- Path-independent
-	- Elements at most stable form have standard enthalpy 0 J
+	- Elements at most stable form have standard enthalpy $0\;\text{J}$ @STP
 - [[Entropy]]
 - [[Gibbs free energy]]
 - Laws of Thermodynamics
