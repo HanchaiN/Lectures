@@ -28,7 +28,7 @@ aliases:
 	- Partial bonds formed and will be broken, changing the molecules
 - Arrhenius equation: $k=Ae^{\frac{-E_{a}}{RT}}\iff\ln k=\ln A - \frac{E_{a}}{R}\frac{1}{T}$
 - Rate-determining step: slowest step (highest $E_{a}$), apply for non-elementary reaction
-- Catalyst: lower $E_{a}$, doesn’t affect $\Delta H$
+- Catalyst: lower $E_{a}$, doesn't affect $\Delta H$
 	- Homogeneous catalyst: same phase as mixture
 	- Lock-and-key model: fixed active site matches the substrates
 	- Induced-fit model: active site change shape to bind more effectively

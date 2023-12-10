@@ -11,8 +11,12 @@
             "id": "8f82848ae57a980c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/10 - Modern Physics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eae717783323b12c",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/10 - Modern Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/10 - Modern Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/10 - Modern Physics.md"
               }
             }
           },
@@ -150,8 +157,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "4edc4d65c3846c5b",
+  "active": "8f82848ae57a980c",
   "lastOpenFiles": [
+    "SUMMARY.md",
     "Untitled.canvas",
     "00 - Summary/SCPY142 - Physics for Medical Students/10 - Modern Physics.md",
     "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Photoelectric Effect.md",
@@ -164,7 +172,6 @@
     "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Bohr Model.md",
     "01 - Concept/Physics/Quantum Mechanics/De Broglie Wavelength.md",
     "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Ultraviolet Catastrophe.md",
-    "SUMMARY.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/09 - Magnetism and Magnetic Field.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/08 - Electric Force and Field.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
