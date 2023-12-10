@@ -25,9 +25,9 @@
   * [05 - Fluids]()
   * [06 - Wave and Sound](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/06%20-%20Wave%20and%20Sound.md)
   * [07 - Optics](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/07%20-%20Optics.md)
-  * [08 - Electric Force and Field]()
-  * [09 - Magnetism and Magnetic Field]()
-  * [10 - Modern Physics]()
+  * [08 - Electric Force and Field](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/08%20-%20Electric%20Force%20and%20Field.md)
+  * [09 - Magnetism and Magnetic Field](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/09%20-%20Magnetism%20and%20Magnetic%20Field.md)
+  * [10 - Modern Physics](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/10%20-%20Modern%20Physics.md)
 
 # Concept
 
