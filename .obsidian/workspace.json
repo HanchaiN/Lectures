@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "914aa60f6aa9a6a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md"
               }
             }
           },
@@ -169,12 +181,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "d6c714d8331b64cd",
+  "active": "914aa60f6aa9a6a9",
   "lastOpenFiles": [
     "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
-    "00 - Summary/SCPY142 - Physics for Medical Students/01 - Kinematic.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics.md",
     "SUMMARY.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/01 - Kinematic.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/02 - Motion of Rigid Body.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/03 - Elasticity.md",
     "00 - Summary/SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science/02 - Differentiation.md",
@@ -196,7 +209,6 @@
     "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Ordinary Differential Equations.md",
     "00 - Summary/SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science/05 - System of Differential Equations.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/Linear Differential Equation.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Ordinary Differential Equation.md",
     "Template",
     "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation",
     "src/01 - Concept/Physics/Thermodynamics/Thermodynamic Processes",
