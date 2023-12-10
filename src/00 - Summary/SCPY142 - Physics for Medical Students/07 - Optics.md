@@ -5,7 +5,7 @@
   * Reflection $\theta\_{i}=\theta\_{r}$
   * Refraction $n\_{i}\sin\theta\_{i}=n\_{r}\sin\theta\_{r}$
     * $n=\frac{c}{v}$
-      * $c=3\times10^{8};\text{m};\text{s}^{-1}$: speed of light in vacuum
+      * $c=3\times10^{8}\text{ m}\text{ s}^{-1}$: speed of light in vacuum
       * $v$: speed of light in medium (phase velocity; can be more than $c$)
     * Critical angle: $n\_{i}\sin\theta\_{c}=n\_{r}\sin90\degree$
       * If $\theta\_{i}>\theta\_{c}$ then there's no valid $\theta\_{r}$ and hence, total internal reflection.
@@ -20,8 +20,8 @@
       * Through lens center
     * $\frac{1}{s} + \frac{1}{s^{\prime}} = \frac{1}{f}$
       * $s$ is positive in front of device
-      * $s^{\prime}$ is positive for real image
-      * $f$ is positive for real focus
+      * $s^{\prime}$ is positive for real image (front for mirror, back for lens)
+      * $f$ is positive for real focus (front for mirror, back for lens)
     * $m = \frac{h\_{i}}{h\_{o}} = \pm\frac{s^{\prime}}{s}$
       * $m$ is positive for upright image
       * $\pm\frac{s^{\prime}}{s}$ is negated for lens
@@ -29,8 +29,8 @@
       * Image → (virtual) object
       * $m=\prod m\_{i}$
     * Human eyes
-      * Normal: $25;\text{cm}\<s\<\\infty$
-      * $25;\text{cm}$: near point
+      * Normal: $25\text{ cm}\<s\<\\infty$
+      * $25\text{ cm}$: near point
 
 ## Reference
 
