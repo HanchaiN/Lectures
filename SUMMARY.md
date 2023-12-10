@@ -25,9 +25,9 @@
 	- [05 - Fluids]()
 	- [[06 - Wave and Sound]]
 	- [[07 - Optics]]
-	- [08 - Electric Force and Field]()
-	- [09 - Magnetism and Magnetic Field]()
-	- [10 - Modern Physics]()
+	- [[08 - Electric Force and Field]]
+	- [[09 - Magnetism and Magnetic Field]]
+	- [[10 - Modern Physics]]
 
 # Concept
 

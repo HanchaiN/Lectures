@@ -4,47 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c47150e7a0aa252b",
+        "id": "6905d2f4d202e367",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c6f28f4cd3082d",
+            "id": "cad5cf2f652f18dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
           {
-            "id": "d6c714d8331b64cd",
+            "id": "b77d254b7d83916d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "914aa60f6aa9a6a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
+                "file": "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Photoelectric Effect.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eae717783323b12c",
@@ -110,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -181,12 +172,26 @@
       "templates:Insert template": false
     }
   },
-  "active": "914aa60f6aa9a6a9",
+  "active": "cad5cf2f652f18dc",
   "lastOpenFiles": [
-    "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
-    "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
-    "00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/10 - Modern Physics.md",
+    "Untitled.canvas",
+    "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Photoelectric Effect.md",
+    "00 - Summary/SCCH105 - General Chemistry/01 - Atomic Structure and Atomic Theory.md",
+    "01 - Concept/Chemistry/Atomic Theory/Property of Element/Property of Element.md",
+    "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
+    "00 - Summary/SCCH105 - General Chemistry/02 - Chemical Bonding.md",
+    "00 - Summary/SCCH105 - General Chemistry/01A - Introduction to Quantum Mechanics.md",
+    "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Double-Slit Experiment.md",
+    "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Bohr Model.md",
+    "01 - Concept/Physics/Quantum Mechanics/De Broglie Wavelength.md",
+    "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Ultraviolet Catastrophe.md",
     "SUMMARY.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/09 - Magnetism and Magnetic Field.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/08 - Electric Force and Field.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/01 - Kinematic.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/02 - Motion of Rigid Body.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/03 - Elasticity.md",
@@ -195,20 +200,6 @@
     "00 - Summary/SCCH105 - General Chemistry/Untitled.md",
     "00 - Summary/SCCH105 - General Chemistry/06 - Chemical Equilibrium.md",
     "00 - Summary/SCCH105 - General Chemistry/05 - Chemical Kinetics.md",
-    "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
-    "00 - Summary/SCCH105 - General Chemistry/02 - Chemical Bonding.md",
-    "00 - Summary/SCCH105 - General Chemistry/01A - Introduction to Quantum Mechanics.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Homogeneous Linear Differential Equations.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Integrating Factor.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Partial Differential Equation.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Separation of Variable.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Variation of Parameter.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Linear Differential Equations.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Inhomogeneous Linear Differential Equations.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Homogeneous Linear Differential Equation.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Ordinary Differential Equations.md",
-    "00 - Summary/SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science/05 - System of Differential Equations.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Linear Differential Equation.md",
     "Template",
     "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation",
     "src/01 - Concept/Physics/Thermodynamics/Thermodynamic Processes",
@@ -220,7 +211,6 @@
     "theme/fonts/source-code-pro-v11-all-charsets-500.woff2",
     "theme/fonts/SOURCE-CODE-PRO-LICENSE.txt",
     "theme/favicon.svg",
-    "theme/favicon.png",
-    "Untitled.canvas"
+    "theme/favicon.png"
   ]
 }

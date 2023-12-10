@@ -10,3 +10,4 @@
 ## Reference
 
 - [[01A - Introduction to Quantum Mechanics]]
+- [[10 - Modern Physics]]

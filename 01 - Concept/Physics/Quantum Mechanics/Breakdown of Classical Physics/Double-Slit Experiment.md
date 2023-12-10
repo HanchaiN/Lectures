@@ -9,4 +9,5 @@
 ## Reference
 
 - [[01A - Introduction to Quantum Mechanics]]
+- [[10 - Modern Physics]]
 - [Easy Quantum Mechanics - YouTube](https://youtu.be/7u_UQG1La1o)
