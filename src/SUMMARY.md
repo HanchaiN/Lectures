@@ -24,7 +24,7 @@
   * [04 - Thermodynamics](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/04%20-%20Thermodynamics.md)
   * [05 - Fluids]()
   * [06 - Wave and Sound](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/06%20-%20Wave%20and%20Sound.md)
-  * [07 - Optics]()
+  * [07 - Optics](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/07%20-%20Optics.md)
   * [08 - Electric Force and Field]()
   * [09 - Magnetism and Magnetic Field]()
   * [10 - Modern Physics]()
