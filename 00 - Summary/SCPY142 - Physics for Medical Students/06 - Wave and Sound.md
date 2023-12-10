@@ -29,15 +29,15 @@ aliases:
 			- Similar solution can be found in higher dimension.
 - Wave on string (Transversal)
 	- $\displaystyle c=\sqrt{\frac{F}{\mu}}$ ($F$ is tension and $\mu$ is linear density)
-	- Power $P=\frac{1}{2}\mu\omega^{2}A^{2}c$
+	- Power $P=\frac{E}{t}=\frac{1}{2}\mu\omega^{2}A^{2}c$
 		- Kinetic Energy
 			- $K=\frac{1}{2}mv^{2}$
 			- $dK=\frac{1}{2}v^{2}dm=\frac{1}{2}\left(y^{\prime}\right)^{2}\mu dx$
-			- $K_{\lambda}=\frac{1}{4}\mu\omega^{2}A^{2}\lambda$
+			- $K_{\lambda}=\int_{0}^{\lambda}dK=\frac{1}{4}\mu\omega^{2}A^{2}\lambda$
 		- Potential Energy
 			- $U=\frac{1}{2}ky^{2}$ (where $F=-ky=ma_{y}$)
-			- $dU=\frac{1}{2}y^{2}\frac{-a_{y}}{y}dm=\frac{1}{2}y^{2}\omega^{2}\mu dx$
-			- $U_{\lambda}=\frac{1}{4}\mu\omega^{2}A^{2}\lambda$
+			- $dU=\frac{1}{2}\frac{-a_{y}}{y}y^{2}dm=\frac{1}{2}y^{2}\omega^{2}\mu dx$
+			- $U_{\lambda}=\int_{0}^{\lambda}dU=\frac{1}{4}\mu\omega^{2}A^{2}\lambda$
 		- Total Energy $E_{\lambda}=\frac{1}{2}\mu\omega^{2}A^{2}\lambda$
 			- Total per length $\lambda$
 			- Total per time $T$
@@ -46,19 +46,20 @@ aliases:
 	- Intensity $I=\frac{P}{A}$ ($A$ is area)
 		- For point source, spherical surface $A=4\pi r^{2}$
 	- Intensity level $\beta=10 \log\frac{I}{I_{0}}$
-		- $I_{0}=10^{-12}\;\text{W}\;\text{m}^{-2}$ (minimum for human hearing)
+		- $I_{0}=10^{-12}\text{ W}\text{ m}^{-2}$ (minimum for human hearing)
 		- Unit *deci*bel (hence the factor of $10$)
-	- Hearing range: $20\;\text{Hz}$ to $20000\;\text{Hz}$
+	- Hearing range: $20\text{ Hz}$ to $20000\text{ Hz}$
 		- Ultrasonic / Infrasonic
 	- Application: Ultrasound
-		- Medical Analysis @ $<1\;\text{KW}\;\text{m}^{-2}$
-		- Generate Internal Heat @ $10-100\;\text{KW}\;\text{m}^{-2}$
-		- Surgery (break kidney stones / structures) @ $1-40\;\text{MW}\;\text{m}^{-2}$
+		- Medical Analysis @ $<1\text{ KW}\text{ m}^{-2}$
+		- Generate Internal Heat @ $10-100\text{ KW}\text{ m}^{-2}$
+		- Surgery (break kidney stones / structures) @ $1-40\text{ MW}\text{ m}^{-2}$
 		- Not ionize, Not destroy molecular bonds, Not damage muscle
 		- Prefer: Wavelength < Object size
 		- Low penetration ($\approx 200\lambda$)
 	- Doppler: change in perceived frequency due to relative motion
 		- $\displaystyle f=f_{0}\frac{v_\text{sound} \pm v_\text{observer}}{v_\text{sound} \pm v_\text{source}}$ (Noted the signature)
+			- Move towards each other, increasing $f$.
 
 ## Reference
 

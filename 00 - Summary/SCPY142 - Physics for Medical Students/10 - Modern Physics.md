@@ -15,7 +15,7 @@ aliases:
 - Quantum Mechanics
 	- [[Photoelectric Effect]]
 		- [[Ultraviolet Catastrophe|Quantization of Photon]]
-		- $1\;\text{eV}=e\cdot1\;\text{V}$
+		- $1\text{ eV}=e\cdot1\text{ V}$
 	- [[Bohr Model|Quantization of Energy]]
 	- [[De Broglie Wavelength]]
 	- [[Double-Slit Experiment]]
