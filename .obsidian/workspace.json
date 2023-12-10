@@ -4,34 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6905d2f4d202e367",
+        "id": "c875e237e87da86e",
         "type": "tabs",
         "children": [
           {
-            "id": "cad5cf2f652f18dc",
+            "id": "8f82848ae57a980c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "b77d254b7d83916d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Photoelectric Effect.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eae717783323b12c",
@@ -101,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +150,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "cad5cf2f652f18dc",
+  "active": "4edc4d65c3846c5b",
   "lastOpenFiles": [
-    "00 - Summary/SCPY142 - Physics for Medical Students/10 - Modern Physics.md",
     "Untitled.canvas",
+    "00 - Summary/SCPY142 - Physics for Medical Students/10 - Modern Physics.md",
     "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Photoelectric Effect.md",
     "00 - Summary/SCCH105 - General Chemistry/01 - Atomic Structure and Atomic Theory.md",
     "01 - Concept/Chemistry/Atomic Theory/Property of Element/Property of Element.md",
