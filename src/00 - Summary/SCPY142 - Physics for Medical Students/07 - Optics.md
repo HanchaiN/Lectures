@@ -21,11 +21,10 @@
       * Through lens center
     * $\frac{1}{s} + \frac{1}{s^{\prime}} = \frac{1}{f}$
       * $s$ is positive in front of device
-      * $s^{\prime}$ is positive for real image (front for mirror, back for lens)
-      * $f$ is positive for real focus (front for mirror, back for lens)
-    * $m = \frac{h\_{i}}{h\_{o}} = \pm\frac{s^{\prime}}{s}$
+      * $s^{\prime}$ is positive for real image (front of mirror, back of lens)
+      * $f$ is positive for real focus (front of mirror, back of lens)
+    * $m = \frac{h\_{i}}{h\_{o}} = -\frac{s^{\prime}}{s}$
       * $m$ is positive for upright image
-      * $\pm\frac{s^{\prime}}{s}$ is negated for lens
     * Composite lens
       * Image → (virtual) object
       * $m=\prod m\_{i}$
