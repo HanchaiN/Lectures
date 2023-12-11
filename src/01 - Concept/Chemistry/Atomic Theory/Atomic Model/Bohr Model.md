@@ -15,7 +15,7 @@
   The potential energy of an electron at radius $r$ is $V=\frac{1}{4\pi\varepsilon_0}\frac{q_1q_2}{r}=-\frac{\mu m_ee^4}{16\pi^2\varepsilon_0^2\hbar^2}\frac{1}{n^2}$,  
   The kinetic energy at velocity $v$ is $T=\frac{1}{2}mv^2=\frac{\mu m_ee^4}{32\pi^2\varepsilon_0^2\hbar^2}\frac{1}{n^2}$;  
   $\therefore E=T+V=\frac{\mu m_ee^4}{32\pi^2\varepsilon_0^2\hbar^{2}}\frac{1}{n^2}$.
-  * $R\_{\ce{H}}=13.6\text{ eV}$
+  * $R\_{\ce{H}}=13.6;\text{eV}$
 
 ## Reference
 

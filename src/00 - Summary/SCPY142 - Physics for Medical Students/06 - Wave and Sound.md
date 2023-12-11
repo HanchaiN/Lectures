@@ -41,14 +41,14 @@
   * Intensity $I=\frac{P}{A}$ ($A$ is area)
     * For point source, spherical surface $A=4\pi r^{2}$
   * Intensity level $\beta=10 \log\frac{I}{I\_{0}}$
-    * $I\_{0}=10^{-12}\text{ W}\text{ m}^{-2}$ (minimum for human hearing)
+    * $I\_{0}=10^{-12};\text{W};\text{m}^{-2}$ (minimum for human hearing)
     * Unit *deci*bel (hence the factor of $10$)
-  * Hearing range: $20\text{ Hz}$ to $20000\text{ Hz}$
+  * Hearing range: $20;\text{Hz}$ to $20000;\text{Hz}$
     * Ultrasonic / Infrasonic
   * Application: Ultrasound
-    * Medical Analysis @ $\<1\text{ KW}\text{ m}^{-2}$
-    * Generate Internal Heat @ $10-100\text{ KW}\text{ m}^{-2}$
-    * Surgery (break kidney stones / structures) @ $1-40\text{ MW}\text{ m}^{-2}$
+    * Medical Analysis @ $\<1;\text{KW};\text{m}^{-2}$
+    * Generate Internal Heat @ $10-100;\text{KW};\text{m}^{-2}$
+    * Surgery (break kidney stones / structures) @ $1-40;\text{MW};\text{m}^{-2}$
     * Not ionize, Not destroy molecular bonds, Not damage muscle
     * Prefer: Wavelength \< Object size
     * Low penetration ($\approx 200\lambda$)

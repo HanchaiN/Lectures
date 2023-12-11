@@ -10,7 +10,7 @@
 * Quantum Mechanics
   * [Photoelectric Effect](../../01%20-%20Concept/Physics/Quantum%20Mechanics/Breakdown%20of%20Classical%20Physics/Photoelectric%20Effect.md)
     * [Quantization of Photon](../../01%20-%20Concept/Physics/Quantum%20Mechanics/Breakdown%20of%20Classical%20Physics/Ultraviolet%20Catastrophe.md)
-    * $1\text{ eV}=e\cdot1\text{ V}$
+    * $1;\text{eV}=e\cdot1;\text{V}$
   * [Quantization of Energy](../../01%20-%20Concept/Chemistry/Atomic%20Theory/Atomic%20Model/Bohr%20Model.md)
   * [De Broglie Wavelength](../../01%20-%20Concept/Physics/Quantum%20Mechanics/De%20Broglie%20Wavelength.md)
   * [Double-Slit Experiment](../../01%20-%20Concept/Physics/Quantum%20Mechanics/Breakdown%20of%20Classical%20Physics/Double-Slit%20Experiment.md)

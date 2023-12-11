@@ -6,7 +6,7 @@
   * Refraction $n\_{i}\sin\theta\_{i}=n\_{r}\sin\theta\_{r}$
     * Constant frequency $f$
     * $n=\frac{c}{v}$
-      * $c=3\times10^{8}\text{ m}\text{ s}^{-1}$: speed of light in vacuum
+      * $c=3\times10^{8};\text{m};\text{s}^{-1}$: speed of light in vacuum
       * $v$: speed of light in medium (phase velocity; can be more than $c$)
     * Critical angle: $n\_{i}\sin\theta\_{c}=n\_{r}\sin90\degree$
       * If $\theta\_{i}>\theta\_{c}$ then there's no valid $\theta\_{r}$ and hence, total internal reflection.
@@ -29,8 +29,8 @@
       * Image → (virtual) object
       * $m=\prod m\_{i}$
     * Human eyes
-      * Normal: $25\text{ cm}\<s\<\\infty$
-      * $25\text{ cm}$: near point
+      * Normal: $25;\text{cm}\<s\<\\infty$
+      * $25;\text{cm}$: near point
 
 ## Reference
 
