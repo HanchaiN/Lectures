@@ -31,7 +31,7 @@
         * …
   * Water have same reaction for both: $K\_{w}$ (ignore $\ce{H2O}$)
     * $\ce{2H2O \<=> H+ + OH-}$
-  * Ionization percentage: $%*{\text{ionization}}=\frac{\left\[HA\right\]*{\text{ionized}}}{\left\[HA\right\]\_{\text{initial}}}\times 100%$
+  * Ionization percentage: $%*{\text{ionization}}=\frac{\left\[HA\right\]*{\text{ionized}}}{\left\[HA\right\]\_{\text{initial}}}\times \pu{100 %}$
 * Potential of Hydrogen $\text{p}\ce{H}\approx-\log\left\[\\ce{H+}\right\]$ (generally from 0 to 14)
   * $\text{p}\ce{H}+\text{p}\ce{OH}=\text{p}K\_{w}=-\log K\_{w}\approx 14$
   * $\text{p}K\_{a}$ and $\text{p}K\_{b}$ is defined similarly

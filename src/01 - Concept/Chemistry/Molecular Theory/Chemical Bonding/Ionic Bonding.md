@@ -4,7 +4,7 @@
 * Bond Energy  
   - Ionization Energy  
   - Electron Affinity  
-  - Lattice Energy $\displaystyle\approx-\frac{kQ_1Q_2}{d}$
+  - Lattice Energy $\displaystyle\approx-\frac{kQ_1Q_2}{d}$ (Coulomb's Law)
 * Bond Length
   * Approx. sum of [Ionic Radius](../../Atomic%20Theory/Property%20of%20Element/Atomic%20Radius.md)
 
