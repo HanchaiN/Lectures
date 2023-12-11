@@ -11,7 +11,7 @@ aliases:
 	- Modulus (Young: $Y=\frac{kL_0}{A}$)
 	- Elastic region: Constant Modulus: Hooke's law ($F=k\Delta L$)
 - Bending Moments  
-  ![Beam\_bending\_moment\_plain.svg](https://upload.wikimedia.org/wikipedia/commons/e/e5/Beam_bending_moment_plain.svg)
+  ![Beam\_bending\_moment\_plain.svg|250](https://upload.wikimedia.org/wikipedia/commons/e/e5/Beam_bending_moment_plain.svg)
 	- Consider simple system ($F/2$ @ $x_{O}=-L/2$, $-F$ @ $x_{A}=0$, $F/2$ @ $x_{B}=+L/2$)
 	- Internal Torque
 		- Consider part of object (assume $x>0$)

@@ -15,7 +15,7 @@ aliases:
 	- Defined from North to South
 	- Notation: cross = into plane; dots = out of plane
 - Magnetic Force $\vec{F}=q\vec{v_{q}}\times\vec{B}$
-	- $\pu{1 T}=\pu{1 N*A^{-1}*m^{-1}}=\pu{10^{4} G}$
+	- $\pu{1 T}=\pu{1 N*A^{-1}*m^{-1}}=\pu{1E4 G}$
 	- Circular/Spiral motion $r = \frac{mv_{\perp}}{qB}$
 - Electric Current $I=\frac{dQ}{dt}$ (through area)
 	- $\pu{1 A}=\pu{1 C*s^{-1}}$

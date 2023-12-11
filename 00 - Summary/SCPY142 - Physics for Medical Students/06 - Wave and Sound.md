@@ -46,7 +46,7 @@ aliases:
 	- Intensity $I=\frac{P}{A}$ ($A$ is area)
 		- For point source, spherical surface $A=4\pi r^{2}$
 	- Intensity level $\beta=10 \log\frac{I}{I_{0}}$
-		- $I_{0}=\pu{10^{-12} W*m^{-2}}$ (minimum for human hearing)
+		- $I_{0}=\pu{10E-12 W*m^{-2}}$ (minimum for human hearing)
 		- Unit *deci*bel (hence the factor of $10$)
 	- Hearing range: $\pu{20 Hz}$ to $\pu{20000 Hz}$
 		- Ultrasonic / Infrasonic

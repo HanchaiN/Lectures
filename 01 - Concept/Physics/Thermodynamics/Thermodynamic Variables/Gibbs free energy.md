@@ -23,5 +23,6 @@ Therefore, $dS_\text{univ.}\ge 0\implies dG\le 0$
 
 ## Reference
 
-- [[00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics]]
+- [[00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics|04 - Thermodynamics]]
+- [[00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics|04 - Thermodynamics]]
 - [Gibbs free energy - Wikipedia](https://en.wikipedia.org/wiki/Gibbs_free_energy)
