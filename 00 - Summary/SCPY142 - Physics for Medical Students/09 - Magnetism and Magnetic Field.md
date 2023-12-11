@@ -15,13 +15,12 @@ aliases:
 	- Defined from North to South
 	- Notation: cross = into plane; dots = out of plane
 - Magnetic Force $\vec{F}=q\vec{v_{q}}\times\vec{B}$
-	- $1\;\text{T}=1\;\text{N}\;\text{A}^{-1}\;\text{m}^{-1}$
-	- $10^{4}\;\text{G}=1\;\text{T}$
+	- $\pu{1 T}=\pu{1 N*A^{-1}*m^{-1}}=\pu{10^{4} G}$
 	- Circular/Spiral motion $r = \frac{mv_{\perp}}{qB}$
 - Electric Current $I=\frac{dQ}{dt}$ (through area)
-	- $1\;\text{A}=1\;\text{C}\;\text{s}^{-1}$
+	- $\pu{1 A}=\pu{1 C*s^{-1}}$
 - Ohm's law $R = \frac{V}{I}$
-	- Resistance $R$ ($\Omega$)
+	- Resistance $R$ ($\pu{1 \Omega}=\pu{1 V*A^{-1}}$)
 - Ampère's circuital law: current create magnetic field (right-hand rule)
 	- Linear current → Circular magnet
 	- Circular current → Linear magnet

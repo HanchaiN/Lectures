@@ -6,9 +6,9 @@ aliases:
 # Thermodynamics
 
 - [[Enthalpy]]
-	- Standard Temperature and Pressure: $1\;\text{atm}$, $25\degree\text{C}$
+	- Standard Temperature and Pressure: $\pu{1 atm}, \pu{25 \textdegree C}$
 	- Path-independent
-	- Elements at most stable form have standard enthalpy $0\;\text{J}$ @STP
+	- Elements at most stable form have standard enthalpy $\pu{0 J}$ @STP
 - [[Entropy]]
 - [[Gibbs free energy]]
 - Laws of Thermodynamics

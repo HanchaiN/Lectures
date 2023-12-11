@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/08 - Electric Force and Field.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eae717783323b12c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/08 - Electric Force and Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/08 - Electric Force and Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md"
+                "file": "00 - Summary/SCPY142 - Physics for Medical Students/08 - Electric Force and Field.md"
               }
             }
           },
@@ -159,24 +158,24 @@
   },
   "active": "fbbb5eba9251537b",
   "lastOpenFiles": [
-    "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
-    "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/10 - Modern Physics.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/09 - Magnetism and Magnetic Field.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/08 - Electric Force and Field.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/07 - Optics.md",
+    "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/06 - Wave and Sound.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics.md",
     "SUMMARY.md",
     "Untitled.canvas",
     "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Photoelectric Effect.md",
     "00 - Summary/SCCH105 - General Chemistry/01 - Atomic Structure and Atomic Theory.md",
     "01 - Concept/Chemistry/Atomic Theory/Property of Element/Property of Element.md",
-    "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
     "00 - Summary/SCCH105 - General Chemistry/02 - Chemical Bonding.md",
     "00 - Summary/SCCH105 - General Chemistry/01A - Introduction to Quantum Mechanics.md",
     "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Double-Slit Experiment.md",
     "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Bohr Model.md",
     "01 - Concept/Physics/Quantum Mechanics/De Broglie Wavelength.md",
     "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Ultraviolet Catastrophe.md",
-    "00 - Summary/SCPY142 - Physics for Medical Students/09 - Magnetism and Magnetic Field.md",
-    "00 - Summary/SCPY142 - Physics for Medical Students/08 - Electric Force and Field.md",
-    "00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/01 - Kinematic.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/02 - Motion of Rigid Body.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/03 - Elasticity.md",
