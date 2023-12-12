@@ -14,7 +14,9 @@ aliases:
 - Laws of Thermodynamics
 	- [[Zeroth Law of Thermodynamics]]
 	- [[First Law of Thermodynamics]]
+		- Convention: $dE = \delta Q + \delta W$
 	- [[Second Law of Thermodynamics]]
+- Ideal Gas Law: $PV=nRT$
 
 ## References
 

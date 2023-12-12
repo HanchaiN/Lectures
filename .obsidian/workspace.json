@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6577a6223eb028c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Gibbs free energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Gibbs free energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Gibbs free energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Gibbs free energy.md"
               }
             }
           },
@@ -168,14 +181,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "0f70bc71e13b0f38",
+  "active": "6577a6223eb028c4",
   "lastOpenFiles": [
+    "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Entropy.md",
+    "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Enthalpy.md",
+    "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics.md",
+    "SUMMARY.md",
     "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Bohr Model.md",
     "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Electron Cloud Model.md",
     "01 - Concept/Chemistry/Atomic Theory/Atomic Orbital.md",
     "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Gibbs free energy.md",
-    "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Entropy.md",
-    "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Enthalpy.md",
     "01 - Concept/Physics/Thermodynamics/Thermodynamic Processes/Reversible Process.md",
     "01 - Concept/Physics/Thermodynamics/Thermodynamic Processes/Isothermal Process.md",
     "01 - Concept/Physics/Thermodynamics/Thermodynamic Processes/Isochoric Process.md",
@@ -193,9 +209,6 @@
     "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Photoelectric Effect.md",
     "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Double-Slit Experiment.md",
     "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Linear Differential Equations.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Inhomogeneous Linear Differential Equations.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Homogeneous Linear Differential Equations.md",
-    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Metallic Bonding.md",
     "Untitled.canvas",
     "Template",
     "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation",

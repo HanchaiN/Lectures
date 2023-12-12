@@ -1,6 +1,6 @@
 # Enthalpy
 
-$H=U+PV$: Measure of heat (for isobaric process)
+$H=U+PV$: Measure of heat (for [[Isobaric Process]])
 
 $$
 \begin{align*}
