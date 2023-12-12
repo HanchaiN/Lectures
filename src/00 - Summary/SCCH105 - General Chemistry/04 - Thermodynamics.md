@@ -9,7 +9,9 @@
 * Laws of Thermodynamics
   * [Zeroth Law of Thermodynamics](../../01%20-%20Concept/Physics/Thermodynamics/Laws%20of%20Thermodynamics/Zeroth%20Law%20of%20Thermodynamics.md)
   * [First Law of Thermodynamics](../../01%20-%20Concept/Physics/Thermodynamics/Laws%20of%20Thermodynamics/First%20Law%20of%20Thermodynamics.md)
+    * Convention: $dE = \delta Q + \delta W$
   * [Second Law of Thermodynamics](../../01%20-%20Concept/Physics/Thermodynamics/Laws%20of%20Thermodynamics/Second%20Law%20of%20Thermodynamics.md)
+* Ideal Gas Law: $PV=nRT$
 
 ## References
 
