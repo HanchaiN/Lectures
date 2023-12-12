@@ -3,7 +3,7 @@
 * Metallic / Covalent
 * Ionic
   * Cation: Smaller & Anion: Larger
-* $\displaystyle\propto\frac{1}{Z\_\\text{eff}}$
+* $\propto\frac{1}{Z\_\\text{eff}}$
 
 ## Reference
 

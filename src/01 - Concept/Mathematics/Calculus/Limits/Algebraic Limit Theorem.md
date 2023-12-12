@@ -2,10 +2,10 @@
 
 If and only if RHS exists, else [Intermediate Form](Intermediate%20Form.md) or DNE.
 
-* $\displaystyle\lim\_{x\to a}\left(f(x)\pm g(x)\right)=\lim\_{x\to a}f(x)\pm\lim\_{x\to a}g(x)$
-* $\displaystyle\lim\_{x\to a}f(x)g(x)=\left(\lim\_{x\to a}f(x)\right)\left(\lim\_{x\to a}g(x)\right)$
-* $\displaystyle\lim\_{x\to a}\frac{f(x)}{g(x)}=\frac{\lim\_{x\to a}f(x)}{\lim\_{x\to a}g(x)}$
-* $\displaystyle\lim\_{x\to a}f(x)^{g(x)}=\lim\_{x\to a}f(x)^{\lim\_{x\to a}g(x)}$
+* $\lim\_{x\to a}\left(f(x)\pm g(x)\right)=\lim\_{x\to a}f(x)\pm\lim\_{x\to a}g(x)$
+* $\lim\_{x\to a}f(x)g(x)=\left(\lim\_{x\to a}f(x)\right)\left(\lim\_{x\to a}g(x)\right)$
+* $\lim\_{x\to a}\frac{f(x)}{g(x)}=\frac{\lim\_{x\to a}f(x)}{\lim\_{x\to a}g(x)}$
+* $\lim\_{x\to a}f(x)^{g(x)}=\lim\_{x\to a}f(x)^{\lim\_{x\to a}g(x)}$
 
 ## Related Topics
 

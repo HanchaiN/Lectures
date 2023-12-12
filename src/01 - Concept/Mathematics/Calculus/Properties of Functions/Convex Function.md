@@ -1,7 +1,5 @@
 # Convex Function
 
-AKA Concave Upwards Functions
-
 [Increasing](Increasing%20Function.md) $f^{\prime}$
 
 ## Related Topics

@@ -1,7 +1,7 @@
 # Electron Affinity
 
 * $\ce{X(g) + e- -> X-(g)}; \Delta H=-EA$
-* $\displaystyle\propto Z\_\\text{eff}$
+* $\propto Z\_\\text{eff}$
 
 ## Reference
 

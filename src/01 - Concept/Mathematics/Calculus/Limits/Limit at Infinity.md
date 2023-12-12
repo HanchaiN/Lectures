@@ -1,6 +1,6 @@
 # Limit at Infinity
 
-* $\displaystyle\lim\_{x\to \infty} f(x)$ and $\displaystyle\lim\_{x\to -\infty} f(x)$
+* $\lim\_{x\to \infty} f(x)$ and $\lim\_{x\to -\infty} f(x)$
 
 ## Related Topics
 

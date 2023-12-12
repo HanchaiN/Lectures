@@ -3,7 +3,7 @@
 * Tendency to attract bonding electron
   * $\Delta \chi \< 1.7$: [Covalent Bonding](../../Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Covalent%20Bonding.md)
   * $\Delta \chi > 1.7$: [Ionic Bonding](../../Molecular%20Theory/Chemical%20Bonding/Ionic%20Bonding.md)
-* $\displaystyle\propto Z\_\\text{eff}$
+* $\propto Z\_\\text{eff}$
 
 ## Reference
 

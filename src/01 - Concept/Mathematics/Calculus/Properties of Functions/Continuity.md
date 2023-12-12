@@ -1,8 +1,8 @@
 # Continuity
 
-* Continuous at $a$: $\displaystyle\lim\_{x\to a} f(x)=f(a)$;
+* Continuous at $a$: $\lim\_{x\to a} f(x)=f(a)$;
   * $f(a)$ is defined,
-  * $\displaystyle\lim\_{x\to a} f(x)$ exists.
+  * $\lim\_{x\to a} f(x)$ exists.
 * Continuous on $\left(a,b\right)$: Continuous on $x_0\in\left(a,b\right)$.
 
 ## Related Topics

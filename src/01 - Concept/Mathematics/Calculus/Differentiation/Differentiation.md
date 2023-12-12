@@ -1,8 +1,8 @@
 # Differentiation
 
-* $\displaystyle f^{\prime}(x)=\frac{d}{dx}f(x)=\lim\_{h\to0}\frac{f(x+h)-f(x)}{h}$
-* $\displaystyle f^{\prime}(a)=\left.\frac{d}{dx}f(x)\right\rvert\_{x=a}=\lim\_{x\to a}\frac{f(x)-f(a)}{x-a}$
-* $\displaystyle f^{(n)}(x)=\frac{d^{n}}{dx^{n}}f(x)=\frac{d}{dx}f^{(n-1)}(x)$
+* $f^{\prime}(x)=\frac{d}{dx}f(x)=\lim\_{h\to0}\frac{f(x+h)-f(x)}{h}$
+* $f^{\prime}(a)=\left.\frac{d}{dx}f(x)\right\rvert\_{x=a}=\lim\_{x\to a}\frac{f(x)-f(a)}{x-a}$
+* $f^{(n)}(x)=\frac{d^{n}}{dx^{n}}f(x)=\frac{d}{dx}f^{(n-1)}(x)$
 * Equiv.
   * Slope of tangent line at $x=a$.
 * Linearity
@@ -17,18 +17,18 @@
     * $(f^{-1})^{\prime}=\frac{1}{f^{\prime}\circ f^{-1}}$
   * $(f^{g})^\prime=f^{g}(f^{\prime}\frac{g}{f}+g^{\prime}\ln f)$
 * Exact forms
-  * $\displaystyle\frac{d}{dx}c=0$
-  * $\displaystyle\frac{d}{dx}x^{r}=rx^{r-1}$
-  * $\displaystyle\frac{d}{dx}\sin x=\cos x$
-  * $\displaystyle\frac{d}{dx}\cos x=-\sin x$
-  * $\displaystyle\frac{d}{dx}\tan x=\sec^2 x$
-  * $\displaystyle\frac{d}{dx}\cot x=-\csc^2 x$
-  * $\displaystyle\frac{d}{dx}\sec x=\sec x\tan x$
-  * $\displaystyle\frac{d}{dx}\csc x=-\csc x\cot x$
-  * $\displaystyle\frac{d}{dx}e^x=e^x$
-  * $\displaystyle\frac{d}{dx}a^{x}=a^{x}\ln a$
-  * $\displaystyle\frac{d}{dx}\ln \left\lvert x\right\rvert=\frac{1}{x}$
-  * $\displaystyle\frac{d}{dx}\log\_{a}x=\frac{1}{x\ln a}$
+  * $\frac{d}{dx}c=0$
+  * $\frac{d}{dx}x^{r}=rx^{r-1}$
+  * $\frac{d}{dx}\sin x=\cos x$
+  * $\frac{d}{dx}\cos x=-\sin x$
+  * $\frac{d}{dx}\tan x=\sec^2 x$
+  * $\frac{d}{dx}\cot x=-\csc^2 x$
+  * $\frac{d}{dx}\sec x=\sec x\tan x$
+  * $\frac{d}{dx}\csc x=-\csc x\cot x$
+  * $\frac{d}{dx}e^x=e^x$
+  * $\frac{d}{dx}a^{x}=a^{x}\ln a$
+  * $\frac{d}{dx}\ln \left\lvert x\right\rvert=\frac{1}{x}$
+  * $\frac{d}{dx}\log\_{a}x=\frac{1}{x\ln a}$
 
 ## Related Topics
 

@@ -1,7 +1,5 @@
 # Concave Function
 
-AKA Concave Downwards Functions
-
 [Decreasing](Decreasing%20Function.md) $f^{\prime}$
 
 ## Related Topics
