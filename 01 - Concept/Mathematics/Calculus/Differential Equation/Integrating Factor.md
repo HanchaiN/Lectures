@@ -1,3 +1,8 @@
+---
+aliases:
+  - IF
+---
+
 # Integrating Factor
 
 Multiply both side by some factor to make it easier to integrate

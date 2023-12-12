@@ -1,6 +1,6 @@
 # Limit at Infinity
 
-- $\displaystyle\lim_{x\to \infty} f(x)$ and $\displaystyle\lim_{x\to -\infty} f(x)$
+- $\lim_{x\to \infty} f(x)$ and $\lim_{x\to -\infty} f(x)$
 
 ## Related Topics
 

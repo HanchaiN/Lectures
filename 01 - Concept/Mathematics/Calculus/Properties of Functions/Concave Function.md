@@ -1,6 +1,9 @@
-# Concave Function
+---
+aliases:
+  - Concave Downwards Functions
+---
 
-AKA Concave Downwards Functions
+# Concave Function
 
 [[Decreasing Function|Decreasing]] $f^{\prime}$
 

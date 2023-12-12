@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Bohr Model.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Bohr Model.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Bohr Model.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Bohr Model.md"
+                "file": "SUMMARY.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "0f70bc71e13b0f38",
   "lastOpenFiles": [
-    "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Electron Cloud Model.md",
     "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Bohr Model.md",
+    "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Electron Cloud Model.md",
     "01 - Concept/Chemistry/Atomic Theory/Atomic Orbital.md",
     "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Gibbs free energy.md",
     "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Entropy.md",

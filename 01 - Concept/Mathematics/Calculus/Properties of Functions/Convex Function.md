@@ -1,6 +1,9 @@
-# Convex Function
+---
+aliases:
+  - Concave Upwards Functions
+---
 
-AKA Concave Upwards Functions
+# Convex Function
 
 [[Increasing Function|Increasing]] $f^{\prime}$
 

@@ -1,3 +1,8 @@
+---
+aliases:
+  - PDE
+---
+
 # Partial Differential Equation
 
 Multiple independent variable ($u_{t}=\partial_{t}u=\frac{d}{dt}u$).

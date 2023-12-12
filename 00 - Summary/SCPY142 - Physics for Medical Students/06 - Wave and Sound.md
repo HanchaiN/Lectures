@@ -13,22 +13,22 @@ aliases:
 	- Transverse (disturbance is perpendicular to the propagation)
 	- Longitudinal (disturbance is parallel to the propagation)
 - Characteristic
-	- Period $T$, Frequency $f=T^{-1}$, and angular velocity $\displaystyle \omega=\frac{2\pi}{T}$
-	- Wavelength $\lambda$ and Wave Number $\displaystyle k=\frac{2\pi}{\lambda}$
+	- Period $T$, Frequency $f=T^{-1}$, and angular velocity $\omega=\frac{2\pi}{T}$
+	- Wavelength $\lambda$ and Wave Number $k=\frac{2\pi}{\lambda}$
 	- Amplitude $A$
 	- Wave velocity $c=f\lambda$ (may use $c$ or $v$ depending on notation)
 	- Shape: preferrable sinusoidal $y=A\sin\left(kx-\omega t+\phi\right)$
 		- Phase constant $\phi$
 		- Phase $kx-\omega t+\phi$
-		- Medium velocity $\displaystyle \frac{\partial y}{\partial t}=-A\omega\cos\left(kx-\omega t+\phi\right)$
-		- Medium acceleration $\displaystyle \frac{\partial^{2}y}{\partial t^{2}}=-A\omega^{2}\sin\left(kx-\omega t+\phi\right)$
+		- Medium velocity $\frac{\partial y}{\partial t}=-A\omega\cos\left(kx-\omega t+\phi\right)$
+		- Medium acceleration $\frac{\partial^{2}y}{\partial t^{2}}=-A\omega^{2}\sin\left(kx-\omega t+\phi\right)$
 		- Wave equation  
-		  $\displaystyle\frac{\partial^{2}y}{\partial t^{2}}=c^{2}\sum\limits\frac{\partial^{2}y}{\partial x_{i}^{2}}$
+		  $\frac{\partial^{2}y}{\partial t^{2}}=c^{2}\sum\limits\frac{\partial^{2}y}{\partial x_{i}^{2}}$
 			- Solution is $y=f_{+}\left(x-ct\right)+f_{-}\left(x+ct\right)$  
 			  essentially a superposition of forward and backward wave.
 			- Similar solution can be found in higher dimension.
 - Wave on string (Transversal)
-	- $\displaystyle c=\sqrt{\frac{F}{\mu}}$ ($F$ is tension and $\mu$ is linear density)
+	- $c=\sqrt{\frac{F}{\mu}}$ ($F$ is tension and $\mu$ is linear density)
 	- Power $P=\frac{E}{t}=\frac{1}{2}\mu\omega^{2}A^{2}c$
 		- Kinetic Energy
 			- $K=\frac{1}{2}mv^{2}$
@@ -58,7 +58,7 @@ aliases:
 		- Prefer: Wavelength < Object size
 		- Low penetration ($\approx 200\lambda$)
 	- Doppler: change in perceived frequency due to relative motion
-		- $\displaystyle f=f_{0}\frac{v_\text{sound} \pm v_\text{observer}}{v_\text{sound} \pm v_\text{source}}$ (Noted the signature)
+		- $f=f_{0}\frac{v_\text{sound} \pm v_\text{observer}}{v_\text{sound} \pm v_\text{source}}$ (Noted the signature)
 			- Move towards each other, increasing $f$.
 
 ## Reference
