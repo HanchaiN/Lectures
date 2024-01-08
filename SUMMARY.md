@@ -34,6 +34,9 @@
 		- [[01B - Bonds and Shapes of molecules]]
 		- [[01C - Intermolecular Forces]]
 		- [[01D - Physical Properties]]
+	- [[02 - Classification & Nomenclature of Organic Compounds]]
+		- [[02A - Classification of Organic Compounds]]
+		- [[02B - Nomenclature of Organic Compounds]]
 
 # Concept
 
@@ -55,6 +58,8 @@
 			- [[Covalent Bonding]]
 				- [[Characteristic Infrared Band]]
 				- [[Formal Charge]]
+				- [[Bond Dipole Moment]]
+				- [[Hybrid Orbital]]
 			- [[Metallic Bonding]]
 	- [Chemical Kinetics]()
 		- [Chemical Equilibrium]()
@@ -105,6 +110,7 @@
 			- [Wave in a String]()
 			- [Sound]()
 	- [Electromagnetism]()
+		- [[Coulomb's law]]
 		- [Optics]()
 	- [Statistical Mechanics]()
 		- [Thermodynamics]()
