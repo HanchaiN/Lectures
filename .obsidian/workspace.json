@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8f682007fac0c4ac",
+        "id": "5c7cc86eace532fa",
         "type": "tabs",
         "children": [
           {
-            "id": "faef1251051e7686",
+            "id": "9bb80a909d315d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01B - Bonds and Shapes of molecules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1875e23cc9ee62b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Bond Dipole Moment.md",
+                "file": "Extra/Styling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eae717783323b12c",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Bond Dipole Moment.md",
+                "file": "Extra/Styling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Bond Dipole Moment.md",
+                "file": "Extra/Styling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Bond Dipole Moment.md"
+                "file": "Extra/Styling.md"
               }
             }
           },
@@ -169,19 +155,26 @@
       "templates:Insert template": false
     }
   },
-  "active": "1875e23cc9ee62b9",
+  "active": "4edc4d65c3846c5b",
   "lastOpenFiles": [
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01B - Bonds and Shapes of molecules.md",
+    "SUMMARY.md",
+    "01 - Concept/Mathematics/Calculus/Limits/Squeeze Theorem.md",
+    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Bond Dipole Moment.md",
     "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Covalent Bonding.md",
+    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Formal Charge.md",
+    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Hybrid Orbital.md",
+    "Extra/Styling.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01B - Bonds and Shapes of molecules.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
+    "Template/Entry.md",
+    "Extra",
+    "Extra",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01D - Physical Properties.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01A - Atoms.md",
     "Deprecated/Chemistry/Organic Chemistry/Heteroatom.md",
     "Deprecated/Chemistry/Organic Chemistry/Alcohol.md",
     "01 - Concept/Chemistry/Atomic Theory/Atomic Orbital.md",
-    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Hybrid Orbital.md",
-    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Bond Dipole Moment.md",
-    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Formal Charge.md",
     "01 - Concept/Physics/Electromagnetism/Coulomb's law.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01D - Physical Properties.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01 - Structure and Bonding.md",
     "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Characteristic Infrared Band.md",
     "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Electron Cloud Model.md",
@@ -192,13 +185,8 @@
     "01 - Concept/Chemistry/Atomic Theory/Property of Element/Electronegativity.md",
     "00 - Summary/SCPY142 - Physics for Medical Students/08 - Electric Force and Field.md",
     "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Ionic Bonding.md",
-    "SUMMARY.md",
     "01 - Concept/Physics/Electromagnetism",
     "01 - Concept/Physics/Thermodynamics/Laws of Thermodynamics/First Law of Thermodynamics.md",
-    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Metallic Bonding.md",
-    "00 - Summary/SCPY142 - Physics for Medical Students/09 - Magnetism and Magnetic Field.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
-    "00 - Summary/SCCH105 - General Chemistry/02 - Chemical Bonding.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science",
     "Untitled.canvas",
     "Template",
@@ -206,8 +194,6 @@
     "src/01 - Concept/Physics/Thermodynamics/Thermodynamic Processes",
     "src/01 - Concept/Physics/Thermodynamics/Laws of Thermodynamics",
     "src/01 - Concept/Physics/Thermodynamics/Thermodynamic Variables",
-    "src/01 - Concept/Mathematics/Calculus/Properties of Functions",
-    "src/01 - Concept/Mathematics/Calculus/Limits",
     "theme/favicon.svg",
     "theme/favicon.png"
   ]

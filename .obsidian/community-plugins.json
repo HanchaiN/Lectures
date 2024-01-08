@@ -12,5 +12,9 @@
   "better-reading-mode",
   "obsidian-reading-time",
   "obsidian-tikzjax",
-  "obsidian-better-codeblock"
+  "obsidian-better-codeblock",
+  "chem",
+  "better-word-count",
+  "note-refactor-obsidian",
+  "url-into-selection"
 ]
