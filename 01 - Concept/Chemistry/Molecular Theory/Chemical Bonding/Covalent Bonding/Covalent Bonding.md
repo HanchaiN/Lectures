@@ -16,10 +16,8 @@
 	- Molecular Polarity = Directional Sum of Bond Polarity
 		- Affect Solubility
 - Bond [Dipole Moment](https://en.wikipedia.org/wiki/Electric_dipole_moment): $\mu$
-	- Molecular Dipole Moment = Directional Sum of Bond Dipole Moment
-	- Ionic Character = $\dfrac{\mu_\text{observed}}{\mu_\text{ionic}}$
 - [[Characteristic Infrared Band]]
-- Lewis Structure
+- Lewis Structure: Show which atoms "owns" which electrons
 	- Octet rules
 	- [[Formal Charge]]
 - Molecular Geometry
@@ -33,11 +31,7 @@
 		- Overlapped [[Atomic Orbital]]
 		- Strength depends on extent of overlap
 			- Orientation of the bond
-		- Hybrid Orbital
-			- Hybridization (Mixing) of multiple [[Atomic Orbital]]
-				- Excite electron from ground state
-				- Average to same energy level orbitals
-			- Maximize overlapping
+		- [[Hybrid Orbital]]
 	- Molecular Orbital Theory
 		- New Molecular Orbital across entire molecule
 			- approx. superposition of originals

@@ -11,7 +11,7 @@ aliases:
 	- Require no medium
 	- Conservative
 	- $\lambda$: linear charge density, $\sigma$: areal charge density, $\rho$: volumetric charge density
-- Coulomb's law $\left\lVert\vec{F}\right\rVert=\frac{k_{e}Qq}{r^{2}}$
+- [[Coulomb's law]] $\left\lVert\vec{F}\right\rVert=\frac{k_{e}Qq}{r^{2}}$
 	- Coulomb constant $k_{e}=\frac{1}{4\pi\varepsilon_{0}}=\pu{9E-9 N*m^{2}*C^{-2}}$
 	- Superposition (additive vector)
 	- Conservative (have corresponding potential energy)

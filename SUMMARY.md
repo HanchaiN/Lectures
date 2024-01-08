@@ -28,6 +28,12 @@
 	- [[08 - Electric Force and Field]]
 	- [[09 - Magnetism and Magnetic Field]]
 	- [[10 - Modern Physics]]
+- [SCCH134 - Organic Chemistry for Medical Science]()
+	- [[01 - Structure and Bonding]]
+		- [[01A - Atoms]]
+		- [[01B - Bonds and Shapes of molecules]]
+		- [[01C - Intermolecular Forces]]
+		- [[01D - Physical Properties]]
 
 # Concept
 

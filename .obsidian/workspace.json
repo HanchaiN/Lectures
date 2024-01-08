@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "08896b3ed726f306",
+        "id": "8f682007fac0c4ac",
         "type": "tabs",
         "children": [
           {
-            "id": "0f70bc71e13b0f38",
+            "id": "faef1251051e7686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01B - Bonds and Shapes of molecules.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6577a6223eb028c4",
+            "id": "1875e23cc9ee62b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Gibbs free energy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "327f9c33952d4cc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Concept/Chemistry/Atomic Theory/Atomic Orbital.md",
+                "file": "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Bond Dipole Moment.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eae717783323b12c",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Gibbs free energy.md",
+                "file": "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Bond Dipole Moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Gibbs free energy.md",
+                "file": "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Bond Dipole Moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Gibbs free energy.md"
+                "file": "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Bond Dipole Moment.md"
               }
             }
           },
@@ -162,8 +151,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,34 +169,37 @@
       "templates:Insert template": false
     }
   },
-  "active": "6577a6223eb028c4",
+  "active": "1875e23cc9ee62b9",
   "lastOpenFiles": [
-    "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Entropy.md",
-    "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Enthalpy.md",
-    "00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics.md",
-    "00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics.md",
-    "SUMMARY.md",
-    "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Bohr Model.md",
-    "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Electron Cloud Model.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01B - Bonds and Shapes of molecules.md",
+    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Covalent Bonding.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01A - Atoms.md",
+    "Deprecated/Chemistry/Organic Chemistry/Heteroatom.md",
+    "Deprecated/Chemistry/Organic Chemistry/Alcohol.md",
     "01 - Concept/Chemistry/Atomic Theory/Atomic Orbital.md",
-    "01 - Concept/Physics/Thermodynamics/Thermodynamic Variables/Gibbs free energy.md",
-    "01 - Concept/Physics/Thermodynamics/Thermodynamic Processes/Reversible Process.md",
-    "01 - Concept/Physics/Thermodynamics/Thermodynamic Processes/Isothermal Process.md",
-    "01 - Concept/Physics/Thermodynamics/Thermodynamic Processes/Isochoric Process.md",
-    "01 - Concept/Physics/Thermodynamics/Thermodynamic Processes/Isobaric Process.md",
-    "01 - Concept/Physics/Thermodynamics/Thermodynamic Processes/Adiabatic Process.md",
-    "01 - Concept/Physics/Thermodynamics/Laws of Thermodynamics/Zeroth Law of Thermodynamics.md",
-    "01 - Concept/Physics/Thermodynamics/Laws of Thermodynamics/Second Law of Thermodynamics.md",
+    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Hybrid Orbital.md",
+    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Bond Dipole Moment.md",
+    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Formal Charge.md",
+    "01 - Concept/Physics/Electromagnetism/Coulomb's law.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01D - Physical Properties.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01 - Structure and Bonding.md",
+    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Characteristic Infrared Band.md",
+    "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Electron Cloud Model.md",
+    "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Bohr Model.md",
+    "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Atomic Model.md",
+    "01 - Concept/Chemistry/Atomic Theory/Property of Element/Property of Element.md",
+    "Untitled",
+    "01 - Concept/Chemistry/Atomic Theory/Property of Element/Electronegativity.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/08 - Electric Force and Field.md",
+    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Ionic Bonding.md",
+    "SUMMARY.md",
+    "01 - Concept/Physics/Electromagnetism",
     "01 - Concept/Physics/Thermodynamics/Laws of Thermodynamics/First Law of Thermodynamics.md",
-    "01 - Concept/Physics/Quantum Mechanics/Wavefunction.md",
-    "01 - Concept/Physics/Quantum Mechanics/Schrodinger's Wave Equation.md",
-    "01 - Concept/Physics/Quantum Mechanics/Pauli's Exclusion Principle.md",
-    "01 - Concept/Physics/Quantum Mechanics/Heisenberg's Uncertainty Principle.md",
-    "01 - Concept/Physics/Quantum Mechanics/De Broglie Wavelength.md",
-    "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Ultraviolet Catastrophe.md",
-    "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Photoelectric Effect.md",
-    "01 - Concept/Physics/Quantum Mechanics/Breakdown of Classical Physics/Double-Slit Experiment.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation/System of Linear Differential Equations.md",
+    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Metallic Bonding.md",
+    "00 - Summary/SCPY142 - Physics for Medical Students/09 - Magnetism and Magnetic Field.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
+    "00 - Summary/SCCH105 - General Chemistry/02 - Chemical Bonding.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science",
     "Untitled.canvas",
     "Template",
     "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation",
@@ -217,9 +208,6 @@
     "src/01 - Concept/Physics/Thermodynamics/Thermodynamic Variables",
     "src/01 - Concept/Mathematics/Calculus/Properties of Functions",
     "src/01 - Concept/Mathematics/Calculus/Limits",
-    "src/01 - Concept/Mathematics/Calculus/Differentiation",
-    "theme/fonts/source-code-pro-v11-all-charsets-500.woff2",
-    "theme/fonts/SOURCE-CODE-PRO-LICENSE.txt",
     "theme/favicon.svg",
     "theme/favicon.png"
   ]
