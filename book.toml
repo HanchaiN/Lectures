@@ -12,22 +12,32 @@ extra-watch-dirs = ["scripts"]
 renderers = ["html"]
 command = "python scripts/tikzjax.py"
 
+[preprocessor.smiles-drawer]
+renderers = ["html"]
+command = "python scripts/smiles-drawer.py"
+
 [preprocessor.mathjax-fix]
 renderers = ["html"]
 command = "python scripts/mathjax-fix.py"
 
-# [preprocessor.katex]
-# after = ["links", "tikzjax"]
-# renderers = ["html"]
-# output = "htmlAndMathml"
-# include-src = true
+[preprocessor.mathpunc]
+before = ["katex"]
+
+[preprocessor.katex]
+after = ["links", "tikzjax"]
+renderers = ["html"]
+output = "htmlAndMathml"
+include-src = true
 
 [output.html]
 curly-quotes = true
-mathjax-support = true
+# mathjax-support = true
 additional-css = [
 	"theme/css/catppuccin.css",
 	"theme/css/catppuccin-admonish.css"
+]
+additional-js = [
+	"theme/js/whichlang.js"
 ]
 no-section-label = true
 git-repository-url = "https://github.com/HanchaiN/Lectures.git"
