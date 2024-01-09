@@ -24,6 +24,8 @@ $$
 
 ````
 
+* Useful for finding limits for Trigonometric Functions
+
 ## Related Topics
 
 * [Limit](Limit.md)
