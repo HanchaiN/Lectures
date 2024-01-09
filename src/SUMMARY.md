@@ -2,56 +2,49 @@
 
 # Lectures
 
-## SCCH105 - General Chemistry
-
-* [01 - Atomic Structure and Atomic Theory](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)
-  * [01A - Introduction to Quantum Mechanics](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01A%20-%20Introduction%20to%20Quantum%20Mechanics.md)
-* [02 - Chemical Bonding](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/02%20-%20Chemical%20Bonding.md)
-* [03 - The Properties of Matters and Solutions]()
-* [04 - Thermodynamics](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/04%20-%20Thermodynamics.md)
-* [05 - Chemical Kinetics](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/05%20-%20Chemical%20Kinetics.md)
-* [06 - Chemical Equilibrium](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/06%20-%20Chemical%20Equilibrium.md)
-* [07 - Ionic Equilibrium](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/07%20-%20Ionic%20Equilibrium.md)
-
-## SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science
-
-* [01 - Limit and Continuity](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/01%20-%20Limit%20and%20Continuity.md)
-* [02 - Differentiation](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/02%20-%20Differentiation.md)
-* [03 - Integration](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/03%20-%20Integration.md)
-* [04 - Differential Equation](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/04%20-%20Differential%20Equation.md)
-* [05 - System of Differential Equations](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/05%20-%20System%20of%20Differential%20Equations.md)
-
-## SCPY142 - Physics for Medical Students
-
-* [01 - Kinematic](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/01%20-%20Kinematic.md)
-* [02 - Motion of Rigid Body](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/02%20-%20Motion%20of%20Rigid%20Body.md)
-* [03 - Elasticity](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/03%20-%20Elasticity.md)
-* [04 - Thermodynamics](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/04%20-%20Thermodynamics.md)
-* [05 - Fluids]()
-* [06 - Wave and Sound](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/06%20-%20Wave%20and%20Sound.md)
-* [07 - Optics](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/07%20-%20Optics.md)
-* [08 - Electric Force and Field](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/08%20-%20Electric%20Force%20and%20Field.md)
-* [09 - Magnetism and Magnetic Field](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/09%20-%20Magnetism%20and%20Magnetic%20Field.md)
-* [10 - Modern Physics](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/10%20-%20Modern%20Physics.md)
-
-## SCCH134 - Organic Chemistry for Medical Science
-
-* [01 - Structure and Bonding](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01%20-%20Structure%20and%20Bonding.md)
-  * [01A - Atoms](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01A%20-%20Atoms.md)
-  * [01B - Bonds and Shapes of molecules](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01B%20-%20Bonds%20and%20Shapes%20of%20molecules.md)
-  * [01C - Intermolecular Forces](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01C%20-%20Intermolecular%20Forces.md)
-  * [01D - Physical Properties](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01D%20-%20Physical%20Properties.md)
-* [02 - Classification & Nomenclature of Organic Compounds](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/02%20-%20Classification%20&%20Nomenclature%20of%20Organic%20Compounds.md)
-  * [02A - Classification of Organic Compounds](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/02A%20-%20Classification%20of%20Organic%20Compounds.md)
-  * [02B - Nomenclature of Organic Compounds](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/02B%20-%20Nomenclature%20of%20Organic%20Compounds.md)
-* [03 - Stereochemistry]()
-* [04 - Organic Reactions]()
-* [05 - Hydrocarbons]()
-* [06 - Halides]()
-* [07 - Alcohols and Phenols]()
-* [08 - Aldehydes and Ketones]()
-* [09 - Carboxylic acids and Derivatives]()
-* [10 - Amines]()
+* [SCCH105 - General Chemistry]()
+  * [01 - Atomic Structure and Atomic Theory](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)
+    * [01A - Introduction to Quantum Mechanics](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01A%20-%20Introduction%20to%20Quantum%20Mechanics.md)
+  * [02 - Chemical Bonding](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/02%20-%20Chemical%20Bonding.md)
+  * [03 - The Properties of Matters and Solutions]()
+  * [04 - Thermodynamics](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/04%20-%20Thermodynamics.md)
+  * [05 - Chemical Kinetics](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/05%20-%20Chemical%20Kinetics.md)
+  * [06 - Chemical Equilibrium](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/06%20-%20Chemical%20Equilibrium.md)
+  * [07 - Ionic Equilibrium](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/07%20-%20Ionic%20Equilibrium.md)
+* [SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science]()
+  * [01 - Limit and Continuity](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/01%20-%20Limit%20and%20Continuity.md)
+  * [02 - Differentiation](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/02%20-%20Differentiation.md)
+  * [03 - Integration](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/03%20-%20Integration.md)
+  * [04 - Differential Equation](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/04%20-%20Differential%20Equation.md)
+  * [05 - System of Differential Equations](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/05%20-%20System%20of%20Differential%20Equations.md)
+* [SCPY142 - Physics for Medical Students]()
+  * [01 - Kinematic](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/01%20-%20Kinematic.md)
+  * [02 - Motion of Rigid Body](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/02%20-%20Motion%20of%20Rigid%20Body.md)
+  * [03 - Elasticity](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/03%20-%20Elasticity.md)
+  * [04 - Thermodynamics](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/04%20-%20Thermodynamics.md)
+  * [05 - Fluids]()
+  * [06 - Wave and Sound](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/06%20-%20Wave%20and%20Sound.md)
+  * [07 - Optics](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/07%20-%20Optics.md)
+  * [08 - Electric Force and Field](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/08%20-%20Electric%20Force%20and%20Field.md)
+  * [09 - Magnetism and Magnetic Field](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/09%20-%20Magnetism%20and%20Magnetic%20Field.md)
+  * [10 - Modern Physics](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/10%20-%20Modern%20Physics.md)
+* [SCCH134 - Organic Chemistry for Medical Science]()
+  * [01 - Structure and Bonding](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01%20-%20Structure%20and%20Bonding.md)
+    * [01A - Atoms](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01A%20-%20Atoms.md)
+    * [01B - Bonds and Shapes of molecules](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01B%20-%20Bonds%20and%20Shapes%20of%20molecules.md)
+    * [01C - Intermolecular Forces](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01C%20-%20Intermolecular%20Forces.md)
+    * [01D - Physical Properties](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01D%20-%20Physical%20Properties.md)
+  * [02 - Classification & Nomenclature of Organic Compounds](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/02%20-%20Classification%20&%20Nomenclature%20of%20Organic%20Compounds.md)
+    * [02A - Classification of Organic Compounds](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/02A%20-%20Classification%20of%20Organic%20Compounds.md)
+    * [02B - Nomenclature of Organic Compounds](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/02B%20-%20Nomenclature%20of%20Organic%20Compounds.md)
+  * [03 - Stereochemistry]()
+  * [04 - Organic Reactions]()
+  * [05 - Hydrocarbons]()
+  * [06 - Halides]()
+  * [07 - Alcohols and Phenols]()
+  * [08 - Aldehydes and Ketones]()
+  * [09 - Carboxylic acids and Derivatives]()
+  * [10 - Amines]()
 
 # Concept
 
@@ -158,7 +151,3 @@
     * [Wavefunction](01%20-%20Concept/Physics/Quantum%20Mechanics/Wavefunction.md)
     * [Schrodinger's Wave Equation](01%20-%20Concept/Physics/Quantum%20Mechanics/Schrodinger's%20Wave%20Equation.md)
     * [Pauli's Exclusion Principle](01%20-%20Concept/Physics/Quantum%20Mechanics/Pauli's%20Exclusion%20Principle.md)
-
-# Extra
-
-* [Styling](Extra/Styling.md)
