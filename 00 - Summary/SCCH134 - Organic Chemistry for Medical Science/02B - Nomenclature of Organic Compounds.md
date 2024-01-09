@@ -57,18 +57,28 @@ aliases:
 
 | Functional group | Suffix | Prefix |
 | ---- | ---- | ---- |
-| $\ce{R4N+}$ | -ammonium | ammonio- |
-| $\ce{R4P+}$ | -phosphonium | phosphonio- |
-| $\ce{R3S+}$ | -sulphonium | sulphonio- |
-| $\ce{-COOH}$ | -oic acid / -carboxylic acid | carboxyl- |
+| $\ce{R4N+}$ | -ammonium | ammonio |
+| $\ce{R4P+}$ | -phosphonium | phosphonio |
+| $\ce{R3S+}$ | -sulphonium | sulphonio |
+| $\ce{-COOH}$ | -oic acid / -carboxylic acid | carboxyl |
 | $\ce{-CO-O-CO-{}}$ | -oic anhydride |  |
-| $\ce{-COOR}$ | alkyl -oate | carboalkoxyl- |
-| $\ce{-COX}$ | -oyl halide | halocarbonyl- |
-| $\ce{-CONH2}$ | -amide | amido- |
-| $\ce{-C#N}$ ($\ce{C}$ is in parent chain) | -nitrile |  |
-| $\ce{-C#N}$ | -carbonitrile | cyano- |
-| $\ce{-CHO}$ | -al if ($\ce{C}$ is in parent chain)<br>-carbaldehyde ($\ce{C}$ is not in parent chain)  | oxo- / formyl |
-|  |  |  |
+| $\ce{-COOR}$ | alkyl -oate | carboalkoxyl |
+| $\ce{-COX}$ | -oyl halide | halocarbonyl |
+| $\ce{-CONH2}$ | -amide | amido |
+| $\ce{-C#N}$ | -nitrile |  |
+| $\ce{-C#N}$ ($\ce{C}$ is not in parent chain) | -carbonitrile | cyano |
+| $\ce{-CHO}$ | -al ($\ce{C}$ is in parent chain)<br>-carbaldehyde ($\ce{C}$ is not in parent chain) | oxo- / formyl |
+| $\ce{-C(=O)-{}}$ | -one | oxo- |
+| $\ce{-OH}$ | -ol | hydroxy |
+| $\ce{-SH}$ | -thiol | mercapto |
+| $\ce{-NH2}$ | -amine | amino |
+| $\ce{-O-R}$ | - ether | oxa-, oxy- |
+| $\ce{-S-R}$ | - sulfide | alkylthio |
+| $\ce{-C=C-}$ | -ene | alkenyl |
+| $\ce{-C#C-}$ | -yne | alkynyl |
+| $\ce{-X}$ |  | halo |
+| $\ce{-NO2}$ |  | nitro |
+| $\ce{-R}$ | -ane | alkyl |
 
 ## Common Names for Hydrocarbon Substituent
 
