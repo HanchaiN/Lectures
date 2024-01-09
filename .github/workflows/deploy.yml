@@ -20,7 +20,8 @@ jobs:
           fetch-depth: 0
       - name: Install latest rust
         uses: actions-rs/toolchain@v1
-        toolchain: stable
+        with:
+          toolchain: stable
       - name: Install latest mdbook
         uses: actions-rs/cargo@v1
         with:
