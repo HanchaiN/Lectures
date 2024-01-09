@@ -37,7 +37,8 @@ additional-css = [
 	"theme/css/catppuccin-admonish.css"
 ]
 additional-js = [
-	"theme/js/whichlang.js"
+	"theme/js/whichlang.js",
+	"theme/js/smilesDrawer.js"
 ]
 no-section-label = true
 git-repository-url = "https://github.com/HanchaiN/Lectures.git"
