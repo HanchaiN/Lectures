@@ -19,7 +19,8 @@ document.querySelectorAll('script[type="text/SMILES"]').forEach(function (smiles
 	SmilesDrawer.parse(smilesText, function (tree) {
 		let canvas = document.createElement('canvas', { width: 250, height: 250 });
 		canvas.id = canvasId;
-		smiles.parentNode.insertBefore(canvas, smiles);
+		smiles.replaceWith(canvas, smiles);
+		console.log(smilesText, canvas);
 		smilesDrawer.draw(tree, canvasId);
 	});
 });
