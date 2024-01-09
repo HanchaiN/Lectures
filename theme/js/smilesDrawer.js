@@ -19,7 +19,7 @@ document.querySelectorAll('script[type="text/SMILES"]').forEach(function (smiles
 	SmilesDrawer.parse(smilesText, function (tree) {
 		let canvas = document.createElement('canvas', { width: 250, height: 250 });
 		canvas.id = canvasId;
-		smiles.parentNode.insertBefore(smilesCanvas, canvas);
-		let smilesCanvas = smilesDrawer.draw(tree, canvasId);
+		smiles.parentNode.insertBefore(canvas, smiles);
+		smilesDrawer.draw(tree, canvasId);
 	});
 });
