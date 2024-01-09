@@ -2,41 +2,56 @@
 
 # Lectures
 
-- [SCCH105 - General Chemistry]()
-	- [[01 - Atomic Structure and Atomic Theory]]
-		- [[01A - Introduction to Quantum Mechanics]]
-	- [[02 - Chemical Bonding]]
-	- [03 - The Properties of Matters and Solutions]()
-	- [[00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics|04 - Thermodynamics]]
-	- [[05 - Chemical Kinetics]]
-	- [[06 - Chemical Equilibrium]]
-	- [[07 - Ionic Equilibrium]]
-- [SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science]()
-	- [[01 - Limit and Continuity]]
-	- [[02 - Differentiation]]
-	- [[03 - Integration]]
-	- [[04 - Differential Equation]]
-	- [[05 - System of Differential Equations]]
-- [SCPY142 - Physics for Medical Students]()
-	- [[01 - Kinematic]]
-	- [[02 - Motion of Rigid Body]]
-	- [[03 - Elasticity]]
-	- [[00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics|04 - Thermodynamics]]
-	- [05 - Fluids]()
-	- [[06 - Wave and Sound]]
-	- [[07 - Optics]]
-	- [[08 - Electric Force and Field]]
-	- [[09 - Magnetism and Magnetic Field]]
-	- [[10 - Modern Physics]]
-- [SCCH134 - Organic Chemistry for Medical Science]()
-	- [[01 - Structure and Bonding]]
-		- [[01A - Atoms]]
-		- [[01B - Bonds and Shapes of molecules]]
-		- [[01C - Intermolecular Forces]]
-		- [[01D - Physical Properties]]
-	- [[02 - Classification & Nomenclature of Organic Compounds]]
-		- [[02A - Classification of Organic Compounds]]
-		- [[02B - Nomenclature of Organic Compounds]]
+## SCCH105 - General Chemistry
+
+- [[01 - Atomic Structure and Atomic Theory]]
+	- [[01A - Introduction to Quantum Mechanics]]
+- [[02 - Chemical Bonding]]
+- [03 - The Properties of Matters and Solutions]()
+- [[00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics|04 - Thermodynamics]]
+- [[05 - Chemical Kinetics]]
+- [[06 - Chemical Equilibrium]]
+- [[07 - Ionic Equilibrium]]
+
+## SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science
+
+- [[01 - Limit and Continuity]]
+- [[02 - Differentiation]]
+- [[03 - Integration]]
+- [[04 - Differential Equation]]
+- [[05 - System of Differential Equations]]
+
+## SCPY142 - Physics for Medical Students
+
+- [[01 - Kinematic]]
+- [[02 - Motion of Rigid Body]]
+- [[03 - Elasticity]]
+- [[00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics|04 - Thermodynamics]]
+- [05 - Fluids]()
+- [[06 - Wave and Sound]]
+- [[07 - Optics]]
+- [[08 - Electric Force and Field]]
+- [[09 - Magnetism and Magnetic Field]]
+- [[10 - Modern Physics]]
+
+## SCCH134 - Organic Chemistry for Medical Science
+
+- [[01 - Structure and Bonding]]
+	- [[01A - Atoms]]
+	- [[01B - Bonds and Shapes of molecules]]
+	- [[01C - Intermolecular Forces]]
+	- [[01D - Physical Properties]]
+- [[02 - Classification & Nomenclature of Organic Compounds]]
+	- [[02A - Classification of Organic Compounds]]
+	- [[02B - Nomenclature of Organic Compounds]]
+- [03 - Stereochemistry]()
+- [04 - Organic Reactions]()
+- [05 - Hydrocarbons]()
+- [06 - Halides]()
+- [07 - Alcohols and Phenols]()
+- [08 - Aldehydes and Ketones]()
+- [09 - Carboxylic acids and Derivatives]()
+- [10 - Amines]()
 
 # Concept
 

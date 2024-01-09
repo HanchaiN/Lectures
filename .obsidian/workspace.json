@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5c7cc86eace532fa",
+        "id": "f1adcbb184cd3cd7",
         "type": "tabs",
         "children": [
           {
-            "id": "48e4d71186797ae4",
+            "id": "27a8316e4e881594",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02 - Classification & Nomenclature of Organic Compounds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d38e020f7841660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95ab6a02e3b4d6fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7a100c0371c585c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae56922f23a4c649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eae717783323b12c",
@@ -135,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,13 +147,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "f7a100c0371c585c",
+  "active": "27a8316e4e881594",
   "lastOpenFiles": [
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02 - Classification & Nomenclature of Organic Compounds.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01D - Physical Properties.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
     "SUMMARY.md",
+    "().md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02 - Classification & Nomenclature of Organic Compounds.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01D - Physical Properties.md",
     "Extra/Styling.md",
     "01 - Concept/Mathematics/Calculus/Limits/Squeeze Theorem.md",
     "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Bond Dipole Moment.md",
@@ -235,7 +178,6 @@
     "01 - Concept/Chemistry/Atomic Theory/Atomic Model/Atomic Model.md",
     "01 - Concept/Chemistry/Atomic Theory/Property of Element/Property of Element.md",
     "Untitled",
-    "01 - Concept/Chemistry/Atomic Theory/Property of Element/Electronegativity.md",
     "01 - Concept/Physics/Electromagnetism",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science",
     "Untitled.canvas",
