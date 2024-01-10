@@ -43,7 +43,7 @@
     * [03C - Constitutional Isomer](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/03C%20-%20Constitutional%20Isomer.md)
     * [03D - Stereoisomer](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/03D%20-%20Stereoisomer.md)
       * [03D1 - Conformational Isomer](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/03D1%20-%20Conformational%20Isomer.md)
-      * *03D2 - Configurational Isomer*
+      * [03D2 - Configurational Isomer](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/03D2%20-%20Configurational%20Isomer.md)
     * [03E - Optical Property](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/03E%20-%20Optical%20Property.md)
     * [03F - Optical Resolution](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/03F%20-%20Optical%20Resolution.md)
     * [03G - Naturally-occurring Chiral Molecules](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/03G%20-%20Naturally-occurring%20Chiral%20Molecules.md)
