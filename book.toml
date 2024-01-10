@@ -29,6 +29,9 @@ renderers = ["html"]
 output = "htmlAndMathml"
 include-src = true
 
+[preprocessor.wikilinks]
+before = ["html"]
+
 [output.html]
 curly-quotes = true
 # mathjax-support = true
