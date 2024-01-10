@@ -6,7 +6,7 @@ aliases:
 # Nomenclature of Organic Compounds
 
 - Aliphatic Hydrocarbons
-	- Name : Parent chain (Longest chain w/ functional group) [^1]
+	- [[#Parent Name|Name]]: Parent chain (Longest chain w/ functional group)
 - Indexing: Minimize substituent's index, prioritize by [[##Nomenclature Order of Functional Groups]] then name
 - Suffix: define Functional Group
 	- Primary suffix: w/ index as hyphenated prefix (if not 1)
