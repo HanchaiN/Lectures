@@ -6,11 +6,12 @@
 * Van der Waals Attraction (Non-polar Interaction but may be possible in polar molecule)
   * London Dispersion Forces
   * Hydrophobic Interaction
-  * Depends on molecular surface area
+  * Depends on molecular surface area (heuristically, molecular weight)
   * Temporary uneven charge distribution
 * Hydrogen bonding
   * (Partially)-Positively charged Hydrogen & Atoms w/ high electronegativity & lone electron pair
   * Significantly weaker than [Covalent Bonding](../../01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Covalent%20Bonding.md) but stronger than dipole-dipole interaction
+  * Amides > Carboxylic Acids > Alcohols > Amines
 
 ## Effects on mechanism of Biomolecules
 
