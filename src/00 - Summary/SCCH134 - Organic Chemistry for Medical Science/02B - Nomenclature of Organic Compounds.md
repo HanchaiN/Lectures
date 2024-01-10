@@ -22,7 +22,7 @@
   * alkane → alkyl
   * alkene → alkenyl
   * alkyne → alkynyl
-  * [Common Names for Hydrocarbon Substituent](02B%20-%20Nomenclature%20of%20Organic%20Compounds.md#common-names-for-hydrocarbon-substituent)
+  * [\#Common Names for Hydrocarbon Substituent](02B%20-%20Nomenclature%20of%20Organic%20Compounds.md#common-names-for-hydrocarbon-substituent)
 * Configuration
   * Identify before the name (if for the substituent, within before its name, not the entire compound)
   * *cis*- / *trans*-
@@ -62,17 +62,17 @@
 |$\ce{R4N+}$|-ammonium|ammonio|
 |$\ce{R4P+}$|-phosphonium|phosphonio|
 |$\ce{R3S+}$|-sulphonium|sulphonio|
-|$\ce{-COOH}$|-oic acid / -carboxylic acid|carboxyl|
-|$\ce{-CO-O-CO-{}}$|-oic anhydride||
-|$\ce{-COOR}$|alkyl -oate|carboalkoxyl|
-|$\ce{-COX}$|-oyl halide|halocarbonyl|
-|$\ce{-CONH2}$|-amide|amido|
-|$\ce{-C#N}$|-nitrile||
-|$\ce{-C#N}$ ($\ce{C}$ is not in parent chain)|-carbonitrile|cyano|
-|$\ce{-CHO}$|-al ($\ce{C}$ is in parent chain)<br>-carbaldehyde ($\ce{C}$ is not in parent chain)|oxo- / formyl|
-|$\ce{-C(=O)-{}}$|-one|oxo-|
-|$\ce{-OH}$|-ol|hydroxy|
-|$\ce{-SH}$|-thiol|mercapto|
+|Carboxyl: $\ce{-COOH}$|-oic acid / -carboxylic acid|carboxyl|
+|Carboxylic aldehyde: $\ce{-CO-O-CO-{}}$|-oic anhydride||
+|Carboalkoxy: $\ce{-COOR}$|alkyl -oate|carboalkoxyl|
+|Haloformyl: $\ce{-COX}$|-oyl halide|halocarbonyl|
+|Carboxamide: $\ce{-CONH2}$|-amide|amido|
+|Nitrile: $\ce{-C#N}$|-nitrile||
+|Nitrile: $\ce{-C#N}$ ($\ce{C}$ is not in parent chain)|-carbonitrile|cyano|
+|Carbonyl (Aldehyde): $\ce{-CHO}$|-al ($\ce{C}$ is in parent chain)<br>-carbaldehyde ($\ce{C}$ is not in parent chain)|oxo- / formyl|
+|Carbonyl (Ketone): $\ce{-C(=O)-{}}$|-one|oxo-|
+|Hydroxyl: $\ce{-OH}$|-ol|hydroxy|
+|Sulfhydryl: $\ce{-SH}$|-thiol|mercapto|
 |Amine: $\ce{-NH2}$|-amine|amino|
 |Ether: $\ce{-O-R}$|- ether|oxa-, oxy-|
 |Sulfide: $\ce{-S-R}$|- sulfide|alkylthio|

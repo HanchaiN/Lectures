@@ -16,24 +16,24 @@
     * Antiaromatic: $4n$ electrons
 * Functional Groups with Heteroatoms
   * Single Bonds, $\ce{C-Z}$
-    * (Halo) Halides $\ce{R-X}$ ($\ce{X}$ is halogens, Group 7A/17 Elements)
-    * (Hydroxyl) Alcohols $\ce{R-OH}$
+    * Halides $\ce{R-X}$ ($\ce{X}$ is halogens, Group 7A/17 Elements)
+    * Alcohols $\ce{R-OH}$
     * Phenols $\ce{Ar-OH}$
-    * (Ether) Ethers $\ce{R-O-R}$
+    * Ethers $\ce{R-O-R}$
     * Amines $\ce{C-NH2}$, $\ce{C2-NH}$, $\ce{C3-N}$
     * Thiols (Mercaptans) $\ce{R-SH}$
     * Thiophenols $\ce{Ar-SH}$
     * Sulfides $\ce{R-S-R}$
   * Multiple Bonds, $\ce{C=Z}$ / $\ce{C#Z}$
-    * (Aldehyde/Carbonyl) Aldehydes $\ce{C-C(=O)-H}$
-    * (Ketone/Carbonyl) Ketones $\ce{C-C(=O)-C}$
-    * (Carboxyl) Carboxylic acids $\ce{C-C(=O)-OH}$
+    * Aldehydes $\ce{C-C(=O)-H}$
+    * Ketones $\ce{C-C(=O)-C}$
+    * Carboxylic acids $\ce{C-C(=O)-OH}$
     * Acid Halides $\ce{C-C(=O)-X}$
-    * (Carboxylic anhydride) Acid Anhydrides $\ce{C-C(=O)-O-C(=O)-C}$
-    * (Carboalkoxy) Carboxylate Ester $\ce{C-C(=O)-O-C}$
-    * (Carboxamide) Amides $\ce{C-C(=O)-NH2}$, $\ce{C-C(=O)-NHR}$, $\ce{C-C(=O)-NR2}$
+    * Acid Anhydrides $\ce{C-C(=O)-O-C(=O)-C}$
+    * Carboxylate Ester $\ce{C-C(=O)-O-C}$
+    * Amides $\ce{C-C(=O)-NH2}$, $\ce{C-C(=O)-NHR}$, $\ce{C-C(=O)-NR2}$
     * Niro $\ce{C-N+(=O)-O-}$
-    * (Nitrile) Nitriles $\ce{C-C#N}$
+    * Nitriles $\ce{C-C#N}$
 
 ## Reference
 
