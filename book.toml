@@ -16,9 +16,9 @@ command = "python scripts/tikzjax.py"
 renderers = ["html"]
 command = "python scripts/smiles-drawer.py"
 
-# [preprocessor.mathjax-fix]
-# renderers = ["html"]
-# command = "python scripts/mathjax-fix.py"
+[preprocessor.mathjax-fix]
+renderers = ["html"]
+command = "python scripts/mathjax-fix.py"
 
 [preprocessor.mathpunc]
 before = ["katex"]
@@ -28,8 +28,8 @@ after = ["links", "tikzjax"]
 renderers = ["html"]
 output = "htmlAndMathml"
 include-src = true
-# block-delimiter = { left = "\\[", right = "\\]" }
-# inline-delimiter = { left = "\\(", right = "\\)" }
+block-delimiter = { left = "\\\\[", right = "\\\\]" }
+inline-delimiter = { left = "\\\\(", right = "\\\\)" }
 
 [preprocessor.wikilinks]
 before = ["html"]
@@ -53,7 +53,7 @@ site-url = "https://hanchain.github.io/Lectures/"
 enable = true
 
 [output.html.fold]
-enable = true
+enable = false
 
 [output.html.search]
 enable = true
