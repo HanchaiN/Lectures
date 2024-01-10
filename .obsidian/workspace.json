@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01D - Physical Properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af5108ae1ae9de82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md"
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md"
               }
             }
           },
@@ -157,14 +170,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "d805fecf3e0a9ec2",
+  "active": "af5108ae1ae9de82",
   "lastOpenFiles": [
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02 - Classification & Nomenclature of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01D - Physical Properties.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01B - Bonds and Shapes of molecules.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02 - Classification & Nomenclature of Organic Compounds.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01A - Atoms.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01 - Structure and Bonding.md",
     "SUMMARY.md",
