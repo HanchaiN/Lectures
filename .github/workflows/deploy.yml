@@ -47,14 +47,13 @@ jobs:
         with:
           command: install
           args: mdbook-mathpunc
-      - name: Install latest mdbook-mathpunc
+      - name: Install latest mdbook-wikilink
         uses: actions-rs/cargo@v1
         with:
           command: install
           args: mdbook-wikilink
       - name: Build Book
-        run: |
-          mdbook build
+        run: mdbook build
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
