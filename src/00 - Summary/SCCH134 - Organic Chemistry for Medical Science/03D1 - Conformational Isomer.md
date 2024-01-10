@@ -33,6 +33,8 @@
     * Twist-boat (B)
     * Boat (C)
     * Half-chair (D)
+* Configurations of Monosaccharide
+  * *L*- / *D*-configuration; depends on the position of the last alcohol group when drawn in fisher projection w/ Aldehyde/Ketone at the top. Right: *D*; Left: *L*
 
 ## Reference
 
