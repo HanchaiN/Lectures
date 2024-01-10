@@ -7,7 +7,7 @@ aliases:
 
 - [[03A - Isomerism]]
 - [[03B - Terminology]]
-- [[03C - Structural Isomer]]
+- [[03C - Constitutional Isomer]]
 - [[03D - Stereoisomer]]
 - [[03E - Optical Property]]
 - [[03F - Optical Resolution]]
