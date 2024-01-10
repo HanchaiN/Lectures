@@ -30,8 +30,8 @@ renderers = ["html"]
 after = ["links", "tikzjax", "mathjax-fix"]
 output = "htmlAndMathml"
 include-src = true
-block-delimiter = { left = "\\[", right = "\\]" }
-inline-delimiter = { left = "\\(", right = "\\)" }
+block-delimiter = { left = "<script type=\"text/tex\" data-type=\"block\">", right = "</script>" }
+inline-delimiter = { left = "<script type=\"text/tex\" data-type=\"inline\">", right = "</script>" }
 
 [preprocessor.wikilinks]
 
