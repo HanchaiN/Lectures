@@ -4,4 +4,4 @@ Complex function (field) $\Psi$ over set of the state
 
 ## Reference
 
-- [But why wavefunctions? A practical approach to quantum mechanics - YouTube](https://youtu.be/Se-CpexiJLQ)
+* [But why wavefunctions? A practical approach to quantum mechanics - YouTube](https://youtu.be/Se-CpexiJLQ)

@@ -3,26 +3,26 @@
 $G=H-TS$: Measure of universal entropy
 
 $$
-\begin{align*}
+\\begin{align\*}
 dG
 &= dH-TdS\newline
 &= \delta Q-TdS-PdV+d(PV)\newline
-&= TdS_\text{sys. transfer}-TdS_\text{sys. total}+\varepsilon\newline
-&= -TdS_\text{univ}+\varepsilon
-\end{align*}
+&= TdS\_\\text{sys. transfer}-TdS\_\\text{sys. total}+\varepsilon\newline
+&= -TdS\_\\text{univ}+\varepsilon
+\\end{align\*}
 $$
 
-Therefore, $dS_\text{univ.}\ge 0\implies dG\le 0$
+Therefore, $dS\_\\text{univ.}\ge 0\implies dG\le 0$
 
-- Use $dS_\text{sys}$, $dH$, and $T$ to determine if $dS_{univ.}\ge0$
+* Use $dS\_\\text{sys}$, $dH$, and $T$ to determine if $dS\_{univ.}\ge0$
 
 ## Related Topics
 
-- [[Entropy]]
-- [[Enthalpy]]
+* [Entropy](Entropy.md)
+* [Enthalpy](Enthalpy.md)
 
 ## Reference
 
-- [[00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics|04 - Thermodynamics]]
-- [[00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics|04 - Thermodynamics]]
-- [Gibbs free energy - Wikipedia](https://en.wikipedia.org/wiki/Gibbs_free_energy)
+* [04 - Thermodynamics](../../../../00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/04%20-%20Thermodynamics.md)
+* [04 - Thermodynamics](../../../../00%20-%20Summary/SCCH105%20-%20General%20Chemistry/04%20-%20Thermodynamics.md)
+* [Gibbs free energy - Wikipedia](https://en.wikipedia.org/wiki/Gibbs_free_energy)
