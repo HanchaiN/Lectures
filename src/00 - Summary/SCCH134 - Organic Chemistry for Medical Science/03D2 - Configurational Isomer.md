@@ -21,7 +21,7 @@
   * *Z* / *cis*: same side (up/down for cyclic)
   * *E* / *trans*: different side (up/down for cyclic)
   * Note: *E* / *Z* system will use priority system while *cis* / *trans* system will refer to identical functional group
-* Priority for the configuration use first point of difference (high priority first) and compare atomic number
+* Priority for the configuration use first point of difference (high priority first) and compare atomic number; multiple bond count as multiple instances when order ($\ce{R(=O)H} > \ce{R(-OH)H2}$)
 
 ## Reference
 
