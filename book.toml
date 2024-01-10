@@ -21,9 +21,9 @@ renderers = ["html"]
 after = ["tikzjax"]
 command = "python scripts/mathjax-fix.py"
 
-[preprocessor.mathpunc]
-before = ["katex"]
-after = ["mathjax-fix"]
+# [preprocessor.mathpunc]
+# before = ["katex"]
+# after = ["mathjax-fix"]
 
 [preprocessor.katex]
 renderers = ["html"]
