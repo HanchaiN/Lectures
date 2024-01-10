@@ -33,7 +33,7 @@ include-src = true
 block-delimiter = { left = "<script type=\"text/tex\" data-type=\"block\">", right = "</script>" }
 inline-delimiter = { left = "<script type=\"text/tex\" data-type=\"inline\">", right = "</script>" }
 
-[preprocessor.wikilinks]
+# [preprocessor.wikilinks]
 
 [output.html]
 curly-quotes = true
