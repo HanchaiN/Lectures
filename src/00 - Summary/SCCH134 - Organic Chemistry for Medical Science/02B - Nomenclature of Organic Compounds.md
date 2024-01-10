@@ -1,7 +1,7 @@
 # Nomenclature of Organic Compounds
 
 * Aliphatic Hydrocarbons
-  * [Name](02B%20-%20Nomenclature%20of%20Organic%20Compounds.md#parent-name): Parent chain (Longest chain w/ functional group)
+  * [\#Parent Name](02B%20-%20Nomenclature%20of%20Organic%20Compounds.md#parent-name): Parent chain (Longest chain w/ functional group)
 * Indexing: Minimize substituent's index, prioritize by [\#Nomenclature Order of Functional Groups](02B%20-%20Nomenclature%20of%20Organic%20Compounds.md#nomenclature-order-of-functional-groups) then name
 * Suffix: define Functional Group
   * Primary suffix: w/ index as hyphenated prefix (if not 1)
