@@ -30,8 +30,8 @@ aliases:
 		- Thiophenols $\ce{Ar-SH}$
 		- Sulfides $\ce{R-S-R}$
 	- Multiple Bonds, $\ce{C=Z}$ / $\ce{C#Z}$
-		- Aldehydes $\ce{C-C(=O)-H}$
-		- Ketones $\ce{C-C(=O)-C}$
+		- Aldehydes $\ce{C-C(=O)-H}$ (Carboxyl group)
+		- Ketones $\ce{C-C(=O)-C}$ (Carboxyl group)
 		- Carboxylic acids $\ce{C-C(=O)-OH}$
 		- Acid Halides $\ce{C-C(=O)-X}$
 		- Acid Anhydrides $\ce{C-C(=O)-O-C(=O)-C}$
