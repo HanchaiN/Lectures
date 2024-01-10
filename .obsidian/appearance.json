@@ -6,5 +6,6 @@
   "translucency": true,
   "monospaceFontFamily": "SF Mono,Monaspace Neon Var,Monaco,Source Code Pro",
   "textFontFamily": "SF Pro Text,Inter",
-  "interfaceFontFamily": "SF Pro Display,Inter"
+  "interfaceFontFamily": "SF Pro Display,Inter",
+  "theme": "moonstone"
 }
