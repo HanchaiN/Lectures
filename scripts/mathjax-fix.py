@@ -5,13 +5,13 @@ import re
 
 def process_content(content):
     content = re.sub(
-        r"\$\$([\s\S]*?)(?<!(\\{2})*\\)\$\$",
+        r"\$\$([\s\S]*?)(?<!\\)\$\$",
         r"\\[\1\\]",
         content,
         re.DOTALL,
     )
     content = re.sub(
-        r"\$([\s\S]*?)(?<!(\\{2})*\\)\$",
+        r"\$([\s\S]*?)(?<!\\)\$",
         r"\\(\1\\)",
         content,
         re.DOTALL,
