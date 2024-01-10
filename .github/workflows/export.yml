@@ -28,8 +28,7 @@ jobs:
         run: |
           rm -rf docs/src
           mkdir docs/src
-          # obsidian-export --frontmatter never ./vault docs/src
-          cp ./vault/* ./docs/src
+          cp -r ./vault/* ./docs/src  # obsidian-export --frontmatter never ./vault docs/src
           cd docs
           git add src
           git config user.name "GitHub Actions"
