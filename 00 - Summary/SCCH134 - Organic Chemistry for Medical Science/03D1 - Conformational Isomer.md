@@ -32,7 +32,7 @@ aliases:
 	  ![Cyclohexane\_ring\_flip\_and\_relative\_conformation\_energies.svg](https://upload.wikimedia.org/wikipedia/commons/7/7a/Cyclohexane_ring_flip_and_relative_conformation_energies.svg)
 		- Chair (A)
 			- Axial hydrogen (perp. to ring) vs Equatorial hydrogen (side-wise)
-				- Note: by going back and forth between chair and boat, axial hydrogen can become equatorial hydrogen  
+				- Note: by going back and forth between chair and boat, axial hydrogen can become equatorial hydrogen (up remains up; down remains down)  
 				  ![Cyclohexane\_ring\_flip.svg](https://upload.wikimedia.org/wikipedia/commons/5/59/Cyclohexane_ring_flip.svg)
 				- More steric repulsion between axial positions (1,3-diaxial interaction) → Equatorial position are more favorable for large functional group
 				- Strength of 1,3-diaxial interaction between each functional group and hydrogen will be provided if needed
