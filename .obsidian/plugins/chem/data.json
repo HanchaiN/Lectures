@@ -12,7 +12,7 @@
   },
   "dataview": false,
   "options": {
-    "compactDrawing": true,
+    "compactDrawing": false,
     "terminalCarbons": false
   }
 }
