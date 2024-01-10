@@ -6,13 +6,13 @@ import re
 def process_content(content):
     content = re.sub(
         r"\$\$([\s\S]*?)(?<!\\)\$\$",
-        r"<script type=\"text/tex\" data-type=\"block\"> \1 </script>",
+        r'<script type="text/tex" data-type="block"> \1 </script>',
         content,
         re.DOTALL,
     )
     content = re.sub(
         r"\$([\s\S]*?)(?<!\\)\$",
-        r"<script type=\"text/tex\" data-type=\"inline\"> \1 </script>",
+        r'<script type="text/tex" data-type="inline"> \1 </script>',
         content,
         re.DOTALL,
     )
