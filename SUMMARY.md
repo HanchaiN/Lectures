@@ -45,8 +45,6 @@
 			- [[03D1 - Conformational Isomer]]
 			- [[03D2 - Configurational Isomer]]
 		- [[03E - Optical Property]]
-		- [[03F - Optical Resolution]]
-		- [[03G - Naturally-occurring Chiral Molecules]]
 	- [04 - Organic Reactions]()
 	- [05 - Hydrocarbons]()
 	- [06 - Halides]()

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D1 - Conformational Isomer.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eae717783323b12c",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D1 - Conformational Isomer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D1 - Conformational Isomer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md"
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D1 - Conformational Isomer.md"
               }
             }
           },
@@ -171,19 +170,20 @@
   },
   "active": "d805fecf3e0a9ec2",
   "lastOpenFiles": [
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03C - Constitutional Isomer.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03 - Stereochemistry.md",
+    "SUMMARY.md",
+    "Template/Entry.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03F - Optical Resolution.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03E - Optical Property.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03B - Terminology.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D - Stereoisomer.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D1 - Conformational Isomer.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03C - Constitutional Isomer.md",
-    "SUMMARY.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/[03D1 - Conformational Isomer.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03E - Optical Property.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03F - Optical Resolution.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03G - Naturally-occurring Chiral Molecules.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03 - Stereochemistry.md",
     "03A - Isomerism.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02 - Classification & Nomenclature of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
@@ -196,7 +196,6 @@
     "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Covalent Bonding.md",
     "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Formal Charge.md",
     "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Covalent Bonding/Hybrid Orbital.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01B - Bonds and Shapes of molecules.md",
     "Extra",
     "Extra",
     "Untitled",
