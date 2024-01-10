@@ -28,6 +28,8 @@ after = ["links", "tikzjax"]
 renderers = ["html"]
 output = "htmlAndMathml"
 include-src = true
+block-delimiter = { left = "\[", right = "\]" }
+inline-delimiter = { left = "\(", right = "\)" }
 
 [preprocessor.wikilinks]
 before = ["html"]
