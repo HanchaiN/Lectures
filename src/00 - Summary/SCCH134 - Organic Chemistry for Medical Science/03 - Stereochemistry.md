@@ -2,7 +2,7 @@
 
 * [03A - Isomerism](03A%20-%20Isomerism.md)
 * [03B - Terminology](03B%20-%20Terminology.md)
-* [03C - Structural Isomer](03C%20-%20Structural%20Isomer.md)
+* [03C - Constitutional Isomer](03C%20-%20Constitutional%20Isomer.md)
 * [03D - Stereoisomer](03D%20-%20Stereoisomer.md)
 * [03E - Optical Property](03E%20-%20Optical%20Property.md)
 * [03F - Optical Resolution](03F%20-%20Optical%20Resolution.md)
