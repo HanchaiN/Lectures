@@ -1,3 +1,8 @@
+---
+aliases:
+  - ODE
+---
+
 # Ordinary Differential Equation
 
 Single independent variable
@@ -6,17 +11,16 @@ $$
 F\left(t,y,y^{\prime},\dots,y^{(n)}\right)=0
 $$where $u^{\prime}=\frac{d}{dt}u$ and $u^{(n)}=\frac{d^{n}}{dt^{n}}u$.
 
-Can be rewritten as first-order [System of Ordinary Differential Equations](System%20of%20Differential%20Equation/System%20of%20Ordinary%20Differential%20Equations.md) by let $y\_{i}=y\_{i-1}^{\prime}=y^{(i)}$ and $y\_{0}=y$.
+Can be rewritten as first-order [[System of Ordinary Differential Equations]] by let $y_{i}=y_{i-1}^{\prime}=y^{(i)}$ and $y_{0}=y$.
 
 ## Solving Techniques
 
-* [Separation of Variable](Separation%20of%20Variable.md) (First-order)
-* [Integrating Factor](Integrating%20Factor.md)
+- [[Separation of Variable]] (First-order)
+- [[Integrating Factor]]
 
 ## Related Topics
 
-* [Linear Differential Equation](Linear%20Differential%20Equation.md)
-
+- [[Linear Differential Equation]]
 ## Reference
 
-* [04 - Differential Equation](../../../../00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/04%20-%20Differential%20Equation.md)
+- [[04 - Differential Equation]]

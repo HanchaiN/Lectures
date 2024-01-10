@@ -1,10 +1,10 @@
 # Squeeze Theorem
 
 $$
-g(x)\le f(x)\le h(x); \lim\_{x\to a}g(x)=\lim\_{x\to a}h(x)=L\implies\lim\_{x\to a}f(x)=L
+g(x)\le f(x)\le h(x); \lim_{x\to a}g(x)=\lim_{x\to a}h(x)=L\implies\lim_{x\to a}f(x)=L
 $$
 
-````tikz
+```tikz
 \begin{document}
 \begin{tikzpicture}[scale=10]
   % Axis
@@ -22,14 +22,14 @@ $$
 \end{tikzpicture}
 \end{document}
 
-````
+```
 
-* Useful for finding limits for Trigonometric Functions
+- Useful for finding limits for Trigonometric Functions
 
 ## Related Topics
 
-* [Limit](Limit.md)
+- [[Limit]]
 
 ## Reference
 
-* [01 - Limit and Continuity](../../../../00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/01%20-%20Limit%20and%20Continuity.md)
+- [[01 - Limit and Continuity]]

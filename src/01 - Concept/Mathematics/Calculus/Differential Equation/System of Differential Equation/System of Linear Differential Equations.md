@@ -3,22 +3,22 @@
 (First-order)
 
 $$
-y\_{i}^{\prime}=L\left\[y\_{1},\dots,y\_{n}\right\]
+y_{i}^{\prime}=L\left[y_{1},\dots,y_{n}\right]
 $$
 
-for $i=1,\dots,n$ and $L$ is a [Linear](../../../Linear%20Transformation.md) operator
+for $i=1,\dots,n$ and $L$ is a [[Linear Transformation|Linear]] operator
 
 Alternatively, $\mathbf{y}^{\prime}=\mathbf{A}\mathbf{y}+\mathbf{b}$.
 
-The equations can be reduced into sets of independent [Linear Differential Equation](../Linear%20Differential%20Equation.md) and the solutions of one will correspond to solutions of the other.
+The equations can be reduced into sets of independent [[Linear Differential Equation]] and the solutions of one will correspond to solutions of the other.
 
 ## Related Topics
 
-* [Linear Differential Equation](../Linear%20Differential%20Equation.md)
-* [System of Homogeneous Linear Differential Equations](System%20of%20Homogeneous%20Linear%20Differential%20Equations.md)
-* [System of Inhomogeneous Linear Differential Equations](System%20of%20Inhomogeneous%20Linear%20Differential%20Equations.md)
+- [[Linear Differential Equation]]
+- [[System of Homogeneous Linear Differential Equations]]
+- [[System of Inhomogeneous Linear Differential Equations]]
 
 ## Reference
 
-* [05 - System of Differential Equations](../../../../../00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/05%20-%20System%20of%20Differential%20Equations.md)
-* [Matrix differential equation - Wikipedia](https://en.wikipedia.org/wiki/Matrix_differential_equation)
+- [[05 - System of Differential Equations]]
+- [Matrix differential equation - Wikipedia](https://en.wikipedia.org/wiki/Matrix_differential_equation)

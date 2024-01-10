@@ -1,17 +1,17 @@
 # Entropy
 
-Measure of likelihood of a state
+Measure of likelihood of a state  
 
-* Proportional to numbers of possible microstates for a macrostate $S=k\_{B}\ln\Omega$
-  * Microstate are configurations for each individual particles
-  * Macrostate are overall configuration of the system
+- Proportional to numbers of possible microstates for a macrostate $S=k_{B}\ln\Omega$  
+	- Microstate are configurations for each individual particles  
+	- Macrostate are overall configuration of the system
 
 ## Related Topics
 
-* [Gibbs free energy](Gibbs%20free%20energy.md)
+- [[Gibbs free energy]]
 
 ## Reference
 
-* [04 - Thermodynamics](../../../../00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/04%20-%20Thermodynamics.md)
-* [04 - Thermodynamics](../../../../00%20-%20Summary/SCCH105%20-%20General%20Chemistry/04%20-%20Thermodynamics.md)
-* [Entropy - Wikipedia](https://en.wikipedia.org/wiki/Entropy)
+- [[00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics|04 - Thermodynamics]]
+- [[00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics|04 - Thermodynamics]]
+- [Entropy - Wikipedia](https://en.wikipedia.org/wiki/Entropy)
