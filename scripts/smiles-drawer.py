@@ -5,7 +5,7 @@ import re
 
 def process_content(content):
     content = re.sub(
-        r"````(?:smiles|SMILES)([\s\S]*?)````",
+        r"`{3,}(?:smiles|SMILES)([\s\S]*?)`{3,}",
         r'<script type="text/SMILES">\1</script>',
         content,
         re.DOTALL,

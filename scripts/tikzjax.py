@@ -5,7 +5,7 @@ import re
 
 def process_content(content):
     content = re.sub(
-        r"````tikz([\s\S]*?)````",
+        r"`{3,}(?:tikz)([\s\S]*?)`{3,}",
         r'<script type="text/tikz">\1</script>',
         content,
         re.DOTALL,
