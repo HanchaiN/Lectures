@@ -78,14 +78,14 @@ aliases:
 | $\ce{-C(=O)-{}}$ | -one | oxo- |
 | $\ce{-OH}$ | -ol | hydroxy |
 | $\ce{-SH}$ | -thiol | mercapto |
-| $\ce{-NH2}$ | -amine | amino |
-| $\ce{-O-R}$ | - ether | oxa-, oxy- |
-| $\ce{-S-R}$ | - sulfide | alkylthio |
-| $\ce{-C=C-}$ | -ene | alkenyl |
-| $\ce{-C#C-}$ | -yne | alkynyl |
-| $\ce{-X}$ |  | halo |
-| $\ce{-NO2}$ |  | nitro |
-| $\ce{-R}$ | -ane | alkyl |
+| Amine: $\ce{-NH2}$ | -amine | amino |
+| Ether: $\ce{-O-R}$ | - ether | oxa-, oxy- |
+| Sulfide: $\ce{-S-R}$ | - sulfide | alkylthio |
+| Alkenyl: $\ce{-C=C-}$ | -ene | alkenyl |
+| Alkynyl: $\ce{-C#C-}$ | -yne | alkynyl |
+| Halo: $\ce{-X}$ |  | halo |
+| Nitro: $\ce{-NO2}$ |  | nitro |
+| Alkyl: $\ce{-R}$ | -ane | alkyl |
 
 ## Specific Names for Aromatic Hydrocarbon
 
