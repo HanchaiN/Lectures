@@ -255,5 +255,3 @@ aliases:
 ## Reference
 
 - Handout SCCH134
-
-[^1]: [[#Parent Name]]
