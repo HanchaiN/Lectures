@@ -7,8 +7,7 @@
 * [03E - Optical Property](03E%20-%20Optical%20Property.md)
 * 03F - Optical Resolution
   * Separate the diastereomers
-    * May rely on crystallization (w/ or w/o mixing with isolated (+)/(-) samples of other substances)
-* *03G - Naturally-occurring Chiral Molecules*
+    * May rely on crystallization (w/ or w/o mixing with isolated (+)/(-) samples of other substances
 
 ## Reference
 
