@@ -250,5 +250,3 @@
 ## Reference
 
 * Handout SCCH134
-
-[^1]: [Parent Name](02B%20-%20Nomenclature%20of%20Organic%20Compounds.md#parent-name)
