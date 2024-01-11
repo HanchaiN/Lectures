@@ -12,7 +12,7 @@
     * Note: If both alkene and alkyne exists, alkyne will be primary prefix.
     * Note: If both alkene and alkyne exists, sum of their indices will be minimized. If multiple indexing have the same sum, alkene will have lower index.
 * Prefix: define substituent (order by name, excluding number & index prefix)
-  * Primary prefix: cycle for cyclic hydrocarbons
+  * Primary prefix: cycle- for cyclic hydrocarbons
   * Secondary prefix: w/ index as hyphenated prefix
 * If multiple instances of same functional groups / substituents, add number prefix (2: di- / 3: tri- / 4: tetra- / 5: penta-)
 * Aromatic Hydrocarbons
