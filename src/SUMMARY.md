@@ -45,7 +45,11 @@
       * [03D1 - Conformational Isomer](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/03D1%20-%20Conformational%20Isomer.md)
       * [03D2 - Configurational Isomer](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/03D2%20-%20Configurational%20Isomer.md)
     * [03E - Optical Property](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/03E%20-%20Optical%20Property.md)
-  * [04 - Organic Reactions]()
+  * [04 - Organic Reactions](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/04%20-%20Organic%20Reactions.md)
+    * [04A - Components of Reactions](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/04A%20-%20Components%20of%20Reactions.md)
+    * *04B - Kinetics in Organic Chemistry*
+    * *04C - Reaction Mechanism*
+    * *04D - Types of Reaction in Organic Chemistry*
   * [05 - Hydrocarbons]()
   * [06 - Halides]()
   * [07 - Alcohols and Phenols]()
