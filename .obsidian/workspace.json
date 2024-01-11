@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "24b32637ef1b2e40",
+        "id": "5295e096aead952d",
         "type": "tabs",
         "children": [
           {
-            "id": "cc24e8ecb6c7ae74",
+            "id": "e4cc57de51b76c85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fcb87ac8187f476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04 - Organic Reactions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76a37deec1de4f1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04D - Types of Reaction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b706d68cd8eb3cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04B - Reaction Kinetics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb4578e0092b0e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04D - Types of Reaction.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04D - Types of Reaction.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04D - Types of Reaction.md"
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md"
               }
             }
           },
@@ -207,11 +158,13 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "4edc4d65c3846c5b",
+  "active": "e4cc57de51b76c85",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04 - Organic Reactions.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04D - Types of Reaction.md",
+    "SUMMARY.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04 - Organic Reactions.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03E - Optical Property.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04B - Reaction Kinetics.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04A - Components in a Reaction.md",
@@ -219,7 +172,6 @@
     "Ketcher",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03 - Stereochemistry.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03E - Optical Property.md",
     "().md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01D - Physical Properties.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
@@ -236,7 +188,6 @@
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D - Stereoisomer.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/[03D1 - Conformational Isomer.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03G - Naturally-occurring Chiral Molecules.md",
     "Extra",
     "Extra",
     "Untitled",

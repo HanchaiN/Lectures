@@ -29,7 +29,7 @@ aliases:
 				- Benzylic cation: $\ce{Ph-C+}$ (resonate with the ring)
 				- Heteroatom with electron pair: $\ce{C+-Z: <-> C=Z+}$
 				- Cation with $(4n+2)$ $\pi$-electron in a ring (Aromatic carbocation)
-	- Carbonradical
+	- Carbon Radical
 		- $\ce{C-H + Rad. -> C. + H-Rad}$
 		- $\ce{C=C + Rad. -> C.-C-Rad}$
 		- Stability
