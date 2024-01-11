@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
+            "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
+            "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,12 +114,20 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md"
+            "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md"
           }
+        }
+      },
+      {
+        "id": "c0faf93dc74213b0",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -134,11 +142,11 @@
   },
   "active": "3c3a3f891feae912",
   "lastOpenFiles": [
+    "SUMMARY.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "/00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "/00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
-    "SUMMARY.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03 - Stereochemistry.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D - Stereoisomer.md",
     "Extra/Styling.md",
