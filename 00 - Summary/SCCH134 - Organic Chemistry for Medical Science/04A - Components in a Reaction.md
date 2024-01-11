@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Components of Reactions
+  - Components in a Reaction
 ---
 
-# Components of Reactions
+# Components in a Reaction
 
 - Starting Material(s) + Reagent →\[reaction conditions (catalyst/solvent), Energy (light/heat)\] → Products (major + minor + side product)
 - Reagent

@@ -46,8 +46,8 @@
 			- [[03D2 - Configurational Isomer]]
 		- [[03E - Optical Property]]
 	- [[04 - Organic Reactions]]
-		- [[04A - Components of Reactions]]
-		- [[04B - Kinetics in Organic Chemistry]]
+		- [[04A - Components in a Reaction]]
+		- [[04B - Reaction Kinetics]]
 		- [[04C - Reaction Mechanism]]
 		- [[04D - Types of Reaction in Organic Chemistry]]
 	- [05 - Hydrocarbons]()
