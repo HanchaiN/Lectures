@@ -49,7 +49,7 @@
     * [04A - Components in a Reaction](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/04A%20-%20Components%20in%20a%20Reaction.md)
     * [04B - Reaction Kinetics](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/04B%20-%20Reaction%20Kinetics.md)
     * *04C - Reaction Mechanism*
-    * *04D - Types of Reaction in Organic Chemistry*
+    * [04D - Types of Reaction](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/04D%20-%20Types%20of%20Reaction.md)
   * [05 - Hydrocarbons]()
   * [06 - Halides]()
   * [07 - Alcohols and Phenols]()
