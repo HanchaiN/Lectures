@@ -49,7 +49,7 @@
 		- [[04A - Components in a Reaction]]
 		- [[04B - Reaction Kinetics]]
 		- [[04C - Reaction Mechanism]]
-		- [[04D - Types of Reaction in Organic Chemistry]]
+		- [[04D - Types of Reaction]]
 	- [05 - Hydrocarbons]()
 	- [06 - Halides]()
 	- [07 - Alcohols and Phenols]()
