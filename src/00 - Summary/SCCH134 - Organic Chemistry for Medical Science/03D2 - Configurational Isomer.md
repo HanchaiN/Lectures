@@ -11,7 +11,7 @@
     ![Alpha\_glucose\_views.svg](https://upload.wikimedia.org/wikipedia/commons/3/31/Alpha_glucose_views.svg)
 * Enantiomer vs Diastereomer
   * Enantiomer: Mirror-image: Chiral molecule only
-    * Molecules w/ $\ce{C^{\ast}}$ but have no enantiomer → mesomer
+    * Molecules w/ $\ce{C^{\ast}}$ but have no enantiomer → mesomer (*meso*-)
   * Diastereomer: Chiral / Achiral (w/ or w/o $\ce{C^{\ast}}$)
     * w/o $\ce{C^{\ast}}$ → double bond / cyclic (generally)
 * Chiral carbon (Including Allene) → *R*- / *S*-configuration
