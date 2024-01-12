@@ -18,7 +18,7 @@ aliases:
 	  $\ce{C=C + HBr ->[HO-OH -> HO. + .OH][HO. + H-Br -> HOBr + H.; HO. + H-Br -> H2O + Br.] C(H)-C. + C.-C(H) + C(Br)-C. + C.-C(Br)}$  
 	  (Prefer tertiary carbon Radical: $\ce{C.-C(X)}$)
 	- Nucleophilic Addition:  
-	  $\ce{C=O + HCN ->[HCN -> H+ + N#C^{-}] N#C-C-O^{-} + H+  -> N#C-C-OH }$
+	  $\ce{C=O + HCN ->[HCN -> H+ + N#C^{-}] N#C-C-O^{-} ->[+ H+] N#C-C-OH }$
 - (synand/or anti-) Elimination Reaction: $\ce{C(Y)-C(Z) -> C=C + Y-Z}$
 - Substitution Reaction: $\ce{C-L + Z -> C-Z + L}$
 	- Radical Substitution: $\ce{C-H + Br2 ->[Br2 + h\nu / \Delta -> 2 Br.][H. + Br. -> HBr] C-Br + HBr}$

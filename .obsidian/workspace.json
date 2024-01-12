@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5295e096aead952d",
+        "id": "9bfdcc9026ed7383",
         "type": "tabs",
         "children": [
           {
-            "id": "e4cc57de51b76c85",
+            "id": "1b241a01a8c50557",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md"
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md"
               }
             }
           },
@@ -158,16 +158,18 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "e4cc57de51b76c85",
+  "active": "1b241a01a8c50557",
   "lastOpenFiles": [
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04D - Types of Reaction.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04B - Reaction Kinetics.md",
     "SUMMARY.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04A - Components in a Reaction.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05B - Physical properties of Hydrocarbons.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04 - Organic Reactions.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03E - Optical Property.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04B - Reaction Kinetics.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04A - Components in a Reaction.md",
     "Ketcher/Ketcher 1-11-2024 10.06.48.ket",
     "Ketcher",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
@@ -186,8 +188,6 @@
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03B - Terminology.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D - Stereoisomer.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/[03D1 - Conformational Isomer.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
     "Extra",
     "Extra",
     "Untitled",

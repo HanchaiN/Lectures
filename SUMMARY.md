@@ -52,6 +52,8 @@
 		- [[04D - Types of Reaction]]
 	- [05 - Hydrocarbons]()
 		- [[05A - Classification and Structure of Hydrocarbons]]
+		- [[05B - Physical properties of Hydrocarbons]]
+		- [[05C - Reactions of Hydrocarbons]]
 	- [06 - Halides]()
 	- [07 - Alcohols and Phenols]()
 	- [08 - Aldehydes and Ketones]()
