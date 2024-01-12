@@ -6,9 +6,6 @@
   * High energy transition state (@Activation Energy)
     * Bond breaking & Bond Forming
     * Bracketed when written in a mechanism (can skip the transition state)
-* Concerted or Synchronized Mechanism → Transition State  
-  ![Bromoethane\_SN2\_reaction.svg](https://upload.wikimedia.org/wikipedia/commons/4/40/Bromoethane_SN2_reaction.svg)
-* Stepwise Mechanism → Transition State and Reaction Intermediate
 * Reaction Intermediates
   * Carbocation
     * $\ce{R-Z -> C+ + Z-}$

@@ -62,15 +62,15 @@
 |$\ce{R4N+}$|-ammonium|ammonio|
 |$\ce{R4P+}$|-phosphonium|phosphonio|
 |$\ce{R3S+}$|-sulphonium|sulphonio|
-|Carboxyl: $\ce{-COOH}$|-oic acid / -carboxylic acid|carboxyl|
+|Carboxyl: $\ce{-COOH}$|-oic acid ($\ce{C}$ is in parent chain)<br>-carboxylic acid ($\ce{C}$ is not in parent chain)|carboxyl|
 |Carboxylic aldehyde: $\ce{-CO-O-CO-{}}$|-oic anhydride||
 |Carboalkoxy: $\ce{-COOR}$|alkyl -oate|carboalkoxyl|
 |Haloformyl: $\ce{-COX}$|-oyl halide|halocarbonyl|
 |Carboxamide: $\ce{-CONH2}$|-amide|amido|
 |Nitrile: $\ce{-C#N}$|-nitrile||
 |Nitrile: $\ce{-C#N}$ ($\ce{C}$ is not in parent chain)|-carbonitrile|cyano|
-|Carbonyl (Aldehyde): $\ce{-CHO}$|-al ($\ce{C}$ is in parent chain)<br>-carbaldehyde ($\ce{C}$ is not in parent chain)|oxo- / formyl|
-|Carbonyl (Ketone): $\ce{-C(=O)-{}}$|-one|oxo-|
+|Carbonyl (Aldehyde): $\ce{-CHO}$|-al ($\ce{C}$ is in parent chain)<br>-carbaldehyde ($\ce{C}$ is not in parent chain)|oxo ($\ce{C}$ is in parent chain)<br>formyl ($\ce{C}$ is not in parent chain)|
+|Carbonyl (Ketone): $\ce{-C(=O)-{}}$|-one|oxo|
 |Hydroxyl: $\ce{-OH}$|-ol|hydroxy|
 |Sulfhydryl: $\ce{-SH}$|-thiol|mercapto|
 |Amine: $\ce{-NH2}$|-amine|amino|
