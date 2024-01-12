@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eae717783323b12c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md"
+                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md"
               }
             }
           },
@@ -160,6 +159,12 @@
   },
   "active": "214f5585acd2b950",
   "lastOpenFiles": [
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D1 - Conformational Isomer.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D - Stereoisomer.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03C - Constitutional Isomer.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05B - Physical properties of Hydrocarbons.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04 - Organic Reactions.md",
@@ -169,7 +174,6 @@
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04C - Reaction Mechanism.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04A - Components in a Reaction.md",
     "SUMMARY.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
     "Ketcher/Ketcher 1-11-2024 10.06.48.ket",
@@ -182,12 +186,7 @@
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02 - Classification & Nomenclature of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01A - Atoms.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01 - Structure and Bonding.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D1 - Conformational Isomer.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03C - Constitutional Isomer.md",
     "Template/Entry.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03F - Optical Resolution.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03B - Terminology.md",
     "Extra",
     "Extra",
     "Untitled",
