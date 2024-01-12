@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9bfdcc9026ed7383",
+        "id": "d767feb91d7873fb",
         "type": "tabs",
         "children": [
           {
-            "id": "1b241a01a8c50557",
+            "id": "214f5585acd2b950",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,21 +158,22 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "1b241a01a8c50557",
+  "active": "214f5585acd2b950",
   "lastOpenFiles": [
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04D - Types of Reaction.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04B - Reaction Kinetics.md",
-    "SUMMARY.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04A - Components in a Reaction.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05B - Physical properties of Hydrocarbons.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04 - Organic Reactions.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03E - Optical Property.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04D - Types of Reaction.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04B - Reaction Kinetics.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04C - Reaction Mechanism.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04A - Components in a Reaction.md",
+    "SUMMARY.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
     "Ketcher/Ketcher 1-11-2024 10.06.48.ket",
     "Ketcher",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03 - Stereochemistry.md",
     "().md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01D - Physical Properties.md",
@@ -187,7 +188,6 @@
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03F - Optical Resolution.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03B - Terminology.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D - Stereoisomer.md",
     "Extra",
     "Extra",
     "Untitled",

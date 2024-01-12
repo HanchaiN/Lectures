@@ -48,7 +48,7 @@
 	- [[04 - Organic Reactions]]
 		- [[04A - Components in a Reaction]]
 		- [[04B - Reaction Kinetics]]
-		- [04C - Reaction Mechanism]()
+		- [[04C - Reaction Mechanism]]
 		- [[04D - Types of Reaction]]
 	- [05 - Hydrocarbons]()
 		- [[05A - Classification and Structure of Hydrocarbons]]

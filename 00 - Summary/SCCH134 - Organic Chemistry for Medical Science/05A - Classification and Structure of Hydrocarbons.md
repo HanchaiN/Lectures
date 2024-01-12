@@ -16,7 +16,7 @@ aliases:
 	- Aromaticity (Hückel's rule for aromaticity)
 		- Cyclic planar structure
 		- Conjugated $\pi$-bond across the cycle
-		- $4n+2$ $\pi$-electrons in the conjugated system
+		- ($4n+2$) $\pi$-electrons in the conjugated system
 
 ## Reference
 
