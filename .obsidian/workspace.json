@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
+                "file": "01 - Concept/Mathematics/Calculus/Limits/Limit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
+                "file": "01 - Concept/Mathematics/Calculus/Limits/Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
+                "file": "01 - Concept/Mathematics/Calculus/Limits/Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md"
+                "file": "01 - Concept/Mathematics/Calculus/Limits/Limit.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "214f5585acd2b950",
   "lastOpenFiles": [
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D1 - Conformational Isomer.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
@@ -174,7 +175,6 @@
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04C - Reaction Mechanism.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04A - Components in a Reaction.md",
     "SUMMARY.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
     "Ketcher/Ketcher 1-11-2024 10.06.48.ket",
     "Ketcher",
