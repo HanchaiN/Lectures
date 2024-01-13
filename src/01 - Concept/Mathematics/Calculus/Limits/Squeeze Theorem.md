@@ -5,7 +5,7 @@ g(x)\le f(x)\le h(x); \lim\_{x\to a}g(x)=\lim\_{x\to a}h(x)=L\implies\lim\_{x\to
 $$
 
 ````tikz
-\usetikzlibrary{background}
+\usetikzlibrary{backgrounds}
 
 \begin{document}
   \begin{tikzpicture}[scale=10, background rectangle/.style={fill=white}, show background rectangle]

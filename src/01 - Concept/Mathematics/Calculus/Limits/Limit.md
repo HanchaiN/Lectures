@@ -9,10 +9,11 @@
 * $\lim\_{x\to a}f(x)=L \iff \forall \varepsilon>0,\exists \delta>0,\forall x\left\[0\<\\left\lvert x-a\right\rvert\<\\delta\implies\left\lvert f(x)-L\right\rvert\<\\varepsilon\right\]$
   
   ````tikz
-    \usetikzlibrary{arrows.meta, background}
+    \usetikzlibrary{arrows.meta}
+    \usetikzlibrary{backgrounds}
   
     \begin{document}
-      \begin{tikzpicture}[scale=.5, background rectangle/.style={fill=yellow}, show background rectangle]
+      \begin{tikzpicture}[scale=.5, background rectangle/.style={fill=white}, show background rectangle]
     	% Axes
     	\draw[->] (-0.5,0) -- (12.5,0) node[right] {\(x\)};  
     	\draw[->] (0,-0.5) -- (0,12.5) node[above] {\(f(x)\)};
