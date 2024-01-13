@@ -21,15 +21,8 @@ renderers = ["html"]
 after = ["tikzjax"]
 command = "python scripts/mathjax-fix.py"
 
-# [preprocessor.mathpunc]
-# before = ["katex"]
-# after = ["mathjax-fix"]
-
-# [preprocessor.katex]
-# renderers = ["html"]
-# after = ["links", "tikzjax", "mathjax-fix"]
-# output = "htmlAndMathml"
-# include-src = true
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
 
 # [preprocessor.wikilinks]
 
@@ -42,7 +35,9 @@ additional-css = [
 ]
 additional-js = [
 	"theme/js/whichlang.js",
-	"theme/js/smilesDrawer.js"
+	"theme/js/smilesDrawer.js",
+	"theme/js/mermaid.min.js",
+	"theme/js/mermaid-init.js"
 ]
 no-section-label = true
 git-repository-url = "https://github.com/HanchaiN/Lectures.git"

@@ -37,16 +37,11 @@ jobs:
         with:
           command: install
           args: mdbook
-      - name: Install latest mdbook-katex
+      - name: Install latest mdbook-mermaid
         uses: actions-rs/cargo@v1
         with:
           command: install
-          args: mdbook-katex
-      # - name: Install latest mdbook-mathpunc
-      #   uses: actions-rs/cargo@v1
-      #   with:
-      #     command: install
-      #     args: mdbook-mathpunc
+          args: mdbook-mermaid
       - name: Build Book
         run: mdbook build
       - name: Setup Pages

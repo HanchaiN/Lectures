@@ -53,10 +53,23 @@
     <!-- MathJax -->
     <script>
         window.MathJax = {
+            ...window.MathJax ?? {},
             tex: {
                 inlineMath: [['$', '$'], ['\\(', '\\)']],
                 displayMath: [['$$', '$$'], ['\\[', '\\]']],
             },
+            options: {
+                enableMenu: true,
+                menuOptions: {
+                    settings: {
+                        textHints: true,
+                        semantics: true,
+                        assistiveMml: true,
+                        collapsible: true,
+                        explorer: true,
+                    }
+                }
+            }
         };
     </script>
     <script type="text/javascript" id="MathJax-script" async
@@ -167,15 +180,24 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light" data-scheme="light">Light</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="rust" data-scheme="light">Rust</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="coal" data-scheme="dark">Coal</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="navy" data-scheme="dark">Navy</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="ayu" data-scheme="dark">Ayu</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="latte" data-scheme="light">Latte</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="frappe" data-scheme="dark">Frappé</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="macchiato" data-scheme="dark">Macchiato</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="mocha" data-scheme="dark">Mocha</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light"
+                                    data-scheme="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust"
+                                    data-scheme="light">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal"
+                                    data-scheme="dark">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy"
+                                    data-scheme="dark">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu"
+                                    data-scheme="dark">Ayu</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="latte"
+                                    data-scheme="light">Latte</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="frappe"
+                                    data-scheme="dark">Frappé</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="macchiato"
+                                    data-scheme="dark">Macchiato</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mocha"
+                                    data-scheme="dark">Mocha</button></li>
                         </ul>
                         {{#if search_enabled}}
                         <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)"
@@ -349,24 +371,6 @@
         {{#each additional_js}}
         <script src="{{ ../path_to_root }}{{this}}"></script>
         {{/each}}
-
-        {{#if is_print}}
-        {{#if mathjax_support}}
-        <script>
-            window.addEventListener('load', function () {
-                MathJax.Hub.Register.StartupHook('End', function () {
-                    window.setTimeout(window.print, 100);
-                });
-            });
-        </script>
-        {{else}}
-        <script>
-            window.addEventListener('load', function () {
-                window.setTimeout(window.print, 100);
-            });
-        </script>
-        {{/if}}
-        {{/if}}
 
     </div>
 </body>

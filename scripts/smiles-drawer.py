@@ -1,11 +1,12 @@
 import json
 import sys
 import re
+import logging
 
 
 def process_content(content):
     content = re.sub(
-        r"`{3,}(?:smiles|SMILES)([\s\S]*?)`{3,}",
+        r"`{3,}(?:smiles|SMILES)(?:\s*)([\s\S]*?)(?:\s*)`{3,}",
         r'<script type="text/SMILES">\1</script>',
         content,
         re.DOTALL,
@@ -22,6 +23,7 @@ def process_item(item):
 
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.DEBUG, filename="preprocessor.log")
     if len(sys.argv) > 1:
         if sys.argv[1] == "supports":
             sys.exit(0)

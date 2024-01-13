@@ -1,18 +1,19 @@
 import json
 import sys
 import re
+import logging
 
 
 def process_content(content):
     content = re.sub(
-        r"\$\$([\s\S]*?)(?<!\\)\$\$",
-        r'\\\\[ \1 \\\\]',
+        r"\$\$([^\$]*(?:\\{2})*)(?<!\\)\$\$",
+        r'\\\\[\1\\\\]',
         content,
         re.DOTALL,
     )
     content = re.sub(
-        r"\$([\s\S]*?)(?<!\\)\$",
-        r'\\\\( \1 \\\\)',
+        r"\$([^\$]*(?:\\{2})*)(?<!\\)\$",
+        r'\\\\(\1\\\\)',
         content,
         re.DOTALL,
     )
@@ -28,6 +29,7 @@ def process_item(item):
 
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.DEBUG, filename="preprocessor.log")
     if len(sys.argv) > 1:
         if sys.argv[1] == "supports":
             sys.exit(0)
