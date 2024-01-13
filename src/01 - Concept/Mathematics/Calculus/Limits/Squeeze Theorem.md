@@ -5,8 +5,10 @@ g(x)\le f(x)\le h(x); \lim\_{x\to a}g(x)=\lim\_{x\to a}h(x)=L\implies\lim\_{x\to
 $$
 
 ````tikz
+\usetikzlibrary{background}
+
 \begin{document}
-\begin{tikzpicture}[scale=10]
+  \begin{tikzpicture}[scale=10, background rectangle/.style={fill=white}, show background rectangle]
   % Axis
   \draw[->] (-.45,0) -- (+.45,0) node[right] {\(x\)};
   \draw[->] (0,-.3) -- (0,+.3) node[above] {\(y\)};
