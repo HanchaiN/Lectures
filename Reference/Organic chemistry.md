@@ -5,3 +5,5 @@ aliases:
 ---
 
 # Organic Chemistry
+
+@iupac-blue-book
