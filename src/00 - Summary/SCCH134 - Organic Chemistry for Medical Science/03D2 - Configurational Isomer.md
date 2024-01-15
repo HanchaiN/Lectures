@@ -60,4 +60,4 @@
 
 * Handout SCCH134
 * [8.5: The E/Z System (when cis/trans does not work) - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_(Wade)/08%3A_Structure_and_Synthesis_of_Alkenes/8.05%3A_The_E_Z_System_(when_cis_trans_does_not_work))
-* [Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.](https://doi.org/10.1039/9781849733069)
+* [Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.](../../Reference/Nomenclature%20of%20Organic%20Chemistry.%20IUPAC%20Recommendations%20and%20Preferred%20Names%202013..md)
