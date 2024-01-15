@@ -34,12 +34,18 @@ aliases:
 - Priority for the configuration use first point of difference (high priority first) and compare atomic number; multiple bond count as multiple instances when order ($\ce{R(=O)H} > \ce{R(-OH)H2}$)
 	- If different atom, High atomic number first; Else High Atomic mass first
 		- Lone electron pair have lowest priority
-	- If same atom, transverse highest priority branch first (cannot go reverse)
-		- Multiple bond can be transverse multiple times; Can go reverse to previous node as many time as the bond allow.
-		- Can transverse along the ring.
+	- If same atom, transverse highest priority branch first (cannot go reverse)  
+	  ![Example Compound](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92143a.gif) ![simplified digraph for center 5](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92143b.gif)
+		- Can transverse along the ring both ways and ends at the entrance node (inclusive)
+		- Multiple bond can be transverse multiple times (May consider as ring of length 2)
+			- Can go forward multiple time
+			- For the first forward propagation, can go reverse to previous node with the same multiplicity.
+			- Other propagations and the reverse is consider terminal (cannot transverse deeper)
+			- Note: For ring systems with maximum number of noncumulative double bonds, the duplicate(s) will have to average atomic number (and weight) if the bond is split in each possible resonance structure (with each double bond positions).  
+			  ![Resonance Double Bond Transversal](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92144b.gif)
 		- If the branch is the same,
-			- If different double-bond configuration, *Z*- before *E*- before nonstereogenic double bonds.
-			- If different chiral configuration pairs, like (e.g *R*,*R*) before unlike (e.g. *R*,*S*)
+			- If different double-bond configuration, *Z*- before *E*- before non-stereogenic double bonds.
+			- If different chiral configuration pairs, like (e.g. *R*,*R*) before unlike (e.g. *R*,*S*)
 			- If different chiral configuration, *R*- and *M*- before *S*- and *P*-
 			- Else, go to the next prioritized-branch
 
