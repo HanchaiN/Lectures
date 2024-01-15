@@ -19,11 +19,25 @@ jobs:
           ref: docs
           token: ${{ secrets.GH_PAT }}
           path: docs
-      - name: Install latest Obsidian Export
-        run: |
-          tag=$(curl 'https://api.github.com/repos/zoni/obsidian-export/releases/latest' | jq -r '.tag_name')
-          url="https://github.com/zoni/obsidian-export/releases/download/${tag}/obsidian-export-installer.sh"
-          curl --proto '=https' --tlsv1.2 -LsSf $url | sh
+      - name: Install latest rust
+        uses: actions-rs/toolchain@v1
+        with:
+          profile: minimal
+          toolchain: stable
+      - name: Setup cargo cache
+        uses: actions/cache@v3
+        continue-on-error: false
+        with:
+          path: |
+            ~/.cargo
+            target/
+          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+          restore-keys: ${{ runner.os }}-cargo-
+      - name: Install latest obsidian-export
+        uses: actions-rs/cargo@v1
+        with:
+          command: install
+          args: obsidian-export
       - name: Export vault
         run: |
           rm -rf docs/src
