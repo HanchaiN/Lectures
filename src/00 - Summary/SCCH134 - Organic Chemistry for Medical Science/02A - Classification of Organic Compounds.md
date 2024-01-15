@@ -16,7 +16,7 @@
     * Antiaromatic: $4n$ electrons
 * Functional Groups with Heteroatoms
   * Single Bonds, $\ce{C-Z}$
-    * Halides $\ce{R-X}$ ($\ce{X}$ is halogens, Group 7A/17 Elements)
+    * Halides / Organohalogens $\ce{R-X}$ ($\ce{X}$ is halogens, Group 7A/17 Elements)
     * Alcohols $\ce{R-OH}$
     * Phenols $\ce{Ar-OH}$
     * Ethers $\ce{R-O-R}$
@@ -33,8 +33,9 @@
     * Carboxylate Ester $\ce{C-C(=O)-O-C}$
     * Amides $\ce{C-C(=O)-NH2}$, $\ce{C-C(=O)-NHR}$, $\ce{C-C(=O)-NR2}$
     * Niro $\ce{C-N+(=O)-O-}$
-    * Nitriles $\ce{C-C#N}$
+    * Nitriles / Cyanides $\ce{C-C#N}$
 
 ## Reference
 
 * Handout SCCH134
+* ISBN: 974-587-279-2

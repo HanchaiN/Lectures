@@ -12,24 +12,28 @@
     * Note: If both alkene and alkyne exists, alkyne will be primary prefix.
     * Note: If both alkene and alkyne exists, sum of their indices will be minimized. If multiple indexing have the same sum, alkene will have lower index.
 * Prefix: define substituent (order by name, excluding number & index prefix)
-  * Primary prefix: "cyclo-" for cyclic hydrocarbons
+  * Primary prefix: cyclefor cyclic hydrocarbons
   * Secondary prefix: w/ index as hyphenated prefix
 * If multiple instances of same functional groups / substituents, add number prefix (2: di- / 3: tri- / 4: tetra- / 5: penta-)
 * Aromatic Hydrocarbons
   * Specific names
-  * Common name: 1,2: *ortho*- / 1,3: *meta*- / 1,4: *para*-
+  * Common name w/ 2 functional groups: 1,2: *ortho*- / 1,3: *meta*- / 1,4: *para*-
 * Hydrocarbon substituent
   * alkane → alkyl
   * alkene → alkenyl
   * alkyne → alkynyl
   * [\#Common Names for Hydrocarbon Substituent](02B%20-%20Nomenclature%20of%20Organic%20Compounds.md#common-names-for-hydrocarbon-substituent)
-* Configuration: parenthesized
-  * Parenthesized and hyphened before the name of the parent structure e.g. "(*R*)-".
-  * Multiple configurations are ordered by index and will be preceded with unspaced index, separated by comma e.g. "(*2Z*,*6S*)-".
+* Configuration
+  * Identify before the name (if for the substituent, within before its name, not the entire compound)
   * *cis*- / *trans*-
-  * *E*- / *Z*- (if *cis*- / *trans*- doesn't apply)
-  * *R*- / *S*-
+  * *E*- / *Z*- (if *cis*- / *trans*- doesn't apply); if have multiple chiral carbons identify the index before the configuration w/o space, each configuration separated by comma, and parenthesize all configuration e.g. "(2*Z*,4*Z*)-"
+  * *R*- / *S*- use the same pattern as *E*- / *Z*-
   * Unsaturated fatty acid may use $\omega$ notation to identify the position of the first double bond (counting from the end of the carbon chain) e.g. "$\omega$-3"
+  * Order
+    * *R*-/*S*- before *E*-/*Z*-
+    * *R*- and *S*- order by index
+    * *Z*-/*cis*- before *E*-/*trans*-; then by index
+  * Note: Only include index if more than once
 
 ## Parent Name
 
@@ -63,23 +67,23 @@
 |$\ce{R4N+}$|-ammonium|ammonio|
 |$\ce{R4P+}$|-phosphonium|phosphonio|
 |$\ce{R3S+}$|-sulphonium|sulphonio|
-|Carboxyl: $\ce{-COOH}$|-oic acid ($\ce{C}$ is in parent chain)<br>-carboxylic acid ($\ce{C}$ is not in parent chain)|carboxyl|
-|Carboxylic aldehyde: $\ce{-CO-O-CO-{}}$|-oic anhydride||
-|Carboalkoxy: $\ce{-COOR}$|alkyl -oate|carboalkoxyl|
-|Haloformyl: $\ce{-COX}$|-oyl halide|halocarbonyl|
-|Carboxamide: $\ce{-CONH2}$|-amide|amido|
-|Nitrile: $\ce{-C#N}$|-nitrile||
-|Nitrile: $\ce{-C#N}$ ($\ce{C}$ is not in parent chain)|-carbonitrile|cyano|
-|Carbonyl (Aldehyde): $\ce{-CHO}$|-al ($\ce{C}$ is in parent chain)<br>-carbaldehyde ($\ce{C}$ is not in parent chain)|oxo ($\ce{C}$ is in parent chain)<br>formyl ($\ce{C}$ is not in parent chain)|
-|Carbonyl (Ketone): $\ce{-C(=O)-{}}$|-one|oxo|
+|Carboxyl: $\ce{-COOH}$|-oic acid ($\ce{C}$ is in parent chain)<br>-carboxylic acid ($\ce{C}$ is not in parent chain)|carboxy|
+|$\ce{-CO-O-CO-{}}$|-oic anhydride||
+|Carboalkoxy: $\ce{-CO-OR}$|alkyl -oate|carboalkoxy|
+|Halocarbonyl: $\ce{-CO-X}$|-oyl halide|halocarbonyl / haloformyl|
+|Carboxamide (Carbonyl + Amino): $\ce{-CO-NH2}$|-amide|amido|
+|Cyano: $\ce{#N}$|-nitrile||
+|Cyano: $\ce{-C#N}$ ($\ce{C}$ is not in parent chain)|-carbonitrile|cyano|
+|Carbonyl (Aldehyde): $\ce{-CO-H}$|-al ($\ce{C}$ is in parent chain)<br>-carbaldehyde ($\ce{C}$ is not in parent chain)|oxo ($\ce{C}$ is in parent chain)<br>formyl ($\ce{C}$ is not in parent chain)|
+|Carbonyl (Ketone): $\ce{-CO-{}}$|-one|oxo|
 |Hydroxyl: $\ce{-OH}$|-ol|hydroxy|
 |Sulfhydryl: $\ce{-SH}$|-thiol|mercapto|
-|Amine: $\ce{-NH2}$|-amine|amino|
-|Ether: $\ce{-O-R}$|- ether|oxa-, oxy-|
-|Sulfide: $\ce{-S-R}$|- sulfide|alkylthio|
-|Alkenyl: $\ce{-C=C-}$|-ene|alkenyl|
-|Alkynyl: $\ce{-C#C-}$|-yne|alkynyl|
-|Halo: $\ce{-X}$||halo|
+|Amino: $\ce{-NH2}$|-amine|amino|
+|Oxide: $\ce{-O-{}}$|- ether|oxa-, alkoxy|
+|Sulfide: $\ce{-S-{}}$|- sulfide|alkylthio|
+|Alkenyl (Double bond): $\ce{-C=C-}$|-ene|alkenyl|
+|Alkynyl (Triple bond): $\ce{-C#C-}$|-yne|alkynyl|
+|Halo (Halogen): $\ce{-X}$||halo|
 |Nitro: $\ce{-NO2}$||nitro|
 |Alkyl: $\ce{-R}$|-ane|alkyl|
 
@@ -251,4 +255,4 @@
 ## Reference
 
 * Handout SCCH134
-* ISBN 978-0-85404-182-4
+* ISBN: 974-587-279-2
