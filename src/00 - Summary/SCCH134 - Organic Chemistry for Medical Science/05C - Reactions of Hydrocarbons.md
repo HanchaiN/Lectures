@@ -2,12 +2,13 @@
 
 * Acidity: $\ce{C-H \<=> C- + H+}$
   * $\ce{R#CH} > \ce{R2C=CHR} > \ce{CHR3}$
-    * Stability of carboanion: $\ce{R#C-} > \ce{R2C=C^{-}R} > \ce{C^{-}R3}$
+    * Stability of Carbanion: $\ce{R#C-} > \ce{R2C=C^{-}R} > \ce{C^{-}R3}$
   * No reaction with $\ce{NaOH}$, $\ce{NaOEt}$ but $\ce{R#CH}$ react with $\ce{NaNH2}$
 * Substitution Reaction
   * Halogenation: $\ce{R-H + X2 ->\[h\nu / \Delta\] R-X + HX}$
     * Radical Substitution
       * Stability of Carbon Radical → Prefer Tertiary Halides
+    * Discoloration of Halogens
     * Mechanism (Radical Mechanism)
       1. Initiation Step
          1. $\ce{X2 ->\[h\nu / \Delta\] 2X.}$
@@ -48,33 +49,29 @@
         1. $\ce{R-C.=CH-R ->\[+M\]\[-M+\] R-C^{-}=CH-R ->\[+NH3\]\[-NH2-\] C-RH=RH-C}$
   * Halogenation: $\ce{R=R + X2 -> RX-RX}$
     * Anti-Addition
-    * Mechanism
-      1. $\ce{R=R + X-X -> RX+R + X-}$
-         
+    * Discoloration of Halogens
+    * Mechanism  
+      ![Alkene-bromine-addition-2D-skeletal.png](https://upload.wikimedia.org/wikipedia/commons/3/33/Alkene-bromine-addition-2D-skeletal.png)
+      1. $\ce{R=R + X-X -> R(X+)R + X-}$
          * "Nucleophilic" Addition
-         
          * Note: $\ce{RX+R}$ triangle
-           
-           ````smiles
-           C1([R])([R])[X+]C1([R])([R])
-           ````
-      
       1. $\ce{RX+R + X- -> RX-RX}$
-         
-         * Nucleophilic Substitution ($\ce{S\_{N}2}$)
+         * Nucleophilic Substitution $\ce{S\_{N}2}$
   * Hydrohalogenation: $\ce{R=R + HX -> RX-RH}$
     * Non-stereospecific Electrophilic Addition
       * Stability of Carboxation → Prefer Tertiary Halides
       * Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
+        * Alkyne $\ce{R#R + 2 HX -> RX2-RH2}$
     * Mechanism (Ionic Mechanism)
       1. $\ce{R=R + H-X -> R+-RH + X-}$
          * Electrophilic Addition
+         * Possible Rearrangement
       1. $\ce{R+-RH + X- -> RX-RH}$
   * Hydrohalogenation: $\ce{R=R + HX ->\[H2O2\]\[\\Delta\] RH-RX}$
     * Non-stereospecific Radical Addition
       * Stability of Carbon Radical → Disfavor Tertiary Halides
       * Anti-Markovnikov Addition → $\ce{H}$ disfavor $\ce{C}$ with more $\ce{H}$
-    * Catalyst: $\ce{H2O2}$ or $\ce{ROOR}$
+    * Catalyst: $\ce{H2O2}$ or $\ce{ROOR}$ or $\ce{O2}$
     * Mechanism (Radical Mechanism)
       1. Initiation Step
          1. $\ce{RO-OR ->\[\\Delta\] .OR}$
@@ -88,11 +85,15 @@
     * Non-stereospecific Electrophilic Addition
       * Stability of Carbocation → Prefer tertiary alcohol
       * Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
+    * Alkyne: $\ce{R-C#C-R + H2O ->\[H+\] RC(OH)=CHR \<=>> RC(O)-CHR}$
+      * Enol (alkene + alcohol) → Tautomerization to keto (ketone)
     * Mechanism (Acid-catalyzed)
       1. $\ce{R=R ->\[+H+\] R+-RH}$
          * Electrophilic Addition
+         * Possible Rearrangement
       1. $\ce{R+-RH ->\[+H2O\] R(OH2+)-RH ->\[-H+\] R(OH)-RH}$
   * Hydration Reaction (Hydroboration-oxidation): $\ce{R=R + H2O ->\[H+\] ROH-RH}$
+    * Syn-Addition
     * Mechanism
       1. Hydroboration
          1. $\ce{R=R ->\[+BH3\] RH-R(BH2)}$
@@ -100,6 +101,39 @@
          1. $\ce{RH-R(BH2) ->\[+2R=R\] (RH-R)3B}$
       1. Oxidation
          1. $\ce{(RH-R)3B ->\[H2O2,NaOH\] 3RH-ROH + B(OH)3}$
+  * Epoxidation Reaction: $\ce{R=R + RO-O-OH -> R-Ep-R + RO-OH}$
+    * Syn-Addition
+    * Catalyst: Percarboxylic Acid
+    * Mechanism: Concerted  
+      ![Mcpbaepoxidation-updated.png](https://upload.wikimedia.org/wikipedia/commons/5/5d/Mcpbaepoxidation-updated.png)
+  * Epoxide ring opening (acidic): $\ce{R-Ep-R + Nu ->\[H+\] R-CNu-COH-R}$
+    * Anti-Nucleophilic Substitution $\ce{S\_{N}2}$
+    * Mechanism: Concerted  
+      ![Epoxide\_hydrolysis.svg](https://upload.wikimedia.org/wikipedia/commons/1/12/Epoxide_hydrolysis.svg)
+      * $\ce{Nu}$ prefer $\ce{C}$ with less $\ce{H}$ (carbocation character)
+  * Epoxide ring opening (basic): $\ce{R-Ep-R + Nu- -> R-COH-CNu-R + OH-}$
+    * Anti-Nucleophilic Substitution $\ce{S\_{N}2}$
+    * Mechanism: Concerted  
+      ![Epoxide\_hydrolysis.svg](https://upload.wikimedia.org/wikipedia/commons/1/12/Epoxide_hydrolysis.svg)
+      * $\ce{Nu}$ prefer $\ce{C}$ with more $\ce{H}$ (steric effect)
+  * Electrophilic Substitution Reaction: $\ce{Ar-H + E+ Nu- -> Ar-E + H-Nu}$
+    * Catalyst
+      * Halogenation: $\ce{Ar-H ->\[X2\]\[AlX3 \text{or} FeX3\] Ar-X}$
+      * Nitration: $\ce{Ar-H ->\[\\text{conc.} HNO3\]\[\\text{conc.} H2SO4\] Ar-NO2}$
+      * Sulfonation: $\ce{Ar-H ->\[\\text{conc.} H2SO4\]\[\\Delta\] Ar-SO2}$
+      * Friedel-Crafts Alkylation: $\ce{Ar-H ->\[R-X\]\[AlX3 \text{or} FeX3\] Ar-R}$
+      * Friedel-Crafts Acylation: $\ce{Ar-H ->\[R-CO-X\]\[AlX3 \text{or} FeX3\] Ar-CO-R}$
+    * Directing groups
+      * *ortho*-/*para*-directing group
+        * Electron Donating Group (EDG)
+        * $\ce{-NH2}, \ce{-NHR}, \ce{-NR2} > \ce{-OH} > \ce{-OR} > \ce{-NH-CO-R} > \ce{-O-CO-R} > \ce{-CH} > \ce{-R} > \ce{-H}$
+        * Resonance structure as *ortho*-/*para*-Aromatic Carbanion: $\ce{Ar-Z \<-> Ar^{-}=Z+}$
+      * *meta*-directing group
+        * Electron Withdrawing group (EWG)
+        * $\ce{-H} \< \ce{-CHO}, \ce{-COR} \< \ce{-SO3H} \< \ce{-COOH} \< \ce{-C#N} \< \ce{-N+R3} \< \ce{-NO2}$
+        * Resonance structure as *ortho*-/*para*-Aromatic Carbocation: $\ce{Ar-X \<-> Ar+=X-}$
+  * Benzylic Oxidation
+    * $\ce{Ph-CH3-R ->\[KMnO4\] Ph-CO-OH}$
 
 ## Reference
 
