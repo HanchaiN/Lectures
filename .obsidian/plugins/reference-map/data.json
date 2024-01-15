@@ -1,5 +1,5 @@
 {
-  "hideButtonsOnHover": false,
+  "hideButtonsOnHover": true,
   "influentialCount": false,
   "showAbstract": false,
   "abstractTruncateLength": 160,

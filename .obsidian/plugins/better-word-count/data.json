@@ -15,14 +15,6 @@
         "type": 0,
         "counter": 1
       }
-    },
-    {
-      "prefix": " ",
-      "suffix": "citations",
-      "metric": {
-        "type": 0,
-        "counter": 4
-      }
     }
   ],
   "altBar": [
