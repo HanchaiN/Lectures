@@ -12,7 +12,7 @@
     * Note: If both alkene and alkyne exists, alkyne will be primary prefix.
     * Note: If both alkene and alkyne exists, sum of their indices will be minimized. If multiple indexing have the same sum, alkene will have lower index.
 * Prefix: define substituent (order by name, excluding number & index prefix)
-  * Primary prefix: cyclefor cyclic hydrocarbons
+  * Primary prefix: "cyclo-" for cyclic hydrocarbons
   * Secondary prefix: w/ index as hyphenated prefix
 * If multiple instances of same functional groups / substituents, add number prefix (2: di- / 3: tri- / 4: tetra- / 5: penta-)
 * Aromatic Hydrocarbons
@@ -23,11 +23,12 @@
   * alkene → alkenyl
   * alkyne → alkynyl
   * [\#Common Names for Hydrocarbon Substituent](02B%20-%20Nomenclature%20of%20Organic%20Compounds.md#common-names-for-hydrocarbon-substituent)
-* Configuration
-  * Identify before the name (if for the substituent, within before its name, not the entire compound)
+* Configuration: parenthesized
+  * Parenthesized and hyphened before the name of the parent structure e.g. "(*R*)-".
+  * Multiple configurations are ordered by index and will be preceded with unspaced index, separated by comma e.g. "(*2Z*,*6S*)-".
   * *cis*- / *trans*-
-  * *E*- / *Z*- (if *cis*- / *trans*- doesn't apply); if have multiple chiral carbons identify the index before the configuration w/o space, each configuration separated by comma, and parenthesize all configuration e.g. "(2*Z*,4*Z*)-"
-  * *R*- / *S*- use the same pattern as *E*- / *Z*-
+  * *E*- / *Z*- (if *cis*- / *trans*- doesn't apply)
+  * *R*- / *S*-
   * Unsaturated fatty acid may use $\omega$ notation to identify the position of the first double bond (counting from the end of the carbon chain) e.g. "$\omega$-3"
 
 ## Parent Name
@@ -250,3 +251,4 @@
 ## Reference
 
 * Handout SCCH134
+* ISBN 978-0-85404-182-4
