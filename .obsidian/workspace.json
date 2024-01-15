@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eae717783323b12c",
@@ -160,6 +159,7 @@
   },
   "active": "214f5585acd2b950",
   "lastOpenFiles": [
+    "Deprecated/Chemistry/Organic Chemistry/Intramolecular Force.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04A - Components in a Reaction.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05B - Physical properties of Hydrocarbons.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
@@ -187,7 +187,6 @@
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01B - Bonds and Shapes of molecules.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01A - Atoms.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01 - Structure and Bonding.md",
     "Extra",
     "Extra",
     "Untitled",
