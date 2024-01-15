@@ -4,4 +4,4 @@ aliases:
   - "Red Book"
 ---
 
-# Organic chemistry
+# Organic Chemistry

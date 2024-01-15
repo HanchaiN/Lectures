@@ -4,7 +4,7 @@
   "showAbstract": false,
   "abstractTruncateLength": 160,
   "showAuthors": false,
-  "showJournal": true,
+  "showJournal": false,
   "filterRedundantReferences": false,
   "lookupLinkedFiles": true,
   "searchTitle": false,
