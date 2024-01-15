@@ -32,17 +32,27 @@ aliases:
 	- *Z* / *cis*: same side (up/down for cyclic)  
 	- *E* / *trans*: different side (up/down for cyclic)
 	- Note: *E* / *Z* system will use priority system while *cis* / *trans* system will refer to identical functional group
-- Priority for the configuration use first point of difference (high priority first) and compare atomic number; multiple bond count as multiple instances when order ($\ce{R(=O)H} > \ce{R(-OH)H2}$)
-	- If different atom, High atomic number first; Else High Atomic mass first
-		- Lone electron pair have lowest priority
-	- If same atom, transverse highest priority branch first (cannot go reverse)
-		- Multiple bond can be transverse multiple times; Can go reverse to previous node as many time as the bond allow.
-		- Can transverse along the ring.
-		- If the branch is the same,
-			- If different double-bond configuration, *Z*- before *E*- before nonstereogenic double bonds.
+	- Priority for the configuration use first point of difference (high priority first) and compare atomic number; multiple bond count as multiple instances when order ($\ce{R(=O)H} > \ce{R(-OH)H2}$)
+		- If different atom, high atomic number first
+			- Phantom atom will have lowest priority (Atomic Number: 0)
+				- Ensure Tetrahedral Structure
+				- Lone Electron Pair (Anion / Heteroatoms) / Empty Orbital (Cation)
+				- Placeholder for terminal atom (Multiple bonds / Rings)
+		- If same atom, transverse highest priority branch first (cannot go reverse)  
+		  ![Example Compound](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92143a.gif) ![simplified digraph for center 5](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92143b.gif)
+			- Can transverse along the ring both ways and ends at the entrance node (inclusive)
+			- Multiple bond can be transverse multiple times (May consider as ring of length 2)
+				- Can go forward multiple time
+				- For the first forward propagation, can go reverse to previous node with the same multiplicity.
+				- Duplicates and the (duplicated) reverse is consider terminal (cannot transverse deeper; other 3 branch is filled with phantom atom)
+				- Note: For ring systems with maximum number of noncumulative double bonds, the duplicate(s) will have to average atomic number (and weight) if the bond is split in each possible resonance structure (with each double bond positions).  
+				  ![Resonance Double Bond Transversal](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92144b.gif)
+		- If inconclusive, transverse again, with closer duplicates first (Lookup the first occurrence of that node in the transversal).
+		- If inconclusive, transverse again, with high atomic mass first.
+		- If all branches are the same, transverse again but with configuration.
+			- If different double-bond configuration, *Z*- before *E*- before non-stereogenic double bonds.
 			- If different chiral configuration pairs, like (e.g. *R*,*R*) before unlike (e.g. *R*,*S*)
 			- If different chiral configuration, *R*- and *M*- before *S*- and *P*-
-			- Else, go to the next prioritized-branch
 
 ## Reference
 
