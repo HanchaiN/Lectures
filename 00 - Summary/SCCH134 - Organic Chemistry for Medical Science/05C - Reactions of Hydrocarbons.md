@@ -141,21 +141,25 @@ aliases:
 		 - Oxidative Cleavage
 		 - Note: May ionize to $\ce{RCOO-}$ in basic, hot condition
 	 - Electrophilic Substitution Reaction: $\ce{Ar-H + E+ -> Ar-E + H+}$
-		 - Catalyst
+		 - Catalyst (Aromatic compounds are too stable to engage in normal substitution; Lewis acids weaken the $\ce{E-Nu}$ bond)
 			 - Halogenation: $\ce{Ar-H ->[X2][AlX3 \text{or} FeX3] Ar-X}$
+				 - $\ce{X2 + AlX3 -> X+ + Al^{-}X4}$
+			 - Friedel-Crafts Alkylation: $\ce{Ar-H ->[R-X][AlX3 \text{or} FeX3] Ar-R}$
+				 - $\ce{R-X + AlX3 -> R+ + Al^{-}X4}$
+					 - Possible Rearrangement
+			 - Friedel-Crafts Acylation: $\ce{Ar-H ->[R-CO-X][AlX3 \text{or} FeX3] Ar-CO-R}$
+				 - $\ce{R-CO-X + AlX3 -> R-C+(=O) + Al^{-}X4}$
 			 - Nitration: $\ce{Ar-H ->[\text{conc.} HNO3][\text{conc.} H2SO4] Ar-NO2}$
 			 - Sulfonation: $\ce{Ar-H ->[\text{conc.} H2SO4][\Delta] Ar-SO2}$
-			 - Friedel-Crafts Alkylation: $\ce{Ar-H ->[R-X][AlX3 \text{or} FeX3] Ar-R}$
-			 - Friedel-Crafts Acylation: $\ce{Ar-H ->[R-CO-X][AlX3 \text{or} FeX3] Ar-CO-R}$
 		 - Directing groups
 			 - *ortho*-/*para*-directing group
 				 - Electron Donating Group (EDG)
 				 - $\ce{-NH2}, \ce{-NHR}, \ce{-NR2} > \ce{-OH} > \ce{-OR} > \ce{-NH-CO-R} > \ce{-O-CO-R} > \ce{-CH} > \ce{-R} > \ce{-H}$
-				 - Resonance structure as *ortho*-/*para*-Aromatic Carbanion: $\ce{Ar-Z <-> Ar^{-}=Z+}$
+				 - Resonance structure as *ortho*-/*para*-Aromatic Carbanion (attract positive substitution group): $\ce{Ar-Z <-> Ar^{-}=Z+}$
 			 - *meta*-directing group
 				 - Electron Withdrawing group (EWG)
 				 - $\ce{-H} < \ce{-CHO}, \ce{-COR} < \ce{-SO3H} < \ce{-COOH} < \ce{-C#N} < \ce{-N+R3} < \ce{-NO2}$
-				 - Resonance structure as *ortho*-/*para*-Aromatic Carbocation: $\ce{Ar-X <-> Ar+=X-}$
+				 - Resonance structure as *ortho*-/*para*-Aromatic Carbocation (repel positive substitution group): $\ce{Ar-X <-> Ar+=X-}$
 		 - Mechanism
 			 1. $\ce{Ar-H + E+ -> Ar+(H)E -> Ar-E + H+}$ (No rearrangement)
 	 - Benzylic Oxidation
