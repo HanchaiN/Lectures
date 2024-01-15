@@ -1,5 +1,5 @@
 {
-  "hideButtonsOnHover": true,
+  "hideButtonsOnHover": false,
   "influentialCount": false,
   "showAbstract": false,
   "abstractTruncateLength": 160,
@@ -37,7 +37,7 @@
   "modalSearchLimit": 10,
   "fileNameFormat": "{{title}}",
   "folder": "Reference",
-  "modalCreateTemplate": "# {{title}}\n\n```bibtex\n{{bibtex}}\n```",
+  "modalCreateTemplate": "---\nid: \"{{id}}\"\n---\n\n# {{title}}\n\n```bibtex\n{{bibtex}}\n```",
   "modalInsertTemplate": "{{title}}\n{{authors}}\n{{journal}}, {{year}}\n{{abstract}}\n{{doi}}\n",
   "formatMetadataCopyOne": true,
   "formatMetadataCopyTwo": true,
