@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0b270b15252a2ee9",
+        "id": "94f3f175118c5845",
         "type": "tabs",
         "children": [
           {
-            "id": "3c3a3f891feae912",
+            "id": "4385d31ad63d5f33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md"
-          }
+          "state": {}
         }
       },
       {
@@ -125,9 +117,17 @@
           "type": "git-history-view",
           "state": {}
         }
+      },
+      {
+        "id": "2689c1ff74cb1b94",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,11 +140,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c3a3f891feae912",
+  "active": "4385d31ad63d5f33",
   "lastOpenFiles": [
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "SUMMARY.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "/00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "/00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03 - Stereochemistry.md",
