@@ -8,9 +8,12 @@ aliases:
 - Projections
 	- Wedge Projection  
 	  ![Glucose\_chain\_structure.svg](https://upload.wikimedia.org/wikipedia/commons/0/06/Glucose_chain_structure.svg)
-	- Fisher Projection  
+	- Fisher Projection (Vertical into the plane; Horizontal out of the plane)  
 	  ![D-glucose\_chain\_%28Fischer%29.svg](https://upload.wikimedia.org/wikipedia/commons/d/d9/D-glucose_chain_%28Fischer%29.svg)  
 	  ![Fischer\_Projection2.svg](https://upload.wikimedia.org/wikipedia/commons/8/81/Fischer_Projection2.svg)
+		- Rotate 3 branch at a time
+		- Cannot rotate 180 deg. front-back
+		- Can rotate 180 deg. in plane
 	- Haworth Projection  
 	  ![Alpha-D-Glucopyranose.svg](https://upload.wikimedia.org/wikipedia/commons/c/c6/Alpha-D-Glucopyranose.svg)  
 	  ![Alpha\_glucose\_views.svg](https://upload.wikimedia.org/wikipedia/commons/3/31/Alpha_glucose_views.svg)
