@@ -43,4 +43,4 @@ aliases:
 ## Reference
 
 - Handout SCCH134
-- ISBN: 974-587-279-2
+- [[Organic chemistry|Red Book]]

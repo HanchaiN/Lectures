@@ -1,4 +1,5 @@
 ---
+id: "@iupac-blue-book"
 aliases:
   - IUPAC Blue Book
 ---

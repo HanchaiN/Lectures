@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b178de7931e4b40d",
+        "id": "01817000e6f32757",
         "type": "tabs",
         "children": [
           {
-            "id": "06c8764507814303",
+            "id": "a7cdd2af8f661390",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "fb0d7a39cc85dc8d",
+            "id": "4a7a1d4c7d34e2f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013..md",
+                "file": "Reference/A Practical Course in Differential Equations and Mathematical Modelling.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "isbn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eae717783323b12c",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013..md",
+                "file": "Reference/A Practical Course in Differential Equations and Mathematical Modelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013..md",
+                "file": "Reference/A Practical Course in Differential Equations and Mathematical Modelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013..md"
+                "file": "Reference/A Practical Course in Differential Equations and Mathematical Modelling.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,42 +191,42 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "fb0d7a39cc85dc8d",
+  "active": "4a7a1d4c7d34e2f6",
   "lastOpenFiles": [
     "SUMMARY.md",
-    "Reference/A Practical Course in Differential Equations and Mathematical Modelling.md",
-    "Reference/Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013..md",
+    "Extra/Styling.md",
+    "Deprecated/Terminology/Zoonosis.md",
+    "Deprecated/Terminology/Anthroponosis.md",
+    "Deprecated/Chemistry/Solubility.md",
+    "Deprecated/Chemistry/Phase Transition.md",
     "Deprecated/Chemistry/Isotope.md",
     "Deprecated/Chemistry/Organic Chemistry/Heteroatom.md",
+    "Deprecated/Chemistry/Organic Chemistry/Alcohol.md",
+    "Deprecated/Chemistry/Molecular Theory/Van de Waals Force.md",
+    "Deprecated/Chemistry/Molecular Theory/Molecular Dipole Moment.md",
+    "Deprecated/Chemistry/Molecular Theory/Hydrogen Bond.md",
     "Deprecated/Chemistry/Molecular Theory/Chemical Bond.md",
-    "01 - Concept/Mathematics/Calculus/Differentiation/Differentiation.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D - Stereoisomer.md",
+    "Deprecated/Biology/Cytology/Cell Membrane.md",
+    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Metallic Bonding.md",
+    "01 - Concept/Chemistry/Molecular Theory/Intramolecular Force.md",
+    "01 - Concept/Chemistry/Molecular Theory/Chemical Bonding/Ionic Bonding.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04B - Reaction Kinetics.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D1 - Conformational Isomer.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03 - Stereochemistry.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Differential Equation.md",
-    "10.1039/9781849733069.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
+    "Reference/A Practical Course in Differential Equations and Mathematical Modelling.md",
+    "Reference/Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013..md",
+    "Reference/Organic chemistry.md",
     "10.1039",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04 - Organic Reactions.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Homogeneous Linear Differential Equation.md",
-    "Template/Entry.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03E - Optical Property.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05B - Physical properties of Hydrocarbons.md",
-    "Nomenclature of Organic Chemistry.md",
     "Reference/Bibliography.bib",
     "Reference/Reference.bib",
-    "Reference/Nomenclature of Organic Chemistry-H Favre 2013.md",
     "Reference/References.bib",
     "Reference",
     "Ketcher/Ketcher 1-16-2024 02.14.38.ket",
     "00 - Summary/References.bib",
     "00 - Summary/New Text Document.txt",
-    "Deprecated/Chemistry/Organic Chemistry/Intramolecular Force.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04A - Components in a Reaction.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02 - Classification & Nomenclature of Organic Compounds.md",
     "Ketcher/Ketcher 1-11-2024 10.06.48.ket",
     "Ketcher",
     "Untitled.canvas",

@@ -82,7 +82,7 @@
 				- [[Formal Charge]]
 				- [[Bond Dipole Moment]]
 				- [[Hybrid Orbital]]
-			- [[Metallic Bonding]]
+		- [[Intramolecular Force]]
 	- [Chemical Kinetics]()
 		- [Chemical Equilibrium]()
 			- [Ionic Equilibrium]()
@@ -154,6 +154,7 @@
 			- [[Entropy]]
 			- [[Gibbs free energy]]
 	- [Relativistic Mechanics]()
+		- [Breakdown of Classical Physics]()
 		- [Special Relativity]()
 	- [Quantum Mechanics]()
 		- [Breakdown of Classical Physics]()
