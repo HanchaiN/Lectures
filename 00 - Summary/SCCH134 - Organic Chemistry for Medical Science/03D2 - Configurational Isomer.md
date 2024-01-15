@@ -49,13 +49,20 @@ aliases:
 				  ![Resonance Double Bond Transversal](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92144b.gif)
 		- If inconclusive, transverse again, with closer duplicates first (Lookup the first occurrence of that node in the transversal).
 		- If inconclusive, transverse again, with high atomic mass first.
-		- If all branches are the same, transverse again but with configuration.
-			- If different double-bond configuration, *Z*- before *E*- before non-stereogenic double bonds.
-			- If different chiral configuration pairs, like (e.g. *R*,*R*) before unlike (e.g. *R*,*S*)
-			- If different chiral configuration, *R*- and *M*- before *S*- and *P*-
+		- If all branches are the same, transverse again, with *Z* before *E* before non-stereogenic.
+			- Note: *Z* / *E* is compared relative to the current transversal path if inconclusive.  
+			  ![(1E,3E)-1,3-diethylidenecyclobutane](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92422a.gif) ![(1E,3E)-1,3-diethylidenecyclobutane digraph](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92422b.gif)  
+			  In this case, traversing through $\ce{C}-2$ will results in *Z* / *cis* as it is the same side as $\ce{-CH3}$  
+			  ($\ce{C}-1$ to $\ce{C}-4$ is the same as $\ce{C}-1$ to $\ce{C}-2$ otherwise)
+		- If all branches are the same, transverse again, with chiral before non-chiral; then like before unlike
+			- Chiral before non-chiral
+			- Like (e.g. *R*,*R*) before Unlike (e.g. *R*,*S*)
+				- Compare current node with the first chiral parent node from the root.
+				- The depth of comparison will be equal as any different encounter with non-chiral will be prioritize by previous rule.
+		- If all branches are the same, transverse again, with *R* before *S*
 
 ## Reference
 
 - Handout SCCH134
 - [8.5: The E/Z System (when cis/trans does not work) - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_(Wade)/08%3A_Structure_and_Synthesis_of_Alkenes/8.05%3A_The_E_Z_System_(when_cis_trans_does_not_work))
-- ISBN 978-0-85404-182-4
+- [Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.](https://doi.org/10.1039/9781849733069)

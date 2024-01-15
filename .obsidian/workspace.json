@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eae717783323b12c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md"
+                "file": "SUMMARY.md"
               }
             }
           },
@@ -137,14 +136,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "0b189e2afd7445ef",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,19 +161,38 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "ketcher:Create new structure": false
+      "ketcher:Create new structure": false,
+      "reference-map:Reference Map": false
     }
   },
   "active": "214f5585acd2b950",
   "lastOpenFiles": [
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
+    "Reference/The IUPAC Gold Book website.md",
+    "SUMMARY.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Differential Equation.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
+    "10.1039/9781849733069.md",
+    "10.1039",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04 - Organic Reactions.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Homogeneous Linear Differential Equation.md",
+    "Template/Entry.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03E - Optical Property.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05B - Physical properties of Hydrocarbons.md",
+    "Nomenclature of Organic Chemistry.md",
+    "Reference/Bibliography.bib",
+    "Reference/Reference.bib",
+    "Reference/Nomenclature of Organic Chemistry-H Favre 2013.md",
+    "Reference/References.bib",
+    "Reference",
+    "Ketcher/Ketcher 1-16-2024 02.14.38.ket",
+    "00 - Summary/References.bib",
+    "00 - Summary/New Text Document.txt",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "Deprecated/Chemistry/Organic Chemistry/Intramolecular Force.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04A - Components in a Reaction.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05B - Physical properties of Hydrocarbons.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03 - Stereochemistry.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05C - Reactions of Hydrocarbons.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02 - Classification & Nomenclature of Organic Compounds.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04D - Types of Reaction.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
@@ -176,27 +201,9 @@
     "conflict-files-obsidian-git.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D1 - Conformational Isomer.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D - Stereoisomer.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03C - Constitutional Isomer.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04 - Organic Reactions.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03E - Optical Property.md",
-    "SUMMARY.md",
     "Ketcher/Ketcher 1-11-2024 10.06.48.ket",
     "Ketcher",
-    "().md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01D - Physical Properties.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01C - Intermolecular Forces.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01B - Bonds and Shapes of molecules.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/01A - Atoms.md",
-    "Extra",
-    "Extra",
-    "Untitled",
-    "01 - Concept/Physics/Electromagnetism",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science",
     "Untitled.canvas",
-    "Template",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/System of Differential Equation",
-    "src/01 - Concept/Physics/Thermodynamics/Thermodynamic Processes",
     "theme/favicon.svg",
     "theme/favicon.png"
   ]
