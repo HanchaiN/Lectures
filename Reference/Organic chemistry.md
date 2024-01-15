@@ -1,7 +1,7 @@
 ---
-id: "@organic-red-book"
+id: 974-587-279-2
 aliases:
-  - "Red Book"
+  - Red Book
 ---
 
 # Organic Chemistry

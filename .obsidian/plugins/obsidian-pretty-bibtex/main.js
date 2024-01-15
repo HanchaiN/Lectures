@@ -25679,12 +25679,12 @@ var StringHelper = class {
 };
 
 // string.extensions.ts
-String.prototype.trimString = function(trim) {
-  return StringHelper.trim(String(this), trim);
-};
-String.prototype.replaceAll = function(str, replacement) {
-  return String(this).replace(new RegExp(`\\${str}`, "gs"), replacement);
-};
+// String.prototype.trimString = function(trim) {
+//  return StringHelper.trim(String(this), trim);
+// };
+// String.prototype.replaceAll = function(str, replacement) {
+//   return String(this).replace(new RegExp(`\\${str}`, "gs"), replacement);
+// };
 
 // main.ts
 var import_bibtex_parser = __toESM(require_bibtex_parser());
