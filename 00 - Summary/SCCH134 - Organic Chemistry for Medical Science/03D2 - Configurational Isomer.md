@@ -27,6 +27,7 @@ aliases:
 	- *S* (Left-handed): Left handed from 1-2-3 with 4 along thumb
 	- Note: can be used with chiral axis (e.g. allele)
 		- For chiral axis, use *M*- / *P*-configuration based on helicity rule.
+			- Like *R*- / *S*- but 1,2 (and 3,4) is at the same end of the axis.
 - Double bond / Cyclic → *Z*- / *E*-configuration (alt. *cis* / *trans*)
 	- *Z* / *cis*: same side (up/down for cyclic)  
 	- *E* / *trans*: different side (up/down for cyclic)

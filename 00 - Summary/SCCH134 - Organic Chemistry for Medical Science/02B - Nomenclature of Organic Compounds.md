@@ -29,16 +29,11 @@ aliases:
 	- alkyne → alkynyl
 	- [[##Common Names for Hydrocarbon Substituent]]
 - Configuration
-	- Identify before the name (if for the substituent, within before its name, not the entire compound)
-	- *cis*- / *trans*-
-	- *E*- / *Z*- (if *cis*- / *trans*- doesn't apply); if have multiple chiral carbons identify the index before the configuration w/o space, each configuration separated by comma, and parenthesize all configuration e.g. "(2*Z*,4*Z*)-"
-	- *R*- / *S*- use the same pattern as *E*- / *Z*-
+	- Parenthesized and hyphened before the name of the parent structure e.g. "(*R*)-".
+	- Multiple configurations are ordered by index and will be preceded with unspaced index, separated by comma e.g. "(*2Z*,*6S*)-".
+	- *E*- / *Z*- (common: *cis*- / *trans*-)
+	- *R*- / *S*-
 	- Unsaturated fatty acid may use $\omega$ notation to identify the position of the first double bond (counting from the end of the carbon chain) e.g. "$\omega$-3"
-	- Order
-		- *R*-/*S*- before *E*-/*Z*-
-		- *R*- and *S*- order by index
-		- *Z*-/*cis*- before *E*-/*trans*-; then by index
-	- Note: Only include index if more than once
 
 ## Parent Name
 
