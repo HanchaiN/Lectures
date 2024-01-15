@@ -45,7 +45,7 @@
       * Alkyne Syn Addition: 1 x Alkene Addition
       * Alkyne Anti Addition
         1. $\ce{R-C#C-R ->\[+M\]\[-M+\] R-C.=C^{-}-R ->\[+NH3\]\[-NH2-\] R-C.=CH-R}$
-           * Anti Addition from the steric effect and cis-radical anion electronic repulsion in $\ce{R-C.=C^{-}-R}$
+           * Anti Addition from the steric effect and *cis*-radical anion electronic repulsion in $\ce{R-C.=C^{-}-R}$
         1. $\ce{R-C.=CH-R ->\[+M\]\[-M+\] R-C^{-}=CH-R ->\[+NH3\]\[-NH2-\] C-RH=RH-C}$
   * Halogenation: $\ce{R=R + X2 -> RX-RX}$
     * Anti-Addition
@@ -53,7 +53,6 @@
     * Mechanism  
       ![Alkene-bromine-addition-2D-skeletal.png](https://upload.wikimedia.org/wikipedia/commons/3/33/Alkene-bromine-addition-2D-skeletal.png)
       1. $\ce{R=R + X-X -> R(X+)R + X-}$
-         * "Nucleophilic" Addition
          * Note: $\ce{RX+R}$ triangle
       1. $\ce{RX+R + X- -> RX-RX}$
          * Nucleophilic Substitution $\ce{S\_{N}2}$
@@ -87,20 +86,27 @@
       * Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
     * Alkyne: $\ce{R-C#C-R + H2O ->\[H+\] RC(OH)=CHR \<=>> RC(O)-CHR}$
       * Enol (alkene + alcohol) → Tautomerization to keto (ketone)
+        * Exceptions:
+          * Prefer Phenol $\ce{Ar-OH}$
+          * Prefer Enol to 1,3-diketones ($\ce{-CO-C=COH-{} \<=> -CO-C-CO-{}}$) (H-bond from ketone to alcohol)
     * Mechanism (Acid-catalyzed)
       1. $\ce{R=R ->\[+H+\] R+-RH}$
          * Electrophilic Addition
          * Possible Rearrangement
       1. $\ce{R+-RH ->\[+H2O\] R(OH2+)-RH ->\[-H+\] R(OH)-RH}$
-  * Hydration Reaction (Hydroboration-oxidation): $\ce{R=R + H2O ->\[H+\] ROH-RH}$
+  * Hydration Reaction (Hydroboration-oxidation): $\ce{R=R ->\[\\text{1.} BH3, THF\]\[\\text{2.} H2O2, NaOH\] ROH-RH}$
     * Syn-Addition
+      * Steric Effect
+      * Anti-Markovnikov Addition → $\ce{H}$ disfavor $\ce{C}$ with more $\ce{H}$
+    * Alkyne → Tautomerization
     * Mechanism
       1. Hydroboration
          1. $\ce{R=R ->\[+BH3\] RH-R(BH2)}$
-            * "Nucleophilic" Addition
+            * Steric Effect
          1. $\ce{RH-R(BH2) ->\[+2R=R\] (RH-R)3B}$
       1. Oxidation
          1. $\ce{(RH-R)3B ->\[H2O2,NaOH\] 3RH-ROH + B(OH)3}$
+            * Oxidative Substitution (retention of configuration)
   * Epoxidation Reaction: $\ce{R=R + RO-O-OH -> R-Ep-R + RO-OH}$
     * Syn-Addition
     * Catalyst: Percarboxylic Acid
@@ -116,7 +122,20 @@
     * Mechanism: Concerted  
       ![Epoxide\_hydrolysis.svg](https://upload.wikimedia.org/wikipedia/commons/1/12/Epoxide_hydrolysis.svg)
       * $\ce{Nu}$ prefer $\ce{C}$ with more $\ce{H}$ (steric effect)
-  * Electrophilic Substitution Reaction: $\ce{Ar-H + E+ Nu- -> Ar-E + H-Nu}$
+  * Dihydroxylation Reaction: $\ce{R=R ->\[KMnO4\]\[H2O,OH-\] ROH-ROH}$
+    * Oxidative Syn-Addition
+    * Catalyst: $\ce{KMnO4}$ in cold (room temperature) and neutral - mildly-basic condition
+    * Mechanism: Concerted  
+      ![glycolfm.gif](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/Images2/glycolfm.gif)
+  * Dihydroxylation Reaction: $\ce{R=R ->\[KMnO4\]\[H+ \text{or} \Delta\] R=O + O=R}$
+    * Oxidative Cleavage
+    * Note: $\ce{ROH ->\[KMnO4\]\[H+ \text{or} \Delta\] ROOH}$
+    * Catalyst: $\ce{KMnO4}$ in hot or acidic condition
+    * Mechanism: Concerted (Similar to dihydroxylation)
+  * Oxidation of Alkynes: $\ce{R=R ->\[KMnO4,H2O\] ROOH + HOOR}$
+    * Oxidative Cleavage
+    * Note: May ionize to $\ce{RCOO-}$ in basic, hot condition
+  * Electrophilic Substitution Reaction: $\ce{Ar-H + E+ -> Ar-E + H+}$
     * Catalyst
       * Halogenation: $\ce{Ar-H ->\[X2\]\[AlX3 \text{or} FeX3\] Ar-X}$
       * Nitration: $\ce{Ar-H ->\[\\text{conc.} HNO3\]\[\\text{conc.} H2SO4\] Ar-NO2}$
@@ -132,6 +151,8 @@
         * Electron Withdrawing group (EWG)
         * $\ce{-H} \< \ce{-CHO}, \ce{-COR} \< \ce{-SO3H} \< \ce{-COOH} \< \ce{-C#N} \< \ce{-N+R3} \< \ce{-NO2}$
         * Resonance structure as *ortho*-/*para*-Aromatic Carbocation: $\ce{Ar-X \<-> Ar+=X-}$
+    * Mechanism
+      1. $\ce{Ar-H + E+ -> Ar+(H)E -> Ar-E + H+}$ (No rearrangement)
   * Benzylic Oxidation
     * $\ce{Ph-CH3-R ->\[KMnO4\] Ph-CO-OH}$
 
