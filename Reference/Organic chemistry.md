@@ -6,4 +6,4 @@ aliases:
 
 # Organic Chemistry
 
-@iupac-blue-book
+@organic-red-book

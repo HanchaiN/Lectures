@@ -13,7 +13,7 @@
   "searchFrontMatterKey": "keywords",
   "searchFrontMatterLimit": 3,
   "searchCiteKey": true,
-  "pullFromZotero": false,
+  "pullFromZotero": true,
   "zoteroGroups": [
     {
       "id": 1,
