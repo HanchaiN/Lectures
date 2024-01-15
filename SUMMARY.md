@@ -165,3 +165,8 @@
 		- [[Wavefunction]]
 		- [[Schrodinger's Wave Equation]]
 		- [[Pauli's Exclusion Principle]]
+
+# References
+
+- [[A Practical Course in Differential Equations and Mathematical Modelling]]
+- [[Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.]]

@@ -39,4 +39,4 @@ Functional Equation with differential
 
 - [[04 - Differential Equation]]
 - [Differential equation - Wikipedia](https://en.wikipedia.org/wiki/Differential_equation)
-- [A Practical Course in Differential Equations and Mathematical Modelling](https://doi.org/10.1142/7573)
+- [[A Practical Course in Differential Equations and Mathematical Modelling]]

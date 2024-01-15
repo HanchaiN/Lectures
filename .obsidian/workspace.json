@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Reference/Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013..md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Chemistry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Reference/Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Reference/Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "Reference/Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013..md"
               }
             }
           },
@@ -167,10 +167,20 @@
   },
   "active": "214f5585acd2b950",
   "lastOpenFiles": [
-    "Reference/The IUPAC Gold Book website.md",
+    "Reference/A Practical Course in Differential Equations and Mathematical Modelling.md",
+    "Reference/Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013..md",
     "SUMMARY.md",
-    "01 - Concept/Mathematics/Calculus/Differential Equation/Differential Equation.md",
+    "Deprecated/Chemistry/Isotope.md",
+    "Deprecated/Chemistry/Organic Chemistry/Heteroatom.md",
+    "Deprecated/Chemistry/Molecular Theory/Chemical Bond.md",
+    "01 - Concept/Mathematics/Calculus/Differentiation/Differentiation.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D2 - Configurational Isomer.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D - Stereoisomer.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D1 - Conformational Isomer.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03 - Stereochemistry.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
+    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
+    "01 - Concept/Mathematics/Calculus/Differential Equation/Differential Equation.md",
     "10.1039/9781849733069.md",
     "10.1039",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04 - Organic Reactions.md",
@@ -188,19 +198,9 @@
     "Ketcher/Ketcher 1-16-2024 02.14.38.ket",
     "00 - Summary/References.bib",
     "00 - Summary/New Text Document.txt",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02B - Nomenclature of Organic Compounds.md",
     "Deprecated/Chemistry/Organic Chemistry/Intramolecular Force.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04A - Components in a Reaction.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02A - Classification of Organic Compounds.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03 - Stereochemistry.md",
     "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/02 - Classification & Nomenclature of Organic Compounds.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04D - Types of Reaction.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/05A - Classification and Structure of Hydrocarbons.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04C - Reaction Mechanism.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/04B - Reaction Kinetics.md",
-    "conflict-files-obsidian-git.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03D1 - Conformational Isomer.md",
-    "00 - Summary/SCCH134 - Organic Chemistry for Medical Science/03A - Isomerism.md",
     "Ketcher/Ketcher 1-11-2024 10.06.48.ket",
     "Ketcher",
     "Untitled.canvas",
