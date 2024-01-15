@@ -1,5 +1,5 @@
 ---
-id: 10.1142/7573
+id: "@doi:10.1142/7573"
 ---
 
 # A Practical Course in Differential Equations and Mathematical Modelling

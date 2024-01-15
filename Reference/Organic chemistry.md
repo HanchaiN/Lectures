@@ -1,9 +1,16 @@
 ---
-id: 974-587-279-2
+id: "@organic-red-book"
 aliases:
   - Red Book
 ---
 
 # Organic Chemistry
 
-@organic-red-book
+```bibtex
+@book{organic-red-book,
+  title     = {Organic {{Chemistry}}},
+  author    = {{Sunantha Vibuljan}},
+  publisher = {{Mahidol University}},
+  isbn      = {974-587-279-2}
+}
+```

@@ -1,5 +1,5 @@
 ---
-id: 10.1039/9781849733069
+id: "@iupac-blue-book"
 aliases:
   - IUPAC Blue Book
 ---
