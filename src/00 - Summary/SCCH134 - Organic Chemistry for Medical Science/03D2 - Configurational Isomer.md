@@ -35,7 +35,7 @@
     * Can transverse along the ring.
     * If the branch is the same,
       * If different double-bond configuration, *Z*- before *E*- before nonstereogenic double bonds.
-      * If different chiral configuration pairs, like (e.g *R*,*R*) before unlike (e.g. *R*,*S*)
+      * If different chiral configuration pairs, like (e.g. *R*,*R*) before unlike (e.g. *R*,*S*)
       * If different chiral configuration, *R*- and *M*- before *S*- and *P*-
       * Else, go to the next prioritized-branch
 
