@@ -30,7 +30,7 @@ aliases:
 	- [[##Common Names for Hydrocarbon Substituent]]
 - Configuration
 	- Parenthesized and hyphened before the name of the parent structure e.g. "(*R*)-".
-	- Multiple configurations are ordered by index and will be preceded with unspaced index, separated by comma e.g. "(2*Z*,6*S*)-".
+	- Multiple configurations are ordered by index and will be preceded with unspaced index, separated by comma e.g. "(*2Z*,*6S*)-".
 	- *E*- / *Z*- (common: *cis*- / *trans*-)
 	- *R*- / *S*-
 	- Unsaturated fatty acid may use $\omega$ notation to identify the position of the first double bond (counting from the end of the carbon chain) e.g. "$\omega$-3"
@@ -255,4 +255,4 @@ aliases:
 ## Reference
 
 - Handout SCCH134
-- [[Organic chemistry|Red Book]]
+- ISBN: 974-587-279-2

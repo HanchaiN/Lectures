@@ -82,7 +82,7 @@
 				- [[Formal Charge]]
 				- [[Bond Dipole Moment]]
 				- [[Hybrid Orbital]]
-		- [[Intramolecular Force]]
+			- [[Metallic Bonding]]
 	- [Chemical Kinetics]()
 		- [Chemical Equilibrium]()
 			- [Ionic Equilibrium]()
@@ -154,7 +154,6 @@
 			- [[Entropy]]
 			- [[Gibbs free energy]]
 	- [Relativistic Mechanics]()
-		- [Breakdown of Classical Physics]()
 		- [Special Relativity]()
 	- [Quantum Mechanics]()
 		- [Breakdown of Classical Physics]()
@@ -166,9 +165,3 @@
 		- [[Wavefunction]]
 		- [[Schrodinger's Wave Equation]]
 		- [[Pauli's Exclusion Principle]]
-
-# References
-
-- [[A Practical Course in Differential Equations and Mathematical Modelling]]
-- [[Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.]]
-- [[Organic Chemistry]]

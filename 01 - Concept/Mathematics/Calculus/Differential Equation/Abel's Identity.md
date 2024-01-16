@@ -9,4 +9,4 @@ $$
 ## Reference
 
 - [[04 - Differential Equation]]
-- [Abel's identity - Wikipedia](<https://en.wikipedia.org/wiki/Abel>%27s_identity>
+- [Abel's identity - Wikipedia](<https://en.wikipedia.org/wiki/Abel%27s_identity>
