@@ -39,4 +39,4 @@ Functional Equation with differential
 
 * [04 - Differential Equation](../../../../00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/04%20-%20Differential%20Equation.md)
 * [Differential equation - Wikipedia](https://en.wikipedia.org/wiki/Differential_equation)
-* [A Practical Course in Differential Equations and Mathematical Modelling](../../../../Reference/A%20Practical%20Course%20in%20Differential%20Equations%20and%20Mathematical%20Modelling.md)
+* [A Practical Course in Differential Equations and Mathematical Modelling](https://doi.org/10.1142/7573)

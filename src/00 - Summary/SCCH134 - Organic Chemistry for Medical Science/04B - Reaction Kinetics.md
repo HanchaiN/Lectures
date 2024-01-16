@@ -49,4 +49,4 @@
 ## Reference
 
 * Handout SCCH134
-* [Red Book](../../Reference/Organic%20chemistry.md)
+* ISBN: 974-587-279-2

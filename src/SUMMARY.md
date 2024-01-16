@@ -82,7 +82,7 @@
         * [Formal Charge](01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Formal%20Charge.md)
         * [Bond Dipole Moment](01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Bond%20Dipole%20Moment.md)
         * [Hybrid Orbital](01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Hybrid%20Orbital.md)
-    * [Intramolecular Force](01%20-%20Concept/Chemistry/Molecular%20Theory/Intramolecular%20Force.md)
+      * [Metallic Bonding](01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Metallic%20Bonding.md)
   * [Chemical Kinetics]()
     * [Chemical Equilibrium]()
       * [Ionic Equilibrium]()
@@ -154,7 +154,6 @@
       * [Entropy](01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Variables/Entropy.md)
       * [Gibbs free energy](01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Variables/Gibbs%20free%20energy.md)
   * [Relativistic Mechanics]()
-    * [Breakdown of Classical Physics]()
     * [Special Relativity]()
   * [Quantum Mechanics]()
     * [Breakdown of Classical Physics]()
@@ -166,9 +165,3 @@
     * [Wavefunction](01%20-%20Concept/Physics/Quantum%20Mechanics/Wavefunction.md)
     * [Schrodinger's Wave Equation](01%20-%20Concept/Physics/Quantum%20Mechanics/Schrodinger's%20Wave%20Equation.md)
     * [Pauli's Exclusion Principle](01%20-%20Concept/Physics/Quantum%20Mechanics/Pauli's%20Exclusion%20Principle.md)
-
-# References
-
-* [A Practical Course in Differential Equations and Mathematical Modelling](Reference/A%20Practical%20Course%20in%20Differential%20Equations%20and%20Mathematical%20Modelling.md)
-* [Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.](Reference/Nomenclature%20of%20Organic%20Chemistry.%20IUPAC%20Recommendations%20and%20Preferred%20Names%202013..md)
-* [Organic Chemistry](Reference/Organic%20chemistry.md)
