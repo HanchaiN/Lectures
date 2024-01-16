@@ -171,3 +171,4 @@
 
 * [A Practical Course in Differential Equations and Mathematical Modelling](Reference/A%20Practical%20Course%20in%20Differential%20Equations%20and%20Mathematical%20Modelling.md)
 * [Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.](Reference/Nomenclature%20of%20Organic%20Chemistry.%20IUPAC%20Recommendations%20and%20Preferred%20Names%202013..md)
+* [Organic Chemistry](Reference/Organic%20chemistry.md)
