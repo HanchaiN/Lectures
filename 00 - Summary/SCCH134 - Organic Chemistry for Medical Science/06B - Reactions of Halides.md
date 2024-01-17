@@ -84,9 +84,22 @@ aliases:
 		- $\ce{Zn}$ → $\ce{R-X + Zn -> R-Zn-X ->[HCl] R-H + Cl-Zn-X}$
 		- $\ce{Mg}$ → $\ce{R-X ->[Mg][\text{ether}] -> R-MgX}$
 			- Grignard Reagent $\ce{R-MgX}$ ($\ce{X}=\ce{Cl, Br, I}$) → Alkali / Nucleophile
+				- Partial Negative Charge on $\ce{R}$
 			- $\ce{R-MgX ->[H3O+] R-H + X-Mg-OH}$
 			- $\ce{R-MgX ->[HC#CR] R-H + X-Mg-C#CR}$
 			- $\ce{R-MgX ->[ROH] R-H + X-Mg-OR}$
+			- $\ce{R-MgX ->[H-CO-H] R-CH2OH}$
+			- $\ce{R-MgX ->[R-CO-H] R-CHROH}$
+			- $\ce{R-MgX ->[R-CO-R] R-CR2OH}$
+			- $\ce{R-MgX ->[R-C#N] R-CO-R}$
+			- $\ce{R-MgX ->[Ep] R-CH2CH2OH}$ (Basic Epoxy ring opening)
+			- $\ce{R-MgX ->[CO2] R-COOH}$
+			- $\ce{R-MgX ->[R-COOEt] R2-CROH}$
+			- $\ce{R-MgX ->[(EtO)2-CO] R3-COH}$
+			- $\ce{R-MgX ->[HCOOEt] R2-CHOH}$
+- Substitution (Aryl Halide): $\ce{Ar-X + Nu- -> Ar-Nu + X-}$
+	- ~$\ce{S_{N}2}$
+	- $\ce{Ar-X + Nu- -> Ar^{-}-(X)(Nu) -> Ar-Nu + X-}$
 
 ## Reference
 
