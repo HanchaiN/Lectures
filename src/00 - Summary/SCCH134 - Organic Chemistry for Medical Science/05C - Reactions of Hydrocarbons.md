@@ -161,7 +161,8 @@
     * Mechanism
       1. $\ce{Ar-H + E+ -> Ar+(H)E -> Ar-E + H+}$ (No rearrangement)
   * Benzylic Oxidation
-    * $\ce{Ph-CH3-R ->\[KMnO4\] Ph-CO-OH}$
+    * $\ce{Ph-CHR2 ->\[KMnO4\]\[H+,\Delta\] Ph-CO-OH}$
+      * Require at least one benzylic hydrogen
 
 ## Reference
 
