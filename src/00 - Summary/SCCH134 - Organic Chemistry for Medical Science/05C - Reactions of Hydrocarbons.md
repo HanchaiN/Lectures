@@ -106,7 +106,8 @@
          1. $\ce{RH-R(BH2) ->\[+2R=R\] (RH-R)3B}$
       1. Oxidation
          1. $\ce{(RH-R)3B ->\[H2O2,NaOH\] 3RH-ROH + B(OH)3}$
-            * Oxidative Substitution (retention of configuration)
+            * Oxidative Substitution
+            * Retention of Configuration
   * Epoxidation Reaction: $\ce{R=R + RO-O-OH -> R-Ep-R + RO-OH}$
     * Syn-Addition
     * Catalyst: Percarboxylic Acid
@@ -122,16 +123,17 @@
     * Mechanism: Concerted  
       ![Epoxide\_hydrolysis.svg](https://upload.wikimedia.org/wikipedia/commons/1/12/Epoxide_hydrolysis.svg)
       * $\ce{Nu}$ prefer $\ce{C}$ with more $\ce{H}$ (steric effect)
-  * Dihydroxylation Reaction: $\ce{R=R ->\[KMnO4\]\[H2O,OH-\] ROH-ROH}$
-    * Oxidative Syn-Addition
-    * Catalyst: $\ce{KMnO4}$ in cold (room temperature) and neutral - mildly-basic condition
-    * Mechanism: Concerted  
-      ![glycolfm.gif](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/Images2/glycolfm.gif)
-  * Dihydroxylation Reaction: $\ce{R=R ->\[KMnO4\]\[H+ \text{or} \Delta\] R=O + O=R}$
-    * Oxidative Cleavage
-    * Note: $\ce{ROH ->\[KMnO4\]\[H+ \text{or} \Delta\] ROOH}$
-    * Catalyst: $\ce{KMnO4}$ in hot or acidic condition
-    * Mechanism: Concerted (Similar to dihydroxylation)
+  * Oxidation of Alkenes
+    * Dihydroxylation Reaction: $\ce{R=R ->\[KMnO4\]\[H2O,OH-\] ROH-ROH}$
+      * Oxidative Syn-Addition
+      * Catalyst: $\ce{KMnO4}$ in cold (room temperature) and neutral - mildly-basic condition
+      * Mechanism: Concerted  
+        ![glycolfm.gif](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/Images2/glycolfm.gif)
+    * $\ce{R=R ->\[KMnO4\]\[H+ \text{or} \Delta\] R=O + O=R}$
+      * Oxidative Cleavage
+      * Note: $\ce{ROH ->\[KMnO4\]\[H+ \text{or} \Delta\] ROOH}$
+      * Catalyst: $\ce{KMnO4}$ in hot or acidic condition
+      * Mechanism: Concerted (Similar to dihydroxylation)
   * Oxidation of Alkynes: $\ce{R=R ->\[KMnO4,H2O\] ROOH + HOOR}$
     * Oxidative Cleavage
     * Note: May ionize to $\ce{RCOO-}$ in basic, hot condition

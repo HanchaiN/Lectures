@@ -27,19 +27,27 @@
       * Depends on bulkiness of $\ce{RX}$
         * $1^{\circ}>2^{\circ}\gg3^{\circ}$
       * Depends on strength of $\ce{Nu-}$
-    * Flipped Stereochemistry
+    * Inversion of Configuration
     * Mechanism: Concerted
+  * Comparison $\ce{S\_{N}1}$ and $\ce{S\_{N}2}$
+    * $\ce{S\_{N}2}$ use stronger (generally charged) nucleophile
+    * Tertiary halides prefer $\ce{S\_{N}1}$; Primary halides prefer $\ce{S\_{N}2}$
+    * $\ce{S\_{N}1}$ prefer polar protic solvent
+    * $\ce{S\_{N}1}$ is non-stereospecific while $\ce{S\_{N}2}$ causes inversion
 * Elimination Reaction: $\ce{RX-RH -> R=R}$
-  * E1 Elimination
+  * $\ce{E1}$ Elimination
     * $r=k\left\[\\ce{RX}\right\]$
+      * Depends on stability of $\ce{R+}$
+        * $3^{\circ}>2^{\circ}\gg1^{\circ}$
     * Non-Stereospecific
     * Mechanism: Stepwise
       1. $\ce{RX-RH ->\[- X-\] R+-RH}$
          * Rate Determining Step
          * Possible Rearrangement
-      1. $\ce{R+-RH ->\[+ H2O\]\[- H3O+\] R=R}$
-  * E2 Elimination: $\ce{RX-RH ->\[+ Nu-\]\[- H-Nu, - X\] R=R}$
+      1. $\ce{R+-RH ->\[- H+\] R=R}$
+  * $\ce{E2}$ Elimination: $\ce{RX-RH ->\[+ Nu-\]\[- H-Nu, - X\] R=R}$
     * $r=k\left\[\\ce{RX}\right\]\\left\[\\ce{Nu-}\right\]$
+      * Depends on strength of $\ce{Nu-}$
     * Anti-Elimination
     * Mechanism: Concerted
   * Zaitsev's Rule: Prefer double bond with more substituents
@@ -52,10 +60,17 @@
          * 1,2-Disubstituted Alkene $\ce{R2C=CH2}$
       1. Monosubstituted Alkene $\ce{RHC=CH2}$
       1. Ethylene $\ce{H2C=CH2}$
+  * Comparison $\ce{E1}$ and $\ce{E2}$
+    * $\ce{E2}$ use strong nucleophile
+    * $\ce{E1}$ is non-stereospecific while $\ce{E2}$ is anti-elimination
+  * Competition between $\ce{E}$ and $\ce{S\_{N}}$
+    * @Room Temperature: $\ce{S\_{N}1} > \ce{E1}$
+    * @High Temperature: $\ce{E2} > \ce{S\_{N}2}$
+    * Bulky $\ce{Nu-}$ or $\ce{R-X}$: $\ce{E2} > \ce{S\_{N}2}$
 * Reduction: $\ce{R-X -> R-H}$
   * w/ Hydride ($\ce{Li+ AlH4-}$)
     * Note: Primary / Secondary Alkyl Halides
-    * Flipped Stereochemistry $\ce{S\_{N}2}$
+    * Inversion of Configuration ~$\ce{S\_{N}2}$
     * $\ce{R-X + AlH4- ->\[\\text{dry} Et2O\]\[\\text{or} \text{dry} THF\] ->\[\\text{(3) equiv.} R-X\] H-R + X- + AlX3}$
       * THF: Tetrahydrofuran: Solvent
   * w/ Metals ($\ce{Zn, Mg}$)
