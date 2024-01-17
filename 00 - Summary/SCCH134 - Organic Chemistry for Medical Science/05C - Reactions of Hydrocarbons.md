@@ -149,6 +149,9 @@ aliases:
 					 - Possible Rearrangement
 			 - Friedel-Crafts Acylation: $\ce{Ar-H ->[R-CO-X][AlX3 \text{or} FeX3] Ar-CO-R}$
 				 - $\ce{R-CO-X + AlX3 -> R-C+(=O) + Al^{-}X4}$
+				 - Can later reduce carbonyl (Aldehyde / Ketone) out (Indirect Friedel-Crafts Alkylation)
+					 - Clemmensen Reduction: $\ce{Zn / Hg , H+}$
+					 - Wolff Kishner Reduction: $\ce{H2N-NH2, NaOH}$ (Hydrazine in alkali)
 			 - Nitration: $\ce{Ar-H ->[\text{conc.} HNO3][\text{conc.} H2SO4] Ar-NO2}$
 			 - Sulfonation: $\ce{Ar-H ->[\text{conc.} H2SO4][\Delta] Ar-SO2}$
 		 - Directing groups
@@ -157,7 +160,7 @@ aliases:
 				 - $\ce{-NH2}, \ce{-NHR}, \ce{-NR2} > \ce{-OH} > \ce{-OR} > \ce{-NH-CO-R} > \ce{-O-CO-R} > \ce{-CH} > \ce{-R} > \ce{-H}$
 				 - Resonance structure as *ortho*-/*para*-Aromatic Carbanion (attract positive substitution group): $\ce{Ar-Z <-> Ar^{-}=Z+}$
 			 - *meta*-directing group
-				 - Electron Withdrawing group (EWG)
+				 - Electron Withdrawing Group (EWG)
 				 - $\ce{-H} < \ce{-CHO}, \ce{-COR} < \ce{-SO3H} < \ce{-COOH} < \ce{-C#N} < \ce{-N+R3} < \ce{-NO2}$
 				 - Resonance structure as *ortho*-/*para*-Aromatic Carbocation (repel positive substitution group): $\ce{Ar-X <-> Ar+=X-}$
 		 - Mechanism
