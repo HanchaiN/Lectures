@@ -27,20 +27,37 @@
   * *Z* / *cis*: same side (up/down for cyclic)
   * *E* / *trans*: different side (up/down for cyclic)
   * Note: *E* / *Z* system will use priority system while *cis* / *trans* system will refer to identical functional group
-* Priority for the configuration use first point of difference (high priority first) and compare atomic number; multiple bond count as multiple instances when order ($\ce{R(=O)H} > \ce{R(-OH)H2}$)
-  * If different atom, High atomic number first; Else High Atomic mass first
-    * Lone electron pair have lowest priority
-  * If same atom, transverse highest priority branch first (cannot go reverse)
-    * Multiple bond can be transverse multiple times; Can go reverse to previous node as many time as the bond allow.
-    * Can transverse along the ring.
-    * If the branch is the same,
-      * If different double-bond configuration, *Z*- before *E*- before nonstereogenic double bonds.
-      * If different chiral configuration pairs, like (e.g *R*,*R*) before unlike (e.g. *R*,*S*)
-      * If different chiral configuration, *R*- and *M*- before *S*- and *P*-
-      * Else, go to the next prioritized-branch
+  * Priority for the configuration use first point of difference (high priority first) and compare atomic number; multiple bond count as multiple instances when order ($\ce{R(=O)H} > \ce{R(-OH)H2}$)
+    * If different atom, high atomic number first
+      * Phantom atom will have lowest priority (Atomic Number: 0)
+        * Ensure Tetrahedral Structure
+        * Lone Electron Pair (Anion / Heteroatoms) / Empty Orbital (Cation)
+        * Placeholder for terminal atom (Multiple bonds / Rings)
+    * If same atom, transverse highest priority branch first (cannot go reverse)  
+      ![Example Compound](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92143a.gif) ![simplified digraph for center 5](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92143b.gif)
+      * Can transverse along the ring both ways and ends at the entrance node (inclusive)
+      * Multiple bond can be transverse multiple times (May consider as ring of length 2)
+        * Can go forward multiple time
+        * For the first forward propagation, can go reverse to previous node with the same multiplicity.
+        * Duplicates and the (duplicated) reverse is consider terminal (cannot transverse deeper; other 3 branch is filled with phantom atom)
+        * Note: For ring systems with maximum number of noncumulative double bonds, the duplicate(s) will have to average atomic number (and weight) if the bond is split in each possible resonance structure (with each double bond positions).  
+          ![Resonance Double Bond Transversal](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92144b.gif)
+    * If inconclusive, transverse again, with closer duplicates first (Lookup the first occurrence of that node in the transversal).
+    * If inconclusive, transverse again, with high atomic mass first.
+    * If all branches are the same, transverse again, with *Z* before *E* before non-stereogenic.
+      * Note: *Z* / *E* is compared relative to the current transversal path if inconclusive.  
+        ![(1E,3E)-1,3-diethylidenecyclobutane](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92422a.gif) ![(1E,3E)-1,3-diethylidenecyclobutane digraph](https://iupac.qmul.ac.uk/BlueBook/P9gif/P92422b.gif)  
+        In this case, traversing through $\ce{C}-2$ will results in *Z* / *cis* as it is the same side as $\ce{-CH3}$  
+        ($\ce{C}-1$ to $\ce{C}-4$ is the same as $\ce{C}-1$ to $\ce{C}-2$ otherwise)
+    * If all branches are the same, transverse again, with chiral before non-chiral; then like before unlike
+      * Chiral before non-chiral
+      * Like (e.g. *R*,*R*) before Unlike (e.g. *R*,*S*)
+        * Compare current node with the first chiral parent node from the root.
+        * The depth of comparison will be equal as any different encounter with non-chiral will be prioritize by previous rule.
+    * If all branches are the same, transverse again, with *R* before *S*
 
 ## Reference
 
 * Handout SCCH134
 * [8.5: The E/Z System (when cis/trans does not work) - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_(Wade)/08%3A_Structure_and_Synthesis_of_Alkenes/8.05%3A_The_E_Z_System_(when_cis_trans_does_not_work))
-* ISBN 978-0-85404-182-4
+* [Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.](../../Reference/Nomenclature%20of%20Organic%20Chemistry.%20IUPAC%20Recommendations%20and%20Preferred%20Names%202013..md)

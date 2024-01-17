@@ -83,6 +83,7 @@
         * [Bond Dipole Moment](01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Bond%20Dipole%20Moment.md)
         * [Hybrid Orbital](01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Hybrid%20Orbital.md)
       * [Metallic Bonding](01%20-%20Concept/Chemistry/Molecular%20Theory/Chemical%20Bonding/Metallic%20Bonding.md)
+    * [Intramolecular Force](01%20-%20Concept/Chemistry/Molecular%20Theory/Intramolecular%20Force.md)
   * [Chemical Kinetics]()
     * [Chemical Equilibrium]()
       * [Ionic Equilibrium]()
