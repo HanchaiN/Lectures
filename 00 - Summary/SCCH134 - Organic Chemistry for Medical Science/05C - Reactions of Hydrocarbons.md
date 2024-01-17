@@ -154,7 +154,7 @@ aliases:
 					 - Wolff Kishner Reduction: $\ce{H2N-NH2, NaOH}$ (Hydrazine in alkali)
 			 - Nitration: $\ce{Ar-H ->[\text{conc.} HNO3][\text{conc.} H2SO4] Ar-NO2}$
 			 - Sulfonation: $\ce{Ar-H ->[\text{conc.} H2SO4][\Delta] Ar-SO2}$
-		 - Directing groups
+		 - Directing Groups
 			 - *ortho*-/*para*-directing group
 				 - Electron Donating Group (EDG)
 				 - $\ce{-NH2}, \ce{-NHR}, \ce{-NR2} > \ce{-OH} > \ce{-OR} > \ce{-NH-CO-R} > \ce{-O-CO-R} > \ce{-CH} > \ce{-R} > \ce{-H}$
@@ -163,6 +163,10 @@ aliases:
 				 - Electron Withdrawing Group (EWG)
 				 - $\ce{-H} < \ce{-CHO}, \ce{-COR} < \ce{-SO3H} < \ce{-COOH} < \ce{-C#N} < \ce{-N+R3} < \ce{-NO2}$
 				 - Resonance structure as *ortho*-/*para*-Aromatic Carbocation (repel positive substitution group): $\ce{Ar-X <-> Ar+=X-}$
+			 - Note: Sometime the effect of EN may override the effect of resonance structure
+		 - Activating / Deactivating Groups
+			 - High / Low EN
+			 - May corelate with directing groups with some exceptions
 		 - Mechanism
 			 1. $\ce{Ar-H + E+ -> Ar+(H)E -> Ar-E + H+}$ (No rearrangement)
 	 - Benzylic Oxidation
