@@ -49,6 +49,7 @@
     * $r=k\left\[\\ce{RX}\right\]\\left\[\\ce{Nu-}\right\]$
       * Depends on strength of $\ce{Nu-}$
     * Anti-Elimination
+      * Note: For cyclohexane, only 1,2-diaxial are anti (1,2-diequatorial is gauche)
     * Mechanism: Concerted
   * Zaitsev's Rule: Prefer double bond with more substituents
     * Stability of Alkene (Most stable to Least stable)
