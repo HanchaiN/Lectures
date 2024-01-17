@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Physical properties of Hydrocarbons
+  - Physical Properties of Hydrocarbons
 ---
 
-# Physical properties of Hydrocarbons
+# Physical Properties of Hydrocarbons
 
 - Non-polar / Low polarity
 - Hydrophobic
