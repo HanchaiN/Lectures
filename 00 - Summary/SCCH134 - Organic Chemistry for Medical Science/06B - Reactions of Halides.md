@@ -32,8 +32,13 @@ aliases:
 			- Depends on bulkiness of $\ce{RX}$
 				- $1^{\circ}>2^{\circ}\gg3^{\circ}$
 			- Depends on strength of $\ce{Nu-}$
-		- Flipped Stereochemistry
+		- Inversion of Configuration
 		- Mechanism: Concerted
+	- Comparison $\ce{S_{N}1}$ and $\ce{S_{N}2}$
+		- $\ce{S_{N}2}$ use stronger (generally charged) nucleophile
+		- Tertiary halides prefer $\ce{S_{N}1}$; Primary halides prefer $\ce{S_{N}2}$
+		- $\ce{S_{N}1}$ prefer polar protic solvent
+		- $\ce{S_{N}1}$ is non-stereospecific while $\ce{S_{N}2}$ causes inversion
 - Elimination Reaction: $\ce{RX-RH -> R=R}$
 	- E1 Elimination
 		- $r=k\left[\ce{RX}\right]$
@@ -60,7 +65,7 @@ aliases:
 - Reduction: $\ce{R-X -> R-H}$
 	- w/ Hydride ($\ce{Li+ AlH4-}$)
 		- Note: Primary / Secondary Alkyl Halides
-		- Flipped Stereochemistry $\ce{S_{N}2}$
+		- Inversion of Configuration ~$\ce{S_{N}2}$
 		- $\ce{R-X + AlH4- ->[\text{dry} Et2O][\text{or} \text{dry} THF] ->[\text{\(3\) equiv.} R-X] H-R + X- + AlX3}$
 			- THF: Tetrahydrofuran: Solvent
 	- w/ Metals ($\ce{Zn, Mg}$)
