@@ -70,7 +70,7 @@
     * Bulky $\ce{Nu-}$ or $\ce{R-X}$: $\ce{E2} > \ce{S\_{N}2}$
 * Reduction: $\ce{R-X -> R-H}$
   * w/ Hydride ($\ce{Li+ AlH4-}$)
-    * Note: Primary / Secondary Alkyl Halides
+    * Note: Primary / Secondary Alkyl Halides; Tertiary → Elimination
     * Inversion of Configuration ~$\ce{S\_{N}2}$
     * $\ce{R-X + AlH4- ->\[\\text{dry} Et2O\]\[\\text{or} \text{dry} THF\] ->\[\\text{(3) equiv.} R-X\] H-R + X- + AlX3}$
       * THF: Tetrahydrofuran: Solvent
