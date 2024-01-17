@@ -9,7 +9,7 @@
   * Aryl Halide ($\ce{Ar-X}$)
     * Halobenzene
 * Physical Properties
-  * Electronegativity → Partial positive charge to adjacent carbon
+  * Electronegativity → Partial positive charge on adjacent carbon
 
 ## Reference
 
