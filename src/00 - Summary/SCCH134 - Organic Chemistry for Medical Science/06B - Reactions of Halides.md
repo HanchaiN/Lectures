@@ -74,12 +74,12 @@
     * $\ce{R-X + M -> R. + M.^{+} + X- -> R-M+ + X- ->\[H+\]\[\\text{or} H2O\] R-H + MOH}$
       * Partial Negative Charge on $\ce{R}$ in Organometals $\ce{R-M+}$
       * Use dry ether as solvent → H-bond / Dipole Interaction helps align atoms
-    * $\ce{Zn}$; $\ce{R-X + Zn -> R-Zn-X ->\[HCl\] R-H + Cl-Zn-X}$
+    * $\ce{Zn}$; $\ce{R-X + Zn -> R-ZnX ->\[HCl\] R-H + Cl-Zn-X}$
       * Organozinc can form a bond with nearby halide → double bond (1,2-dihalide) / ring (1,3-dihalide)
-    * $\ce{Mg}$: $\ce{R-X ->\[Mg\]\[\\text{ether}\] -> R-MgX}$
+    * $\ce{Mg}$: $\ce{R-X ->\[Mg\]\[\\text{ether}\] R-MgX}$
       * Organomagnesium Halide = Grignard Reagent $\ce{R-MgX}$ ($\ce{X}=\ce{Cl, Br, I}$)
         * Strong Partial Negative Charge on $\ce{R}$ → Alkali / Nucleophile
-      * $\ce{R-MgX ->\[H3O+\] R-H + X-Mg-OH}$
+      * $\ce{R-MgX ->\[H3O+\]\[\\text{or} H2O\] R-H + X-Mg-OH}$
       * $\ce{R-MgX ->\[HC#CR\] R-H + X-Mg-C#CR}$
       * $\ce{R-MgX ->\[ROH\] R-H + X-Mg-OR}$
       * $\ce{R-MgX ->\[RX\] R-R + X-Mg-X}$
