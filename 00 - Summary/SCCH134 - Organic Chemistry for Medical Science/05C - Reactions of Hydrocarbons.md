@@ -50,10 +50,11 @@ aliases:
 			- Alkyne Syn Addition: 1 x Alkene Addition
 			- Alkyne Anti Addition
 				1. $\ce{R-C#C-R ->[+M][-M+] R-C.=C^{-}-R ->[+NH3][-NH2-] R-C.=CH-R}$
-					- Anti Addition from the steric effect and *cis*-radical anion electronic repulsion in $\ce{R-C.=C^{-}-R}$
+					- Anti Addition from the steric effect and *cis*-radical anion electronic repulsion in $\ce{R-C.=C^{-}-R}$ → Prefer *trans*-
 				2. $\ce{R-C.=CH-R ->[+M][-M+] R-C^{-}=CH-R ->[+NH3][-NH2-] C-RH=RH-C}$
 	- Halogenation: $\ce{R=R + X2 -> RX-RX}$
 		- Anti-Addition
+			- Note: Can be non-stereospecific if halonium ring open
 		- Discoloration of Halogens
 		- Mechanism  
 		  ![Alkene-bromine-addition-2D-skeletal.png](https://upload.wikimedia.org/wikipedia/commons/3/33/Alkene-bromine-addition-2D-skeletal.png)

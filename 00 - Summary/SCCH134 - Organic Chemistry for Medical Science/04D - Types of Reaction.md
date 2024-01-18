@@ -10,25 +10,46 @@ aliases:
 [Y]C([R])-C([Z])[R]
 ```
 
-- (syn- / anti-) Addition Reaction: $\ce{C=C + Y-Z -> C(Y)-C(Z)}$
-	- Electrophilic Addition: $\ce{C=C + E+ -> C(E)-C+}$
-		- Stability of Carbocation
-		- Possible Rearrangement
-		- $\ce{C=C + H+ -> C(H)-C+ + C^{+}-C(H)}$
-	- Radical Addition: $\ce{C=C + Rad. -> C(Rad)-C.}$
-		- Stability of Carbon Radical
-		- $\ce{C=C + Br. -> C(Br)-C. + C.-C(Br)}$  
-	   $\ce{C=C + HBr ->[HO-OH -> HO. + .OH][HO. + H-Br -> HOBr + H.; HO. + H-Br -> H2O + Br.] C(H)-C. + C.-C(H) + C(Br)-C. + C.-C(Br)}$
-	- Nucleophilic Addition: $\ce{C=C + Nu- -> C(Nu)-C-}$
-		- Stability of Carbanion
-		- $\ce{C=O + HCN ->[HCN -> H+ + N#C^{-}] N#C-C-O^{-} ->[+ H+] N#C-C-OH }$
-- (syn- / anti-) Elimination Reaction: $\ce{C(Y)-C(Z) -> C=C + Y-Z}$
+- Addition Reaction: $\ce{C=C + Y-Z -> C(Y)-C(Z)}$
+	- By Mechanism
+		- Electrophilic Addition: $\ce{C=C + E+ -> C(E)-C+}$
+			- Stability of Carbocation
+			- Possible Rearrangement
+			- $\ce{C=C + H+ -> C(H)-C+ + C^{+}-C(H)}$
+		- Radical Addition: $\ce{C=C + Rad. -> C(Rad)-C.}$
+			- Stability of Carbon Radical
+			- $\ce{C=C + Br. -> C(Br)-C. + C.-C(Br)}$  
+		   $\ce{C=C + HBr ->[HO-OH -> HO. + .OH][HO. + H-Br -> HOBr + H.; HO. + H-Br -> H2O + Br.] C(H)-C. + C.-C(H) + C(Br)-C. + C.-C(Br)}$
+		- Nucleophilic Addition: $\ce{C=C + Nu- -> C(Nu)-C-}$
+			- Stability of Carbanion
+			- $\ce{C=O + HCN ->[HCN -> H+ + N#C^{-}] N#C-C-O^{-} ->[+ H+] N#C-C-OH }$
+	- By Stereochemistry: Syn- / Anti- / Non-stereospecific
+	- Markovnikov's Rule: Stability of Ions/Radicals → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
+		- Markovnikov Addition
+		- Anti-Markovnikov Addition
+- Elimination Reaction: $\ce{C(Y)-C(Z) -> C=C + Y-Z}$
 	- Stereospecific vs non-stereospecific reaction
+	- By Stereochemistry: Syn- / Anti- / Non-stereospecific
+	- Zaitsev's Rule: Prefer double bond with more substituents (experiment)
+		- Stability of Alkene (Most stable to Least stable)
+			1. Tetrasubstituted Alkene $\ce{R2C=CR2}$
+			2. Trisubstituted Alkene $\ce{R2C=CHR}$
+			3. Disubstituted Alkene
+				- trans-Disubstituted Alkene $\ce{RHC=CHR}$
+				- cis-Disubstituted Alkene $\ce{RHC=CHR}$
+				- 1,2-Disubstituted Alkene $\ce{R2C=CH2}$
+			4. Monosubstituted Alkene $\ce{RHC=CH2}$
+			5. Ethylene $\ce{H2C=CH2}$
+		- Zaitsev Elimination
+		- Hofmann Elimination
+			- Large Leaving Group and/or Attacker (Steric Interaction)
 - Substitution Reaction: $\ce{C-L + Z -> C-Z + L}$
-	- Radical Substitution: $\ce{C-H + Br2 ->[Br2 + h\nu / \Delta -> 2 Br.][H. + Br. -> HBr] C-Br + HBr}$
-	- Nucleophilic Substitution: $\ce{C-OH + Br- -> C-Br + H+}$
-	- Electrophilic Substitution: $\ce{Ph-H + CH3Cl ->[AlCl3] Ph-CH3 + HCl}$
-	- Aromatic Substitution: $\ce{Ar-L + Z ->[\text{catalyst}] Ar-Z + L}$
+	- By Mechanism
+		- Radical Substitution: $\ce{C-H + Br2 ->[Br2 + h\nu / \Delta -> 2 Br.][H. + Br. -> HBr] C-Br + HBr}$
+		- Nucleophilic Substitution: $\ce{C-OH + Br- -> C-Br + H+}$
+		- Electrophilic Substitution: $\ce{Ph-H + CH3Cl ->[AlCl3] Ph-CH3 + HCl}$
+		- Aromatic Substitution: $\ce{Ar-L + Z ->[\text{catalyst}] Ar-Z + L}$
+	- By Stereochemistry: Retention / Inversion / Non-stereospecific
 - Rearrangement Reaction
 	- Carbocation: $\ce{R3C-CH+-R <=>> R2C+-CR2}$
 		- Move to the next carbon to increase stability
