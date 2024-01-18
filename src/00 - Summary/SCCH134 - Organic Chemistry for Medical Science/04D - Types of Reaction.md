@@ -1,8 +1,7 @@
 # Types of Reaction
 
 ````smiles
-[Y]C([R])-C([R])[Z]
-[Y]C([R])-C([Z])[R]
+[Y]C([R])-C([R])[Z].[Y]C([R])-C([Z])[R]
 ````
 
 * Addition Reaction: $\ce{C=C + Y-Z -> C(Y)-C(Z)}$
