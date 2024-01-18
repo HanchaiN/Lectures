@@ -59,7 +59,7 @@ aliases:
 		- Mechanism  
 		  ![Alkene-bromine-addition-2D-skeletal.png](https://upload.wikimedia.org/wikipedia/commons/3/33/Alkene-bromine-addition-2D-skeletal.png)
 			1. $\ce{R=R + X-X -> R(X+)R + X-}$
-				- Note: $\ce{RX+R}$ triangle
+				- Note: Halonium ($\ce{RX+R}$) is a ring
 			2. $\ce{RX+R + X- -> RX-RX}$
 				- Nucleophilic Substitution $\ce{S_{N}2}$
 	- Hydrohalogenation: $\ce{R=R + HX -> RX-RH}$
@@ -76,7 +76,7 @@ aliases:
 		- Non-stereospecific Radical Addition
 			- Stability of Carbon Radical → Disfavor Tertiary Halides
 			- Anti-Markovnikov Addition → $\ce{H}$ disfavor $\ce{C}$ with more $\ce{H}$
-		- Catalyst: $\ce{H2O2}$ or $\ce{ROOR}$ or $\ce{O2}$
+		- Reagent: $\ce{H2O2}$ or $\ce{ROOR}$ or $\ce{O2}$
 		- Mechanism (Radical Mechanism)
 			1. Initiation Step
 				1. $\ce{RO-OR ->[\Delta] .OR}$
@@ -113,10 +113,10 @@ aliases:
 			2. Oxidation
 				1. $\ce{(RH-R)3B ->[H2O2,NaOH] 3RH-ROH + B(OH)3}$
 					- Oxidative Substitution
-					- Retention of Configuration
+					- Stereospecific (Retention)
 	 - Epoxidation Reaction: $\ce{R=R + RO-O-OH -> R-Ep-R + RO-OH}$
 		 - Syn-Addition
-		 - Catalyst: Percarboxylic Acid
+		 - Reagent: Percarboxylic Acid
 		 - Mechanism: Concerted  
 		   ![Mcpbaepoxidation-updated.png](https://upload.wikimedia.org/wikipedia/commons/5/5d/Mcpbaepoxidation-updated.png)
 	 - Epoxide ring opening (acidic): $\ce{R-Ep-R + Nu ->[H+] R-CNu-COH-R}$
@@ -132,19 +132,20 @@ aliases:
 	 - Oxidation of Alkenes
 		 - Dihydroxylation Reaction: $\ce{R=R ->[KMnO4][H2O,OH-] ROH-ROH}$
 			 - Oxidative Syn-Addition
-			 - Catalyst: $\ce{KMnO4}$ in cold (room temperature) and neutral - mildly-basic condition
+			 - Reagent: $\ce{KMnO4}$ in cold (room temperature) and neutral - mildly-basic condition
 			 - Mechanism: Concerted  
 			   ![glycolfm.gif](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/Images2/glycolfm.gif)
 		 - $\ce{R=R ->[KMnO4][H+ \text{or} \Delta] R=O + O=R}$
 			 - Oxidative Cleavage
 			 - Note: $\ce{ROH ->[KMnO4][H+ \text{or} \Delta] ROOH}$
-			 - Catalyst: $\ce{KMnO4}$ in hot or acidic condition
+			 - Reagent: $\ce{KMnO4}$ in hot or acidic condition
 			 - Mechanism: Concerted (Similar to dihydroxylation)
 	 - Oxidation of Alkynes: $\ce{R=R ->[KMnO4,H2O] ROOH + HOOR}$
 		 - Oxidative Cleavage
 		 - Note: May ionize to $\ce{RCOO-}$ in basic, hot condition
 	 - Electrophilic Substitution Reaction: $\ce{Ar-H + E+ -> Ar-E + H+}$
-		 - Catalyst (Aromatic compounds are too stable to engage in normal substitution; Lewis acids weaken the $\ce{E-Nu}$ bond)
+		 - Reagent  
+		   (Aromatic compounds are too stable to engage in normal substitution; Lewis acids weaken the $\ce{E-Nu}$ bond)
 			 - Halogenation: $\ce{Ar-H ->[X2][AlX3 \text{or} FeX3] Ar-X}$
 				 - $\ce{X2 + AlX3 -> X+ + Al^{-}X4}$
 			 - Friedel-Crafts Alkylation: $\ce{Ar-H ->[R-X][AlX3 \text{or} FeX3] Ar-R}$

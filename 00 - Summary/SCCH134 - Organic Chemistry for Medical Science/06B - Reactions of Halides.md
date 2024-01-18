@@ -32,7 +32,7 @@ aliases:
 			- Depends on bulkiness of $\ce{RX}$
 				- $1^{\circ}>2^{\circ}\gg3^{\circ}$
 			- Depends on strength of $\ce{Nu-}$
-		- Inversion of Configuration
+		- Stereospecific (Inversion)
 		- Mechanism: Concerted
 	- Comparison $\ce{S_{N}1}$ and $\ce{S_{N}2}$
 		- $\ce{S_{N}2}$ use stronger (generally charged) nucleophile
@@ -67,9 +67,10 @@ aliases:
 		- Bulky $\ce{Nu-}$ or $\ce{R-X}$: $\ce{E2} > \ce{S_{N}2}$
 - Reduction: $\ce{R-X -> R-H}$
 	- w/ Hydride ($\ce{Li+ AlH4-}$)
-		- Note: Primary / Secondary Alkyl Halides; Tertiary → Elimination  
-				- $1^{\circ}>2^{\circ}\gg3^{\circ}$
-		- Inversion of Configuration ~$\ce{S_{N}2}$
+		- $\ce{S_{N}2}$ with $\ce{H-}$
+			- Note: Primary / Secondary Alkyl Halides; Tertiary → $E_{2}$  
+					- $1^{\circ}>2^{\circ}\gg3^{\circ}$
+		- Stereospecific (Inversion)
 		- $\ce{R-X + AlH4- ->[\text{dry} Et2O][\text{or} \text{dry} THF] ->[\text{\(3\) equiv.} R-X] H-R + X- + AlX3}$
 			- THF: Tetrahydrofuran: Solvent
 	- w/ Metals ($\ce{Zn, Mg}$)

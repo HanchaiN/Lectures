@@ -75,3 +75,4 @@ aliases:
 ## Reference
 
 - Handout SCCH134
+- [[Organic chemistry|Red Book]]
