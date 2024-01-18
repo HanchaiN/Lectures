@@ -30,19 +30,19 @@ aliases:
 - Elimination Reaction: $\ce{C(Y)-C(Z) -> C=C + Y-Z}$
 	- Stereospecific vs non-stereospecific reaction
 	- By Stereochemistry: Syn- / Anti- / Non-stereospecific
-	- Zaitsev's Rule: Prefer double bond with more substituents (experiment)
+	- Zaitsev's Rule: Prefer double bond with more substituents (experimental)
 		- Stability of Alkene (Most stable to Least stable)
 			1. Tetrasubstituted Alkene $\ce{R2C=CR2}$
 			2. Trisubstituted Alkene $\ce{R2C=CHR}$
-			3. Disubstituted Alkene
+			3. Disubstituted Alkene (Have multiple forms; May compare steric)
 				- trans-Disubstituted Alkene $\ce{RHC=CHR}$
 				- cis-Disubstituted Alkene $\ce{RHC=CHR}$
 				- 1,2-Disubstituted Alkene $\ce{R2C=CH2}$
 			4. Monosubstituted Alkene $\ce{RHC=CH2}$
 			5. Ethylene $\ce{H2C=CH2}$
 		- Zaitsev Elimination
-		- Hofmann Elimination
-			- Large Leaving Group and/or Attacker (Steric Interaction)
+		- Hofmann Elimination: Opposite (Steric Interaction)
+			- Apply when Large Leaving Group and/or Alkali (Attacker)
 - Substitution Reaction: $\ce{C-L + Z -> C-Z + L}$
 	- By Mechanism
 		- Radical Substitution: $\ce{C-H + Br2 ->[Br2 + h\nu / \Delta -> 2 Br.][H. + Br. -> HBr] C-Br + HBr}$
