@@ -36,31 +36,23 @@
     * $\ce{S\_{N}1}$ is non-stereospecific while $\ce{S\_{N}2}$ causes inversion
 * Elimination Reaction: $\ce{RX-RH -> R=R}$
   * $\ce{E1}$ Elimination
+    * Non-Stereospecific
+      * Zaitsev Elimination
     * $r=k\left\[\\ce{RX}\right\]$
       * Depends on stability of $\ce{R+}$
         * $3^{\circ}>2^{\circ}\gg1^{\circ}$
-    * Non-Stereospecific
     * Mechanism: Stepwise
       1. $\ce{RX-RH ->\[- X-\] R+-RH}$
          * Rate Determining Step
          * Possible Rearrangement
       1. $\ce{R+-RH ->\[- H+\] R=R}$
   * $\ce{E2}$ Elimination: $\ce{RX-RH ->\[+ Nu-\]\[- H-Nu, - X\] R=R}$
+    * Anti-Elimination
+      * Zaitsev Elimination
+      * Note: For cyclohexane, only 1,2-diaxial are anti (1,2-diequatorial is gauche)
     * $r=k\left\[\\ce{RX}\right\]\\left\[\\ce{Nu-}\right\]$
       * Depends on strength of $\ce{Nu-}$
-    * Anti-Elimination
-      * Note: For cyclohexane, only 1,2-diaxial are anti (1,2-diequatorial is gauche)
     * Mechanism: Concerted
-  * Zaitsev's Rule: Prefer double bond with more substituents
-    * Stability of Alkene (Most stable to Least stable)
-      1. Tetrasubstituted Alkene $\ce{R2C=CR2}$
-      1. Trisubstituted Alkene $\ce{R2C=CHR}$
-      1. Disubstituted Alkene
-         * trans-Disubstituted Alkene $\ce{RHC=CHR}$
-         * cis-Disubstituted Alkene $\ce{RHC=CHR}$
-         * 1,2-Disubstituted Alkene $\ce{R2C=CH2}$
-      1. Monosubstituted Alkene $\ce{RHC=CH2}$
-      1. Ethylene $\ce{H2C=CH2}$
   * Comparison $\ce{E1}$ and $\ce{E2}$
     * $\ce{E2}$ use strong nucleophile
     * $\ce{E1}$ is non-stereospecific while $\ce{E2}$ is anti-elimination
@@ -75,6 +67,7 @@
     * $\ce{R-X + AlH4- ->\[\\text{dry} Et2O\]\[\\text{or} \text{dry} THF\] ->\[\\text{(3) equiv.} R-X\] H-R + X- + AlX3}$
       * THF: Tetrahydrofuran: Solvent
   * w/ Metals ($\ce{Zn, Mg}$)
+    * Non-Stereospecific (Radical Reaction)
     * $\ce{R-X + M -> R-M+ + X- ->\[H+\]\[\\text{or} H2O\] R-H + MOH}$
     * $\ce{Zn}$ → $\ce{R-X + Zn -> R-Zn-X ->\[HCl\] R-H + Cl-Zn-X}$
     * $\ce{Mg}$ → $\ce{R-X ->\[Mg\]\[\\text{ether}\] -> R-MgX}$
