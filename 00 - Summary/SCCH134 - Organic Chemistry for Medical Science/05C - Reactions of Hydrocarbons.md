@@ -67,7 +67,7 @@ aliases:
 					- Anti Addition from the steric effect and *cis*-radical anion electronic repulsion in $\ce{R-C.=C^{-}-R}$ → Prefer *trans*-
 				2. $\ce{R-C.=CH-R ->[+M][-M+] R-C^{-}=CH-R ->[+NH3][-NH2-] C-RH=RH-C}$
 	- Halogenation: $\ce{R=R + X2 -> RX-RX}$
-		- Anti-Addition
+		- AntiElectrophilic Addition
 			- Ring Intermediate + Stereospecific (Inversion) Substitution ($\ce{S_{N}2}$) → Anti-addition
 				- Note: Can be non-stereospecific if halonium ring open first ($\ce{S_{N}1}$)
 		- Discoloration of Halogens in dark condition
@@ -163,12 +163,15 @@ aliases:
  - Oxidation of Alkenes
 	 - Dihydroxylation Reaction: $\ce{R=R ->[KMnO4][H2O,OH-] ROH-ROH}$
 		 - Oxidative Syn-Addition
+			 - Ring Intermediate → Syn-Addition
 		 - Reagent: $\ce{KMnO4}$ in cold (room temperature) and neutral - mildly-basic condition
+		 - Decoloration of Potassium Permanganate
 		 - Mechanism: Concerted  
-		   ![glycolfm.gif](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/Images2/glycolfm.gif)
+		   ![Two different paths to produce a glycol. .svg](https://chem.libretexts.org/@api/deki/files/429757/Two_different_paths_to_produce_a_glycol._.svg)
 	 - Oxidative Cleavage: $\ce{R=R ->[KMnO4][H+ \text{or} \Delta] R=O + O=R}$
-		 - Note: $\ce{ROH ->[KMnO4][H+ \text{or} \Delta] ROOH}$
+		 - Note: $\ce{RCOH ->[KMnO4][H+ \text{or} \Delta] RCOOH}$
 		 - Reagent: $\ce{KMnO4}$ in hot or acidic condition
+		 - Decoloration of Potassium Permanganate
 		 - Mechanism: Concerted (Similar to dihydroxylation)
  - Oxidation of Alkynes
 	 - Oxidative Cleavage: $\ce{R=R ->[KMnO4,H2O] ROOH + HOOR}$
@@ -176,19 +179,23 @@ aliases:
  - Electrophilic Aromatic Substitution: $\ce{Ar-H + E+ -> Ar-E + H+}$
 	 - Reagent (Aromatic compounds are too stable and electron-rich for nucleophilic substitution; Lewis acids induce strong electrophile)
 		 - Halogenation: $\ce{Ar-H ->[X2][AlX3 \text{or} FeX3] Ar-X}$
-			 - $\ce{X2 + AlX3 -> X+ + Al^{-}X4}$
+			 - $\ce{AlX3 ->[+X2][-X+] + Al^{-}X4 ->[+H+][-HX] -> AlX3}$
 		 - Friedel-Crafts Alkylation: $\ce{Ar-H ->[R-X][AlX3 \text{or} FeX3] Ar-R}$
 			 - $\ce{R-X + AlX3 -> R+ + Al^{-}X4}$
 				 - Possible Rearrangement
+			 - Use $\ce{Al^{-}X4}$ to accept original hydrogen (like Halogenation)
 		 - Friedel-Crafts Acylation: $\ce{Ar-H ->[R-CO-X][AlX3 \text{or} FeX3] Ar-CO-R}$
 			 - $\ce{R-CO-X + AlX3 -> R-C+(=O) + Al^{-}X4}$
+			 - Use $\ce{Al^{-}X4}$ to accept original hydrogen (like Halogenation)
 			 - Can later reduce carbonyl (Aldehyde / Ketone) out (Indirect Friedel-Crafts Alkylation)
 				 - Clemmensen Reduction: $\ce{Zn / Hg , H+}$
-				 - Wolff Kishner Reduction: $\ce{H2N-NH2, NaOH}$ (Hydrazine in alkali)
+				 - Wolff Kishner Reduction: $\ce{H2N-NH2, NaOH}$ (Hydrazine in alkali @ High Temperature)
 		 - Nitration: $\ce{Ar-H ->[\text{conc.} HNO3][\text{conc.} H2SO4] Ar-NO2}$
 			 - $\ce{HO-NO2 <=>[H2SO4] H2O+-NO2 <=> NO2+}$
+			 - Use $\ce{H2O}$ to accept original hydrogen
 		 - Sulfonation: $\ce{Ar-H ->[\text{conc.} H2SO4][\Delta] Ar-SO3H}$
 			 - $\ce{HO-SO3H <=>[H2SO4] H2O+-SO3 <=> SO3H+}$
+			 - Use $\ce{H2O}$ to accept original hydrogen
 	 - Directing Groups (compared to $\ce{H}$)
 		 - *ortho*-/*para*-directing group
 			 - Electron Donating Group (EDG)
@@ -208,7 +215,7 @@ aliases:
 	 - Mechanism
 		 1. $\ce{Ar-H + E+ -> Ar+(H)E -> Ar-E + H+}$ (No rearrangement)
  - Benzylic Oxidation
-	 - $\ce{Ph-CHR2 ->[KMnO4][H+,\Delta] Ph-CO-OH}$
+	 - $\ce{Ph-CHR2 ->[KMnO4][H+,\Delta] Ph-COOH}$
 		 - Require at least one benzylic hydrogen
 
 ## Reference
