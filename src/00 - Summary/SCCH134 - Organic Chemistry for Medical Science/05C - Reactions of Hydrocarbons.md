@@ -26,6 +26,10 @@
       * $\ce{I.}$ is too inert
       * $\ce{Cl.}$ is too reactive, low selectivity (%major ~ %minor; may prioritize multiplicity)
       * Alternatively, use NBS (*N*-Bromosuccinimide to create radicals to avoid Halogenation Addition)
+      * Note: Ratio per Homotopic (same position-ish) Hydrogen
+        * $\ce{F}\to1:1:1$
+        * $\ce{Cl}\to1:3.8:5.0$
+        * $\ce{Br}\to1:82:1600$
   * Hydroxylation (via Peroxidation): $\ce{R + R'-O-OH ->\[O2\]\[h\nu / \Delta\] ROH}$
     * Radical Substitution
       * Carbon Radical Intermediate
