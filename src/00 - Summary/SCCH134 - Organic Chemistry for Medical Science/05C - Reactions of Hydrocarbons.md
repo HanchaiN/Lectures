@@ -180,7 +180,8 @@
 * Electrophilic Aromatic Substitution: $\ce{Ar-H + E+ -> Ar-E + H+}$
   * Reagent (Aromatic compounds are too stable and electron-rich for nucleophilic substitution; Lewis acids induce strong electrophile)
     * Halogenation: $\ce{Ar-H ->\[X2\]\[AlX3 \text{or} FeX3\] Ar-X}$
-      * $\ce{AlX3 ->\[+X2\]\[-X+\] + Al^{-}X4 ->\[+H+\]\[-HX\] -> AlX3}$
+      * $\ce{X2 + AlX3 -> X+ + Al^{-}X4}$
+      * $\ce{Al^{-}X4 + H+ -> AlX3 + HX}$
     * Friedel-Crafts Alkylation: $\ce{Ar-H ->\[R-X\]\[AlX3 \text{or} FeX3\] Ar-R}$
       * $\ce{R-X + AlX3 -> R+ + Al^{-}X4}$
         * Possible Rearrangement
@@ -195,7 +196,7 @@
       * $\ce{HO-NO2 \<=>\[H2SO4\] H2O+-NO2 \<=> NO2+}$
       * Use $\ce{H2O}$ to accept original hydrogen
     * Sulfonation: $\ce{Ar-H ->\[\\text{conc.} H2SO4\]\[\\Delta\] Ar-SO3H}$
-      * $\ce{HO-SO3H \<=>\[H2SO4\] H2O+-SO3 \<=> SO3H+}$
+      * $\ce{HO-SO3H ->\[H2SO4\]\[-H2O\] SO3}$
       * Use $\ce{H2O}$ to accept original hydrogen
   * Directing Groups (compared to $\ce{H}$)
     * *ortho*-/*para*-directing group
