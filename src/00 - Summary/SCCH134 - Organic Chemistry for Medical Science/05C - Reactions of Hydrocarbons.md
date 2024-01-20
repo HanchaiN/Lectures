@@ -52,7 +52,7 @@
       * Alkyne Partial Anti-Addition: $\ce{Na / NH3}$ or $\ce{Li / NH3}$
         * Results in trans-Alkene
     * Mechanism
-      * Alkene addition: Concerted
+      * Alkene addition: Concerted (Ring transition state → Syn-Addition)
         1. $\ce{H-H + 2 M \<-> 2 H-M}$
         1. $\ce{C=C + 2 H-M -> CH-CH}$
       * Alkyne Full Addition: 2 x Alkene Addition
@@ -63,7 +63,7 @@
         1. $\ce{R-C.=CH-R ->\[+M\]\[-M+\] R-C^{-}=CH-R ->\[+NH3\]\[-NH2-\] C-RH=RH-C}$
   * Halogenation: $\ce{R=R + X2 -> RX-RX}$
     * Anti-Addition
-      * Ring Intermediate + Nucleophilic Substitution ($\ce{S\_{N}2}$) → Anti-addition
+      * Ring Intermediate + Stereospecific (Inversion) Substitution ($\ce{S\_{N}2}$) → Anti-addition
         * Note: Can be non-stereospecific if halonium ring open first ($\ce{S\_{N}1}$)
     * Discoloration of Halogens in dark condition
     * Mechanism  
@@ -74,6 +74,7 @@
          * Nucleophilic Substitution $\ce{S\_{N}2}$
   * Hydrohalogenation: $\ce{R=R + HX -> RX-RH}$
     * Non-stereospecific Electrophilic Addition
+      * Carbocation Intermediate → Non-stereospecific
       * Carbocation Intermediate + Attract Functional Group
         * Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
           * Alkyne $\ce{R#R + 2 HX -> RX2-RH2}$
@@ -83,6 +84,7 @@
       1. $\ce{R+-RH + X- -> RX-RH}$
   * Hydrohalogenation: $\ce{R=R + HX ->\[H2O2\]\[\\Delta\] RH-RX}$
     * Non-stereospecific Radical Addition
+      * Carbon Radical Intermediate → Non-stereospecific
       * Carbon Radical Intermediate + Attacked by Function Group
         * Anti-Markovnikov Addition → $\ce{H}$ disfavor $\ce{C}$ with more $\ce{H}$
     * Reagent: $\ce{H2O2}$ or $\ce{ROOR}$ or $\ce{O2}$
@@ -96,6 +98,7 @@
          1. $\ce{R.-RX ->\[+HX\]\[-X.\] RH-RX}$
   * Hydration Reaction (acid-catalyzed): $\ce{R=R + H2O ->\[H+\] ROH-RH}$
     * Non-stereospecific Electrophilic Addition
+      * Carbocation Intermediate → Non-stereospecific
       * Carbocation Intermediate + Attract Functional Group
         * Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
         * Possible Rearrangement
@@ -117,7 +120,7 @@
     * Alkyne → (Enol → Keto) Tautomerization
   * Hydration Reaction (Hydroboration-oxidation): $\ce{R=R ->\[\\text{1.} BH3, THF\]\[\\text{2.} H2O2, NaOH\] RH-ROH}$
     * Syn-Addition
-      * Addition w/ cyclic transition state → Syn-Addition
+      * Addition w/ ring transition state → Syn-Addition
         * (+) Stereospecific (Retention) Substitution (No Effect)
       * Steric Effect + Substitute w/ Halide
         * Anti-Markovnikov Addition → $\ce{H}$ disfavor $\ce{C}$ with more $\ce{H}$
