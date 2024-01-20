@@ -199,13 +199,16 @@
       * Electron Withdrawing Group (EWG)
       * Resonance structure as *ortho*-/*para*-Aromatic Carbocation (repel positive substitution group): $\ce{Ar-Z \<-> Ar+=Z-}$
   * Activating / Deactivating Groups (compared to $\ce{H}$)
-    * Induce Negative / Positive partial charge on phenol
+    * Induce Negative / Positive partial charge on benzene ring, Making Electrophile prefer/disfavor the phenyl group
   * Electron Donating Group & Electron Withdrawing Groups
-    1. $\pi$-donors: $\ce{-NH2}, \ce{-NHR}, \ce{-NR2} > \ce{-OH} > \ce{-OR} > \ce{-NH-CO-R} > \ce{-O-CO-R}$
-    1. $\sigma$-donors: $\ce{-CH} > \ce{-R} > \ce{-Ar}$
-    1. Halogens:
+    * Overview
+      * Resonance Effect > Inductive Effect
+      * Negative: EDG; Positive: EWG
+    1. $\pi$-donors (Resonance): $\ce{-NH2}, \ce{-NHR}, \ce{-NR2} > \ce{-OH} > \ce{-OR} > \ce{-NH-CO-R} > \ce{-O-CO-R}$
+    1. $\sigma$-donors (Inductive): $\ce{-CH} > \ce{-R} > \ce{-Ar}$
+    1. Halogens (Negative Resonance + Positive Inductive):
        * *o*-/*p*-directing (have electron to donate)
-       * deactivating (high EN and induce positive phenol)
+       * Deactivating (high EN and induce positive phenol)
     1. Carbonyls and Others: $\ce{-CHO}, \ce{-COR} \< \ce{-SO3H} \< \ce{-COOH} \< \ce{-C#N} \< \ce{-N+R3} \< \ce{-NO2}$
   * Mechanism
     1. $\ce{Ar-H + E+ -> Ar+(H)E -> Ar-E + H+}$ (No rearrangement)
