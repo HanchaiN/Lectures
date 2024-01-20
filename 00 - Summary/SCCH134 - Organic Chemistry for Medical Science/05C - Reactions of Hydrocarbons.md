@@ -117,7 +117,7 @@ aliases:
 			2. $\ce{R+-RH ->[+H2O] R(OH2+)-RH ->[-H+] R(OH)-RH}$
 	- Hydration Reaction (Oxymercuration-Demercuration): $\ce{R=R ->[\text{1.} Hg(OAc)2, H2O][\text{2.} NaBH4] ROH-RH}$
 		- Anti-Addition
-			- Ring Intermediate + Stereospecific (Inversion) Substitution → Anti-addition
+			- Ring Intermediate + Stereospecific (Inversion) Substitution → Anti-Addition
 				- (+) Stereospecific (Retention) Substitution (No Effect)
 			- Nucleophilic Substitution + Substitute w/ Functional Group
 				- More $\ce{R}$ → More Electrophilic → Attract Functional Group
@@ -136,68 +136,79 @@ aliases:
 				2. $\ce{RH-R(BH2) ->[+2R=R] (RH-R)3B}$
 			2. Oxidation
 				1. $\ce{(RH-R)3B ->[H2O2,NaOH] 3RH-ROH + B(OH)3}$
+	- Halohydrin Formation: $\ce{R=R ->[X2][ROH] R(OR)-R(X)}$
+		- Anti-Addition
+			- Ring Intermediate + Stereospecific (Inversion) Substitution ($\ce{S_{N}2}$) → Anti-addition
+			- Nucleophilic Substitution + Substitute w/ $\ce{ROH}$
+				- More $\ce{R}$ → More Electrophilic → Attract $\ce{ROH}$
+				- $\ce{X}$ disfavor $\ce{C}$ with more $\ce{H}$
+			- Similar to Halogenation via Halonium Ions
 	 - Epoxidation Reaction: $\ce{R=R + RO-O-OH -> R-Ep-R + RO-OH}$
 		 - Syn-Addition
-		 - Reagent: Percarboxylic Acid
+			 - Addition w/ ring product → Syn-Addition
+		 - Reagent: Percarboxylic Acid e.g. *m*-CPBA
 		 - Mechanism: Concerted  
 		   ![Mcpbaepoxidation-updated.png](https://upload.wikimedia.org/wikipedia/commons/5/5d/Mcpbaepoxidation-updated.png)
 	 - Epoxide ring opening (acidic): $\ce{R-Ep-R + Nu ->[H+] R-CNu-COH-R}$
-		 - Anti-Nucleophilic Substitution $\ce{S_{N}2}$
+		 - Anti-Substitution ($\ce{S_{N}2}$)
 		 - Mechanism: Concerted  
 		   ![Epoxide\_hydrolysis.svg](https://upload.wikimedia.org/wikipedia/commons/1/12/Epoxide_hydrolysis.svg)
 			- $\ce{Nu}$ prefer $\ce{C}$ with less $\ce{H}$ (carbocation character)
 	 - Epoxide ring opening (basic): $\ce{R-Ep-R + Nu- -> R-COH-CNu-R + OH-}$
-		 - Anti-Nucleophilic Substitution $\ce{S_{N}2}$
+		 - Anti-Substitution ($\ce{S_{N}2}$)
 		 - Mechanism: Concerted  
 		   ![Epoxide\_hydrolysis.svg](https://upload.wikimedia.org/wikipedia/commons/1/12/Epoxide_hydrolysis.svg)
 			 - $\ce{Nu}$ prefer $\ce{C}$ with more $\ce{H}$ (steric effect)
-	 - Oxidation of Alkenes
-		 - Dihydroxylation Reaction: $\ce{R=R ->[KMnO4][H2O,OH-] ROH-ROH}$
-			 - Oxidative Syn-Addition
-			 - Reagent: $\ce{KMnO4}$ in cold (room temperature) and neutral - mildly-basic condition
-			 - Mechanism: Concerted  
-			   ![glycolfm.gif](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/Images2/glycolfm.gif)
-		 - $\ce{R=R ->[KMnO4][H+ \text{or} \Delta] R=O + O=R}$
-			 - Oxidative Cleavage
-			 - Note: $\ce{ROH ->[KMnO4][H+ \text{or} \Delta] ROOH}$
-			 - Reagent: $\ce{KMnO4}$ in hot or acidic condition
-			 - Mechanism: Concerted (Similar to dihydroxylation)
-	 - Oxidation of Alkynes: $\ce{R=R ->[KMnO4,H2O] ROOH + HOOR}$
-		 - Oxidative Cleavage
+ - Oxidation of Alkenes
+	 - Dihydroxylation Reaction: $\ce{R=R ->[KMnO4][H2O,OH-] ROH-ROH}$
+		 - Oxidative Syn-Addition
+		 - Reagent: $\ce{KMnO4}$ in cold (room temperature) and neutral - mildly-basic condition
+		 - Mechanism: Concerted  
+		   ![glycolfm.gif](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/Images2/glycolfm.gif)
+	 - Oxidative Cleavage: $\ce{R=R ->[KMnO4][H+ \text{or} \Delta] R=O + O=R}$
+		 - Note: $\ce{ROH ->[KMnO4][H+ \text{or} \Delta] ROOH}$
+		 - Reagent: $\ce{KMnO4}$ in hot or acidic condition
+		 - Mechanism: Concerted (Similar to dihydroxylation)
+ - Oxidation of Alkynes
+	 - Oxidative Cleavage: $\ce{R=R ->[KMnO4,H2O] ROOH + HOOR}$
 		 - Note: May ionize to $\ce{RCOO-}$ in basic, hot condition
-	 - Electrophilic Substitution Reaction: $\ce{Ar-H + E+ -> Ar-E + H+}$
-		 - Reagent  
-		   (Aromatic compounds are too stable to engage in normal substitution; Lewis acids weaken the $\ce{E-Nu}$ bond)
-			 - Halogenation: $\ce{Ar-H ->[X2][AlX3 \text{or} FeX3] Ar-X}$
-				 - $\ce{X2 + AlX3 -> X+ + Al^{-}X4}$
-			 - Friedel-Crafts Alkylation: $\ce{Ar-H ->[R-X][AlX3 \text{or} FeX3] Ar-R}$
-				 - $\ce{R-X + AlX3 -> R+ + Al^{-}X4}$
-					 - Possible Rearrangement
-			 - Friedel-Crafts Acylation: $\ce{Ar-H ->[R-CO-X][AlX3 \text{or} FeX3] Ar-CO-R}$
-				 - $\ce{R-CO-X + AlX3 -> R-C+(=O) + Al^{-}X4}$
-				 - Can later reduce carbonyl (Aldehyde / Ketone) out (Indirect Friedel-Crafts Alkylation)
-					 - Clemmensen Reduction: $\ce{Zn / Hg , H+}$
-					 - Wolff Kishner Reduction: $\ce{H2N-NH2, NaOH}$ (Hydrazine in alkali)
-			 - Nitration: $\ce{Ar-H ->[\text{conc.} HNO3][\text{conc.} H2SO4] Ar-NO2}$
-			 - Sulfonation: $\ce{Ar-H ->[\text{conc.} H2SO4][\Delta] Ar-SO2}$
-		 - Directing Groups
-			 - *ortho*-/*para*-directing group
-				 - Electron Donating Group (EDG)
-				 - $\ce{-NH2}, \ce{-NHR}, \ce{-NR2} > \ce{-OH} > \ce{-OR} > \ce{-NH-CO-R} > \ce{-O-CO-R} > \ce{-CH} > \ce{-R} > \ce{-H}$
-				 - Resonance structure as *ortho*-/*para*-Aromatic Carbanion (attract positive substitution group): $\ce{Ar-Z <-> Ar^{-}=Z+}$
-			 - *meta*-directing group
-				 - Electron Withdrawing Group (EWG)
-				 - $\ce{-H} < \ce{-CHO}, \ce{-COR} < \ce{-SO3H} < \ce{-COOH} < \ce{-C#N} < \ce{-N+R3} < \ce{-NO2}$
-				 - Resonance structure as *ortho*-/*para*-Aromatic Carbocation (repel positive substitution group): $\ce{Ar-X <-> Ar+=X-}$
-			 - Note: Sometime the effect of EN may override the effect of resonance structure
-		 - Activating / Deactivating Groups
-			 - High / Low EN
-			 - May corelate with directing groups with some exceptions
-		 - Mechanism
-			 1. $\ce{Ar-H + E+ -> Ar+(H)E -> Ar-E + H+}$ (No rearrangement)
-	 - Benzylic Oxidation
-		 - $\ce{Ph-CHR2 ->[KMnO4][H+,\Delta] Ph-CO-OH}$
-			 - Require at least one benzylic hydrogen
+ - Electrophilic Aromatic Substitution: $\ce{Ar-H + E+ -> Ar-E + H+}$
+	 - Reagent (Aromatic compounds are too stable and electron-rich for nucleophilic substitution; Lewis acids induce strong electrophile)
+		 - Halogenation: $\ce{Ar-H ->[X2][AlX3 \text{or} FeX3] Ar-X}$
+			 - $\ce{X2 + AlX3 -> X+ + Al^{-}X4}$
+		 - Friedel-Crafts Alkylation: $\ce{Ar-H ->[R-X][AlX3 \text{or} FeX3] Ar-R}$
+			 - $\ce{R-X + AlX3 -> R+ + Al^{-}X4}$
+				 - Possible Rearrangement
+		 - Friedel-Crafts Acylation: $\ce{Ar-H ->[R-CO-X][AlX3 \text{or} FeX3] Ar-CO-R}$
+			 - $\ce{R-CO-X + AlX3 -> R-C+(=O) + Al^{-}X4}$
+			 - Can later reduce carbonyl (Aldehyde / Ketone) out (Indirect Friedel-Crafts Alkylation)
+				 - Clemmensen Reduction: $\ce{Zn / Hg , H+}$
+				 - Wolff Kishner Reduction: $\ce{H2N-NH2, NaOH}$ (Hydrazine in alkali)
+		 - Nitration: $\ce{Ar-H ->[\text{conc.} HNO3][\text{conc.} H2SO4] Ar-NO2}$
+			 - $\ce{HO-NO2 <=>[H2SO4] H2O+-NO2 <=> NO2+}$
+		 - Sulfonation: $\ce{Ar-H ->[\text{conc.} H2SO4][\Delta] Ar-SO3H}$
+			 - $\ce{HO-SO3H <=>[H2SO4] H2O+-SO3 <=> SO3H+}$
+	 - Directing Groups (compared to $\ce{H}$)
+		 - *ortho*-/*para*-directing group
+			 - Electron Donating Group (EDG)
+			 - Resonance structure as *ortho*-/*para*-Aromatic Carbanion (attract positive substitution group): $\ce{Ar-Z <-> Ar^{-}=Z+}$
+		 - *meta*-directing group
+			 - Electron Withdrawing Group (EWG)
+			 - Resonance structure as *ortho*-/*para*-Aromatic Carbocation (repel positive substitution group): $\ce{Ar-Z <-> Ar+=Z-}$
+	 - Activating / Deactivating Groups (compared to $\ce{H}$)
+		 - Induce Negative / Positive partial charge on phenol
+	 - Electron Donating Group & Electron Withdrawing Groups
+		 1. $\pi$-donors: $\ce{-NH2}, \ce{-NHR}, \ce{-NR2} > \ce{-OH} > \ce{-OR} > \ce{-NH-CO-R} > \ce{-O-CO-R}$
+		 2. $\sigma$-donors: $\ce{-CH} > \ce{-R} > \ce{-Ar}$
+		 3. Halogens:
+			 - *o*-/*p*-directing (have electron to donate)
+			 - deactivating (high EN and induce positive phenol)
+		 4. Carbonyls and Others: $\ce{-CHO}, \ce{-COR} < \ce{-SO3H} < \ce{-COOH} < \ce{-C#N} < \ce{-N+R3} < \ce{-NO2}$
+	 - Mechanism
+		 1. $\ce{Ar-H + E+ -> Ar+(H)E -> Ar-E + H+}$ (No rearrangement)
+ - Benzylic Oxidation
+	 - $\ce{Ph-CHR2 ->[KMnO4][H+,\Delta] Ph-CO-OH}$
+		 - Require at least one benzylic hydrogen
 
 ## Reference
 

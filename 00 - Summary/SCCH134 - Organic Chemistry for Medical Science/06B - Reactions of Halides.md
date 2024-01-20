@@ -16,7 +16,7 @@ aliases:
 		- Thioether, sulfide: $\ce{R-X ->[RS-] R-SR}$
 		- Nitrile: $\ce{R-X ->[N#C-] R-C#N}$
 	- Unimolecular Nucleophilic Substitution $\ce{S_{N}1}$
-		- Non-Stereospecific → Racemic Mixture
+		- Carbocation Intermediate → Non-Stereospecific
 		- $r=k\left[\ce{RX}\right]$
 			- Depends on stability of $\ce{R+}$
 				- $3^{\circ}>2^{\circ}\gg1^{\circ}$
@@ -41,7 +41,7 @@ aliases:
 		- $\ce{S_{N}1}$ is non-stereospecific while $\ce{S_{N}2}$ causes inversion
 - Elimination Reaction: $\ce{RX-RH -> R=R}$
 	- Unimolecular Elimination $\ce{E1}$
-		- Non-Stereospecific
+		- Carbocation Intermediate → Non-Stereospecific
 		- Zaitsev Elimination
 		- $r=k\left[\ce{RX}\right]$
 			- Depends on stability of $\ce{R+}$
@@ -75,7 +75,7 @@ aliases:
 			- THF: Tetrahydrofuran: Solvent
 	- w/ Metals ($\ce{Zn, Mg}$; indirect)
 		- Radical Substitution (Organometal formation) + Electrophilic Substitution
-			- Non-Stereospecific (Radical Reaction)
+			- Radical Intermediate → Non-Stereospecific
 		- $\ce{R-X + M -> R. + M.^{+} + X- -> R-M+ + X- ->[H+][\text{or} H2O] R-H + MOH}$
 			- Partial Negative Charge on $\ce{R}$ in Organometals $\ce{R-M+}$
 			- Use dry ether as solvent → H-bond / Dipole Interaction helps align atoms
