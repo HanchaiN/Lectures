@@ -169,13 +169,14 @@
     * Mechanism: Concerted  
       ![Two different paths to produce a glycol. .svg](https://chem.libretexts.org/@api/deki/files/429757/Two_different_paths_to_produce_a_glycol._.svg)
   * Oxidative Cleavage: $\ce{R=R ->\[KMnO4\]\[H+ \text{or} \Delta\] R=O + O=R}$
-    * Note: $\ce{RCOH ->\[KMnO4\]\[H+ \text{or} \Delta\] RCOOH}$
+    * Note: $\ce{R=CHR -> R-CO-H ->\[KMnO4\]\[H+ \text{or} \Delta\] R-CO-OH}$
     * Reagent: $\ce{KMnO4}$ in hot or acidic condition
     * Decoloration of Potassium Permanganate
     * Mechanism: Concerted (Similar to dihydroxylation)
 * Oxidation of Alkynes
   * Oxidative Cleavage: $\ce{R=R ->\[KMnO4,H2O\] ROOH + HOOR}$
     * Note: May ionize to $\ce{RCOO-}$ in basic, hot condition
+    * Note: $\ce{HO-CO-OH ->\[KMnO4\]\[H+ \text{or} \Delta\] CO2 + H2O}$
 * Electrophilic Aromatic Substitution: $\ce{Ar-H + E+ -> Ar-E + H+}$
   * Reagent (Aromatic compounds are too stable and electron-rich for nucleophilic substitution; Lewis acids induce strong electrophile)
     * Halogenation: $\ce{Ar-H ->\[X2\]\[AlX3 \text{or} FeX3\] Ar-X}$
