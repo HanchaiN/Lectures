@@ -92,6 +92,7 @@ aliases:
 			- Carbon Radical Intermediate → Non-stereospecific
 			- Carbon Radical Intermediate + Attacked by Function Group
 				- Anti-Markovnikov Addition → $\ce{H}$ disfavor $\ce{C}$ with more $\ce{H}$
+					- Alkyne $\ce{R#R + 2 HX ->[H2O2] RH2-RX2}$
 		- Reagent: $\ce{H2O2}$ or $\ce{ROOR}$ or $\ce{O2}$
 		- Mechanism (Radical Mechanism)
 			1. Initiation Step
