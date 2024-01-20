@@ -12,8 +12,9 @@ aliases:
 - Substitution Reaction
 	- Halogenation: $\ce{R-H + X2 ->[h\nu / \Delta] R-X + HX}$
 		- Radical Substitution
-			- Stability of Carbon Radical → Prefer Tertiary Halides
-		- Discoloration of Halogens
+			- Carbon Radical Intermediate
+				- Attract Functional Group → Prefer Tertiary Halides
+		- Discoloration of Halogens in bright condition
 		- Mechanism (Radical Mechanism)
 			1. Initiation Step
 				1. $\ce{X2 ->[h\nu / \Delta] 2X.}$
@@ -29,18 +30,31 @@ aliases:
 			- Reactivity of halogen radical: $\ce{I.} < \ce{Br.} < \ce{Cl.}$
 			- $\ce{I.}$ is too inert
 			- $\ce{Cl.}$ is too reactive, low selectivity (%major ~ %minor; may prioritize multiplicity)
-	- Hydroxylation: $\ce{R + R'-O-OH ->[O2][h\nu / \Delta] ROH}$
+			- Alternatively, use NBS (*N*-Bromosuccinimide to create radicals to avoid Halogenation Addition)
+	- Hydroxylation (via Peroxidation): $\ce{R + R'-O-OH ->[O2][h\nu / \Delta] ROH}$
 		- Radical Substitution
-			- Stability of Carbon Radical → Prefer Tertiary Alcohol
+			- Carbon Radical Intermediate
+				- Attract Functional Group → Prefer Tertiary Alcohol (and Allylic / Benzylic)
 		- Reagent: TBHP (tert-Butylhydroperoxide) $\ce{(CH3)3C-O-OH}$
 		- Mechanism (Radical Mechanism)
+			1. Peroxidation
+				1. Initiation Step
+					1. $\ce{R-O-OH ->[h\nu / \Delta] R-O. + HO.}$
+				2. Propagation Step
+					1. $\ce{R-H + HO. -> R. + H2O}$
+					2. $\ce{R. + O2 -> R-O-O.}$
+					3. $\ce{R-O-O. + R-H -> R-O-OH + R.}$
+			2. Termination
+				1. $\ce{R-O-OH + R. -> R-O. + R-OH}$
+				2. $\ce{R-O. + R-H -> R-OH + R.}$
 - Addition Reaction
 	- Hydrogenation: $\ce{R=R + H2 ->[Pd / C] RH-RH}$ and $\ce{R#R + 2H2 ->[Pd / C] RH2-RH2}$
 		- Catalyst
 			- Alkene Syn-Addition / Alkyne Full Addition: $\ce{Pd / C}$ or $\ce{Ni}$ or $\ce{Pt}$
-			- Alkyne Syn-Addition: Lindlar's Catalyst (Poisoned catalyst: $\ce{Pd + BaSO4}$ or $\ce{Pd + CaCO3}$)
+			- Alkyne Partial Syn-Addition: Lindlar's Catalyst  
+			  (Poisoned catalyst: $\ce{Pd + BaSO4}$ or $\ce{Pd + CaCO3}$)
 				- Results in cis-Alkene
-			- Alkyne Anti-Addition: $\ce{Na / NH3}$ or $\ce{Li / NH3}$
+			- Alkyne Partial Anti-Addition: $\ce{Na / NH3}$ or $\ce{Li / NH3}$
 				- Results in trans-Alkene
 		- Mechanism
 			- Alkene addition: Concerted
@@ -54,8 +68,9 @@ aliases:
 				2. $\ce{R-C.=CH-R ->[+M][-M+] R-C^{-}=CH-R ->[+NH3][-NH2-] C-RH=RH-C}$
 	- Halogenation: $\ce{R=R + X2 -> RX-RX}$
 		- Anti-Addition
-			- Note: Can be non-stereospecific if halonium ring open
-		- Discoloration of Halogens
+			- Ring Intermediate + Nucleophilic Substitution ($\ce{S_{N}2}$) → Anti-addition
+				- Note: Can be non-stereospecific if halonium ring open first ($\ce{S_{N}1}$)
+		- Discoloration of Halogens in dark condition
 		- Mechanism  
 		  ![Alkene-bromine-addition-2D-skeletal.png](https://upload.wikimedia.org/wikipedia/commons/3/33/Alkene-bromine-addition-2D-skeletal.png)
 			1. $\ce{R=R + X-X -> R(X+)R + X-}$
@@ -64,18 +79,17 @@ aliases:
 				- Nucleophilic Substitution $\ce{S_{N}2}$
 	- Hydrohalogenation: $\ce{R=R + HX -> RX-RH}$
 		- Non-stereospecific Electrophilic Addition
-			- Stability of Carboxation → Prefer Tertiary Halides
-			- Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
-				- Alkyne $\ce{R#R + 2 HX -> RX2-RH2}$
+			- Carbocation Intermediate + Attract Functional Group
+				- Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
+					- Alkyne $\ce{R#R + 2 HX -> RX2-RH2}$
+				- Possible Rearrangement
 		- Mechanism (Ionic Mechanism)
 			1. $\ce{R=R + H-X -> R+-RH + X-}$
-				- Electrophilic Addition
-				- Possible Rearrangement
 			2. $\ce{R+-RH + X- -> RX-RH}$
 	- Hydrohalogenation: $\ce{R=R + HX ->[H2O2][\Delta] RH-RX}$
 		- Non-stereospecific Radical Addition
-			- Stability of Carbon Radical → Disfavor Tertiary Halides
-			- Anti-Markovnikov Addition → $\ce{H}$ disfavor $\ce{C}$ with more $\ce{H}$
+			- Carbon Radical Intermediate + Attacked by Function Group
+				- Anti-Markovnikov Addition → $\ce{H}$ disfavor $\ce{C}$ with more $\ce{H}$
 		- Reagent: $\ce{H2O2}$ or $\ce{ROOR}$ or $\ce{O2}$
 		- Mechanism (Radical Mechanism)
 			1. Initiation Step
@@ -84,36 +98,41 @@ aliases:
 					- Note: Halogen Radical is more stable than Hydrogen Radical
 			2. Propagation Step
 				1. $\ce{R=R ->[+X.] R.-RX}$
-					- Radical Addition
 				2. $\ce{R.-RX ->[+HX][-X.] RH-RX}$
 	- Hydration Reaction (acid-catalyzed): $\ce{R=R + H2O ->[H+] ROH-RH}$
 		- Non-stereospecific Electrophilic Addition
-			- Stability of Carbocation → Prefer tertiary alcohol
-			- Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
-		- Alkyne: $\ce{R-C#C-R + H2O ->[H+] RC(OH)=CHR <=>> RC(O)-CHR}$
-			- Enol (alkene + alcohol) → Tautomerization to keto (ketone)
-				- Exceptions:
-					- Prefer Phenol $\ce{Ar-OH}$
-					- Prefer Enol to 1,3-diketones ($\ce{-CO-C=COH-{} <=> -CO-C-CO-{}}$) (H-bond from ketone to alcohol)
+			- Carbocation Intermediate + Attract Functional Group
+				- Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
+				- Possible Rearrangement
+		- Alkyne → (Enol → Keto) Tautomerization
+			- Partial Addition
+			- Exceptions:
+				- Prefer Phenol $\ce{Ar-OH}$
+				- Prefer Enol to 1,3-diketones ($\ce{-CO-C=COH-{} <=> -CO-C-CO-{}}$) (H-bond from ketone to alcohol)
 		- Mechanism (Acid-catalyzed)
 			1. $\ce{R=R ->[+H+] R+-RH}$
-				- Electrophilic Addition
-				- Possible Rearrangement
 			2. $\ce{R+-RH ->[+H2O] R(OH2+)-RH ->[-H+] R(OH)-RH}$
-	- Hydration Reaction (Hydroboration-oxidation): $\ce{R=R ->[\text{1.} BH3, THF][\text{2.} H2O2, NaOH] ROH-RH}$
+	- Hydration Reaction (Oxymercuration-Demercuration): $\ce{R=R ->[\text{1.} Hg(OAc)2, H2O][\text{2.} NaBH4] ROH-RH}$
+		- Anti-Addition
+			- Ring Intermediate + Stereospecific (Inversion) Substitution → Anti-addition
+				- (+) Stereospecific (Retention) Substitution (No Effect)
+			- Nucleophilic Substitution + Substitute w/ Functional Group
+				- More $\ce{R}$ → More Electrophilic → Attract Functional Group
+				- Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
+		- Alkyne → (Enol → Keto) Tautomerization
+	- Hydration Reaction (Hydroboration-oxidation): $\ce{R=R ->[\text{1.} BH3, THF][\text{2.} H2O2, NaOH] RH-ROH}$
 		- Syn-Addition
-			- Steric Effect
-			- Anti-Markovnikov Addition → $\ce{H}$ disfavor $\ce{C}$ with more $\ce{H}$
-		- Alkyne → Tautomerization
+			- Addition w/ cyclic transition state → Syn-Addition
+				- (+) Stereospecific (Retention) Substitution (No Effect)
+			- Steric Effect + Substitute w/ Halide
+				- Anti-Markovnikov Addition → $\ce{H}$ disfavor $\ce{C}$ with more $\ce{H}$
+		- Alkyne → (Enol → Keto) Tautomerization
 		- Mechanism
 			1. Hydroboration
 				1. $\ce{R=R ->[+BH3] RH-R(BH2)}$
-					- Steric Effect
 				2. $\ce{RH-R(BH2) ->[+2R=R] (RH-R)3B}$
 			2. Oxidation
 				1. $\ce{(RH-R)3B ->[H2O2,NaOH] 3RH-ROH + B(OH)3}$
-					- Oxidative Substitution
-					- Stereospecific (Retention)
 	 - Epoxidation Reaction: $\ce{R=R + RO-O-OH -> R-Ep-R + RO-OH}$
 		 - Syn-Addition
 		 - Reagent: Percarboxylic Acid
