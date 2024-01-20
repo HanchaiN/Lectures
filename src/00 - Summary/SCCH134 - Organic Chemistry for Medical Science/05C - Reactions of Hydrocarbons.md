@@ -112,12 +112,12 @@
       * Exceptions:
         * Prefer Phenol $\ce{Ar-OH}$
         * Prefer Enol to 1,3-diketones ($\ce{-CO-C=COH-{} \<=> -CO-C-CO-{}}$) (H-bond from ketone to alcohol)
-    * Mechanism (Acid-catalyzed)
+    * Mechanism
       1. $\ce{R=R ->\[+H+\] R+-RH}$
       1. $\ce{R+-RH ->\[+H2O\] R(OH2+)-RH ->\[-H+\] R(OH)-RH}$
   * Hydration Reaction (Oxymercuration-Demercuration): $\ce{R=R ->\[\\text{1.} Hg(OAc)2, H2O\]\[\\text{2.} NaBH4\] ROH-RH}$
     * Anti-Addition
-      * Ring Intermediate + Stereospecific (Inversion) Substitution → Anti-Addition
+      * Ring Intermediate + Stereospecific (Inversion) Substitution ($\ce{S\_{N}2}$) → Anti-Addition
         * (+) Stereospecific (Retention) Substitution (No Effect)
       * Nucleophilic Substitution + Substitute w/ Functional Group
         * More $\ce{R}$ → More Electrophilic → Attract Functional Group
