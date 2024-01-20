@@ -200,6 +200,7 @@
       * Resonance structure as *ortho*-/*para*-Aromatic Carbocation (repel positive substitution group): $\ce{Ar-Z \<-> Ar+=Z-}$
   * Activating / Deactivating Groups (compared to $\ce{H}$)
     * Induce Negative / Positive partial charge on benzene ring, Making Electrophile prefer/disfavor the phenyl group
+    * Note: Friedel-Crafts may not occur if benzene is deactivated
   * Electron Donating Group & Electron Withdrawing Groups
     * Overview
       * Resonance Effect > Inductive Effect
