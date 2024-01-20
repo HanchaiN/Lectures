@@ -112,11 +112,7 @@ aliases:
 			- Carbocation Intermediate + Attract Functional Group
 				- Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
 				- Possible Rearrangement
-		- Alkyne → (Enol → Keto) Tautomerization
-			- Partial Addition
-			- Exceptions:
-				- Prefer Phenol $\ce{Ar-OH}$
-				- Prefer Enol to 1,3-diketones ($\ce{-CO-C=COH-{} <=> -CO-C-CO-{}}$) (H-bond from ketone to alcohol)
+		- Alkyne → Rearrangement from $\ce{sp^{2}}$-carbocation ($\ce{R=C+-R2}$) to $\ce{p}$-carbocation ($\ce{R3-C+}$)
 		- Mechanism
 			1. $\ce{R=R ->[+H+] R+-RH}$
 			2. $\ce{R+-RH ->[+H2O] R(OH2+)-RH ->[-H+] R(OH)-RH}$
@@ -127,14 +123,19 @@ aliases:
 			- Nucleophilic Substitution + Substitute w/ Functional Group
 				- More $\ce{R}$ → More Electrophilic → Attract Functional Group
 				- Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
-		- Alkyne → (Enol → Keto) Tautomerization
+		- Alkyne → (Enol → Keto) Tautomerization → No Double-Addition
+			- Partial Addition
+			- Exceptions:
+				- Prefer Phenol $\ce{Ar-OH}$
+				- Prefer Enol to 1,3-diketones ($\ce{-CO-C=COH-{} <=> -CO-C-CO-{}}$) (H-bond from ketone to alcohol)
 	- Hydration Reaction (Hydroboration-oxidation): $\ce{R=R ->[\text{1.} BH3, THF][\text{2.} H2O2, NaOH] RH-ROH}$
 		- Syn-Addition
 			- Addition w/ ring transition state → Syn-Addition
 				- (+) Stereospecific (Retention) Substitution (No Effect)
 			- Steric Effect + Substitute w/ Halide
 				- Anti-Markovnikov Addition → $\ce{H}$ disfavor $\ce{C}$ with more $\ce{H}$
-		- Alkyne → (Enol → Keto) Tautomerization
+		- Alkyne → (Enol → Keto) Tautomerization → No Double-Addition
+			- Use $\ce{R2BH}$ instead of $\ce{BH3}$ (One Hydride → Avoid Multiple Addition)
 		- Mechanism
 			1. Hydroboration
 				1. $\ce{R=R ->[+BH3] RH-R(BH2)}$
