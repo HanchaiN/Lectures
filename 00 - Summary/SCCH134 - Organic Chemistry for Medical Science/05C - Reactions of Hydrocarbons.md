@@ -67,7 +67,7 @@ aliases:
 					- Anti Addition from the steric effect and *cis*-radical anion electronic repulsion in $\ce{R-C.=C^{-}-R}$ → Prefer *trans*-
 				2. $\ce{R-C.=CH-R ->[+M][-M+] R-C^{-}=CH-R ->[+NH3][-NH2-] C-RH=RH-C}$
 	- Halogenation: $\ce{R=R + X2 -> RX-RX}$
-		- AntiElectrophilic Addition
+		- Anti-Electrophilic Addition
 			- Ring Intermediate + Stereospecific (Inversion) Substitution ($\ce{S_{N}2}$) → Anti-addition
 				- Note: Can be non-stereospecific if halonium ring open first ($\ce{S_{N}1}$)
 		- Discoloration of Halogens in dark condition
