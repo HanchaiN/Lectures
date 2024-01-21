@@ -12,7 +12,7 @@
   * [Photoelectric Effect](../../01%20-%20Concept/Physics/Quantum%20Mechanics/Breakdown%20of%20Classical%20Physics/Photoelectric%20Effect.md)
     * [Quantization of Photon](../../01%20-%20Concept/Physics/Quantum%20Mechanics/Breakdown%20of%20Classical%20Physics/Ultraviolet%20Catastrophe.md)
     * $\pu{1 eV}=e\cdot\pu{1 V}$
-  * [Quantization of Energy](../../01%20-%20Concept/Chemistry/Atomic%20Theory/Atomic%20Model/Bohr%20Model.md)
+  * [Quantization of Energy](../../01%20-%20Concept/Chemistry/Physical%20Chemistry/Chemical%20Physics/Atomic%20Theory/Atomic%20Model/Bohr%20Model.md)
   * [De Broglie Wavelength](../../01%20-%20Concept/Physics/Quantum%20Mechanics/De%20Broglie%20Wavelength.md)
   * [Double-Slit Experiment](../../01%20-%20Concept/Physics/Quantum%20Mechanics/Breakdown%20of%20Classical%20Physics/Double-Slit%20Experiment.md)
   * Electron Microscope: electron as short-wavelength photon

@@ -6,7 +6,7 @@
   From Coulomb's electric force: $F_e=\frac{1}{4\pi\varepsilon_0}\frac{q_1q_2}{r^2}$;  
   $\therefore v=\sqrt{\frac{1}{4\pi\varepsilon_0}\frac{e^2}{m_er}}$,  
   From standing wave on a circle: $2\pi r=n\lambda$,  
-  From [De Broglie Wavelength](../../../Physics/Quantum%20Mechanics/De%20Broglie%20Wavelength.md): $\lambda=\frac{h}{mv}$,  
+  From [De Broglie Wavelength](../../../../../Physics/Quantum%20Mechanics/De%20Broglie%20Wavelength.md): $\lambda=\frac{h}{mv}$,  
   $\therefore r=\frac{4\pi\varepsilon_0\hbar^2}{e^2m_e}n^2$.
 * Total energy is $E=-R_H\frac{1}{n^2}$ where $R_H=\frac{\mu m_ee^4}{32\pi^2\varepsilon_0^2\hbar^{2}}$ is Rydberg constant.  
   Johannes Robert Rydberg (1890)  
@@ -19,5 +19,5 @@
 
 ## Reference
 
-* [01 - Atomic Structure and Atomic Theory](../../../../00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)
-* [10 - Modern Physics](../../../../00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/10%20-%20Modern%20Physics.md)
+* [01 - Atomic Structure and Atomic Theory](../../../../../../00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)
+* [10 - Modern Physics](../../../../../../00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/10%20-%20Modern%20Physics.md)

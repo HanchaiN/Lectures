@@ -8,5 +8,5 @@
 
 ## Reference
 
-* [01 - Atomic Structure and Atomic Theory](../../../../00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)
-* [01B - Bonds and Shapes of molecules](../../../../00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01B%20-%20Bonds%20and%20Shapes%20of%20molecules.md)
+* [01 - Atomic Structure and Atomic Theory](../../../../../../00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)
+* [01B - Bonds and Shapes of molecules](../../../../../../00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01B%20-%20Bonds%20and%20Shapes%20of%20molecules.md)

@@ -1,6 +1,6 @@
 # Atomic Structure and Atomic Theory
 
-* [Atomic Model](../../01%20-%20Concept/Chemistry/Atomic%20Theory/Atomic%20Model/Atomic%20Model.md)
+* [Atomic Model](../../01%20-%20Concept/Chemistry/Physical%20Chemistry/Chemical%20Physics/Atomic%20Theory/Atomic%20Model/Atomic%20Model.md)
   * Related Discoveries
     * Henri Becquerel (1896): Radioactivity
     * J. J. Thomson (1897): Cathode Rays: $\frac{-e}{m}=\pu{-1.76E8 C\*g^{-1}}$
@@ -15,8 +15,8 @@
     * August Herman Pfund (1924): Hydrogen spectral series ($n_f=5$: IR)
     * Curtis J. Humphreys (1953): Hydrogen spectral series ($n_f=6$: IR)
     * [01A - Introduction to Quantum Mechanics](01A%20-%20Introduction%20to%20Quantum%20Mechanics.md)
-  * [Bohr Model](../../01%20-%20Concept/Chemistry/Atomic%20Theory/Atomic%20Model/Bohr%20Model.md)
-  * [Electron Cloud Model](../../01%20-%20Concept/Chemistry/Atomic%20Theory/Atomic%20Model/Electron%20Cloud%20Model.md)
+  * [Bohr Model](../../01%20-%20Concept/Chemistry/Physical%20Chemistry/Chemical%20Physics/Atomic%20Theory/Atomic%20Model/Bohr%20Model.md)
+  * [Electron Cloud Model](../../01%20-%20Concept/Chemistry/Physical%20Chemistry/Chemical%20Physics/Atomic%20Theory/Atomic%20Model/Electron%20Cloud%20Model.md)
     * [Pauli's Exclusion Principle](../../01%20-%20Concept/Physics/Quantum%20Mechanics/Pauli's%20Exclusion%20Principle.md)
     * Aufbau Principle: Lowest Energy First
     * Hund's Rule: Parallel Spin First
@@ -33,7 +33,7 @@
         * Max $n$
         * May include partially filled $d$-orbital or $f$-orbital
       * Oppose to Inner electrons
-* [Property of Element](../../01%20-%20Concept/Chemistry/Atomic%20Theory/Property%20of%20Element/Property%20of%20Element.md)
+* [Property of Element](../../01%20-%20Concept/Chemistry/Physical%20Chemistry/Chemical%20Physics/Atomic%20Theory/Property%20of%20Element/Property%20of%20Element.md)
   * Alkali Metals (IA)
   * Alkali Earth Metals (IIA)
   * Boron Family (IIIA)
