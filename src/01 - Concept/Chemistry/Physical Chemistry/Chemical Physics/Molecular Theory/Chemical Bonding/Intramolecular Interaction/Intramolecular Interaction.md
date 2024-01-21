@@ -1,6 +1,9 @@
-# Intramolecular Force
+# Intramolecular Interaction
 
 * Chemical bonding
+  * [Metallic Bonding](Metallic%20Bonding.md)
+  * [Ionic Bonding](Ionic%20Bonding.md)
+  * [Covalent Bonding](Covalent%20Bonding/Covalent%20Bonding.md)
 * Non-bonded intramolecular action
   * Steric Repulsion: Bulky functional group
   * Intramolecular Hydrogen Bond
@@ -9,5 +12,5 @@
 
 ## Reference
 
-* [Red Book](../../../../../Reference/Organic%20chemistry.md)
+* [Red Book](../../../../../../../Reference/Organic%20chemistry.md)
 * Handout SCCH134

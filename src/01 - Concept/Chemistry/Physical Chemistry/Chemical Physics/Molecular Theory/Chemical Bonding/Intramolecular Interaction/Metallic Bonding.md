@@ -1,8 +1,4 @@
-# Characteristic Infrared Band
-
-* Resonance with [Covalent Bonding](Covalent%20Bonding.md)
-  * Stretching
-  * Bending
+# Metallic Bonding
 
 ## Reference
 

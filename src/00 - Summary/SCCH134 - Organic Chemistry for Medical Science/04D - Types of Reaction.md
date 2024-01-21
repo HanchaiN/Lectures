@@ -22,7 +22,6 @@
     * Markovnikov Addition
     * Anti-Markovnikov Addition
 * Elimination Reaction: $\ce{C(Y)-C(Z) -> C=C + Y-Z}$
-  * Stereospecific vs non-stereospecific reaction
   * By Stereochemistry: Syn- / Anti- / Non-stereospecific
   * Zaitsev's Rule: Prefer double bond with more substituents (experimental)
     * Stability of Alkene (Most stable to Least stable)

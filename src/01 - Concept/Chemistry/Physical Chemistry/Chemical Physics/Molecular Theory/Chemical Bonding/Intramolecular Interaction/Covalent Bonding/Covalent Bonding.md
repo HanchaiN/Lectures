@@ -4,7 +4,7 @@
 * Bond Energy
   * $\propto \text{Bond Order}$
 * Bond Length
-  * Approx. sum of [Covalent Radius](../../../Atomic%20Theory/Property%20of%20Element/Atomic%20Radius.md)
+  * Approx. sum of [Covalent Radius](../../../../Atomic%20Theory/Property%20of%20Element/Atomic%20Radius.md)
 * Bond Order
   * Single bond ~ $+1\sigma$
   * Double bond ~ $+1\sigma+1\pi$
@@ -28,7 +28,7 @@
   * $\delta$-bond: Lateral (4-lobe ~ $d$-orbital)
   * $\phi$-bond: Lateral (6-lobe ~ $f$-orbital)
   * Valence Bond Theory
-    * Overlapped [Atomic Orbital](../../../Atomic%20Theory/Atomic%20Orbital.md)
+    * Overlapped [Atomic Orbital](../../../../Atomic%20Theory/Atomic%20Orbital.md)
     * Strength depends on extent of overlap
       * Orientation of the bond
     * [Hybrid Orbital](Hybrid%20Orbital.md)
@@ -40,4 +40,4 @@
 
 ## Reference
 
-* [02 - Chemical Bonding](../../../../../../../00%20-%20Summary/SCCH105%20-%20General%20Chemistry/02%20-%20Chemical%20Bonding.md)
+* [02 - Chemical Bonding](../../../../../../../../00%20-%20Summary/SCCH105%20-%20General%20Chemistry/02%20-%20Chemical%20Bonding.md)

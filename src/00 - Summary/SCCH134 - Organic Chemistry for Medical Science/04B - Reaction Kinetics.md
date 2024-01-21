@@ -13,7 +13,7 @@
     * $\ce{R=R + E+ -> R(E)-R+}$
     * Stability
       * $\ce{p}$-carbocation ($\ce{R3-C+}$) > $\ce{sp^{2}}$-carbocation ($\ce{R=C+-R2}$) > $\ce{sp}$-carbocation ($\ce{R#C+}$)
-      * Prefer $\ce{sp^{2} + p}$ (triangular planar) to $\ce{sp^3}$ (triangular pyrimidal) → Non-stereospecific
+      * Prefer $\ce{sp^{2} + p}$ (triangular planar) to $\ce{sp^3}$ (triangular pyramidal) → Non-stereospecific
       * Hyperconjugation: $\ce{CH-C+ \<=> C=C + H+}$
       * Tertiary-$\ce{C+}$ > Secondary-$\ce{C+}$ > Primary-$\ce{C+}$ > Methyl Cation
       * Inductive effect: $\ce{C+}$ > $\ce{C+-EWG}$ (Electron withdrawing group)
@@ -27,13 +27,13 @@
     * $\ce{C=C + Rad. -> C.-C-Rad}$
     * Stability
       * Similar to carbocation
-  * Carboanion
+  * Carbanion
     * $\ce{R-X + M -> R-M -> R- + M+}$
     * $\ce{EWG-C-H + B- -> EWG-C- + HB}$
     * $\ce{EWG-C=C + Nu- -> EWG-C^{-}-C-Nu}$
     * Stability
       * $sp$-carbanion ($\ce{R#C-}$) > $\ce{sp^{2}}$-carbanion ($\ce{R=C^{-}-R}$) > $\ce{sp^{3}}$-carbanion ($\ce{R3-C-}$)
-      * Prefer $\ce{sp^3}$ (triangular pyrimidal) to $\ce{sp^{2} + p}$ (triangular planar)
+      * Prefer $\ce{sp^3}$ (triangular pyramidal) to $\ce{sp^{2} + p}$ (triangular planar)
         * Possible pyramidal inversion → Non-stereospecific
       * Electron donating group: Methyl Anion > Primary-$\ce{C-}$ > Secondary-$\ce{C-}$ > Tertiary-$\ce{C-}$
       * Electron withdrawing group: $\ce{EWG3-C^{-}}$ > $\ce{EWG2-C^{-}-H}$ > $\ce{EWG-C^{-}-H2}$ > $\ce{C^{-}-H3}$
@@ -44,7 +44,7 @@
           * Ketone: $\ce{R-C(=O)-C^{-} \<-> R-C(-O-)=C}$
           * Nitrile: $\ce{N#C-C- \<-> N^{-}=C=C}$
           * Niro: $\ce{O^{-}-N^{+}(=O)-C^{-} \<-> O^{-}-N^{+}(-O-)=C}$
-        * Aromatic Carbaanion
+        * Aromatic Carbanion
 
 ## Reference
 

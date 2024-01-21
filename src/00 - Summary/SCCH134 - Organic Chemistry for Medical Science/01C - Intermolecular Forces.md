@@ -1,6 +1,6 @@
 # Intermolecular Forces
 
-* [Ionic Bonding](../../01%20-%20Concept/Chemistry/Physical%20Chemistry/Chemical%20Physics/Molecular%20Theory/Chemical%20Bonding/Ionic%20Bonding.md) (Electrostatic Attraction)
+* [Ionic Bonding](../../01%20-%20Concept/Chemistry/Physical%20Chemistry/Chemical%20Physics/Molecular%20Theory/Chemical%20Bonding/Intramolecular%20Interaction/Ionic%20Bonding.md) (Electrostatic Attraction)
 * Dipole-dipole Attraction
   * Charge attraction
 * Van der Waals Attraction (Non-polar Interaction but may be possible in polar molecule)
@@ -10,7 +10,7 @@
   * Temporary uneven charge distribution
 * Hydrogen bonding
   * (Partially)-Positively charged Hydrogen & Atoms w/ high electronegativity & lone electron pair
-  * Significantly weaker than [Covalent Bonding](../../01%20-%20Concept/Chemistry/Physical%20Chemistry/Chemical%20Physics/Molecular%20Theory/Chemical%20Bonding/Covalent%20Bonding/Covalent%20Bonding.md) but stronger than dipole-dipole interaction
+  * Significantly weaker than [Covalent Bonding](../../01%20-%20Concept/Chemistry/Physical%20Chemistry/Chemical%20Physics/Molecular%20Theory/Chemical%20Bonding/Intramolecular%20Interaction/Covalent%20Bonding/Covalent%20Bonding.md) but stronger than dipole-dipole interaction
   * Amides > Carboxylic Acids > Alcohols > Amines
 
 ## Effects on mechanism of Biomolecules
