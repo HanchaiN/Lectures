@@ -70,6 +70,14 @@ aliases:
 				1. $\ce{R-C#C-R ->[+M][-M+] R-C.=C^{-}-R ->[+NH3][-NH2-] R-C.=CH-R}$
 					- Anti Addition from the steric effect and *cis*-radical anion electronic repulsion in $\ce{R-C.=C^{-}-R}$ → Prefer *trans*-
 				2. $\ce{R-C.=CH-R ->[+M][-M+] R-C^{-}=CH-R ->[+NH3][-NH2-] C-RH=RH-C}$
+	- Halohydrin Formation: $\ce{R=R ->[X2][ROH] R(OR)-R(X)}$
+		- Anti-Addition
+			- Ring Intermediate + Stereospecific (Inversion) Substitution ($\ce{S_{N}2}$) → Anti-addition
+			- Nucleophilic Substitution + Substitute w/ $\ce{ROH}$
+				- More $\ce{R}$ → More Electrophilic → Attract $\ce{ROH}$
+				- $\ce{X}$ disfavor $\ce{C}$ with more $\ce{H}$
+		- Reagent: $\ce{ROH}$ or $\ce{H2O}$
+		- Similar to Halogenation via Halonium Ions
 	- Halogenation: $\ce{R=R + X2 -> RX-RX}$
 		- Anti-Electrophilic Addition
 			- Ring Intermediate + Stereospecific (Inversion) Substitution ($\ce{S_{N}2}$) → Anti-addition
@@ -142,13 +150,6 @@ aliases:
 				2. $\ce{RH-R(BH2) ->[+2R=R] (RH-R)3B}$
 			2. Oxidation
 				1. $\ce{(RH-R)3B ->[H2O2,NaOH] 3RH-ROH + B(OH)3}$
-	- Halohydrin Formation: $\ce{R=R ->[X2][ROH] R(OR)-R(X)}$
-		- Anti-Addition
-			- Ring Intermediate + Stereospecific (Inversion) Substitution ($\ce{S_{N}2}$) → Anti-addition
-			- Nucleophilic Substitution + Substitute w/ $\ce{ROH}$
-				- More $\ce{R}$ → More Electrophilic → Attract $\ce{ROH}$
-				- $\ce{X}$ disfavor $\ce{C}$ with more $\ce{H}$
-			- Similar to Halogenation via Halonium Ions
 	 - Epoxidation Reaction: $\ce{R=R + RO-O-OH -> R-Ep-R + RO-OH}$
 		 - Syn-Addition
 			 - Addition w/ ring product → Syn-Addition
