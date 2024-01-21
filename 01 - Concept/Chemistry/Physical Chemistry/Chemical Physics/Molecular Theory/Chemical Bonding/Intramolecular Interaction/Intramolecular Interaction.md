@@ -1,6 +1,9 @@
-# Intramolecular Force
+# Intramolecular Interaction
 
 - Chemical bonding
+	- [[Metallic Bonding]]
+	- [[Ionic Bonding]]
+	- [[Covalent Bonding]]
 - Non-bonded intramolecular action
 	- Steric Repulsion: Bulky functional group
 	- Intramolecular Hydrogen Bond

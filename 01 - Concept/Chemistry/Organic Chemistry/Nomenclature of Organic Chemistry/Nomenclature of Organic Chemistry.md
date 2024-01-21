@@ -3,3 +3,4 @@
 ## Reference
 
 - [[Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.|IUPAC Blue Book]]
+- [[02B - Nomenclature of Organic Compounds]]
