@@ -1,7 +1,5 @@
 # Atomic Orbital
 
-WIP
-
 ## Related Topics
 
 - [[Bohr Model]]

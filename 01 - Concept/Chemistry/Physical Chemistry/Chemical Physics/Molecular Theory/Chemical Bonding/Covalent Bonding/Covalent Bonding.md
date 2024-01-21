@@ -15,7 +15,7 @@
 	- Nonpolar covalent bond: $\Delta\chi=0$
 	- Molecular Polarity = Directional Sum of Bond Polarity
 		- Affect Solubility
-- Bond [Dipole Moment](https://en.wikipedia.org/wiki/Electric_dipole_moment): $\mu$
+- [[Bond Dipole Moment]]
 - [[Characteristic Infrared Band]]
 - Lewis Structure: Show which atoms "owns" which electrons
 	- Octet rules

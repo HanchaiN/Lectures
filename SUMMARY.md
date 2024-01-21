@@ -65,30 +65,37 @@
 # Concept
 
 - [Chemistry]()
-	- [Atomic Theory]()
-		- [[Atomic Model]]
-			- [[Bohr Model]]
-			- [[Electron Cloud Model]]
-				- [[Atomic Orbital]]
-		- [[Property of Element]]
-			- [[Effective Nuclear Charge]]
-			- [[Atomic Radius]]
-			- [[Ionization Energy]]
-			- [[Electron Affinity]]
-			- [[Electronegativity]]
-	- [Molecular Theory]()
-		- [Chemical Bonding]()
-			- [[Ionic Bonding]]
-			- [[Covalent Bonding]]
-				- [[Characteristic Infrared Band]]
-				- [[Formal Charge]]
-				- [[Bond Dipole Moment]]
-				- [[Hybrid Orbital]]
-			- [[Metallic Bonding]]
-		- [[Intramolecular Force]]
-	- [Chemical Kinetics]()
-		- [Chemical Equilibrium]()
-			- [Ionic Equilibrium]()
+	- [Physical Chemistry]()
+		- [Chemical Physics]()
+			- [Atomic Theory]()
+				- [[Atomic Model]]
+					- [[Bohr Model]]
+					- [[Electron Cloud Model]]
+						- [[Atomic Orbital]]
+				- [[Property of Element]]
+					- [[Effective Nuclear Charge]]
+					- [[Atomic Radius]]
+					- [[Ionization Energy]]
+					- [[Electron Affinity]]
+					- [[Electronegativity]]
+			- [Molecular Theory]()
+				- [Chemical Bonding]()
+					- [[Ionic Bonding]]
+					- [[Covalent Bonding]]
+						- [[Characteristic Infrared Band]]
+						- [[Formal Charge]]
+						- [[Bond Dipole Moment]]
+						- [[Hybrid Orbital]]
+					- [[Metallic Bonding]]
+				- [[Intramolecular Force]]
+		- [Chemical Kinetics]()
+			- [Chemical Equilibrium]()
+				- [Ionic Equilibrium]()
+		- [Thermochemistry]()
+	- [Organic Chemistry]()
+		- [[Nomenclature of Organic Chemistry]]
+		- [Chemical Species]()
+		- [Chemical Reactions]()
 - [Mathematics]()
 	- [Calculus]()
 		- [[Limit]]
