@@ -50,6 +50,7 @@
     * Can shift multiple times (1,2-rearrangement at a time)
       * Greedy-ish: May shift if equal stability; May shift to unstable configuration to shift again to more stable configuration
   * Carbon radical and Carbanion is too reactive
+    * Note: can still resonance to other locations
 * Oxidation-Reduction Reaction
   * Oxidation Number (for $\ce{C}$)
     1. Assume neutral (initial → 0)

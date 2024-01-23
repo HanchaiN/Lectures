@@ -149,18 +149,9 @@
     * Syn-Addition
       * Addition w/ ring product → Syn-Addition
     * Reagent: Percarboxylic Acid e.g. *m*-CPBA
+    * Epoxide / Oxirane / Oxacyclopropane / Ethylene oxide
     * Mechanism: Concerted  
       ![Mcpbaepoxidation-updated.png](https://upload.wikimedia.org/wikipedia/commons/5/5d/Mcpbaepoxidation-updated.png)
-  * Epoxide ring opening (acidic): $\ce{R-Ep-R + Nu ->\[H+\] R-CNu-COH-R}$
-    * Anti-Substitution ($\ce{S\_{N}2}$)
-    * Mechanism: Concerted  
-      ![Epoxide\_hydrolysis.svg](https://upload.wikimedia.org/wikipedia/commons/1/12/Epoxide_hydrolysis.svg)
-      * $\ce{Nu}$ prefer $\ce{C}$ with less $\ce{H}$ (carbocation character)
-  * Epoxide ring opening (basic): $\ce{R-Ep-R + Nu- -> R-COH-CNu-R + OH-}$
-    * Anti-Substitution ($\ce{S\_{N}2}$)
-    * Mechanism: Concerted  
-      ![Epoxide\_hydrolysis.svg](https://upload.wikimedia.org/wikipedia/commons/1/12/Epoxide_hydrolysis.svg)
-      * $\ce{Nu}$ prefer $\ce{C}$ with more $\ce{H}$ (steric effect)
 * Oxidation of Alkenes
   * Dihydroxylation Reaction: $\ce{R=R ->\[KMnO4\]\[H2O,OH-\] ROH-ROH}$
     * Oxidative Syn-Addition
