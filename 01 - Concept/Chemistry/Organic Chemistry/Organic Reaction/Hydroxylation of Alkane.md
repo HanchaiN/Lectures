@@ -6,7 +6,7 @@ $$
 
 | Starting Material | Reagent | Intermediate | Product |
 | ---- | ---- | ---- | ---- |
-| [[Alkyl Group\|Alkane]] | [[Hydroperoxy Group\|Hydroperoxide]] or $\ce{H2O2}$,<br>$\ce{O2}$,<br>Light / Heat | [[Carbon Radical]],<br>[[Peroxy Group\|Peroxide]] | ($3^{\circ}$)-[[Alcohol]] |
+| [[Alkyl Group\|Alkane]] | [[Hydroperoxy Group\|Hydroperoxide]] or $\ce{H2O2}$,<br>$\ce{O2}$,<br>Light / Heat | [[Carbon Radical]],<br>[[Peroxy Group\|Peroxide]] | ($3^{\circ}$)-[[Hydroxyl Group\|Alcohol]] |
 
 - Reagent
 	- TBHP (tert-Butylhydroperoxide) $\ce{(CH3)3C-O-OH}$
