@@ -6,10 +6,10 @@ $$
 
 * [Radical](Reaction%20Component/Free%20Radical.md) [Substitution](Classification%20of%20Organic%20Reaction/Substitution%20Reaction.md)
   * Attract Functional Group → Prefer Tertiary Halides
-* Starting Material: [Alkane](../Chemical%20Species/Alkyl%20Group.md)
+* Starting Material: [Alkane](../Functional%20Group/Alkyl%20Group.md)
 * Reagent: Halogens (bright condition)
   * Discoloration
-* Product: [Halide](../Chemical%20Species/Halo%20Group.md)
+* Product: [Halide](../Functional%20Group/Halo%20Group.md)
 * Mechanism
   1. Initiation Step
      1. $\ce{X2 ->\[h\nu / \Delta\] 2X.}$

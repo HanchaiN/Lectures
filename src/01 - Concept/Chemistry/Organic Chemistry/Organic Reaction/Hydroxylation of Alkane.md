@@ -6,9 +6,9 @@ $$
 
 * [Radical](Reaction%20Component/Free%20Radical.md) [Substitution](Classification%20of%20Organic%20Reaction/Substitution%20Reaction.md)
   * Attract Functional Group → Prefer Tertiary Alcohol (and Allylic / Benzylic)
-* Starting Material: [Alkane](../Chemical%20Species/Alkyl%20Group.md)
+* Starting Material: [Alkane](../Functional%20Group/Alkyl%20Group.md)
 * Reagent: TBHP (tert-Butylhydroperoxide) $\ce{(CH3)3C-O-OH}$
-* Product: [Alcohol](../Chemical%20Species/Hydroxyl%20Group.md)
+* Product: [Alcohol](../Functional%20Group/Hydroxyl%20Group.md)
 * Mechanism (Radical Mechanism)
   1. Peroxidation
      1. Initiation Step

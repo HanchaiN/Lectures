@@ -7,7 +7,7 @@ $$
 * $\ce{R#CH} > \ce{R2C=CHR} > \ce{CHR3}$
   * Stability of [Carbanion](Reaction%20Component/Carbanion.md)
   * $\ce{R#CH}$ is just acidic enough for $\ce{NaNH2}$ ($\ce{NaOH}$ and $\ce{NaOEt}$ is not enough)
-* Starting Material: [Alkane](../Chemical%20Species/Alkyl%20Group.md) / [Alkene](../Chemical%20Species/Alkenyl%20Group.md) / [Alkyne](../Chemical%20Species/Alkynyl%20Group.md)
+* Starting Material: [Alkane](../Functional%20Group/Alkyl%20Group.md) / [Alkene](../Functional%20Group/Alkenyl%20Group.md) / [Alkyne](../Functional%20Group/Alkynyl%20Group.md)
 
 ## Reference
 
