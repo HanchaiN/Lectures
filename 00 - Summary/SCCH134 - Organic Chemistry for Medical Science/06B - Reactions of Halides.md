@@ -5,6 +5,8 @@ aliases:
 
 # Reactions of Halides
 
+- Note:
+	- $\ce{R-X}$ Bond Cleavage: Alkyl Halide only
 - Nucleophilic Substitution (Alkyl Halides): $\ce{Nu- + R-X -> Nu-R + X-}$
 	- Reagents: Nucleophiles
 		- Alkane: $\ce{R-X ->[LiAlH4] R-H}$

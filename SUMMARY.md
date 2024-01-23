@@ -57,8 +57,14 @@
 	- [[06 - Halides]]
 		- [[06A - Structures and Physical Properties of Halides]]
 		- [[06B - Reactions of Halides]]
-	- [07 - Alcohols and Phenols]()
-	- [08 - Aldehydes and Ketones]()
+	- [[07 - Alcohols and Phenols]]
+		- [[07A - Structures of Alcohols]]
+		- [[07B - Physical Properties of Alcohols]]
+		- [[07C - Reactions of Alcohols]]
+	- [[08 - Aldehydes and Ketones]]
+		- [[08A - Structures of Aldehydes and Ketones]]
+		- [[08B - Physical Properties of Aldehydes and Ketones]]
+		- [[08C - Reactions of Aldehydes and Ketones]]
 	- [09 - Carboxylic acids and Derivatives]()
 	- [10 - Amines]()
 
