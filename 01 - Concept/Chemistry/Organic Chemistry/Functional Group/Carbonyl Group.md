@@ -1,19 +1,13 @@
----
-aliases:
-  - Aldehyde
-  - Ketone
----
-
 # Carbonyl Group
 
 ```smiles
-[R]C(=O)[H]
 [R]C(=O)[R]
 ```
 
-- Terminal Carbonyl Group → Aldehyde
-- Internal Carbonyl Group → Ketone
+- Terminal Carbonyl Group → [[Aldehyde]]
+- Internal Carbonyl Group → [[Ketone]]
 
 ## Reference
 
+- [Functional group - Wikipedia](https://en.wikipedia.org/wiki/Functional_group)
 - [[02A - Classification of Organic Compounds]]

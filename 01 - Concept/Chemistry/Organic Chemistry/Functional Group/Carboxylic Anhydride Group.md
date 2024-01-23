@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Ether
+  - Acid Anhydride
 ---
 
-# Oxide Group
+# Carboxylic Anhydride Group
 
 ```smiles
-[R]O[R]
+[R]C(=O)OC([R])(=O)
 ```
 
 ## Reference

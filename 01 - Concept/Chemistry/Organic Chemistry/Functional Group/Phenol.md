@@ -1,13 +1,10 @@
----
-aliases:
-  - Ether
----
-
-# Oxide Group
+# Phenol
 
 ```smiles
-[R]O[R]
+OC1=CC=CC=C1
 ```
+
+- [[Hydroxyl Group|Alcohol]]
 
 ## Reference
 

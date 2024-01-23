@@ -1,13 +1,15 @@
 ---
 aliases:
-  - Ether
+  - Ester
 ---
 
-# Oxide Group
+# Carboalkoxy Group
 
 ```smiles
-[R]O[R]
+[R]C(=O)O[R]
 ```
+
+- Can protonate to carboxylate
 
 ## Reference
 

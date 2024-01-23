@@ -1,12 +1,14 @@
 ---
 aliases:
-  - Ether
+  - Amine
 ---
 
-# Oxide Group
+# Amine Group
 
 ```smiles
-[R]O[R]
+[R]N([H])([H])
+[R]N([R])([H])
+[R]N([R])([R])
 ```
 
 ## Reference

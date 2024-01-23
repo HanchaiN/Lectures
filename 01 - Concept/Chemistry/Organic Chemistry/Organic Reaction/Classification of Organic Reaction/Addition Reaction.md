@@ -10,17 +10,20 @@ $$
 $$
 
 - By Mechanism
-	- Electrophilic Addition: $\ce{C=C + E+ -> C(E)-C+}$
-		- Stability of Carbocation
-		- Possible Rearrangement
-	- Radical Addition: $\ce{C=C + Rad. -> C(Rad)-C.}$
-		- Stability of Carbon Radical
-	- Nucleophilic Addition: $\ce{C=C + Nu- -> C(Nu)-C-}$
-		- Stability of Carbanion
-- By Stereochemistry: Syn- / Anti- / Non-stereospecific
+	- [[Electrophile|Electrophilic]] Addition: $\ce{C=C + E+ -> C(E)-C+}$
+		- Stability of [[Carbocation]]
+		- Possible [[Rearrangement Reaction|Rearrangement]]
+	- [[Free Radical|Radical]] Addition: $\ce{C=C + Rad. -> C(Rad)-C.}$
+		- Stability of [[Carbon Radical]]
+	- [[Nucleophile|Nucleophilic]] Addition: $\ce{C=C + Nu- -> C(Nu)-C-}$
+		- Stability of [[Carbanion]]
+- By Stereochemistry
+	- Syn-Addition ^syn
+	- Anti-Addition ^anti
+	- Non-stereospecific Addition ^non-stereospecific
 - Markovnikov's Rule: Stability of Ions/Radicals → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
-	- Markovnikov Addition
-	- Anti-Markovnikov Addition
+	- Markovnikov Addition ^markovnikov
+	- Anti-Markovnikov Addition ^anti-markovnikov
 
 ## Reference
 

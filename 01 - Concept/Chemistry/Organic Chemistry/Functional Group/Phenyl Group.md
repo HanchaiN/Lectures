@@ -1,13 +1,15 @@
 ---
 aliases:
-  - Ether
+  - Benzene
 ---
 
-# Oxide Group
+# Phenyl Group
 
 ```smiles
-[R]O[R]
+[R]C1=CC=CC=C1
 ```
+
+- [[Aryl Group]]
 
 ## Reference
 

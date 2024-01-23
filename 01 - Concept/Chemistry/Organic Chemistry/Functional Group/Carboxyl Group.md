@@ -1,13 +1,15 @@
 ---
 aliases:
-  - Ether
+  - Carboxylic Acid
 ---
 
-# Oxide Group
+# Carboxyl Group
 
 ```smiles
-[R]O[R]
+[R]C(=O)O
 ```
+
+- Can protonate to carboxylate
 
 ## Reference
 
