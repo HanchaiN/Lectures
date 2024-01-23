@@ -1,9 +1,13 @@
 ---
 aliases:
-  - Aromatic Hydrocarbon
+  - Alkane
 ---
 
-# Aryl Group
+# Alkyl Group
+
+```smiles
+CCCC
+```
 
 ## Reference
 

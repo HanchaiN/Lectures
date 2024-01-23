@@ -1,9 +1,13 @@
 ---
 aliases:
-  - Alkane
+  - Alkyne
 ---
 
-# Alkyl Group
+# Alkynyl Group
+
+```smiles
+[R]C#C[R]
+```
 
 ## Reference
 

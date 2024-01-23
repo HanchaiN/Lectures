@@ -1,4 +1,14 @@
+---
+aliases:
+  - Cyclic
+  - Cyclo
+---
+
 # Cyclic Hydrocarbon
+
+```smiles
+C1CCCCC1
+```
 
 - [[Alkyl Group|Cycloalkane]]
 - [[Alkenyl Group|Cycloalkene]]

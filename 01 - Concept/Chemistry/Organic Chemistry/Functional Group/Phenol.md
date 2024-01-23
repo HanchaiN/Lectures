@@ -1,11 +1,14 @@
 ---
 aliases:
-  - Alkyne
+  - Ether
 ---
 
-# Alkynyl Group
+# Oxide Group
+
+```smiles
+[R]O[R]
+```
 
 ## Reference
 
 - [[02A - Classification of Organic Compounds]]
-- [[05 - Hydrocarbons]]
