@@ -5,17 +5,20 @@ $$
 $$
 
 * By Mechanism
-  * Electrophilic Addition: $\ce{C=C + E+ -> C(E)-C+}$
-    * Stability of Carbocation
-    * Possible Rearrangement
-  * Radical Addition: $\ce{C=C + Rad. -> C(Rad)-C.}$
-    * Stability of Carbon Radical
-  * Nucleophilic Addition: $\ce{C=C + Nu- -> C(Nu)-C-}$
-    * Stability of Carbanion
-* By Stereochemistry: Syn- / Anti- / Non-stereospecific
+  * [Electrophilic](../Reaction%20Component/Electrophile.md) Addition: $\ce{C=C + E+ -> C(E)-C+}$
+    * Stability of [Carbocation](../Reaction%20Component/Carbocation.md)
+    * Possible [Rearrangement](Rearrangement%20Reaction.md)
+  * [Radical](../Reaction%20Component/Free%20Radical.md) Addition: $\ce{C=C + Rad. -> C(Rad)-C.}$
+    * Stability of [Carbon Radical](../Reaction%20Component/Carbon%20Radical.md)
+  * [Nucleophilic](../Reaction%20Component/Nucleophile.md) Addition: $\ce{C=C + Nu- -> C(Nu)-C-}$
+    * Stability of [Carbanion](../Reaction%20Component/Carbanion.md)
+* By Stereochemistry
+  * Syn-Addition ^syn
+  * Anti-Addition ^anti
+  * Non-stereospecific Addition ^non-stereospecific
 * Markovnikov's Rule: Stability of Ions/Radicals → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
-  * Markovnikov Addition
-  * Anti-Markovnikov Addition
+  * Markovnikov Addition ^markovnikov
+  * Anti-Markovnikov Addition ^anti-markovnikov
 
 ## Reference
 

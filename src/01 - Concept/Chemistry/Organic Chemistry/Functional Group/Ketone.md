@@ -1,8 +1,10 @@
-# Oxide Group
+# Ketone
 
 ````smiles
-[R]O[R]
+[R]C(=O)[R]
 ````
+
+* [Carbonyl Group](Carbonyl%20Group.md)
 
 ## Reference
 

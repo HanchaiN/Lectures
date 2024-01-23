@@ -1,8 +1,10 @@
-# Oxide Group
+# Phenyl Group
 
 ````smiles
-[R]O[R]
+[R]C1=CC=CC=C1
 ````
+
+* [Aryl Group](Aryl%20Group.md)
 
 ## Reference
 

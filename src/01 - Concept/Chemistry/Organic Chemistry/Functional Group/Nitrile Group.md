@@ -1,7 +1,7 @@
-# Oxide Group
+# Nitrile Group
 
 ````smiles
-[R]O[R]
+[R]C#N
 ````
 
 ## Reference

@@ -4,12 +4,14 @@ $$
 \\ce{R + R'-O-OH ->\[O2\]\[h\nu / \Delta\] ROH}
 $$
 
-* [Radical](Reaction%20Component/Free%20Radical.md) [Substitution](Classification%20of%20Organic%20Reaction/Substitution%20Reaction.md)
-  * Attract Functional Group → Prefer Tertiary Alcohol (and Allylic / Benzylic)
-* Starting Material: [Alkane](../Functional%20Group/Alkyl%20Group.md)
-* Reagent: TBHP (tert-Butylhydroperoxide) $\ce{(CH3)3C-O-OH}$
-* Product: [Alcohol](../Functional%20Group/Hydroxyl%20Group.md)
-* Mechanism (Radical Mechanism)
+|Starting Material|Reagent|Intermediate|Product|
+|-----------------|-------|------------|-------|
+|[Alkane](../Functional%20Group/Alkyl%20Group.md)|[Hydroperoxide](../Functional%20Group/Hydroperoxy%20Group.md) or $\ce{H2O2}$,<br>$\ce{O2}$,<br>Light / Heat|[Carbon Radical](Reaction%20Component/Carbon%20Radical.md),<br>
+[Peroxide](../Functional%20Group/Peroxy%20Group.md)|($3^{\circ}$)-*Alcohol*|
+
+* Reagent
+  * TBHP (tert-Butylhydroperoxide) $\ce{(CH3)3C-O-OH}$
+* Mechanism: [Radical](Reaction%20Component/Free%20Radical.md) [Substitution](Classification%20of%20Organic%20Reaction/Substitution%20Reaction.md)
   1. Peroxidation
      1. Initiation Step
         1. $\ce{R-O-OH ->\[h\nu / \Delta\] R-O. + HO.}$
@@ -20,6 +22,7 @@ $$
   1. Termination
      1. $\ce{R-O-OH + R. -> R-O. + R-OH}$
      1. $\ce{R-O. + R-H -> R-OH + R.}$
+* [Carbon Radical](Reaction%20Component/Carbon%20Radical.md) Attract [Hydroxyl Group](../Functional%20Group/Hydroxyl%20Group.md) → Prefer Tertiary Alcohol (and Allylic / Benzylic)
 
 ## Reference
 

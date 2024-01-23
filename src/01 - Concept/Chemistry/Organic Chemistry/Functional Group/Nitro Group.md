@@ -1,7 +1,7 @@
-# Oxide Group
+# Nitro Group
 
 ````smiles
-[R]O[R]
+[R][N+]([O-])=O
 ````
 
 ## Reference

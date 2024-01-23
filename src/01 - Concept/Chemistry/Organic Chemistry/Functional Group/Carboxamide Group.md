@@ -1,7 +1,7 @@
-# Oxide Group
+# Carboxamide Group
 
 ````smiles
-[R]O[R]
+[R]C(=O)N([R])([R])
 ````
 
 ## Reference

@@ -2,15 +2,8 @@
 
 * [Addition Reaction](Classification%20of%20Organic%20Reaction/Addition%20Reaction.md)
 * [Elimination Reaction](Classification%20of%20Organic%20Reaction/Elimination%20Reaction.md)
-  [Substitution Reaction](Classification%20of%20Organic%20Reaction/Substitution%20Reaction.md)
-* Rearrangement Reaction
-  * Carbocation: $\ce{R3C-CH+-R \<=>> R2C+-CR2}$
-    * Move to the next carbon to increase stability
-    * 1,2-hydride-shift / 1,2-alkyl-shift
-      * Alkyl shift can cause ring expansion which may stabilize the ring
-    * Can shift multiple times (1,2-rearrangement at a time)
-      * Greedy-ish: May shift if equal stability; May shift to unstable configuration to shift again to more stable configuration
-  * Carbon radical and Carbanion is too reactive
+* [Substitution Reaction](Classification%20of%20Organic%20Reaction/Substitution%20Reaction.md)
+* [Rearrangement Reaction](Classification%20of%20Organic%20Reaction/Rearrangement%20Reaction.md)
 * Oxidation-Reduction Reaction
   * Oxidation Number (for $\ce{C}$)
     1. Assume neutral (initial → 0)

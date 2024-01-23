@@ -1,8 +1,10 @@
-# Oxide Group
+# Phenol
 
 ````smiles
-[R]O[R]
+OC1=CC=CC=C1
 ````
+
+* [Alcohol](Hydroxyl%20Group.md)
 
 ## Reference
 

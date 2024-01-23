@@ -1,8 +1,10 @@
-# Oxide Group
+# Aldehyde
 
 ````smiles
-[R]O[R]
+[R]C(=O)[H]
 ````
+
+* [Carbonyl Group](Carbonyl%20Group.md)
 
 ## Reference
 

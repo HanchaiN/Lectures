@@ -4,10 +4,14 @@ $$
 \\ce{C-H \<=> C- + H+}
 $$
 
+|Starting Material|Reagent|Intermediate|Product|
+|-----------------|-------|------------|-------|
+|Terminal-[Alkyne](../Functional%20Group/Alkynyl%20Group.md)|$\ce{NaNH2}$|-|$\ce{H+}$,<br>
+[Carbanion](Reaction%20Component/Carbanion.md)|
+
+* $\ce{R#CH}$ is just acidic enough for $\ce{NaNH2}$ ($\ce{NaOH}$ and $\ce{NaOEt}$ is not basic enough)
 * $\ce{R#CH} > \ce{R2C=CHR} > \ce{CHR3}$
-  * Stability of [Carbanion](Reaction%20Component/Carbanion.md)
-  * $\ce{R#CH}$ is just acidic enough for $\ce{NaNH2}$ ($\ce{NaOH}$ and $\ce{NaOEt}$ is not enough)
-* Starting Material: [Alkane](../Functional%20Group/Alkyl%20Group.md) / [Alkene](../Functional%20Group/Alkenyl%20Group.md) / [Alkyne](../Functional%20Group/Alkynyl%20Group.md)
+  * Due to Stability of [Carbanion](Reaction%20Component/Carbanion.md)
 
 ## Reference
 
