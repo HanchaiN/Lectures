@@ -7,7 +7,7 @@ $$
 |Starting Material|Reagent|Intermediate|Product|
 |-----------------|-------|------------|-------|
 |[Alkane](../Functional%20Group/Alkyl%20Group.md)|[Hydroperoxide](../Functional%20Group/Hydroperoxy%20Group.md) or $\ce{H2O2}$,<br>$\ce{O2}$,<br>Light / Heat|[Carbon Radical](Reaction%20Component/Carbon%20Radical.md),<br>
-[Peroxide](../Functional%20Group/Peroxy%20Group.md)|($3^{\circ}$)-*Alcohol*|
+[Peroxide](../Functional%20Group/Peroxy%20Group.md)|($3^{\circ}$)-[Alcohol](../Functional%20Group/Hydroxyl%20Group.md)|
 
 * Reagent
   * TBHP (tert-Butylhydroperoxide) $\ce{(CH3)3C-O-OH}$
