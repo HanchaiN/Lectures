@@ -63,7 +63,7 @@ window.addEventListener("load", () => {
 			{
 				...options,
 				themes: {
-					catppuccino: get_scheme(),
+					catppuccin: get_scheme(),
 				},
 			},
 			"canvas[data-smiles]",

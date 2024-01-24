@@ -161,7 +161,10 @@ h6:target::before {
 
 .content img,
 .content video {
+    display: block;
     max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
     filter: drop-shadow(0 0 2.5px var(--bg)) drop-shadow(0 0 5px var(--fg)) drop-shadow(0 0 7.5px var(--bg)) drop-shadow(0 0 10px var(--fg));
 }
 
