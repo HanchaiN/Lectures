@@ -8,6 +8,10 @@ title = "Lectures"
 [build]
 extra-watch-dirs = ["scripts"]
 
+[preprocessor.obsidian]
+renderers = ["html"]
+command = "python scripts/obsidian.py"
+
 [preprocessor.tikzjax]
 renderers = ["html"]
 command = "python scripts/tikzjax.py"
@@ -23,8 +27,6 @@ command = "python scripts/mathjax-fix.py"
 
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
-
-# [preprocessor.wikilinks]
 
 [output.html]
 curly-quotes = true

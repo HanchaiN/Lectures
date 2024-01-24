@@ -3,19 +3,23 @@ import sys
 import re
 
 
+def process_image(content):
+    content = re.sub(
+        r"!\[(.*?)(?:\|(\d+)(?:x(\d+))?)?\]\((.*?)\)",
+        lambda m: "<img"
+        + f' src="{m.group(4)}"'
+        + (f' width="{m.group(2)}"' if m.group(2) else "")
+        + (f' height="{m.group(3)}"' if m.group(3) else "")
+        + f' alt="{m.group(1)}"'
+        + ">",
+        content,
+        re.DOTALL,
+    )  # May replace 'img' with 'iframe' for embeded webpages
+    return content
+
+
 def process_content(content):
-    content = re.sub(
-        r"\$\$([^\$]*(?:\\{2})*)(?<!\\)\$\$",
-        r"\\\\[\1\\\\]",
-        content,
-        re.DOTALL,
-    )
-    content = re.sub(
-        r"\$([^\$]*(?:\\{2})*)(?<!\\)\$",
-        r"\\\\(\1\\\\)",
-        content,
-        re.DOTALL,
-    )
+    content = process_image(content)
     return content
 
 
