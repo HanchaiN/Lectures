@@ -1,28 +1,25 @@
 window.addEventListener("load", () => {
-	function get_scheme(favor) {
-		if (getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-text`) === "")
-			return null;
+	function get_scheme() {
 		return {
-			C: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-text`),
-			O: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-maroon`),
-			N: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-blue`),
-			F: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-green`),
-			CL: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-teal`),
-			BR: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-red`),
-			I: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-mauve`),
-			P: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-peach`),
-			S: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-yellow`),
-			B: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-rosewater`),
-			SI: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-pink`),
-			H: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-text`),
-			BACKGROUND: getComputedStyle(document.body).getPropertyValue(`--ctp-${favor}-base`)
+			C: getComputedStyle(document.body).getPropertyValue(`--ctp-text`),
+			O: getComputedStyle(document.body).getPropertyValue(`--ctp-maroon`),
+			N: getComputedStyle(document.body).getPropertyValue(`--ctp-blue`),
+			F: getComputedStyle(document.body).getPropertyValue(`--ctp-green`),
+			CL: getComputedStyle(document.body).getPropertyValue(`--ctp-teal`),
+			BR: getComputedStyle(document.body).getPropertyValue(`--ctp-red`),
+			I: getComputedStyle(document.body).getPropertyValue(`--ctp-mauve`),
+			P: getComputedStyle(document.body).getPropertyValue(`--ctp-peach`),
+			S: getComputedStyle(document.body).getPropertyValue(`--ctp-yellow`),
+			B: getComputedStyle(document.body).getPropertyValue(`--ctp-rosewater`),
+			SI: getComputedStyle(document.body).getPropertyValue(`--ctp-pink`),
+			H: getComputedStyle(document.body).getPropertyValue(`--ctp-text`),
+			BACKGROUND: getComputedStyle(document.body).getPropertyValue(`--ctp-base`)
 		}
 	}
 	function get_theme() {
 		var theme;
-		try { theme = localStorage.getItem('mdbook-theme'); } catch (e) { }
-		if (["mocha", "macchiato", "frappe", "latte"].includes(theme))
-			return theme;
+		if (getComputedStyle(document.body).getPropertyValue(`--ctp-text`) != "")
+			return "catppuccin";
 		try { theme = localStorage.getItem('mdbook-scheme'); } catch (e) { }
 		if (["dark", "light"].includes(theme))
 			return theme;
@@ -34,12 +31,6 @@ window.addEventListener("load", () => {
 		compactDrawing: false,
 		terminalCarbons: true,
 		explicitHydrogens: true,
-		themes: {
-			mocha: get_scheme("mocha"),
-			macchiato: get_scheme("macchiato"),
-			frappe: get_scheme("frappe"),
-			latte: get_scheme("latte"),
-		}
 	};
 	function stringToHash(string) {
 		let hash = 0;
@@ -68,7 +59,17 @@ window.addEventListener("load", () => {
 			});
 	});
 	function redraw() {
-		SmilesDrawer.apply(options, "canvas[data-smiles]", get_theme(), function (err) { console.error(err); });
+		SmilesDrawer.apply(
+			{
+				...options,
+				themes: {
+					catppuccino: get_scheme(),
+				},
+			},
+			"canvas[data-smiles]",
+			get_theme(),
+			function (err) { console.error(err); }
+		);
 	}
 	redraw();
 	window.addEventListener("themeChange", (e) => redraw());
