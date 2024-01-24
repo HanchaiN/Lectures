@@ -122,7 +122,7 @@
       * [Carboxylic Anhydride Group](01%20-%20Concept/Chemistry/Organic%20Chemistry/Functional%20Group/Carboxylic%20Anhydride%20Group.md)
       * [Amine Group](01%20-%20Concept/Chemistry/Organic%20Chemistry/Functional%20Group/Amine%20Group.md)
       * [Carboxamide Group](01%20-%20Concept/Chemistry/Organic%20Chemistry/Functional%20Group/Carboxamide%20Group.md)
-      * [Nitrile Group](01%20-%20Concept/Chemistry/Organic%20Chemistry/Functional%20Group/Nitrile%20Group.md)
+      * [Cyano Group](01%20-%20Concept/Chemistry/Organic%20Chemistry/Functional%20Group/Cyano%20Group.md)
       * [Nitro Group](01%20-%20Concept/Chemistry/Organic%20Chemistry/Functional%20Group/Nitro%20Group.md)
     * [Organic Reaction](01%20-%20Concept/Chemistry/Organic%20Chemistry/Organic%20Reaction/Organic%20Reaction.md)
       * [Classification of Organic Reaction]()
