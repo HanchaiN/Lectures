@@ -3,7 +3,7 @@ aliases:
   - Nitrile
 ---
 
-# Nitrile Group
+# Cyano Group
 
 ```smiles
 [R]C#N

@@ -20,7 +20,11 @@ aliases:
 			- Grignard Reagent $\ce{R-MgX}$ (then $\ce{H2O}$ to substitute $\ce{O-MgX}$)
 			- Organolithium $\ce{R-Li}$
 			- Sodium Alkynide $\ce{R-C#C^{-} Na^{+}}$
-			- Sodium Cyanide $\ce{N#C^{-} Na^{+}}$
+			- Sodium Cyanide $\ce{N#C^{-} Na^{+}}$ or $\ce{NaCN,H+}$
+- Reaction of Cyano group
+	- Reduction of $\ce{CN}$: $\ce{R-CN ->[\hat{h}] R-CH2-NH2}$
+	- Reduction of $\ce{CN}$: $\ce{R-CN ->[R-MgX] R-C(=N-MgX)-R ->[H3O+] R-CO-R}$
+	- Hydrolysis of $\ce{CN}$: $\ce{R-C#N ->[H2O] R-C(OH)=NH <=>> R-CO-NH2 ->[H2O] R-CO-OH}$
 
 ## Reference
 

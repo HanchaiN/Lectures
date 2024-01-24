@@ -122,7 +122,7 @@
 			- [[Carboxylic Anhydride Group]]
 			- [[Amine Group]]
 			- [[Carboxamide Group]]
-			- [[Nitrile Group]]
+			- [[Cyano Group]]
 			- [[Nitro Group]]
 		- [[Organic Reaction]]
 			- [Classification of Organic Reaction]()
