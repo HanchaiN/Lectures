@@ -331,12 +331,12 @@
 	--sidebar-bg: var(--ctp-mantle);
 	--sidebar-fg: var(--ctp-text);
 	--sidebar-non-existant: var(--ctp-overlay0);
-	--sidebar-active: var(--ctp-base);
+	--sidebar-active: var(--ctp-blue);
 	--sidebar-spacer: var(--ctp-overlay0);
 	--scrollbar: var(--ctp-overlay0);
 	--icons: var(--ctp-overlay0);
 	--icons-hover: var(--ctp-overlay1);
-	--links: var(--ctp-base);
+	--links: var(--ctp-blue);
 	--inline-code-color: var(--ctp-peach);
 	--theme-popup-bg: var(--ctp-mantle);
 	--theme-popup-border: var(--ctp-overlay0);
