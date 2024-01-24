@@ -21,6 +21,11 @@ aliases:
 			- Organolithium $\ce{R-Li}$
 			- Sodium Alkynide $\ce{R-C#C^{-} Na^{+}}$
 			- Sodium Cyanide $\ce{N#C^{-} Na^{+}}$ or $\ce{NaCN,H+}$
+	- Oxygen Nucleophile ($\ce{O}$ / $\ce{O-}$)
+		- Reagent
+			- Water $\ce{H2O}$ → 1,1-diol
+			- Alcohol $\ce{R-OH}$ → hemiacetal / hemiketal → acetal / ketal
+				- $\ce{R-CO-R ->[R-OH] R-C(OH)(OR)-R <=>>[R-OH, H+] R-C(OR)2-R}$
 - Reaction of Cyano group
 	- Reduction of $\ce{CN}$: $\ce{R-CN ->[\hat{h}] R-CH2-NH2}$
 	- Reduction of $\ce{CN}$: $\ce{R-CN ->[R-MgX] R-C(=N-MgX)-R ->[H3O+] R-CO-R}$
