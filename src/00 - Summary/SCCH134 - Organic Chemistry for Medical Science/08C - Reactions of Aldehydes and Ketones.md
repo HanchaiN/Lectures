@@ -26,7 +26,8 @@
           * Cycle of length $\le4$ is unstable
           * Cycle of length $\ge8$ / Acyclic is dispersive
           * Recommend Length 5: $\ce{HOCH2CH2OH}$; 6: $\ce{HOCH2CH2CH2OH}$
-* Nucleophilic Substitution (Addition + Elimination)
+* Nucleophilic Substitution (
+* iAddition + Elimination)
   * Nitrogen Nucleophile
     * Primary Amine → Imine: $\ce{R-CO-H ->\[R-NH2\]\[-H2O\] R-C(=NR)-H}$
     * Secondary Amine → Enamine: $\ce{RH-CO-H ->\[R2-NH\]\[-H2O\] RH-C(=NR2)-H -> R=C(-NR2)-H}$
