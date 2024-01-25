@@ -59,6 +59,11 @@ aliases:
 	- Reduction of $\ce{CN}$: $\ce{R-CN ->[\hat{h}] R-CH2-NH2}$
 	- Reduction of $\ce{CN}$: $\ce{R-CN ->[R-MgX] R-C(=N-MgX)-R ->[H3O+] R-CO-R}$
 	- Hydrolysis of $\ce{CN}$: $\ce{R-C#N ->[H2O] R-C(OH)=NH <=>> R-CO-NH2 ->[H2O] R-CO-OH}$
+- Reduction of Carbonyl group
+	- Halide addition w/ $\ce{LiAlH4}$ or $\ce{NaBH4}$ then $\ce{H3O+}$
+	- Hydrogenation w/ $\ce{H2/Pd}$ or $\ce{H2/Pd}$ or $\ce{H2/Ni}$
+	 - Clemmensen Reduction: $\ce{Zn / Hg , H+ (conc)}$
+	 - Wolff Kishner Reduction: $\ce{H2N-NH2, NaOH, \Delta}$ (Hydrazine in alkali @High Temperature)
 
 ## Reference
 
