@@ -65,7 +65,10 @@
 		- [[08A - Structures of Aldehydes and Ketones]]
 		- [[08B - Physical Properties of Aldehydes and Ketones]]
 		- [[08C - Reactions of Aldehydes and Ketones]]
-	- [09 - Carboxylic acids and Derivatives]()
+	- [[09 - Carboxylic acids and Derivatives]]
+		- [[09A - Structures and Physical Properties of Carboxylic Acids]]
+		- [[09B - Reactions of Carboxylic Acids]]
+		- [[09C - Reactions of Carboxylic Acid Derivatives]]
 	- [10 - Amines]()
 
 # Concept
