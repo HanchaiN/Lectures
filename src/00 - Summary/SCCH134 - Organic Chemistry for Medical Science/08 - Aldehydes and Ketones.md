@@ -7,6 +7,7 @@
   * Aldose / Ketose
     * Aldose: w/ aldehyde $\ce{CH2(OH)(CHOH)nCHO}$
     * Ketose: w/ ketone $\ce{CH2(OH)(CHOH)n-CO-CH2OH}$
+      * Ketone → Less Reactive
   * Fisher Projection
   * Haworth Projection
   * Glycoside Formation (Hemiacetal → Acetal)
