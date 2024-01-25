@@ -9,10 +9,15 @@
     * Ketose: w/ ketone $\ce{CH2(OH)(CHOH)n-CO-CH2OH}$
       * Ketone → Less Reactive
       * Can tautomerize into aldose and vice versa
+  * Ring-closing: Hemiacetal / Hemiketal formation
+    * $\alpha$ / $\beta$ : stereochemistry of formed hemiacetal (S / R)
+    * Ketose in hemiketal form is non-reducing
   * Fisher Projection
-  * Haworth Projection
-  * Glycoside Formation (Hemiacetal → Acetal)
-  * Polysaccharide Formation (Hemiacetal → Acetal)
+  * Haworth Projection (Cyclic form)
+  * Glycoside Formation
+    * Hemiacetal / Hemiketal → Acetal / Ketal (w/ different alcohol)
+  * Polysaccharide Formation
+    * Hemiacetal / Hemiketal → Acetal / Ketal (w/ another saccharide)
   * Oxidation → Benedict's Test
     * Color ranged from blue to red (dep. on ratio of reducing sugars)
 
