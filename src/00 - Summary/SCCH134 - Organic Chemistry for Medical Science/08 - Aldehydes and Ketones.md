@@ -11,7 +11,7 @@
       * Can tautomerize into aldose and vice versa
   * Ring-closing: Hemiacetal / Hemiketal formation
     * $\alpha$ / $\beta$ : stereochemistry of formed hemiacetal (S / R)
-    * Ketose in hemiketal form is non-reducing
+    * Hemiacetal-Hemiketal Form is reducing since it can open
   * Fisher Projection
   * Haworth Projection (Cyclic form)
   * Glycoside Formation
