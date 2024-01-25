@@ -4,6 +4,9 @@
 * [08B - Physical Properties of Aldehydes and Ketones](08B%20-%20Physical%20Properties%20of%20Aldehydes%20and%20Ketones.md)
 * [08C - Reactions of Aldehydes and Ketones](08C%20-%20Reactions%20of%20Aldehydes%20and%20Ketones.md)
 * Carbohydrates
+  * Aldose / Ketose
+    * Aldose: w/ aldehyde $\ce{CH2(OH)(CHOH)nCHO}$
+    * Ketose: w/ ketone $\ce{CH2(OH)(CHOH)n-CO-CH2OH}$
   * Fisher Projection
   * Haworth Projection
   * Glycoside Formation (Hemiacetal → Acetal)
