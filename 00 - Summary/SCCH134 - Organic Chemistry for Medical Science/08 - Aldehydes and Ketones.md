@@ -9,6 +9,9 @@ aliases:
 - [[08B - Physical Properties of Aldehydes and Ketones]]
 - [[08C - Reactions of Aldehydes and Ketones]]
 - Carbohydrates
+	- Aldose / Ketose
+		- Aldose: w/ aldehyde $\ce{CH2(OH)(CHOH)nCHO}$
+		- Ketose: w/ ketone $\ce{CH2(OH)(CHOH)n-CO-CH2OH}$
 	- Fisher Projection
 	- Haworth Projection
 	- Glycoside Formation (Hemiacetal → Acetal)
