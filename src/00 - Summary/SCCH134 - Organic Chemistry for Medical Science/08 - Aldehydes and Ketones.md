@@ -16,8 +16,11 @@
   * Haworth Projection (Cyclic form)
   * Glycoside Formation
     * Hemiacetal / Hemiketal → Acetal / Ketal (w/ different alcohol)
+    * Acetal / Ketal is non-reducing
   * Polysaccharide Formation
     * Hemiacetal / Hemiketal → Acetal / Ketal (w/ another saccharide)
+    * Acetal / Ketal is non-reducing
+    * There's reducing hemiketal / hemiacetal terminal of the chain
   * Oxidation → Benedict's Test
     * Color ranged from blue to red (dep. on ratio of reducing sugars)
 
