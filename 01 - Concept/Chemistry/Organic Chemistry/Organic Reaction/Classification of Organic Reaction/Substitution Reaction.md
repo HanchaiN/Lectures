@@ -13,10 +13,8 @@ $$
 	- [[Free Radical|Radical]] Substitution: $\ce{C-H + Br2 ->[Br2 + h\nu / \Delta -> 2 Br.][H. + Br. -> HBr] C-Br + HBr}$
 		- [[#^non-stereospecific]]
 	- [[Nucleophile|Nucleophilic]] Substitution: $\ce{C-OH + Br- -> C-Br + H+}$
-		- Unimolecular Nucleophilic Substitution $\ce{S_{N}1}$ ^unimolecular
-			- [[#^non-stereospecific]]
-		- Bimolecular Nucleophilic Substitution $\ce{S_{N}2}$ ^bimolecular
-			- [[#^inversion]]
+		- [[Unimolecular Nucleophilic Substitution]] → [[#^non-stereospecific]]
+		- [[Bimolecular Nucleophilic Substitution]] → [[#^inversion]]
 	- [[Electrophile|Electrophilic]] Substitution: $\ce{Ph-H + CH3Cl ->[AlCl3] Ph-CH3 + HCl}$
 - By Stereochemistry
 	- Retention ^retention

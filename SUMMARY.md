@@ -112,7 +112,7 @@
 				- [[Phenyl Group]]
 			- [[Cyclic Hydrocarbon]]
 			- [[Halo Group]]
-				- [[Alkylmagnesium Halide]]
+			- [[Alkylmagnesium Halide]]
 			- [[Hydroxyl Group]]
 				- [[Phenol]]
 			- [[Oxide Group]]
@@ -131,11 +131,11 @@
 			- [Classification of Organic Reaction]()
 				- [[Addition Reaction]]
 				- [[Elimination Reaction]]
-					- [Unimolecular Elimination]()
-					- [Bimolecular Elimination]()
+					- [[Unimolecular Elimination]]
+					- [[Bimolecular Elimination]]
 				- [[Substitution Reaction]]
-					- [Unimolecular Nucleophilic Substitution]()
-					- [Bimolecular Nucleophilic Substitution]()
+					- [[Unimolecular Nucleophilic Substitution]]
+					- [[Bimolecular Nucleophilic Substitution]]
 				- [[Rearrangement Reaction]]
 			- [Reaction Component]()
 				- [[Carbocation]]
@@ -145,43 +145,45 @@
 				- [[Electrophile]]
 				- [[Free Radical]]
 			- [Regioselectivity]()
-				- [Markovnikov's Rule]()
-					- [Anti-Markovnikov Addition]()
-				- [Zaitsev's Rule]()
-					- [Hofmann's Rule]()
-			- [[Acidity of Hydrocarbons]]
-			- [[Halogenation of Alkane]]
-			- [[Hydroxylation of Alkane]]
-			- [[Hydrogenation of Alkene]]
-				- [[Hydrogenation of Alkyne]]
-				- [[Hydrogenation of Alkyne (with Lindlar's Catalyst)]]
-				- [[Hydrogenation of Alkyne (with Ammonia)]]
-			- [[Halogenation of Alkene]]
-			- [Halohydrin Formation]()
-			- [[Hydrohalogenation of Alkene]]
-				- [[Hydrohalogenation of Alkene (with Peroxide)]]
-			- [Hydration of Alkene]()
-				- [Oxymercuration-Demercuration]()
-				- [Hydroboration-Oxidation]()
-			- [Epoxidation]()
-				- [Epoxide Ring Openning]()
-			- [Dihydroxylation of Alkene]()
-			- [Oxidative Cleavage of Alkene]()
-				- [Oxidative Cleavage of Alkyne]()
-			- [Electrophilic Aromatic Substitution]()
-				- [Halogenation of Benzene]()
-				- [Friedel-Crafts Alkylation]()
-				- [Friedel-Crafts Acylation]()
-				- [Nitration of Benzene]()
-				- [Sulfonation of Benzene]()
-			- [Benzylic Oxidation]()
-			- [Unimolecular Nucleophilic Substitution of Alkyl Halide]()
-			- [Bimolecular Nucleophilic Substitution of Alkyl Halide]()
-			- [Unimolecular Elimination of Alkyl Halide]()
-			- [Bimolecular Elimination of Alkyl Halide]()
-			- [Reduction of Halide (with Hydride)]()
-			- [Organometal Formation]()
-			- [Nucleophilic Substitution of Aryl Halide]()
+				- [[Markovnikov's Rule]]
+				- [[Anti-Markovnikov Addition]]
+				- [[Zaitsev's Rule]]
+				- [[Hofmann's Rule]]
+			- [Reaction of Hydrocarbons]()
+				- [[Acidity of Hydrocarbons]]
+				- [[Halogenation of Alkane]]
+				- [[Hydroxylation of Alkane]]
+				- [[Hydrogenation of Alkene]]
+					- [[Hydrogenation of Alkyne]]
+					- [[Hydrogenation of Alkyne (with Lindlar's Catalyst)]]
+					- [[Hydrogenation of Alkyne (with Ammonia)]]
+				- [[Halogenation of Alkene]]
+				- [Halohydrin Formation]()
+				- [[Hydrohalogenation of Alkene]]
+					- [[Hydrohalogenation of Alkene (with Peroxide)]]
+				- [Hydration of Alkene]()
+					- [Oxymercuration-Demercuration]()
+					- [Hydroboration-Oxidation]()
+				- [Epoxidation]()
+					- [Epoxide Ring Openning]()
+				- [Dihydroxylation of Alkene]()
+				- [Oxidative Cleavage of Alkene]()
+					- [Oxidative Cleavage of Alkyne]()
+				- [Electrophilic Aromatic Substitution]()
+					- [Halogenation of Benzene]()
+					- [Friedel-Crafts Alkylation]()
+					- [Friedel-Crafts Acylation]()
+					- [Nitration of Benzene]()
+					- [Sulfonation of Benzene]()
+				- [Benzylic Oxidation]()
+			- [Reaction of Halides]()
+				- [[Unimolecular Nucleophilic Substitution of Alkyl Halide]]
+				- [[Bimolecular Nucleophilic Substitution of Alkyl Halide]]
+				- [Unimolecular Elimination of Alkyl Halide]()
+				- [Bimolecular Elimination of Alkyl Halide]()
+				- [Reduction of Halide (with Hydride)]()
+				- [Organometal Formation]()
+				- [Nucleophilic Substitution of Aryl Halide]()
 			- [Clemmensen Reduction]()
 			- [Wolff Kishner Reduction]()
 - [Mathematics]()
