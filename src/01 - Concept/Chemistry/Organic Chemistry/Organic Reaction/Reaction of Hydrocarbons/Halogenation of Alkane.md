@@ -1,0 +1,37 @@
+# Halogenation of Alkane
+
+$$
+\\ce{R-H + X2 ->\[h\nu / \Delta\] R-X + HX}
+$$
+
+|Starting Material|Reagent|Intermediate|Product|
+|-----------------|-------|------------|-------|
+|[Alkane](../../Functional%20Group/Alkyl%20Group.md)|$\ce{X2}$,<br>Light/Heat|[Carbon Radical](../Reaction%20Component/Carbon%20Radical.md)|($3^{\circ}$)-[Halide](../../Functional%20Group/Halo%20Group.md)|
+|[Alkane](../../Functional%20Group/Alkyl%20Group.md)|NBS,<br>Light/Heat|[Carbon Radical](../Reaction%20Component/Carbon%20Radical.md)|Benzylic-/Allylic-[Halide](../../Functional%20Group/Halo%20Group.md)|
+
+* Reagent
+  * NBS: N-[Bromo](../../Functional%20Group/Halo%20Group.md)succinimide → Avoid [Halogenation of Alkene](Halogenation%20of%20Alkene.md)
+* Mechanism: [Non-Stereospecific](../Classification%20of%20Organic%20Reaction/Substitution%20Reaction.md#non-stereospecific) [Radical](../Reaction%20Component/Free%20Radical.md) [Substitution](../Classification%20of%20Organic%20Reaction/Substitution%20Reaction.md)
+  1. Initiation Step
+     1. $\ce{X2 ->\[h\nu / \Delta\] 2X.}$
+  1. Propagation Step
+     1. $\ce{R-H + X. -> R. + HX}$
+     1. $\ce{R. + X2 -> R-X + X.}$
+  1. Termination Step
+     1. $\ce{2X. -> X2}$
+     1. $\ce{R. + R. -> R-R}$
+     1. $\ce{R. + X. -> R-X}$
+* [Alkane](../../Functional%20Group/Alkyl%20Group.md) Testing: Discoloration of $\ce{X2}$ in bright condition
+* [Carbon Radical](../Reaction%20Component/Carbon%20Radical.md) Attract [Halo Group](../../Functional%20Group/Halo%20Group.md) → Prefer Tertiary Halides
+* $1^{\circ}:2^{\circ}:3^{\circ}$ Ratio per Homotopic Hydrogen
+  * $\ce{F.}\to1:1:1$
+    * Low Selectivity
+  * $\ce{Cl.}\to1:3.8:5.0$
+    * Low Selectivity
+  * $\ce{Br.}\to1:82:1600$
+  * $\ce{I.}\to\text{???}$
+    * Too Inert
+
+## Reference
+
+* [05C - Reactions of Hydrocarbons](../../../../../00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/05C%20-%20Reactions%20of%20Hydrocarbons.md)

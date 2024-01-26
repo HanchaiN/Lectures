@@ -5,8 +5,8 @@ $$
 $$
 
 * By Mechanism
-  * Unimolecular Elimination $\ce{E1}$ ^unimolecular
-  * Bimolecular Elimination $\ce{E2}$ ^bimolecular
+  * [Unimolecular Elimination](Unimolecular%20Elimination.md)
+  * [Bimolecular Elimination](Bimolecular%20Elimination.md)
 * By Stereochemistry
   * Syn-Elimination ^syn
   * Anti-Elimination ^anti

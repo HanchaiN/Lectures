@@ -17,8 +17,8 @@ $$
   * Anti-Addition ^anti
   * Non-stereospecific Addition ^non-stereospecific
 * Markovnikov's Rule: Stability of Ions/Radicals → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
-  * Markovnikov Addition ^markovnikov
-  * Anti-Markovnikov Addition ^anti-markovnikov
+  * [Markovnikov's Rule](../Regioselectivity/Markovnikov's%20Rule.md)
+  * [Anti-Markovnikov Addition](../Regioselectivity/Anti-Markovnikov%20Addition.md)
 
 ## Reference
 
