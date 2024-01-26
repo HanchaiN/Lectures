@@ -1,15 +1,15 @@
-# Hydrogenation of Alkyne
+# Syn-Hydrogenation
 
 $$
-\\ce{R#R + H2 ->\[Pd / C\] RH2-RH2}
+\\ce{R#R + H2 ->\[Pd / BaSO4\] RH=RH}
 $$
 
 |Starting Material|Reagent|Intermediate|Product|
 |-----------------|-------|------------|-------|
-|[Alkyne](../../Functional%20Group/Alkynyl%20Group.md)|$\ce{H2}$,<br>$\ce{Pd / C}$ or $\ce{Ni / C}$ or $\ce{Pt / C}$|-|[Alkane](../../Functional%20Group/Alkyl%20Group.md)|
+|[Alkyne](../../Functional%20Group/Alkynyl%20Group.md)|$\ce{H2}$,<br>$\ce{Pd / BaSO4}$ or $\ce{Pd / CaCO3}$|-|cis-[Alkene](../../Functional%20Group/Alkenyl%20Group.md)|
 
 * Mechanism: [Syn](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md#syn)-[Addition](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md)
-  * [Hydrogenation of Alkene](Hydrogenation%20of%20Alkene.md)
+  * [Hydrogenation](Hydrogenation.md)
 
 ## Reference
 

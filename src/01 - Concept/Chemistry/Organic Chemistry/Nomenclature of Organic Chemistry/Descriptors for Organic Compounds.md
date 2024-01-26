@@ -7,7 +7,7 @@
   * Entgegen (E-)
 * "(R)-/(S)-"
 * "(r)-/(s)-"
-  * Similar with (R)- and (S)-
+  * Similar with "(R)-/(S)-"
     * Each substituents are only differ by their absolute configuration
 
 ## Common Names
@@ -17,11 +17,9 @@
   * Meta- (m-): 1-…-3-…benzene
   * Para- (p-): 1-…-4-…benzene
 * "cis-/trans-"
-  * cis-: ~ Z-
-  * trans-: ~ E-
+  * Similar to "Z-/E-" but compare similar substituents
 * "syn-/anti-"
-  * syn-: ~ Z-
-  * anti-: ~ E-
+  * Similar to "Z-/E-" but compare existence of substituents
 * "gem-/vic-"
   * Germinal (gem-): 1,1-…alkane
   * Vicinal (vic-): 1,2-…alkane

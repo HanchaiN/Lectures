@@ -1,4 +1,4 @@
-# Hydrogenation of Alkyne (with Ammonia)
+# Anti-Hydrogenation
 
 $$
 \\ce{R#R + H2 ->\[Na/NH3\] RH=RH}

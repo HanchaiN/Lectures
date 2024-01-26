@@ -1,4 +1,4 @@
-# Hydrohalogenation of Alkene (with Peroxide)
+# Free Radical Hydrohalogenation
 
 $$
 \\ce{R=R + HX ->\[H2O2\]\[\\Delta\] RH-RX}

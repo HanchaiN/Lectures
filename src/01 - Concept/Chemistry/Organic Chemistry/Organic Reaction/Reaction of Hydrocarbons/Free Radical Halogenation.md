@@ -1,4 +1,4 @@
-# Halogenation of Alkane
+# Free Radical Halogenation
 
 $$
 \\ce{R-H + X2 ->\[h\nu / \Delta\] R-X + HX}
@@ -10,7 +10,7 @@ $$
 |[Alkane](../../Functional%20Group/Alkyl%20Group.md)|NBS,<br>Light/Heat|[Carbon Radical](../Reaction%20Component/Carbon%20Radical.md)|Benzylic-/Allylic-[Halide](../../Functional%20Group/Halo%20Group.md)|
 
 * Reagent
-  * NBS: N-[Bromo](../../Functional%20Group/Halo%20Group.md)succinimide → Avoid [Halogenation of Alkene](Halogenation%20of%20Alkene.md)
+  * NBS: N-[Bromo](../../Functional%20Group/Halo%20Group.md)succinimide → Avoid [Halogen Addition](Halogen%20Addition.md)
 * Mechanism: [Non-Stereospecific](../Classification%20of%20Organic%20Reaction/Substitution%20Reaction.md#non-stereospecific) [Radical](../Reaction%20Component/Free%20Radical.md) [Substitution](../Classification%20of%20Organic%20Reaction/Substitution%20Reaction.md)
   1. Initiation Step
      1. $\ce{X2 ->\[h\nu / \Delta\] 2X.}$

@@ -1,4 +1,4 @@
-# Hydrohalogenation of Alkene
+# Hydrohalogenation
 
 $$
 \\ce{R=R + HX -> RX-RH}
