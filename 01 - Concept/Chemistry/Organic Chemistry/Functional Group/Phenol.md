@@ -4,7 +4,7 @@
 OC1=CC=CC=C1
 ```
 
-- [[Hydroxyl Group|Alcohol]]
+- [[Phenyl Group|Ph]] + [[Alkenyl Group|en]] + [[Hydroxyl Group|ol]]
 
 ## Reference
 

@@ -26,6 +26,16 @@ aliases:
 		- Going in reverse require reagents
 			- $\ce{RCOOH ->[SOCl2] RCOCl}$
 			- $\ce{RCOOH ->[P2O5,\Delta] R-CO-O-CO-R + H2O}$
+	- Note: $\ce{Nu}$ may act as alkali and ionize $\ce{COX}$ instead
+	- Mechanism: Addition (slow) + Elimination
+	- Fisher Esterification (Acid-catalyzed Esterification): $\ce{R-COOH + R-OH <=>[H+,\Delta] R-COOR + H2O}$
+		- Protonation of carbonyl (resonate between $\ce{C=O^{+}H}$ and $\ce{C^{+}-OH}$)
+		- Protonation of geminal diol (results in dehydration to carbonyl)
+	- Nitrile Synthesis
+		- $\ce{R-X + N#C^{-} ->[S_{N}2] R-C#N}$
+		- $\ce{R-CO-NH2 ->[P2O5,\Delta][- H2O] R-C#N}$
+	- Decarboxylation: $\ce{X-CO-CH2-CO-OH ->[\Delta] X-CO-CH3 + CO2}$
+		- $\ce{X-CO-CH2-CO-OH}$: $\beta$-keto acid / 1,3-dicarboxylic acid
 
 ## Leaving Group Comparison
 
@@ -37,9 +47,9 @@ aliases:
 | $\ce{HO^{-}}$ | $\pu{15.7}$ |
 | $\ce{H2N^{-}}$ | $\pu{35}$ |
 | $\ce{H^{-}}$ | $\pu{35}$ |
-| $\ce{R-}$ | $\pu{45 - 50}$ |
+| $\ce{R-}$ | $\pu{45 - 50}$ |  
 
-Note: $\ce{R-CO-OH ->[Nu] R-CO-Nu + OH-}$ yield less than $\ce{R-CO-OR ->[Nu] R-CO-Nu + OR-}$ due to protonation.  
+Note: $\ce{R-CO-OH ->[Nu] R-CO-Nu + OH-}$ yield less than $\ce{R-CO-OR ->[Nu] R-CO-Nu + OR-}$ due to protonation  
 Note : $\ce{R-CO-H}$ is aldehyde and $\ce{R-CO-R}$ is ketone
 
 ## Reference

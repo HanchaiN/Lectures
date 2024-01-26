@@ -7,7 +7,7 @@ $$
 | Starting Material | Reagent | Intermediate | Product |
 | ---- | ---- | ---- | ---- |
 | [[Alkenyl Group\|Alkene]] | $\ce{HX}$ | [[Carbocation]] | ($3^{\circ}$)-[[Halo Group\|Halide]] |
-| [[Alkynyl Group\|Alkyne]] | $\ce{2HX}$ | [[Carbocation]] | 1,1-di[[Halo Group\|Halide]] |
+| [[Alkynyl Group\|Alkyne]] | $\ce{2HX}$ | [[Carbocation]] | gem-di[[Halo Group\|Halide]] |
 
 - Mechanism: [[Addition Reaction#^non-stereospecific|Non-stereospecific]] [[Addition Reaction#^markovnikov|Markovnikov]] [[Electrophile|Electrophilic]] [[Addition Reaction|Addition]]
 	1. $\ce{R=R + H-X -> R+-RH + X-}$
