@@ -65,9 +65,11 @@ aliases:
 		- $\ce{E1}$ is non-stereospecific while $\ce{E2}$ is anti-elimination
 	- Competition between $\ce{E}$ and $\ce{S_{N}}$
 		- High Temp → $\ce{E} > \ce{S_{N}}$
-		- @Room Temperature: $\ce{S_{N}1} \gg \ce{E1}$
-		- @High Temperature: $\ce{E2} > \ce{S_{N}2}$
+		- @Room Temperature: $\ce{S_{N}1} > \ce{E1}$
 		- Consider primary / secondary / tertiary and substrates
+			- primary → $\ce{S_{N}2} > \ce{E_{2}}$
+			- secondary → compare alkali vs nucleophile (often correlate)
+			- tertiary → $\ce{S_{N}1} > \ce{E1}$
 		- Bulky $\ce{Nu-}$ or $\ce{R-X}$: $\ce{E} > \ce{S_{N}}$ (Note: Potential Hofmann Elimination for $\ce{E2}$)
 - Reduction: $\ce{R-X -> R-H}$
 	- w/ Hydride ($\ce{Li+ AlH4-}$)
@@ -110,3 +112,4 @@ aliases:
 ## Reference
 
 - Handout SCCH134
+- [chem.libretexts.org/Bookshelves/Organic\_Chemistry/Organic\_Chemistry\_I\_(Liu)/08%3A\_Elimination\_Reactions/8.04%3A\_Comparison\_and\_Competition\_Between\_SN1\_SN2\_E1\_and\_E2](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/08%3A_Elimination_Reactions/8.04%3A_Comparison_and_Competition_Between_SN1_SN2_E1_and_E2)
