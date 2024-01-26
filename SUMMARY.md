@@ -151,16 +151,15 @@
 				- [[Hofmann's Rule]]
 			- [Reaction of Hydrocarbons]()
 				- [[Acidity of Hydrocarbons]]
-				- [[Halogenation of Alkane]]
-				- [[Hydroxylation of Alkane]]
-				- [[Hydrogenation of Alkene]]
-					- [[Hydrogenation of Alkyne]]
-					- [[Hydrogenation of Alkyne (with Lindlar's Catalyst)]]
-					- [[Hydrogenation of Alkyne (with Ammonia)]]
-				- [[Halogenation of Alkene]]
+				- [[Free Radical Halogenation]]
+				- [[Hydroxylation]]
+				- [[Hydrogenation]]
+					- [[Partial Syn-Hydrogenation]]
+					- [[Partial Anti-Hydrogenation]]
+				- [[Halogen Addition]]
 				- [Halohydrin Formation]()
-				- [[Hydrohalogenation of Alkene]]
-					- [[Hydrohalogenation of Alkene (with Peroxide)]]
+				- [[Hydrohalogenation]]
+					- [[Free Radical Hydrohalogenation]]
 				- [Hydration of Alkene]()
 					- [Oxymercuration-Demercuration]()
 					- [Hydroboration-Oxidation]()

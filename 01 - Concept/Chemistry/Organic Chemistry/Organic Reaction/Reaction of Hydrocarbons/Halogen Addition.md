@@ -1,4 +1,4 @@
-# Halogenation of Alkene
+# Halogen Addition
 
 $$
 \ce{R=R + X2 -> RX-RX}

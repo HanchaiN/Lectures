@@ -1,4 +1,4 @@
-# Hydroxylation of Alkane
+# Hydroxylation
 
 $$
 \ce{R + R'-O-OH ->[O2][h\nu / \Delta] ROH}
