@@ -31,8 +31,8 @@
         * $1^{\circ}>2^{\circ}\gg3^{\circ}$
       * Depends on strength of $\ce{Nu-}$
     * Mechanism: Concerted
-  * Comparison $\ce{S\_{N}1}$ and $\ce{S\_{N}2}$
-    * $\ce{S\_{N}2}$ use stronger (generally charged) nucleophile
+  * Competition between $\ce{S\_{N}1}$ and $\ce{S\_{N}2}$
+    * $\ce{S\_{N}2}$ requires stronger (generally charged) nucleophile
     * Tertiary halides prefer $\ce{S\_{N}1}$; Primary halides prefer $\ce{S\_{N}2}$
     * $\ce{S\_{N}1}$ prefer polar protic solvent; $\ce{X- + H+ \<=> HX}$
     * $\ce{S\_{N}1}$ is non-stereospecific while $\ce{S\_{N}2}$ causes inversion
@@ -55,13 +55,15 @@
     * $r=k\left\[\\ce{RX}\right\]\\left\[\\ce{Nu-}\right\]$
       * Depends on strength of $\ce{Nu-}$
     * Mechanism: Concerted
-  * Comparison $\ce{E1}$ and $\ce{E2}$
+  * Competition between $\ce{E1}$ and $\ce{E2}$
     * $\ce{E2}$ use strong alkali (nucleophile)
     * $\ce{E1}$ is non-stereospecific while $\ce{E2}$ is anti-elimination
   * Competition between $\ce{E}$ and $\ce{S\_{N}}$
-    * @Room Temperature: $\ce{S\_{N}1} > \ce{E1}$
+    * High Temp → $\ce{E} > \ce{S\_{N}}$
+    * @Room Temperature: $\ce{S\_{N}1} \gg \ce{E1}$
     * @High Temperature: $\ce{E2} > \ce{S\_{N}2}$
-    * Bulky $\ce{Nu-}$ or $\ce{R-X}$: $\ce{E2} > \ce{S\_{N}2}$ (Note: Potential Hofmann Elimination)
+    * Consider primary / secondary / tertiary and substrates
+    * Bulky $\ce{Nu-}$ or $\ce{R-X}$: $\ce{E} > \ce{S\_{N}}$ (Note: Potential Hofmann Elimination for $\ce{E2}$)
 * Reduction: $\ce{R-X -> R-H}$
   * w/ Hydride ($\ce{Li+ AlH4-}$)
     * Substitution $\ce{S\_{N}2}$ with $\ce{H-}$
