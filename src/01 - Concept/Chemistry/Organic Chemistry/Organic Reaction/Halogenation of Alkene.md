@@ -6,7 +6,7 @@ $$
 
 |Starting Material|Reagent|Intermediate|Product|
 |-----------------|-------|------------|-------|
-|[Alkene](../Functional%20Group/Alkenyl%20Group.md)|$\ce{X2}$|Halonium|di[Halide](../Functional%20Group/Halo%20Group.md)|
+|[Alkene](../Functional%20Group/Alkenyl%20Group.md)|$\ce{X2}$|Halonium|vic-di[Halide](../Functional%20Group/Halo%20Group.md)|
 
 * Mechanism: [Electrophilic](Reaction%20Component/Electrophile.md) [Anti](Classification%20of%20Organic%20Reaction/Addition%20Reaction.md#anti)-[Addition](Classification%20of%20Organic%20Reaction/Addition%20Reaction.md)  
   ![Alkene-bromine-addition-2D-skeletal.png](https://upload.wikimedia.org/wikipedia/commons/3/33/Alkene-bromine-addition-2D-skeletal.png)

@@ -7,7 +7,7 @@ $$
 |Starting Material|Reagent|Intermediate|Product|
 |-----------------|-------|------------|-------|
 |[Alkene](../Functional%20Group/Alkenyl%20Group.md)|$\ce{HX}$|[Carbocation](Reaction%20Component/Carbocation.md)|($3^{\circ}$)-[Halide](../Functional%20Group/Halo%20Group.md)|
-|[Alkyne](../Functional%20Group/Alkynyl%20Group.md)|$\ce{2HX}$|[Carbocation](Reaction%20Component/Carbocation.md)|1,1-di[Halide](../Functional%20Group/Halo%20Group.md)|
+|[Alkyne](../Functional%20Group/Alkynyl%20Group.md)|$\ce{2HX}$|[Carbocation](Reaction%20Component/Carbocation.md)|gem-di[Halide](../Functional%20Group/Halo%20Group.md)|
 
 * Mechanism: [Non-stereospecific](Classification%20of%20Organic%20Reaction/Addition%20Reaction.md#non-stereospecific) [Markovnikov](Classification%20of%20Organic%20Reaction/Addition%20Reaction.md#markovnikov) [Electrophilic](Reaction%20Component/Electrophile.md) [Addition](Classification%20of%20Organic%20Reaction/Addition%20Reaction.md)
   1. $\ce{R=R + H-X -> R+-RH + X-}$
