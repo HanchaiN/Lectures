@@ -15,7 +15,7 @@ aliases:
 		- Tertiary $\ce{R-CO-NR2}$
 	- Acid Halides $\ce{R-CO-X}$
 	- Nitrile $\ce{R-C#N}$ (No $\ce{-CO-}$ here)
-		- Hydrolyze in acid to Primary Amine then Carboxylic Acid
+		- Hydrolyze in acid to Primary Amide then Carboxylic Acid
 	- Compared to Aldehydes and Ketones: $\ce{-CO-}$ is connected to heteroatom
 - Physical Properties
 	- High BP, MP (H-bond)
