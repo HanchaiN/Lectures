@@ -15,11 +15,11 @@
 * Acidity Reaction: $\ce{R-OH ->\[NaH\] R-O- + H+}$
   * Reagent: Alkali
     * Alkyl Alcohol: $\ce{Na}$ or $\ce{NaH}$ or $\ce{NaNH2}$
-    * Phenol: $\ce{NaOH(aq)}$ or $\ce{Na}$ or $\ce{NaH}$ (or $\ce{NaNH2}$)
+    * Phenol: $\ce{NaOH}$ or $\ce{Na}$ or $\ce{NaH}$ (or $\ce{NaNH2}$)
   * Product: Alkoxide / Phenoxide
     * Alkoxide & Phenoxide can act as nucleophile
 * Substitution of Hydrogen
-  * Alkylation; Ether Formation: $\ce{R-O- ->\[R-X\] R-O-R}$
+  * Alkylation; Williamson Ether Synthesis: $\ce{R-O- ->\[R-X\] R-O-R}$
     * Reagent
       * Alkoxide: Primary / Secondary Halide
       * Phenoxide: Primary / Secondary Alkyl tosylate; ester of sulfonic acid (e.g. $\ce{R-OS(O)2-Ph-CH3}$)
@@ -55,7 +55,7 @@
         * $\ce{S\_{N}2}$ ($\ce{Cl}$ is inverted from $\ce{OH}$): $\ce{R-OSClO ->\[+Cl-\] R-Cl + SO2}$
   * via Sulfonate Ester: $\ce{R-OH ->\[TsCl\] R-O-Ts ->\[Nu\] R-Nu}$
     * Former step: Retention of configuration (Substitute $\ce{H}$, doesn't effect $\ce{C-O}$)
-      * Can use $\ce{S\_{N}2}$ to have inverted end product $\ce{R-Nu}$
+    * Can use $\ce{S\_{N}2}$ with $\ce{Nu}$ to have inverted end product $\ce{R-Nu}$
 * Dehydration: $\ce{RH-ROH ->\[H+\] RH-RO^{+}H2-> RH-R+ -> C=C}$
   * Reagent: $\ce{H2SO4}$ or $\ce{TsOH}$ or $\ce{H3PO4}$ (avoid Halogenation)
   * $\ce{E1}$: cis/trans
