@@ -52,9 +52,11 @@
       * Blue $\ce{Cu2+}$ → Red $\ce{Cu2O}$
 * Reaction of Cyano group
   * Reduction of $\ce{CN}$: $\ce{R-CN ->\[\\hat{h}\] R-CH2-NH2}$
+    * $\ce{R-C#N ->\[H-\] R-C(=N^{-})H->\[H+\]R-C(NH)H->\[H2O\]R-CO-H}$
+    * Nucleophilic Addition + Protonation + Hydrolysis
   * Reduction of $\ce{CN}$: $\ce{R-CN ->\[R-MgX\] R-C(=N-MgX)-R ->\[H3O+\] R-CO-R}$
   * Hydrolysis of $\ce{CN}$: $\ce{R-C#N ->\[H2O\] R-C(OH)=NH \<=>> R-CO-NH2 ->\[H2O\] R-CO-OH}$
-* Reduction of Carbonyl group
+* Reduction of Carbonyl group → Alcohol
   * Halide addition w/ $\ce{LiAlH4}$ or $\ce{NaBH4}$ then $\ce{H3O+}$
   * Hydrogenation w/ $\ce{H2/Pd}$ or $\ce{H2/Pd}$ or $\ce{H2/Ni}$
   * Clemmensen Reduction: $\ce{Zn / Hg , H+ (conc)}$

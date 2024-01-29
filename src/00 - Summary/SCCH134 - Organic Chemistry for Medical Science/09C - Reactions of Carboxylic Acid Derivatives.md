@@ -41,7 +41,9 @@
   * ![500](../../2024-LectNote-Topic9-1_Page_35.jpg)
   * Acid Halide & Acid Anhydride + $\ce{LiAlH4}$: Uncommon (Too reactive)
   * Carboxylic Acid + $\ce{LiAlH4}$: Uncommon (Hydrogen Gas + Carboxylate: $\ce{COO- + H-}$ require energy to react)
-  * Ester → Aldehyde → Alcohol
+  * Carboxylic & Derivatives → Aldehyde / Imine → Alcohol / Amine
+
+……………
 
 ## Reference
 
