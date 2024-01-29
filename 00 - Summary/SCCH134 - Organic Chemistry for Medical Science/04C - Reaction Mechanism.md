@@ -21,6 +21,9 @@ aliases:
 - Concerted or Synchronized Mechanism → Transition State  
   ![Bromoethane\_SN2\_reaction.svg](https://upload.wikimedia.org/wikipedia/commons/4/40/Bromoethane_SN2_reaction.svg)
 - Stepwise Mechanism → Transition State and Reaction Intermediate
+- Protonation-Deprotonation
+	- Acid-catalyzed
+	- Intramolecular (Looped Mechanism)
 
 ## Reference
 
