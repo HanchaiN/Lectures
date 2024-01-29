@@ -13,8 +13,24 @@ aliases:
 	- Reactivity  
 	  ![acylsub2.gif](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/Images2/acylsub2.gif)
 		- Acid Chloride > Acid Anhydride
+			- Strong Nucleophile
+				- $\ce{R-CO-X + Nu- -> R-C(O^{-})(Nu)X -> R-CO-Nu + X-}$
+			- Weak Nucleophile
+				- $\ce{R-CO-X + NuH -> R-C(O^{-})(Nu+H)X -> R-CO-Nu + HX}$
 		- Ester > Amide (& Nitrile)
+			- Strong Nucleophile
+				- $\ce{R-CO-X + Nu- -> R-C(O^{-})(Nu)X -> R-CO-Nu + X-}$
+			- Acid-catalyzed
+				- $\ce{R-CO-X <=>[H+] R-C(O+H)X}$
+				- $\ce{R-C(O+H)X <-> R-C+(OH)X}$
+				- $\ce{R-C+(OH)X ->[Nu-H] R-C(OH)(Nu+H)X}$
+				- $\ce{R-C(OH)(Nu+H)X <=>[H+] R-C(OH)(X+H)Nu}$
+				- $\ce{R-C(OH)(X+H)Nu <=> R-C(O+H)Nu <=> R-CO-Nu}$
 - Hydrolysis
+	- Product: Carboxylic Acid  
+	  ![[2024-LectNote-Topic9-1_Page_26.jpg|500]]
+	- Alkali-catalyzed Ester Hydrolysis
+		- $\ce{R-CO-OR + NaOH ->[H2O] R-CO-O^{-} + R-OH}$
 
 ## Reference
 
