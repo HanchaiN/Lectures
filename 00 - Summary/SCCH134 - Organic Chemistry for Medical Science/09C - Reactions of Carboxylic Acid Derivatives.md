@@ -47,6 +47,11 @@ aliases:
 	- Acid Halide & Acid Anhydride + $\ce{LiAlH4}$: Uncommon (Too reactive)
 	- Carboxylic Acid + $\ce{LiAlH4}$: Uncommon (Hydrogen Gas + Carboxylate: $\ce{COO- + H-}$ require energy to react)
 	- Carboxylic & Derivatives → Aldehyde / Imine → Alcohol / Amine
+- Reaction with Organometals
+	- $\ce{R-CO-OR ->[+R-MgX][- RO^{-}] R-CO-R ->[+R-MgX] R-C(O^{-})R2 ->[H+] R-C(OH)R2}$
+		- $\ce{R-O^{-} ->[H+] R-OH}$
+	- $\ce{R-C#N ->[R-MgX] R-C(=N-MgBr)-R ->[H+] R-CO-R}$
+	- $\ce{R-CO-Cl ->[R2Cd] R-CO-R}$
 
 ## Reference
 
