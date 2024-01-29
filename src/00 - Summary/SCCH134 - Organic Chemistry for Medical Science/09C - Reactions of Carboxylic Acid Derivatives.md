@@ -43,8 +43,6 @@
   * Carboxylic Acid + $\ce{LiAlH4}$: Uncommon (Hydrogen Gas + Carboxylate: $\ce{COO- + H-}$ require energy to react)
   * Carboxylic & Derivatives → Aldehyde / Imine → Alcohol / Amine
 
-……………
-
 ## Reference
 
 * Handout SCCH134
