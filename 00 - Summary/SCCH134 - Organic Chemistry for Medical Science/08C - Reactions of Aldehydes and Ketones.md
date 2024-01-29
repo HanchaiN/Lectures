@@ -40,7 +40,7 @@ aliases:
 		- Aldol Condensation: $\ce{2 R-CO-CH2R ->[NaOH(aq)] ->[\Delta][-H2O] R-CO-C(R)=C(R)CH2R}$
 		- Cross Aldol Condensation: Aldol Condensation with different carbonyl
 			- Protect $\alpha$-carbon of one molecule to avoid multiple products
-			- Can prevent self-aldol condensation
+			- Can prevent self-aldol condensation via different methods
 			- Mechanism  
 			  ![Simple\_aldol\_reaction.svg](https://upload.wikimedia.org/wikipedia/commons/7/76/Simple_aldol_reaction.svg)
 				- $\alpha$-carbanion Formation: $\ce{R-CO-CH2R ->[NaOH(aq)] R-CO-C^{-}HR}$
