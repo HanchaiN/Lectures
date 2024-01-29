@@ -31,6 +31,7 @@
     * $\ce{R-CO-NH2 ->\[P2O5,\Delta\]\[- H2O\] R-C#N}$
   * Decarboxylation: $\ce{X-CO-CH2-CO-OH ->\[\\Delta\] X-CO-CH3 + CO2}$
     * $\ce{X-CO-CH2-CO-OH}$: $\beta$-keto acid / 1,3-dicarboxylic acid
+  * Carboxylic Acid → Amide: Require Heat, Impractical
 
 ## Leaving Group Comparison
 
