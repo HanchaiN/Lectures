@@ -26,14 +26,18 @@ aliases:
 				- $\ce{R-C+(OH)X ->[Nu-H] R-C(OH)(Nu+H)X}$
 				- $\ce{R-C(OH)(Nu+H)X <=>[H+] R-C(OH)(X+H)Nu}$
 				- $\ce{R-C(OH)(X+H)Nu <=> R-C(O+H)Nu <=> R-CO-Nu}$
-- Hydrolysis
-	- Product: Carboxylic Acid  
-	  ![[2024-LectNote-Topic9-1_Page_26.jpg|500]]
-	- Alkali-catalyzed Ester Hydrolysis (Saponification)
-		- $\ce{R-CO-OR + NaOH ->[H2O] R-CO-O^{-} + R-OH}$
-		- Mechanism
-			- $\ce{R-CO-OR + OH- -> R-C(O^{-})(OH)OR -> R-CO-OH + R-O^{-}}$
-			- $\ce{R-CO-OH + R-O^{-} -> R-CO-O^{-} + R-OH}$
+	- Hydrolysis
+		- Product: Carboxylic Acid  
+		  ![[2024-LectNote-Topic9-1_Page_26.jpg|500]]
+		- Alkali-catalyzed Ester Hydrolysis (Saponification)
+			- $\ce{R-CO-OR + NaOH ->[H2O] R-CO-O^{-} + R-OH}$
+			- Mechanism
+				- $\ce{R-CO-OR + OH- -> R-C(O^{-})(OH)OR -> R-CO-OH + R-O^{-}}$
+				- $\ce{R-CO-OH + R-O^{-} -> R-CO-O^{-} + R-OH}$
+	- Alcoholysis
+		- Product: Ester
+		- Ester → Ester: Transesterification
+		- Amide → Ester: Uncommon
 
 ## Reference
 
