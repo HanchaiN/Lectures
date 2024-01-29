@@ -27,8 +27,8 @@ aliases:
 				- $\ce{R-C(OH)(Nu+H)X <=>[H+] R-C(OH)(X+H)Nu}$
 				- $\ce{R-C(OH)(X+H)Nu <=> R-C(O+H)Nu <=> R-CO-Nu}$
 	- Hydrolysis
-		- Product: Carboxylic Acid  
-		  ![[2024-LectNote-Topic9-1_Page_26.jpg|500]]
+		- Product: Carboxylic Acid
+		- ![[2024-LectNote-Topic9-1_Page_26.jpg|500]]
 		- Alkali-catalyzed Ester Hydrolysis (Saponification)
 			- $\ce{R-CO-OR + NaOH ->[H2O] R-CO-O^{-} + R-OH}$
 			- Mechanism
@@ -38,6 +38,15 @@ aliases:
 		- Product: Ester
 		- Ester → Ester: Transesterification
 		- Amide → Ester: Uncommon
+	- Ammonolysis
+		- Product: Amide
+		- Amide → Amide: Cannot Occur
+		- Ester → Amide: Practically intramolecular
+- Reduction
+	- ![[2024-LectNote-Topic9-1_Page_35.jpg|500]]
+	- Acid Halide & Acid Anhydride + $\ce{LiAlH4}$: Uncommon (Too reactive)
+	- Carboxylic Acid + $\ce{LiAlH4}$: Uncommon (Hydrogen Gas + Carboxylate: $\ce{COO- + H-}$ require energy to react)
+	- Ester → Aldehyde → Alcohol
 
 ## Reference
 
