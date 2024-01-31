@@ -69,7 +69,9 @@
 		- [[09A - Structures and Physical Properties of Carboxylic Acids]]
 		- [[09B - Reactions of Carboxylic Acids]]
 		- [[09C - Reactions of Carboxylic Acid Derivatives]]
-	- [10 - Amines]()
+	- [[10 - Amines]]
+		- [[10A - Structures and Physical Properties of Amines]]
+		- [[10B - Reactions of Amines]]
 
 # Concept
 

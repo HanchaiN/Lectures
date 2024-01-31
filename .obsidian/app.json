@@ -2,5 +2,6 @@
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": false,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Assets"
 }
