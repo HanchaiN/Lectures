@@ -12,6 +12,21 @@
         * If lone pair is aromatic → Very weak base
     * EDG → More Basic & EWG → Less Basic
   * Hybridization with $\ce{s}$-characteristic → Less Basic
+* Alkylation: $\ce{N-H + R-X -> N-R}$
+  * Reagent
+    * Amines (excess)
+      * Excess → Avoid Multiple Alkylation (but some will not be alkylated)
+      * Ammonia → Primary → Secondary → Tertiary
+    * (Primary Alkyl) Halides
+  * Mechanism
+    * Substitution ($\ce{S\_{N}}2$): $\ce{R-X ->\[N-H\] R-N^{+}-H + X-}$
+    * Deprotonation: $\ce{R-N^{+}-H ->\[N\] R-N}$
+* Acylation: $\ce{N-H + R-CO-Z -> R-CO-N}$
+  * Reagent
+    * Amines
+    * Acid Halides / Carboxylic Acid
+  * Peptide formation
+  * Mechanism: Nucleophilic substitution of Carboxylic Acid & Derivatives
 
 ## Reference
 
