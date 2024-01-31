@@ -48,6 +48,35 @@ aliases:
 			- Imine ($\ce{R-C(=NR)-R}$) for ammonia and primary amines
 			- Iminium Ion ($\ce{R-C(=N^{+}R2)-R}$) for secondary amines
 - Reactions with Nitrous Acid
+	- Diazonium Salt Formation: $\ce{R-NH2 ->[NaNO2, HCl][\pu{0\degree C}] R-{N^{+}}#N + Cl^{-}}$
+		- Mechanism
+			- $\ce{HNO2 ->[H+] O=N-O^{+}H2 -> O=N^{+}}$
+			- $\ce{R-NH2 ->[N^{+}=O] R-N^{+}H2-N=O -> R-NH-N=O}$
+			- $\ce{R-NH-N=O ->[H+] R-N^{+}H=N-OH -> R-N=N-OH}$
+			- $\ce{R-N=N-OH ->[H+] R-N=N-O^{+}H2 -> R-{N^{+}}#N}$
+	- Primary Aliphatic Amine: $\ce{R-{N^{+}}#N -> R^{+} + N2}$ (unstable even at low temp)
+		- Potential Rearrangement
+		- Can form Alcohols, Halides, Alkenes (Second step of $\ce{S_{N}2}$ and $\ce{E2}$)
+	- Primary Aromatic Amine: Diazonium Salt can be stable at low temp
+		- $\ce{Ar-N2+ ->[CuCl] Ar-Cl}$ & $\ce{Ar-N2+->[CuBr] Ar-Br}$ & $\ce{Ar-N2+ ->[KI] Ar-I}$
+		- $\ce{Ar-N2+ ->[CuCN] Ar-CN}$
+		- $\ce{Ar-N2+ ->[\text{1.} HBF4][\text{2.}\Delta] Ar-F}$
+		- $\ce{Ar-N2+ ->[H3PO2, H2O] Ar-H}$
+		- $\ce{Ar-N2+ ->[Cu2O,Cu^{2+},H2O] Ar-OH}$
+		- $\ce{Ar-N2+ ->[Ar-EDG] Ar-N=N-Ar-EDG}$ (azo compound)
+			- Note: $\ce{-N2+}$ is weak electrophile, require activated aromatic
+			- Note: "para-" > "ortho-"
+	- Sec-amines: $\ce{R2-NH ->[N+O] R2-N+H-N=O-> R2-N-N=O}$
+	- Tert-amines: $\ce{R2-N-R ->[N+O][AcOH,NaOAc,pH\approx4.5] R2-N-N=O + H-CO-R}$
+- Preparation of Amines (Reduction Reaction)
+	- Reduction of Nitrobenzene: $\ce{Ar-NO2 ->[\hat{h}] Ar-NH2}$
+		- $\ce{H2/Ni}$
+		- 1. $\ce{M,HCl}$ ($\ce{Fe}$ or $\ce{Sn}$ or $\ce{Zn}$); 2. $\ce{NaOH, H2O}$
+		- 1. $\ce{LiAlH4}$; 2. $\ce{H2O}$
+	- Reduction of Nitrile: $\ce{R-CN ->[\hat{h}] R-CH2-NH2}$
+		- 1. $\ce{LiAlH4}$; 2. $\ce{H3O+}$ (acid workup)
+	- Reduction of Amide: $\ce{R-CO-N ->[\hat{h}] R-CH2-N}$
+		- 1. $\ce{LiAlH4}$; 2. $\ce{H2O}$
 
 ## Reference
 
