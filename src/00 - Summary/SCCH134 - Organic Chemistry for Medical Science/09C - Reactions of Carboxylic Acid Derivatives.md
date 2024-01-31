@@ -38,7 +38,7 @@
     * Amide → Amide: Cannot Occur
     * Ester → Amide: Practically intramolecular
 * Reduction
-  * ![500](../../2024-LectNote-Topic9-1_Page_35.jpg)
+  * ![500](../../Assets/2024-LectNote-Topic9-1_Page_35.jpg)
   * Acid Halide & Acid Anhydride + $\ce{LiAlH4}$: Uncommon (Too reactive)
   * Carboxylic Acid + $\ce{LiAlH4}$: Uncommon (Hydrogen Gas + Carboxylate: $\ce{COO- + H-}$ require energy to react)
   * Carboxylic & Derivatives → Aldehyde / Imine → Alcohol / Amine

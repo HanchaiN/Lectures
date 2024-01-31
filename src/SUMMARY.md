@@ -69,7 +69,9 @@
     * [09A - Structures and Physical Properties of Carboxylic Acids](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/09A%20-%20Structures%20and%20Physical%20Properties%20of%20Carboxylic%20Acids.md)
     * [09B - Reactions of Carboxylic Acids](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/09B%20-%20Reactions%20of%20Carboxylic%20Acids.md)
     * [09C - Reactions of Carboxylic Acid Derivatives](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/09C%20-%20Reactions%20of%20Carboxylic%20Acid%20Derivatives.md)
-  * [10 - Amines]()
+  * [10 - Amines](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/10%20-%20Amines.md)
+    * [10A - Structures and Physical Properties of Amines](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/10A%20-%20Structures%20and%20Physical%20Properties%20of%20Amines.md)
+    * [10B - Reactions of Amines](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/10B%20-%20Reactions%20of%20Amines.md)
 
 # Concept
 
