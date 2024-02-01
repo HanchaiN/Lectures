@@ -223,6 +223,8 @@ aliases:
  - Benzylic Oxidation
 	 - $\ce{Ph-CHR2 ->[KMnO4][H+,\Delta] Ph-COOH}$
 		 - Require at least one benzylic hydrogen
+ - Reaction of Nitro Group
+	 - Reduction: $\ce{RNO2 ->[H2,Pt] R-NH2 + H2O}$
 
 ## Reference
 

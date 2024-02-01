@@ -108,6 +108,9 @@ aliases:
 			- Acts as Alkali in $\ce{E2}$ → Alkane-Alkene mixture (minor)
 - Nucleophilic Substitution (Aryl Halide): $\ce{Ar-X + Nu- -> Ar-Nu + X-}$
 	- $\ce{Ar-X + Nu- -> Ar^{-}-(X)(Nu) -> Ar-Nu + X-}$
+	- Require Strong EWG
+		- weaken $\ce{sp2}$-hybridized $\ce{Ar-X}$ bonding
+		- (temporary) break aromaticity
 
 ## Reference
 
