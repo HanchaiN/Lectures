@@ -150,7 +150,7 @@ aliases:
 				2. $\ce{RH-R(BH2) ->[+2R=R] (RH-R)3B}$
 			2. Oxidation
 				1. $\ce{(RH-R)3B ->[H2O2,NaOH] 3RH-ROH + B(OH)3}$
-	 - Epoxidation Reaction: $\ce{R=R + RO-O-OH -> R-Ep-R + RO-OH}$
+	 - Epoxidation Reaction: $\ce{R=R + R-CO-O-OH -> R-Ep-R + RO-OH}$
 		 - Syn-Addition
 			 - Addition w/ ring product → Syn-Addition
 		 - Reagent: Percarboxylic Acid e.g. *m*-CPBA
