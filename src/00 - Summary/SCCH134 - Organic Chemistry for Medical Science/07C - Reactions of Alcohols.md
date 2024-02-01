@@ -53,6 +53,7 @@
       * Alt. $\ce{SOCl2}$ in Alkali (Pyridine)
         * $\ce{R-OH ->\[+ SOCl2\]\[+ H+\] R-O^{+}HSCl2OH ->\[- Cl^{-}\]\[- H^{+}\] R-OSClO}$
         * $\ce{S\_{N}2}$ ($\ce{Cl}$ is inverted from $\ce{OH}$): $\ce{R-OSClO ->\[+Cl-\] R-Cl + SO2}$
+      * Alt. $\ce{PX3}$ or $\ce{PX5}$ → $\ce{S\_{N}2}$
   * via Sulfonate Ester: $\ce{R-OH ->\[TsCl\] R-O-Ts ->\[Nu\] R-Nu}$
     * Former step: Retention of configuration (Substitute $\ce{H}$, doesn't effect $\ce{C-O}$)
     * Can use $\ce{S\_{N}2}$ with $\ce{Nu}$ to have inverted end product $\ce{R-Nu}$
