@@ -8,6 +8,8 @@ aliases:
 - Reactivity
 	- Steric Effect: Aldehyde is more reactive (Smaller substituent: $\ce{H}$)
 	- Electronic Effect: Aldehyde is more reactive (High partial-positive charge at $\ce{C}$)
+	- Similar with Epoxide
+	- Can be protonated to increase reactivity
 - Nucleophilic Addition $\ce{C=O ->[Nu-,E+] Nu-C-O-E}$ (Non-stereospecific)
 	- Hydride ($\ce{H-}$) → Primary / Secondary Alcohol
 		- Reagent
@@ -15,7 +17,7 @@ aliases:
 				- Can form complex up to the number of $\ce{H-}$ in $\ce{MH_{n}}$
 				- Substitute $\ce{O-M}$ with $\ce{O-H}$ via $\ce{H3O+}$ or $\ce{H2O}$
 			- $\ce{H2/Pd}$ or $\ce{H2/Pd}$ or $\ce{H2/Ni}$ (slower than alkene)
-	- Carbon Nucleophile ($\ce{R-}$)→ Secondary/Tertiary Alcohol
+	- Carbon Nucleophile ($\ce{R-}$) → Secondary/Tertiary Alcohol
 		- Reagent
 			- Grignard Reagent $\ce{R-MgX}$ (then $\ce{H2O}$ to substitute $\ce{O-MgX}$)
 			- Organolithium $\ce{R-Li}$
@@ -25,8 +27,8 @@ aliases:
 		- Reagent
 			- Water $\ce{H2O}$ → 1,1-diol
 			- Alcohol $\ce{R-OH}$ → hemiacetal / hemiketal → acetal / ketal
-				- $\ce{R-CO-R <=>[H+,+ ROH][H+,- ROH] R-C(OH)(OR)-R <=>[H+,+ ROH][H+,- ROH] R-C(OR)2-R}$
-					- Note: $\ce{H+}$ is optional catalyst
+				- $\ce{R-CO-R <=>[+ ROH][- ROH] R-C(OH)(OR)-R <=>[H+,+ ROH][H+,- ROH] R-C(OR)2-R}$
+					- Note: $\ce{H+}$ is optional catalyst for hemiacetal / hemiketal formation
 				- Can substituted to acetal/ketal to avoid reduction
 					- Cycle of length $\le4$ is unstable
 					- Cycle of length $\ge8$ / Acyclic is dispersive
@@ -64,8 +66,8 @@ aliases:
 - Reduction of Carbonyl group → Alcohol
 	- Halide addition w/ $\ce{LiAlH4}$ or $\ce{NaBH4}$ then $\ce{H3O+}$
 	- Hydrogenation w/ $\ce{H2/Pd}$ or $\ce{H2/Pd}$ or $\ce{H2/Ni}$
-	 - Clemmensen Reduction: $\ce{Zn / Hg , H+ (conc)}$
-	 - Wolff Kishner Reduction: $\ce{H2N-NH2, NaOH, \Delta}$ (Hydrazine in alkali @High Temperature)
+	- Clemmensen Reduction: $\ce{Zn / Hg , H+ (conc)}$ → Alkyl
+	- Wolff Kishner Reduction: $\ce{H2N-NH2, NaOH, \Delta}$ (Hydrazine in alkali @High Temperature) → Alkyl
 
 ## Reference
 
