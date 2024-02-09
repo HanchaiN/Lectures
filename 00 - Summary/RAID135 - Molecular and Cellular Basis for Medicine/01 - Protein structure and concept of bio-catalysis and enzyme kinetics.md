@@ -57,7 +57,6 @@
 	- Hemoglobin: 2 $\alpha$-like globin ($\alpha$, $\zeta$) + 2 $\beta$-like globin ($\varepsilon$, $\gamma$, $\delta$, $\beta$)
 		- Defective $\alpha$ globin → $\alpha$-Thalassemia and …($\beta$)
 		- Fetal: $\beta$-like → $\delta$ globin
-		- Oxygen-binding curves (Hemoglobin / Myoglobin)
 
 ## Enzymes
 
@@ -86,6 +85,36 @@
 		- TTP / FAD / NAD / CoA
 	- Holoenzyme: Catalytically active complex of proteins and prosthetic group
 	- Apoenzyme: Protein without prosthetic group (usually inactive)
+- Factors
+	- Temperature, pH
+	- ATP / AMP
+	- Ionic Strength of environment
+- Flexible & Dynamic
+	1. Proximity, Orientation
+	2. Weak Binding → Conformal change
+	3. Transition-State Stabilization
+	4. Reaction
+		- Acid-Base Catalysis: Proton transfer
+		- Covalent Catalysis: Transient covalent bond
+		- Metal Ion Catalysis: Metalloenzyme
+- Enzyme Kinetics
+	- Rate vs Substrate Concentration: Hyperbolic Relationship
+		- $r=\frac{r_\text{max}\left[\ce{S}\right]}{K_{M} + \left[\ce{S}\right]}$ → $\frac{1}{v} = \frac{K_{M}}{r_\text{max}}\frac{1}{\left[\ce{S}\right]} + \frac{1}{r_\text{max}}$
+	- $K_{M}$: Michaelis Constants: subs. conc. where $r=\frac{1}{2}r_\text{max}$
+	- Low $K_{M}$ → Reach $r_\text{max}$ fast
+		- Low conc. → approx. linear
+		- High conc. → approx. $r_\text{max}$
+	- $k_\text{cat}=\frac{r_\text{max}}{\left[\ce{E}\right]}$: Max rate vs Enzyme conc.
+- Inhibition
+	- Competitive: Increase (apparent) $K_{M}$
+		- Bind with active site → can overwhelmed by subs. conc.
+	- Uncompetitive: Decrease (apparent) $K_{M}$ and $r_\text{max}$
+		- Bind with different site when subs. bind with enz.
+	- Mixed (Non-competitive): Decrease $r_\text{max}$; Increase / Decrease $K_{M}$
+		- Bind with different site (enz. w/ or w/o subs.)
+- Examples
+	- Myoglobin: low $K_{m}$ → cannot release much oxygens  
+	  ![Oxygen-binding curves](https://upload.wikimedia.org/wikipedia/commons/2/2e/Cooperativity_graph.JPG)
 
 ## Reference
 
