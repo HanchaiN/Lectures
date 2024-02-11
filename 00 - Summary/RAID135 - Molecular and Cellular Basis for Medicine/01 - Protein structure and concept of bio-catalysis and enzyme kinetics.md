@@ -61,22 +61,21 @@
 ## Enzymes
 
 - Catalysts of Life
-	- Lower activation (free) energy → More molecule have enough energy
-	- Increase rxn rate by 14-26 order of magnitude
-	- Specificity: Active Site
-	- Regulation: Activator / Inhibitor
-		- Allosteric Regulation
-			- Regulator Binding (not at active site)
-		- Covalent Modification
-			- Phosphorylation
-		- Proteolytic Cleavage
-			- Require Cleavage to activate
+- Lower activation (free) energy → More molecule have enough energy
+- Increase rxn rate by 14-26 order of magnitude
+- Specificity: Active Site
+	- Environmental Factors
+		- Temperature, pH
+		- ATP / AMP
+		- Ionic Strength of environment
+	- Substrate
+		- Stereospecificity
 - Nomenclature
 	- Oxidoreductase (Redox)
 	- Transferase (transfer functional groups)
 	- Hydrolase (Hydrolysis)
 	- Lyase (Bond Cleavage, non redox, non hydrolysis)
-	- Isomerase (Isomerization)
+	- Isomerase (Isomerization: usually stereoisomers)
 	- Ligase (Bond with ATP cleavage)
 - Mostly Protein
 	- RNA → Ribozyme
@@ -85,10 +84,6 @@
 		- TTP / FAD / NAD / CoA
 	- Holoenzyme: Catalytically active complex of proteins and prosthetic group
 	- Apoenzyme: Protein without prosthetic group (usually inactive)
-- Factors
-	- Temperature, pH
-	- ATP / AMP
-	- Ionic Strength of environment
 - Flexible & Dynamic
 	1. Proximity, Orientation
 	2. Weak Binding → Conformal change
@@ -105,16 +100,32 @@
 		- Low conc. → approx. linear
 		- High conc. → approx. $r_\text{max}$
 	- $k_\text{cat}=\frac{r_\text{max}}{\left[\ce{E}\right]}$: Max rate vs Enzyme conc.
-- Inhibition
+- Reversible Inhibition
 	- Competitive: Increase (apparent) $K_{M}$
 		- Bind with active site → can overwhelmed by subs. conc.
 	- Uncompetitive: Decrease (apparent) $K_{M}$ and $r_\text{max}$
-		- Bind with different site when subs. bind with enz.
+		- Bind with different site when substrate bind with enzyme
 	- Mixed (Non-competitive): Decrease $r_\text{max}$; Increase / Decrease $K_{M}$
-		- Bind with different site (enz. w/ or w/o subs.)
+		- Bind with different site (enzyme w/ or w/o substrate)
+- Irreversible Inhibition: destroy active site
+	- Alkylation / Acylation
+	- Insecticides
+	- DFP / Organophosphorus
+- Regulation: Activator / Inhibitor
+	- Covalent Modification
+		- Phosphorylation
+	- Proteolytic Cleavage
+		- Require Cleavage to activate
+	- Allosteric Regulation (allosteric = another shape)
+		- Regulator Binding (allosteric / regulatory site ≠ active site)
+		- Cooperativity: Binding one active site affect of other sites
 - Examples
 	- Myoglobin: low $K_{m}$ → cannot release much oxygens  
-	  ![Oxygen-binding curves](https://upload.wikimedia.org/wikipedia/commons/2/2e/Cooperativity_graph.JPG)
+	  ![Oxygen-binding curves|500](https://upload.wikimedia.org/wikipedia/commons/2/2e/Cooperativity_graph.JPG)
+		- 4 Hemoglobin subunits: positive cooperativity
+			- sigmoid (not hyperbolic) relationship
+			- low $\ce{O2}$ conc. → Tense-state → Less $K_{m}$ (and potentially $r_\text{max}$)
+			- high $\ce{O2}$ conc. → Relaxed-state → More $K_{m}$
 
 ## Reference
 
