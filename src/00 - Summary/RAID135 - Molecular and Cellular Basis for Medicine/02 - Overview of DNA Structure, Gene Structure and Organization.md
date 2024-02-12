@@ -1,13 +1,17 @@
 # Overview of DNA Structure, Gene Structure and Organization
 
-* DNA: Information
-  * Store: for cellular function via RNA-protein
-  * Reproduce: for offspring via replication
-* Structure
+## DNA and Genes
+
+* DNA
+  * Information
+    * Store: for cellular function via RNA-protein
+    * Reproduce: for offspring via replication
   * Basic unit: 2 complementary polynucleotide chain
     * Generally 4 types (2 pairs) of nucleotides
     * Nitrogen containing base + sugar → Nucleoside
     * Nucleoside phosphate(s) → Nucleotide
+      * Nucleoside (NxP) / Deoxyribonucleoside (dNxP)
+      * Monophosphate (xMP) / Diphosphate (xDP) / Triphosphate (xTP)
     * Nucleotide: Phosphodiester (covalent) bonding
     * Strands: Hydrogen bonding
   * Double Helix
@@ -70,6 +74,86 @@
       * Copy Number Variant: >1000 bp: gene / chromosome segment
       * Tandem (Same area) / Interspersed (Scattered copies) Repeat
 * Epigenetic
+  * Heritable
+  * Modification on DNA / DNA-associated proteins (histones)
+    * Methylation of DNA
+    * Acetylation / Methylation / Deacetylation / Demethylation of Histone
+      * Modify N-terminal → condensed / relaxed chromatid
+  * Cellular Differentiation & Embryonic Development
+  * Lyonization: deactivation of one of the X sex chromosome
+    * Same amount of X-based product in XX and XO/XY
+    * Inactivated for lifetime of cell and its descendant
+      * Barr body: condensed inactivated X-chromosome → visible
+    * Stripy XX → Calico cat
+
+## DNA Replication and Maintainence
+
+* Cell Cycle: ~ 24 hrs.
+  * Interphase
+    * Gap 1
+    * Synthesis
+      * DNA Replication: 8 hrs. per 3 mil. bp.
+    * Gap 2
+  * Mitotic Phase
+    * Mitosis
+    * Cytokinesis
+* Semi-Conservative: One Template/Parental Strand + One Synthesized Strand
+* Multiple Replication Origins
+  * Initiator proteins to weaken H-bond between template strands
+  * Result in two replication forks (Bidirectional from the origin)
+  * Human DNA Polymerase: 100bp per sec (1000 bp per sec for bacteria pol.)
+* DNA Polymerase synthesized from 5' to 3'
+  * Add dNTP and release 2 phosphates
+  * Leading Strand: Continuous Synthesis
+  * Lagging Strand: Okazaki Fragments sealed via DNA ligase
+  * Multiple subtypes
+    * (Type A) $\gamma$-DNA Pol. → Mitochondria (5' to 3' or 3' to 5')
+    * (Type B) $\delta$-DNA Pol. → Lagging Strand (and Leading Strand)
+    * (Type B) $\varepsilon$-DNA Pol. → Leading Strand
+    * The rest → DNA Repairs
+* Primer required (RNA Primase) as starting point of polymerization
+  * RNA Primer removed (exonuclease) and refilled with DNA (DNA Pol.)
+  * Higher Error Rate → Temporary
+* Helicase: Unwind helical double-strand DNA
+  * Motor protein move along phosphodiester backbone
+  * Single-strand DNA-binding protein avoid closing before DNA Pol.
+* DNA Topoisomerase: Untie knots on DNA strands
+  * Knots caused by helicase excessively twisting DNA
+  * Type I: Cut one Strand in helical turn and rejoin without turn
+  * Type II: Cut DNA strands and let another strand pass through the cut
+    * Not required in DNA Replication
+* Polymerase Chain Reaction (PCR): Artificial DNA Replication
+  * Denature: ~ Helicase + Single-strand DNA-binding Protein + DNA Topoisomerase I
+  * Annealing: ~ DNA Primase
+  * Extension: ~ DNA Polymerase
+* DNA Repair & Autocorrection
+  * DNA Damages
+    * Spontaneous reactions
+    * Replication Error
+  * DNA Polymerase: $1/10^{5}$ error rate (bacteria w/o proof-reading)
+    * Have proof-reading: $1/10^{7}$ error rate
+      * Cleave incorrect strand; replace; continue
+      * Only for DNA pol. w/ exclusively 5'-to-3' direction
+    * Have mismatch repair: $1/10^{9}$ error rate
+
+## Chromosome Regions
+
+* Centromere
+  * ~center of chromosome
+  * Attach with Spindle fiber during cell division
+* Telomere
+  * Long-repetitive at the end of chromosome
+  * Protect Ends of Linear Chromosome
+  * Avoid Abnormal cell growth and proliferation
+  * Lagging Strand cannot replicate until the end of the parental strand
+    * Will be shorten overtime → Aging timer
+    * Stop DNA replication if telomere too short → No further cell division
+  * Telomerase will lengthen Telomere to a certain length
+    * Extend the repetitive sequence on template strand
+    * Stop the aging timer during development
+    * Will be deactivated after growth → Start aging timer
+      * Child only except stem cells, blood cells, liver, epithelial cells
+    * Over-activation → Potential Cancer
 
 ## Reference
 
