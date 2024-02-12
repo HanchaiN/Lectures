@@ -1,4 +1,4 @@
-# Protein structure and concept of bio-catalysis and enzyme kinetics
+# Protein Structure and Concept of Bio-catalysis and Enzyme Kinetics
 
 ## Amino Acid
 
