@@ -11,8 +11,67 @@ aliases:
 - Structure
 	- Basic unit: 2 complementary polynucleotide chain
 		- Generally 4 types (2 pairs) of nucleotides
-		- Sugar-phosphate backbone + base
+		- Nitrogen containing base + sugar → Nucleoside
+		- Nucleoside phosphate(s) → Nucleotide
+		- Nucleotide: Phosphodiester (covalent) bonding
+		- Strands: Hydrogen bonding
 	- Double Helix
+		- Anti-parallel from 5' (Phosphate) to 3' (Hydroxy)
+		- 10bp per turn
+		- $\ce{A=T;G#C}$ (replace $\ce{T}$ with $\ce{U}$ for RNA)
+		- Maintaining; Assist Replication
+- (Human) Genome
+	- Genes can be on either strand of DNA
+		- 24000 genes for human
+		- Only some (30%) genes are expressed at a time (per cell)
+	- Arranged in 2 sets (diploid) of 22 autosomes + sex chromosome
+		- Each set from each parent
+		- 3000 mil. bp. per haploid
+	- Chromosome
+		- 250 mil. bp. / 2000 genes per chromosome
+		- Length approx. $\pu{3 m}$; nucleus size approx. $\pu{10 \micro m}$
+		- Numbered from large to small
+	- DNA + Protein → Nucleosome
+		- Protein: Access Control & Packing
+		- Histone + non-histone Proteins
+			- 8 Histone core: 2x H2A, 2x H2B, 2x H3, 2x H4
+		- N-terminal of histone can be modified to restructure chromosome
+	- Packed Chain of Nucleosome → Chromatin
+		- Condensed Chromosome during mitosis
+		- Can relax for transcription / replication
+	- After replication before division: 2 sister chromatid per chromosome
+	- locus (plu. loci): location of gene on chromosome
+	- allele: variant form of a gene
+	- Most genomic DNA are non-coding
+		- Coding DNA: for protein synthesis
+			- Only 1% of genomic DNA (as exon)
+			- Codon = 3 bases → 1 AA
+		- junk DNA: no biological function
+		- Non-coding DNA
+			- Transcriptional Regulation (promoter / enchanter / etc)
+			- Origin of Replication
+			- Centromere / Telomere
+			- Non-coding RNA (rRNA / tRNA / miRNA / etc)
+	- Mitochondrial DNA
+		- ~1700bp; 37genes; circular chromosome
+		- Inherited via maternal egg cell
+		- up to 2000 mitochondria per cell
+		- Mitochondrial DNA polymerase
+		- Mutation → Human disease → Mitochondrial transfer as treatment
+	- 99.99% similarity among human populations
+		- Polymorphism: multiple alleles
+			- Generally single nucleotide polymorphism (SNP)
+			- Once every 1000 bp → 3mil. SNP
+			- Generally at gene, intron, non-coding region
+		- Repetitive copy with number variant
+			- Microsatellite: Copy 1-6bp; 5-50 times
+				- Trinucleotide repeat → May cause genetic disorder
+				- Identification in forensic medicine
+			- Minisatellite: Copy 10-60 bp; 5-50 times
+				- > 1000 locations in genomes (telomere)
+			- Copy Number Variant: >1000 bp: gene / chromosome segment
+			- Tandem (Same area) / Interspersed (Scattered copies) Repeat
+- Epigenetic
 
 ## Reference
 
