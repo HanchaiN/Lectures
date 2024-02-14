@@ -77,6 +77,8 @@
 	- [RAID135 - Molecular and Cellular Basis for Medicine]()
 		- [[01 - Protein Structure and Concept of Bio-catalysis and Enzyme Kinetics]]
 		- [[02 - Overview of DNA Structure, Gene Structure and Organization]]
+	- [RAID136 - Basic Medical Microbiology]()
+		- [[02 - Host-Microbe Interaction]]
 	- [RAID137 - Basic Human Structure and Development]()
 
 # Concept
