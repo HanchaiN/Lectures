@@ -6,7 +6,7 @@ $$
 
 | Starting Material | Reagent | Intermediate | Product |
 | ---- | ---- | ---- | ---- |
-| [[Alkyl Group\|Alkane]] | $\ce{X2}$,<br>Light/Heat | [[Carbon Radical]] | ($3^{\circ}$)-[[Halo Group\|Halide]] |
+| [[Alkyl Group\|Alkane]] | $\ce{X2}$,<br>Light/Heat | [[Carbon Radical]] | ($3\degree$)-[[Halo Group\|Halide]] |
 | [[Alkyl Group\|Alkane]] | NBS,<br>Light/Heat | [[Carbon Radical]] | Benzylic-/Allylic-[[Halo Group\|Halide]] |
 
 - Reagent
@@ -23,7 +23,7 @@ $$
 		3. $\ce{R. + X. -> R-X}$
 - [[Alkyl Group|Alkane]] Testing: Discoloration of $\ce{X2}$ in bright condition
 - [[Carbon Radical]] Attract [[Halo Group]] → Prefer Tertiary Halides
-- $1^{\circ}:2^{\circ}:3^{\circ}$ Ratio per Homotopic Hydrogen
+- $1\degree:2\degree:3\degree$ Ratio per Homotopic Hydrogen
 	- $\ce{F.}\to1:1:1$
 		- Low Selectivity
 	- $\ce{Cl.}\to1:3.8:5.0$
