@@ -78,7 +78,9 @@
 		- [[01 - Protein Structure and Concept of Bio-catalysis and Enzyme Kinetics]]
 		- [[02 - Overview of DNA Structure, Gene Structure and Organization]]
 	- [RAID136 - Basic Medical Microbiology]()
+		- [[01 - Introduction to Infectious Diseases]]
 		- [[02 - Host-Microbe Interaction]]
+		- [[03 - Structure, Growth and Metabolism of Bacteria]]
 	- [RAID137 - Basic Human Structure and Development]()
 
 # Concept
