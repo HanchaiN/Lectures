@@ -62,7 +62,7 @@
       * Note: $\ce{-N2+}$ is weak electrophile, require activated aromatic
       * Note: "para-" > "ortho-"
   * Sec-amines: $\ce{R2-NH ->\[N+O\] R2-N+H-N=O-> R2-N-N=O}$
-  * Tert-amines: $\ce{R2-N-R ->\[N+O\]\[AcOH,NaOAc,pH\approx4.5\] R2-N-N=O + H-CO-R}$
+  * Tert-amines: $\ce{R2-N-R ->\[N+O\]\[AcOH,NaOAc,\pu{pH}\approx\pu{4.5}\] R2-N-N=O + H-CO-R}$
 * Preparation of Amines (Reduction Reaction)
   * Reduction of Nitrobenzene: $\ce{Ar-NO2 ->\[\\hat{h}\] Ar-NH2}$
     * $\ce{H2/Ni}$

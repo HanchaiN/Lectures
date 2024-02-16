@@ -6,7 +6,7 @@ $$
 
 |Starting Material|Reagent|Intermediate|Product|
 |-----------------|-------|------------|-------|
-|[Alkane](../../Functional%20Group/Alkyl%20Group.md)|$\ce{X2}$,<br>Light/Heat|[Carbon Radical](../Reaction%20Component/Carbon%20Radical.md)|($3^{\circ}$)-[Halide](../../Functional%20Group/Halo%20Group.md)|
+|[Alkane](../../Functional%20Group/Alkyl%20Group.md)|$\ce{X2}$,<br>Light/Heat|[Carbon Radical](../Reaction%20Component/Carbon%20Radical.md)|($3\degree$)-[Halide](../../Functional%20Group/Halo%20Group.md)|
 |[Alkane](../../Functional%20Group/Alkyl%20Group.md)|NBS,<br>Light/Heat|[Carbon Radical](../Reaction%20Component/Carbon%20Radical.md)|Benzylic-/Allylic-[Halide](../../Functional%20Group/Halo%20Group.md)|
 
 * Reagent
@@ -23,7 +23,7 @@ $$
      1. $\ce{R. + X. -> R-X}$
 * [Alkane](../../Functional%20Group/Alkyl%20Group.md) Testing: Discoloration of $\ce{X2}$ in bright condition
 * [Carbon Radical](../Reaction%20Component/Carbon%20Radical.md) Attract [Halo Group](../../Functional%20Group/Halo%20Group.md) → Prefer Tertiary Halides
-* $1^{\circ}:2^{\circ}:3^{\circ}$ Ratio per Homotopic Hydrogen
+* $1\degree:2\degree:3\degree$ Ratio per Homotopic Hydrogen
   * $\ce{F.}\to1:1:1$
     * Low Selectivity
   * $\ce{Cl.}\to1:3.8:5.0$

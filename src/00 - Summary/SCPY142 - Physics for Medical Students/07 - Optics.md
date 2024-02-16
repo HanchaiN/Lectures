@@ -8,7 +8,7 @@
     * $n=\frac{c}{v}$
       * $c=\pu{3\times10^{8} m\*s^{-1}}$: speed of light in vacuum
       * $v$: speed of light in medium (phase velocity; can be more than $c$)
-    * Critical angle: $n\_{i}\sin\theta\_{c}=n\_{r}\sin\pu{90 \textdegree}$
+    * Critical angle: $n\_{i}\sin\theta\_{c}=n\_{r}\sin\pu{90 \degree}$
       * If $\theta\_{i}>\theta\_{c}$ then there's no valid $\theta\_{r}$ and hence, total internal reflection.
         * Optical Fiber
         * Diamonds (cut)

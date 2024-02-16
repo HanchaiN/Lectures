@@ -7,7 +7,7 @@ $$
 |Starting Material|Reagent|Intermediate|Product|
 |-----------------|-------|------------|-------|
 |[Alkene](../../Functional%20Group/Alkenyl%20Group.md)|$\ce{HX}$,<br>
-[Peroxide](../../Functional%20Group/Peroxy%20Group.md) or [Hydroperoxide](../../Functional%20Group/Hydroperoxy%20Group.md) or $\ce{H2O2}$<br>Heat|[Carbon Radical](../Reaction%20Component/Carbon%20Radical.md)|($1^{\circ}$)-[Halide](../../Functional%20Group/Halo%20Group.md)|
+[Peroxide](../../Functional%20Group/Peroxy%20Group.md) or [Hydroperoxide](../../Functional%20Group/Hydroperoxy%20Group.md) or $\ce{H2O2}$<br>Heat|[Carbon Radical](../Reaction%20Component/Carbon%20Radical.md)|($1\degree$)-[Halide](../../Functional%20Group/Halo%20Group.md)|
 |[Alkyne](../../Functional%20Group/Alkynyl%20Group.md)|$\ce{2HX}$,<br>
 [Peroxide](../../Functional%20Group/Peroxy%20Group.md) or [Hydroperoxide](../../Functional%20Group/Hydroperoxy%20Group.md) or $\ce{H2O2}$<br>Heat|[Carbon Radical](../Reaction%20Component/Carbon%20Radical.md)|gem-di[Halide](../../Functional%20Group/Halo%20Group.md)|
 

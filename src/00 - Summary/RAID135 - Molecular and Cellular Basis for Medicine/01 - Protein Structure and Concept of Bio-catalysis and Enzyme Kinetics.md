@@ -14,15 +14,15 @@
   * Essential / Conditionally Non-Essential / Non-Essential
   * Uncommon Amino Acids: Derivatives
 * Acid-Base: Weak polyprotic
-  * $pK\_{1}$: Carboxyl Group ($\ce{R-COOH \<=>> R-COO- + H+}$)
-  * $pK\_{2}$: Amino Group ($\ce{R-NH3+ \<\<=> R-NH2 + H+}$)
-  * $pK\_\\ce{R}$: Depends on side chain
+  * $\pu{pK\_{1}}$: Carboxyl Group ($\ce{R-COOH \<=>> R-COO- + H+}$)
+  * $\pu{pK\_{2}}$: Amino Group ($\ce{R-NH3+ \<\<=> R-NH2 + H+}$)
+  * $\pu{pK\_\\ce{R}}$: Depends on side chain
   * Neutrally Zwitterion Form (Ammonium + Carboxylate)
-  * Protonation / Deprotonation threshold: $pH = pK$
-  * Isoelectric Point $pI$: $pH$ where molecule is neutrally charged
-    * Usually, middle between two neighboring threshold ($pK$)
+  * Protonation / Deprotonation threshold: $\pu{pH} = \pu{pK}$
+  * Isoelectric Point $\pu{pI}$: $\pu{pH}$ where molecule is neutrally charged
+    * Usually, middle between two neighboring threshold ($\pu{pK}$)
 * Protein Purification
-  * Ion-exchange chromatography: require $pI - pH = \pm 1$
+  * Ion-exchange chromatography: require $\pu{pI} - \pu{pH} = \pm 1$
   * Biosensors
 
 ## Protein
@@ -41,7 +41,7 @@
       * Covalent Bonding (Peptide Bonds)
     * Secondary Structure: Regular sub-structures
       * Alpha Helix (Parallel / Anti-parallel)
-      * Beta Sheet ($\frac{11}{3}\approx3.6$ AA per revolution)
+      * Beta Sheet ($\frac{11}{3}\approx3.6$ AA per revolution; frac. 3 atoms backbone)
       * Hydrogen Bonds (Backbones)
     * Tertiary Structure: Three-dimensional Structure
       * Hydrophobic Interaction (Hydrophobic Sidechain)
@@ -65,7 +65,7 @@
 * Increase rxn rate by 14-26 order of magnitude
 * Specificity: Active Site
   * Environmental Factors
-    * Temperature, pH
+    * Temperature, $\pu{pH}$
     * ATP / AMP
     * Ionic Strength of environment
   * Substrate
@@ -73,7 +73,7 @@
 * Nomenclature
   * Oxidoreductase (Redox)
   * Transferase (transfer functional groups)
-  * Hydrolase (Hydrolysis)
+  * Hydrolase (Hydrolysis); majority
   * Lyase (Bond Cleavage, non redox, non hydrolysis)
   * Isomerase (Isomerization: usually stereoisomers)
   * Ligase (Bond with ATP cleavage)

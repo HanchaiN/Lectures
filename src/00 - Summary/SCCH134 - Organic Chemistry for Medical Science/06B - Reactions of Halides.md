@@ -16,7 +16,7 @@
     * Carbocation Intermediate → Non-Stereospecific
     * $r=k\left\[\\ce{RX}\right\]$
       * Depends on stability of $\ce{R+}$
-        * $3^{\circ}>2^{\circ}\gg1^{\circ}$
+        * $3\degree>2\degree\gg1\degree$
       * Depends on stability of $\ce{X-}$
         * Prefer protic solvent (with possible $\ce{H+}$)
     * Mechanism: Stepwise
@@ -28,7 +28,7 @@
     * Stereospecific (Inversion)
     * $r=k\left\[\\ce{RX}\right\]\\left\[\\ce{Nu-}\right\]$
       * Depends on bulkiness of $\ce{RX}$
-        * $1^{\circ}>2^{\circ}\gg3^{\circ}$
+        * $1\degree>2\degree\gg3\degree$
       * Depends on strength of $\ce{Nu-}$
     * Mechanism: Concerted
   * Competition between $\ce{S\_{N}1}$ and $\ce{S\_{N}2}$
@@ -42,7 +42,7 @@
     * Zaitsev Elimination
     * $r=k\left\[\\ce{RX}\right\]$
       * Depends on stability of $\ce{R+}$
-        * $3^{\circ}>2^{\circ}\gg1^{\circ}$
+        * $3\degree>2\degree\gg1\degree$
     * Mechanism: Stepwise
       1. $\ce{RX-RH ->\[- X-\] R+-RH}$
          * Rate Determining Step
@@ -69,7 +69,7 @@
 * Reduction: $\ce{R-X -> R-H}$
   * w/ Hydride ($\ce{Li+ AlH4-}$)
     * Substitution $\ce{S\_{N}2}$ with $\ce{H-}$
-      * $1^{\circ}>2^{\circ}\gg3^{\circ}$
+      * $1\degree>2\degree\gg3\degree$
         * Note: Primary / Secondary Alkyl Halides; Tertiary → $E\_{2}$
       * Stereospecific (Inversion)
     * $\ce{R-X + AlH4- ->\[\\text{dry} Et2O\]\[\\text{or} \text{dry} THF\] ->\[\\text{(3) equiv.} R-X\] H-R + X- + AlX3}$
