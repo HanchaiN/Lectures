@@ -128,8 +128,8 @@
   * Extension: ~ DNA Polymerase
 * DNA Repair & Autocorrection
   * DNA Damages
-    * Spontaneous reactions ←
-    * Replication Error
+    * Spontaneous reactions, Metabolic Chemicals, Replication Error
+    * Drugs, Chemicals, Radiation
   * DNA Polymerase: $1/10^{5}$ error rate (bacteria w/o proof-reading)
     * Have proof-reading: $1/10^{7}$ error rate
       * Cleave incorrect strand; replace; continue
