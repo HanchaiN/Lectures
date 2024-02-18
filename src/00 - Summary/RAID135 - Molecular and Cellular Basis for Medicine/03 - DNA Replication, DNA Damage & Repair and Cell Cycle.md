@@ -76,7 +76,7 @@
         * One of the most commonly lost / mutated ($>\pu{50 %}$ of all tumors)
     * p21
       * CDK inhibitor (CKI)
-        * Less likely to move to S phase
+        * Less likely to move to S phase (G1/S)
         * Targeted by p53
 * External Factors: Trigger Interface (from G0)
   * Growth Hormone
