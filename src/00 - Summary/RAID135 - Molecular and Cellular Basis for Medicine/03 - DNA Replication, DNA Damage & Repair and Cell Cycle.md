@@ -41,7 +41,7 @@
 
 ## Cell Cycle Control System
 
-* Checkpoints
+* Regulate w/ 3 main transition points / Checkpoints
 
 ## Reference
 
