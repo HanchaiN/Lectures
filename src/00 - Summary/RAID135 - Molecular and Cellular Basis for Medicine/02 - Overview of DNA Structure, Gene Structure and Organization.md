@@ -90,10 +90,10 @@
 
 * Cell Cycle: ~ 24 hrs.
   * Interphase
-    * Gap 1
+    * Gap / Growth 1
     * Synthesis
       * DNA Replication: 8 hrs. per 3 mil. bp.
-    * Gap 2
+    * Gap / Growth 2
   * Mitotic Phase
     * Mitosis
     * Cytokinesis
