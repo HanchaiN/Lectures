@@ -132,11 +132,12 @@ aliases:
 	- DNA Damages
 		- Spontaneous reactions, Metabolic Chemicals, Replication Error
 		- Drugs, Chemicals, Radiation
+		- Alternative base pairs (G-T, C-A) are possible (proofread required)
 	- DNA Polymerase: $1/10^{5}$ error rate (bacteria w/o proof-reading)
 		- Have proof-reading: $1/10^{7}$ error rate
 			- Cleave incorrect strand; replace; continue
-			- Only for DNA pol. w/ exclusively 5'-to-3' direction
-		- Have mismatch repair: $1/10^{9}$ error rate
+			- Only for DNA pol. w/ exclusively 5'-to-3' direction (Identifiable template)
+		- (Have mismatch repair: $1/10^{9}$ error rate
 
 ## Chromosome Regions
 
