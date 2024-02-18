@@ -158,10 +158,14 @@ aliases:
 	- DNA Double-strand break
 		- Cannot rely on complementary strand for correction
 		- Non-homologous End Joining
+			- Nuclease trim the damaged ends
 			- DNA Ligase joins the break
 			- Potential loss of DNA fragments
 		- Homologous Recombination
-			- Compare with homologous chromosome
+			- ![HR\_schematic\_diagram.svg|500](https://upload.wikimedia.org/wikipedia/commons/c/ca/HR_schematic_diagram.svg)
+			- Trim the damaged ends with nuclease
+			- Insert missing section with one strand of homologous gene / template
+			- Resynthesize the missing base pairs
 	- Somatic Mutation
 		- Damage Somatic Cells
 		- Affected Region
@@ -193,3 +197,4 @@ aliases:
 ## Reference
 
 - Handout RAID135
+- [What happens when your DNA is damaged? - Monica Menesini - YouTube](https://youtu.be/vP8-5Bhd2ag)
