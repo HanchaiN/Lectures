@@ -44,7 +44,7 @@ aliases:
 		- Separation of Homologous Chromosome (Sister Chromatids attached)
 	- Meiosis II (M2): ~Mitosis
 ## Cell Cycle Control System
-- Checkpoints
+- Regulate w/ 3 main transition points / Checkpoints
 ## Reference
 
 - Handout RAID135
