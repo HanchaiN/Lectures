@@ -43,7 +43,8 @@ aliases:
 			- Maternal / Paternal Chromosomes can independently go to either side
 		- Separation of Homologous Chromosome (Sister Chromatids attached)
 	- Meiosis II (M2): ~Mitosis
-
+## Cell Cycle Control System
+- Checkpoints
 ## Reference
 
 - Handout RAID135
