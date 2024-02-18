@@ -78,6 +78,7 @@
     * [01 - Protein Structure and Concept of Bio-catalysis and Enzyme Kinetics](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/01%20-%20Protein%20Structure%20and%20Concept%20of%20Bio-catalysis%20and%20Enzyme%20Kinetics.md)
     * [02 - Overview of DNA Structure, Gene Structure and Organization](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/02%20-%20Overview%20of%20DNA%20Structure,%20Gene%20Structure%20and%20Organization.md)
     * [03 - DNA Replication, DNA Damage & Repair and Cell Cycle](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/03%20-%20DNA%20Replication,%20DNA%20Damage%20&%20Repair%20and%20Cell%20Cycle.md)
+    * [04 - Gene Expression, Transcription, Post-transcriptional Modification](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/04%20-%20Gene%20Expression,%20Transcription,%20Post-transcriptional%20Modification.md)
   * [RAID136 - Basic Medical Microbiology]()
     * [01 - Introduction to Infectious Diseases](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/01%20-%20Introduction%20to%20Infectious%20Diseases.md)
     * [02 - Host-Microbe Interaction](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/02%20-%20Host-Microbe%20Interaction.md)
