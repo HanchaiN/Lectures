@@ -53,9 +53,9 @@ aliases:
 - Overview
 	- Initiation
 		- Regulatory Sequence (Upstream)
-			- Biding site for regulatory Proteins → Transcription Rate
+			- Binding site for regulatory Proteins → Transcription Rate
 		- Promoter (Sequence)
-			- Initiation site
+			- Initiation site (Maybe binding site for RNA Polymerase)
 			- Declare direction of transcription (identify coding strand)
 				- Consensus Sequence
 	- Elongation
@@ -80,7 +80,7 @@ aliases:
 			- GC sequence
 				- slow down RNA Pol.
 				- Forms strong loop
-			- T sequence
+			- Poly A sequence
 				- Synthesize Poly U
 		- $\rho$-dependent: GC terminator
 			- $\rho$-recognition site (rut) before terminator
@@ -88,15 +88,21 @@ aliases:
 			- Strong RNA loop → binds and stops RNA Pol
 			- RNA Pol slow down → $\rho$-protein catches up
 			- $\rho$-protein unbind RNA Pol and release RNA
-		- $\rho$-independent: T terminator
+		- $\rho$-independent: Poly A terminator
 			- Upstream RNA loop → binds and stops RNA Pol
 			- NusA binds with RNA Pol
 			- Weak U-A bond release RNA from template DNA
-- Eukaryotic (Note: Focus on RNA Pol II-based)
+	- Polycistronic mRNA: multiple proteins in one mRNA
+- Eukaryotic (Note: Focus on RNA Pol II)
 	- Initiation
 		- Regulatory Sequence (Upstream)
 			- (Pol II)
 				- GC boxes, CAAT boxes
+			- Attached by transcription factors (up to -100 kb)
+				- Enhancer Sequence + Activator (or Coactivator) Protein
+					- Mediating complex fomation → increase transcription rate
+				- Silencer Sequence + Repressor (or Corepressor) Protein
+					- Preventing complex fomation → decrease transcription rate
 		- Promoter (Sequence)
 			- Flexible Promoter
 			- Different between RNA Pols
@@ -104,9 +110,17 @@ aliases:
 				- TATAAA (TATA box; -25 bp)
 				- 2 Pyrimidine + C + A + 5 Pyrimidine
 					- Begin translation at A (+1)
+		- RNA Pol binds with transcription factor
+			- Catalyzed by Mediator
+		- RNA Pol (w/ transcription factor) phosphorylate → Activation
 	- Elongation
 	- Termination
 		- Terminator (Sequence)
+			- Polyadenylation signal sequence (Poly A)
+		- RNA is cleaved after poly A sequence (RNA Pol continues)
+		- Allosteric Model: RNA Pol II dissociate w/ DNA
+		- Torpedo Model: Exonuclease attatch overtranscripted RNA and catches up to RNA Pol II → Termination
+	- Monocistronic mRNA: one protein per mRNA
 
 ## Reference
 
