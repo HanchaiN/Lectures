@@ -47,7 +47,7 @@ aliases:
 
 - DNA → RNA
 	- RNA may reversed transcribed into DNA
-		- Some viruses (HIV)
+		- Retroviruses (e.g. HIV)
 		- Retrotransposons
 			- DNA → RNA → bind and inserted to different DNA region
 - Overview
@@ -93,7 +93,7 @@ aliases:
 			- NusA binds with RNA Pol
 			- Weak U-A bond release RNA from template DNA
 	- Polycistronic mRNA: multiple proteins in one mRNA
-- Eukaryotic (Note: Focus on RNA Pol II)
+- Eukaryotic (Note: Focus on RNA Pol II → mRNA)
 	- Initiation
 		- Regulatory Sequence (Upstream)
 			- (Pol II)
@@ -112,8 +112,12 @@ aliases:
 					- Begin translation at A (+1)
 		- RNA Pol binds with transcription factor
 			- Catalyzed by Mediator
-		- RNA Pol (w/ transcription factor) phosphorylate → Activation
+		- RNA Pol (w/ transcription factor) phosphorylate at C-terminal→ Activation
+			- If not phosphorylate → cannot perform RNA Processing
 	- Elongation
+		- RNA Pol I → Pre-rRNAs
+		- RNA Pol II → mRNA, snRNAs, siRNAs, miRNAs
+		- RNA Pol III → tRNAs, rRNAs, snRNA, small ncRNAs
 	- Termination
 		- Terminator (Sequence)
 			- Polyadenylation signal sequence (Poly A)
@@ -121,6 +125,34 @@ aliases:
 		- Allosteric Model: RNA Pol II dissociate w/ DNA
 		- Torpedo Model: Exonuclease attatch overtranscripted RNA and catches up to RNA Pol II → Termination
 	- Monocistronic mRNA: one protein per mRNA
+
+## Post-Transcriptional Regulation
+
+- RNA Processing
+	- Cleavage (Prokaryotic & Eukaryotic)
+		- tRNAs and rRNAs
+	- 5'-Capping (7-methylguanosine cap + 5'-to-5' triphosphate bridge)
+		- Assist transporting mRNA out of Nucleus
+	- 3'-polyA tailing (rare in Bacteria)
+		- Polyadenylate polymerase
+	- Splicing (rare in Bacteria)
+		- Cleavage & Joining
+		- Intron Removal of pre-mRNA → mRNA
+			- Splicesosome (for some mRNA)
+		- Intron: Can store multiple proteins in one gene sequence
+			- Constitutive Exons (Always Exon)
+			- Alternative Exons (Maybe Intron of Different Gene)
+				- Splicing Enhancer / Repressor
+				- Malfunction can cause autoimmune disease (systemic lupus erythematosus; SLE)
+	- RNA editing
+		- Cytidine deaminase (Cytosine→Uracil)
+		- Adeniosine deaminase (Adenine→Hypoxanthine)
+		- Note; Reagent is part of DNA but Product is not part of DNA → Autocorrect
+- miRNAs
+	- Binds with mRNA → Interfere with translation / Trigger mRNA degradation
+	- Deadenylation (+ Optional decapping) → Degradation via Nuclease
+- lncRNAs
+	- Regulation via binding with proteins / DNA
 
 ## Reference
 
