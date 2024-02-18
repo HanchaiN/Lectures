@@ -97,31 +97,32 @@
   * Mitotic Phase
     * Mitosis
     * Cytokinesis
-* Semi-Conservative: One Template/Parental Strand + One Synthesized Strand
-* Multiple Replication Origins
-  * Initiator proteins to weaken H-bond between template strands
-  * Result in two replication forks (Bidirectional from the origin)
-  * Human DNA Polymerase: 100bp per sec (1000 bp per sec for bacteria pol.)
-* DNA Polymerase synthesized from 5' to 3'
-  * Add dNTP and release 2 phosphates
-  * Leading Strand: Continuous Synthesis
-  * Lagging Strand: Okazaki Fragments sealed via DNA ligase
-  * Multiple subtypes
-    * (Type A) $\gamma$-DNA Pol. → Mitochondria (5' to 3' or 3' to 5')
-    * (Type B) $\delta$-DNA Pol. → Lagging Strand (and Leading Strand)
-    * (Type B) $\varepsilon$-DNA Pol. → Leading Strand
-    * The rest → DNA Repairs
-* Primer required (RNA Primase) as starting point of polymerization
-  * RNA Primer removed (exonuclease) and refilled with DNA (DNA Pol.)
-  * Higher Error Rate → Temporary
-* Helicase: Unwind helical double-strand DNA
-  * Motor protein move along phosphodiester backbone
-  * Single-strand DNA-binding protein avoid closing before DNA Pol.
-* DNA Topoisomerase: Untie knots on DNA strands
-  * Knots caused by helicase excessively twisting DNA
-  * Type I: Cut one Strand in helical turn and rejoin without turn
-  * Type II: Cut DNA strands and let another strand pass through the cut
-    * Not required in DNA Replication
+* DNA Replication
+  * Semi-Conservative: One Template/Parental Strand + One Synthesized Strand
+  * Multiple Replication Origins
+    * Initiator proteins to weaken H-bond between template strands
+    * Result in two replication forks (Bidirectional from the origin)
+    * Human DNA Polymerase: 100bp per sec (1000 bp per sec for bacteria pol.)
+  * DNA Polymerase synthesized from 5' to 3'
+    * Add dNTP and release 2 phosphates
+    * Leading Strand: Continuous Synthesis
+    * Lagging Strand: Okazaki Fragments sealed via DNA ligase
+    * Multiple subtypes
+      * (Type A) $\gamma$-DNA Pol. → Mitochondria (5' to 3' or 3' to 5')
+      * (Type B) $\delta$-DNA Pol. → Lagging Strand (and Leading Strand)
+      * (Type B) $\varepsilon$-DNA Pol. → Leading Strand
+      * The rest → DNA Repairs
+  * Primer required (RNA Primase) as starting point of polymerization
+    * RNA Primer removed (exonuclease) and refilled with DNA (DNA Pol.)
+    * Higher Error Rate → Temporary
+  * Helicase: Unwind helical double-strand DNA
+    * Motor protein move along phosphodiester backbone
+    * Single-strand DNA-binding protein avoid closing before DNA Pol.
+  * DNA Topoisomerase: Untie knots on DNA strands
+    * Knots caused by helicase excessively twisting DNA
+    * Type I: Cut one Strand in helical turn and rejoin without turn
+    * Type II: Cut DNA strands and let another strand pass through the cut
+      * Not required in DNA Replication
 * Polymerase Chain Reaction (PCR): Artificial DNA Replication
   * Denature: ~ Helicase + Single-strand DNA-binding Protein + DNA Topoisomerase I
   * Annealing: ~ DNA Primase
@@ -135,7 +136,38 @@
     * Have proof-reading: $1/10^{7}$ error rate
       * Cleave incorrect strand; replace; continue
       * Only for DNA pol. w/ exclusively 5'-to-3' direction (Identifiable template)
-    * (Have mismatch repair: $1/10^{9}$ error rate
+    * Have mismatch repair: $1/10^{9}$ error rate
+  * Depurination (A,G hydrolysis; leaving backbone)
+    * Lost base pair (Lost A,G as template) / Unchanged (T,C as template)
+    * 5000 depurination per cell per day
+  * Depyrimidination (T,C hydrolysis)
+    * Similar to depurination but slower
+  * Deamination (C→T)
+    * Hydrolysis C → U ($\ce{N=C(NH2) ->\[+H2O\]\[-NH3\] N-C(=O)}$)
+    * Protection: Uracil-DNA glycosylase (Remove U) → approx. Depyrimidination
+  * DNA Repair
+    * Excision: Nuclease (specialized for each DNA damage) cut damaged nucleoside (base, backbone)
+    * Resynthesis: DNA Polymerase fills the gap
+    * Ligation: DNA Ligase seals the backbone
+  * Pyrimidine Dimer Formation
+    * Factor: UV
+    * 2 pairs of double bonded carbon → four-membered ring
+    * Most common: Thymine dimer
+  * DNA Double-strand break
+    * Cannot rely on complementary strand for correction
+    * Non-homologous End Joining
+      * DNA Ligase joins the break
+      * Potential loss of DNA fragments
+    * Homologous Recombination
+      * Compare with homologous chromosome
+  * Somatic Mutation
+    * Damage Somatic Cells
+    * Affected Region
+    * Normal offspring gamete
+  * Germline Mutation
+    * Damage Parental Gametes
+    * Affect entire organism
+    * Some offspring gamete are mutated
 
 ## Chromosome Regions
 
