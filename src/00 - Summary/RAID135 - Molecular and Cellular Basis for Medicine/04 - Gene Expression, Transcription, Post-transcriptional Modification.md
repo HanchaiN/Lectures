@@ -45,18 +45,63 @@
     * Some viruses (HIV)
     * Retrotransposons
       * DNA → RNA → bind and inserted to different DNA region
-* Initiation
-  * Regulatory Sequence (Upstream)
-    * Biding site for regulatory Proteins → Transcription Rate
-  * Promoter
-    * Binding site for RNA Polymerase
-    * Declare direction of transcription (identify coding strand)
-* Elongation
-  * RNA Polymerase → 5'-to-3' of RNA
+* Overview
+  * Initiation
+    * Regulatory Sequence (Upstream)
+      * Biding site for regulatory Proteins → Transcription Rate
+    * Promoter (Sequence)
+      * Initiation site
+      * Declare direction of transcription (identify coding strand)
+        * Consensus Sequence
+  * Elongation
+    * 5'-to-3' of RNA
     * 3'-to-5' of template strand / non–coding strand / antisense strand
     * similar to 5'-to-3' of non-template strand / coding strand / sense strand
-* Termination
-  * Terminator
+    * RNA Polymerase
+      * Also acts as topoisomerase and helicase
+  * Termination
+    * Terminator (Sequence)
+* Prokaryotic
+  * Initiation
+    * Promoter (Sequence)
+      * Note: Showing Coding Strand
+      * Prokaryotic Housekeeping: TTGACA;TATAAT
+      * Prokaryotic Stress Response: TTGACA;TATAAT
+    * RNA Polymerase + $\sigma$ factor: Holoenzyme → read from Binding site to Promoter
+      * $\sigma$ factor is released at promoter → begin transcription
+  * Elongation
+  * Termination
+    * Terminator (Sequence)
+      * GC sequence
+        * slow down RNA Pol.
+        * Forms strong loop
+      * T sequence
+        * Synthesize Poly U
+    * $\rho$-dependent: GC terminator
+      * $\rho$-recognition site (rut) before terminator
+      * $\rho$-protein binds to rut on RNA
+      * Strong RNA loop → binds and stops RNA Pol
+      * RNA Pol slow down → $\rho$-protein catches up
+      * $\rho$-protein unbind RNA Pol and release RNA
+    * $\rho$-independent: T terminator
+      * Upstream RNA loop → binds and stops RNA Pol
+      * NusA binds with RNA Pol
+      * Weak U-A bond release RNA from template DNA
+* Eukaryotic (Note: Focus on RNA Pol II-based)
+  * Initiation
+    * Regulatory Sequence (Upstream)
+      * (Pol II)
+        * GC boxes, CAAT boxes
+    * Promoter (Sequence)
+      * Flexible Promoter
+      * Different between RNA Pols
+      * (Pol II)
+        * TATAAA (TATA box; -25 bp)
+        * 2 Pyrimidine + C + A + 5 Pyrimidine
+          * Begin translation at A (+1)
+  * Elongation
+  * Termination
+    * Terminator (Sequence)
 
 ## Reference
 
