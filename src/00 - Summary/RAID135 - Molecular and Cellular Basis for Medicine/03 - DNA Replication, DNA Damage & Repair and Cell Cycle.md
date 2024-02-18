@@ -34,6 +34,8 @@
   * Meiosis I (M1)
     * Prophase I
       * Chromosome aligns with Homologue partner → Crossing Over
+    * Metaphase I
+      * Maternal / Paternal Chromosomes can independently go to either side
     * Separation of Homologous Chromosome (Sister Chromatids attached)
   * Meiosis II (M2): ~Mitosis
 
