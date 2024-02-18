@@ -78,6 +78,7 @@
 		- [[01 - Protein Structure and Concept of Bio-catalysis and Enzyme Kinetics]]
 		- [[02 - Overview of DNA Structure, Gene Structure and Organization]]
 		- [[03 - DNA Replication, DNA Damage & Repair and Cell Cycle]]
+		- [[04 - Gene Expression, Transcription, Post-transcriptional Modification]]
 	- [RAID136 - Basic Medical Microbiology]()
 		- [[01 - Introduction to Infectious Diseases]]
 		- [[02 - Host-Microbe Interaction]]
