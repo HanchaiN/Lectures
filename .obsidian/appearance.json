@@ -4,8 +4,11 @@
   "cssTheme": "Catppuccin",
   "nativeMenus": false,
   "translucency": true,
-  "monospaceFontFamily": "SF Mono,Monaspace Neon Var,Monaco,Source Code Pro",
+  "monospaceFontFamily": "SF Mono,Monaspace Neon,Monaco,Source Code Pro",
   "textFontFamily": "SF Pro Text,Inter",
   "interfaceFontFamily": "SF Pro Display,Inter",
-  "theme": "system"
+  "theme": "system",
+  "enabledCssSnippets": [
+    "image-background"
+  ]
 }
