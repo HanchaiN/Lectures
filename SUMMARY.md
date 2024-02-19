@@ -79,6 +79,7 @@
 		- [[02 - Overview of DNA Structure, Gene Structure and Organization]]
 		- [[03 - DNA Replication, DNA Damage & Repair and Cell Cycle]]
 		- [[04 - Gene Expression, Transcription, Post-transcriptional Modification]]
+		- [[05 - Regulation of Translation and Protein Synthesis]]
 	- [RAID136 - Basic Medical Microbiology]()
 		- [[01 - Introduction to Infectious Diseases]]
 		- [[02 - Host-Microbe Interaction]]
