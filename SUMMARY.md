@@ -80,6 +80,7 @@
 		- [[03 - DNA Replication, DNA Damage & Repair and Cell Cycle]]
 		- [[04 - Gene Expression, Transcription, Post-transcriptional Modification]]
 		- [[05 - Regulation of Translation and Protein Synthesis]]
+		- [[06 - Post Translational Processes, Protein Folding]]
 	- [RAID136 - Basic Medical Microbiology]()
 		- [[01 - Introduction to Infectious Diseases]]
 		- [[02 - Host-Microbe Interaction]]
