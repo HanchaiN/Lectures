@@ -84,9 +84,19 @@ aliases:
 	- Show the projection
 	- Usually Coronal or Sagittal Plane
 - CT Scan
+	- Imaging Technique to get sectional plane from projection
+		- Usually X-Ray based
 	- Show the sectional plane
 	- Usually Transverse Plane (Other plane is developed)
 - MRI
+	- Magnetic Field
+	- Show the sectional plane
+	- Usually Transverse Plane
+- PET
+	- Radioactive Tracer
+	- Utilize with CT
+- Ultrasound
+	- Audio
 
 ## Reference
 
