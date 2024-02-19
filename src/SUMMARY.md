@@ -85,6 +85,7 @@
     * [03 - Structure, Growth and Metabolism of Bacteria](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/03%20-%20Structure,%20Growth%20and%20Metabolism%20of%20Bacteria.md)
   * [RAID137 - Basic Human Structure and Development]()
     * [03 - See Inside the Body](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/03%20-%20See%20Inside%20the%20Body.md)
+    * [04 - Internal Regulation of Human Body](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/04%20-%20Internal%20Regulation%20of%20Human%20Body.md)
 
 # Concept
 
