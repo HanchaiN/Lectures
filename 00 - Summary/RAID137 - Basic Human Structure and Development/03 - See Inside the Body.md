@@ -15,6 +15,7 @@ aliases:
 		- Upper limbs held to each side
 		- Palms of hands face forward
 	- Supine: Face-up orientation
+		- Feet towards viewer (Patient's Left = Image's Right)
 	- Prone: Face-down orientation
 - Regional Terms
 	- Upper limb
@@ -76,6 +77,16 @@ aliases:
 				- Pericardium: Pericardial Cavity's serous membrane
 				- Peritoneum: Abdominal Cavity's serous membrane
 		- Allow for changes in size & shapes
+
+## Imaging
+
+- X-Ray
+	- Show the projection
+	- Usually Coronal or Sagittal Plane
+- CT Scan
+	- Show the sectional plane
+	- Usually Transverse Plane (Other plane is developed)
+- MRI
 
 ## Reference
 
