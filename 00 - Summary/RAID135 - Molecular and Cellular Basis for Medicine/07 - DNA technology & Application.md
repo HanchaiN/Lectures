@@ -5,11 +5,14 @@ aliases:
 
 # DNA technology & Application
 
+## Recombinant DNA
+
 - Cloning
 	- Cut w/ Restriction enzyme
 		- Cut original portion
 		- Cut gap in target DNA vector
 			- Usually bacterial plasmid
+			- Cut one / Cut Begin & End
 		- Product
 			- Blunt Ends
 			- Sticking Ends → Original portion should be compatible
@@ -33,7 +36,6 @@ aliases:
 			- Recognize invader's sequence
 				- Bacterial gene includes Cas genes and Repeat-Spacer region
 					- Repeat-Spacer → Guide crRNA
-					- Spacer matches invader's sequence
 					- Cas genes → Cas Complex
 					- Cas Complex + crRNA → Protospacer
 			- Activate destruction system
@@ -49,7 +51,8 @@ aliases:
 		- DNA template (Double-stranded DNA; dsDNA)
 		- DNA Polymerase
 		- Deoxy Nucleotide triphosphate (dNTP)
-		- DNA Primers
+		- DNA Primers → Specify only part of template
+			- No telomere-like loss
 	- Temperature Cycle: Double DNA amount
 		- Denaturation: dsDNA → ssDNA
 			- High temp.
@@ -70,6 +73,15 @@ aliases:
 		- Different rate depends on Permeability & Charge
 - Application
 	- Biologically-Synthesized Insulin from bacteria
+
+## DNA Sequencing
+
+- Sanger Method
+	- dideoxynucleotide (ddNTP) → lost 3' $\ce{OH}$ → Cannot further polymerize
+	- PCR → Products with different termination point → Gel Electrophoresis
+	- ![Radioactive_Fluorescent_Seq.jpg|250](https://upload.wikimedia.org/wikipedia/commons/3/3d/Radioactive_Fluorescent_Seq.jpg)
+- Next-generation Sequencing
+- Reat-time Sequencing
 
 ## Reference
 
