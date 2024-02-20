@@ -52,6 +52,7 @@
       * Genetic Efficiency (Require less polypeptide → less genes)
       * Completion of Catalytic Sites
       * Cooperativity (Activate / Inhibit)
+      * Non-covalent bond
 * Examples
   * Collagen: Triple Helix: Helical structure from 3 polypeptides
   * Hemoglobin: 2 $\alpha$-like globin ($\alpha$, $\zeta$) + 2 $\beta$-like globin ($\varepsilon$, $\gamma$, $\delta$, $\beta$)
@@ -72,11 +73,11 @@
     * Stereospecificity
 * Nomenclature
   * Oxidoreductase (Redox)
-  * Transferase (transfer functional groups)
+  * Transferase (Transfer Functional Groups)
   * Hydrolase (Hydrolysis); majority
   * Lyase (Bond Cleavage, non redox, non hydrolysis)
   * Isomerase (Isomerization: usually stereoisomers)
-  * Ligase (Bond with ATP cleavage)
+  * Ligase (Bond w/ ATP cleavage)
 * Mostly Protein
   * RNA → Ribozyme
   * Cofactors: Components essential to enzyme activity
@@ -126,6 +127,9 @@
       * sigmoid (not hyperbolic) relationship
       * low $\ce{O2}$ conc. → Tense-state → Less $K\_{m}$ (and potentially $r\_\\text{max}$)
       * high $\ce{O2}$ conc. → Relaxed-state → More $K\_{m}$
+      * Methemoglobinemia: one non-functional heme group → quicker R state → left-shifted curve
+        * Question: default is R but shifted to S if unbonded?
+        * Question: non-functional → shift other to R?
 
 ## Reference
 
