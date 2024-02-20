@@ -6,6 +6,7 @@ src = "src"
 title = "Lectures"
 
 [build]
+create-missing = true
 extra-watch-dirs = ["scripts"]
 
 [preprocessor.obsidian]
@@ -43,13 +44,13 @@ additional-js = [
 ]
 no-section-label = true
 git-repository-url = "https://github.com/HanchaiN/Lectures.git"
-site-url = "https://hanchain.github.io/Lectures/"
+site-url = "https://hanchain.github.io/Lectures/
 
 [output.html.print]
 enable = true
 
 [output.html.fold]
-enable = false
+enable = true
 
 [output.html.search]
 enable = true
