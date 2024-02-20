@@ -80,8 +80,29 @@ aliases:
 	- dideoxynucleotide (ddNTP) → lost 3' $\ce{OH}$ → Cannot further polymerize
 	- PCR → Products with different termination point → Gel Electrophoresis
 	- ![Radioactive_Fluorescent_Seq.jpg|250](https://upload.wikimedia.org/wikipedia/commons/3/3d/Radioactive_Fluorescent_Seq.jpg)
+	- Can only read one sequence, many sequences cannot be separated'
 - Next-generation Sequencing
-- Reat-time Sequencing
+	- Sequencing by Synthesis
+		- Faster but only short sequence
+		- Parallel Sequencing
+- Real-time Sequencing
+	- Single Molecule Sequencing
+		- ssDNA + Enzyme → Polymerization
+		- NTP with fluorescent → Sequence of fluorescent signal
+			- fluorescent is triggered when NTP Polymerized
+	- Nanopore Sequencing
+		- ssDNA through pore channel
+			- Interrupt electric current through channel
+			- Measurable current change → DNA Sequence
+- Applications
+	- Diagnosis
+	- Prevention
+	- Transmission Tracking
+	- Epigenetic
+	- Transcriptomic (RNA)
+	- Genomic (DNA)
+		- Metagenomic
+		- Targeted
 
 ## Reference
 
