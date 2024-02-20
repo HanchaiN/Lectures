@@ -60,7 +60,14 @@ aliases:
 	- Amplification → Ready for measurement
 		- Visible in Amplicon: Gel Electrophoresis
 	- Alternative
+		- Quantitative Real-time PCR
+			- Check number of cycle to reach threshold amount ($C_{t}$)
 		- Reverse transcriptase PCR
+			- mRNA → cDNA → normal PCR
+- Gel Electrophoresis
+	- Separate by size / net charge
+	- Move through gel via electric potential
+		- Different rate depends on Permeability & Charge
 - Application
 	- Biologically-Synthesized Insulin from bacteria
 
