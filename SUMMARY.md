@@ -81,6 +81,7 @@
 		- [[04 - Gene Expression, Transcription, Post-transcriptional Modification]]
 		- [[05 - Regulation of Translation and Protein Synthesis]]
 		- [[06 - Post Translational Processes, Protein Folding]]
+		- [[07 - DNA technology & Application]]
 	- [RAID136 - Basic Medical Microbiology]()
 		- [[01 - Introduction to Infectious Diseases]]
 		- [[02 - Host-Microbe Interaction]]
