@@ -44,6 +44,11 @@ aliases:
 				- Gene disruption
 				- Gene correction
 	- Lentivirus System
+- Polymerase Chain Reaction (PCR)
+	- DNA template
+	- DNA Polymerase
+	- DNA Primers
+	- Deoxy Nucleotide triphosphate (dNTP)
 - Application
 	- Biologically-Synthesized Insulin from bacteria
 
