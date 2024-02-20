@@ -57,6 +57,7 @@ aliases:
 			- Genetic Efficiency (Require less polypeptide → less genes)
 			- Completion of Catalytic Sites
 			- Cooperativity (Activate / Inhibit)
+			- Non-covalent bond
 - Examples
 	- Collagen: Triple Helix: Helical structure from 3 polypeptides
 	- Hemoglobin: 2 $\alpha$-like globin ($\alpha$, $\zeta$) + 2 $\beta$-like globin ($\varepsilon$, $\gamma$, $\delta$, $\beta$)
@@ -77,11 +78,11 @@ aliases:
 		- Stereospecificity
 - Nomenclature
 	- Oxidoreductase (Redox)
-	- Transferase (transfer functional groups)
+	- Transferase (Transfer Functional Groups)
 	- Hydrolase (Hydrolysis); majority
 	- Lyase (Bond Cleavage, non redox, non hydrolysis)
 	- Isomerase (Isomerization: usually stereoisomers)
-	- Ligase (Bond with ATP cleavage)
+	- Ligase (Bond w/ ATP cleavage)
 - Mostly Protein
 	- RNA → Ribozyme
 	- Cofactors: Components essential to enzyme activity
