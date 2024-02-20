@@ -44,7 +44,7 @@ additional-js = [
 ]
 no-section-label = true
 git-repository-url = "https://github.com/HanchaiN/Lectures.git"
-site-url = "https://hanchain.github.io/Lectures/
+site-url = "https://hanchain.github.io/Lectures/"
 
 [output.html.print]
 enable = true
