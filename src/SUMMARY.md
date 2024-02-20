@@ -80,7 +80,7 @@
     * [03 - DNA Replication, DNA Damage & Repair and Cell Cycle](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/03%20-%20DNA%20Replication,%20DNA%20Damage%20&%20Repair%20and%20Cell%20Cycle.md)
     * [04 - Gene Expression, Transcription, Post-transcriptional Modification](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/04%20-%20Gene%20Expression,%20Transcription,%20Post-transcriptional%20Modification.md)
     * [05 - Regulation of Translation and Protein Synthesis](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/05%20-%20Regulation%20of%20Translation%20and%20Protein%20Synthesis.md)
-    * [06 - Post Translational Processes, Protein Folding](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/06%20-%20Post%20Translational%20Processes,%20Protein%20Folding.md)
+    * [06 - Post Translational Processes and Protein Folding](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/06%20-%20Post%20Translational%20Processes%20and%20Protein%20Folding.md)
     * [07 - DNA technology & Application](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/07%20-%20DNA%20technology%20&%20Application.md)
   * [RAID136 - Basic Medical Microbiology]()
     * [01 - Introduction to Infectious Diseases](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/01%20-%20Introduction%20to%20Infectious%20Diseases.md)

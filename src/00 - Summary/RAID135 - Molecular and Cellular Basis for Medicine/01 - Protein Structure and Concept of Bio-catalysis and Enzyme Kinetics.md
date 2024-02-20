@@ -127,9 +127,9 @@
       * sigmoid (not hyperbolic) relationship
       * low $\ce{O2}$ conc. → Tense-state → Less $K\_{m}$ (and potentially $r\_\\text{max}$)
       * high $\ce{O2}$ conc. → Relaxed-state → More $K\_{m}$
-      * Methemoglobinemia: one non-functional heme group → quicker R state → left-shifted curve
-        * Question: default is R but shifted to S if unbonded?
-        * Question: non-functional → shift other to R?
+      * Methemoglobinemia: one non-functional heme group
+        * $\ce{Fe^{3+}}$-heme → Oxidized-like state → Induce R state
+        * Left-shifted curve
 
 ## Reference
 

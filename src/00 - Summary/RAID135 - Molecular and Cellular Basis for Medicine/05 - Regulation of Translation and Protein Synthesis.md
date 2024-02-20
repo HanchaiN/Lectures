@@ -76,7 +76,7 @@
     * Peptidyl Site (P)
     * Exit Site (E)
       * Uncharged tRNA
-* Initiation
+* Initiation (Initiation Factor; IF)
   * IF1, IF3 binds with 30S Rb Subunit at A,E site resp.
     * Block 50S Subunit
   * mRNA binds with 30S Rb subunit
@@ -106,7 +106,7 @@
         * Kozak's Rule (Eukaryote)
           * A/G at -3; G at +4 → eIF5 release IFs → 60S + 40S
           * Start codon: AUG
-* Elongation
+* Elongation (Elongation Factor; EF)
   * 15-20 AA per sec (Prokaryote); 2-6 AA per sec (Eukaryote)
   * Aminoacyl-tRNA binds with A site
     * Hydrolysis of GTP (EF-Tu / eEF1$\alpha$) → Strengthen the binding
@@ -123,8 +123,8 @@
     * move peptidyl tRNA to P site
     * leave A site empty
   * Uncharged tRNA leaves E site
-* Termination
-  * Stop codon binds with Release factor (tRNA-like protein)
+* Termination (Releasing Factor; RF)
+  * Stop codon binds with Release Factor (tRNA-like protein)
     * Prokaryote
       * RF1 → UAA & UAG
       * RF2 → UAA & UGA
