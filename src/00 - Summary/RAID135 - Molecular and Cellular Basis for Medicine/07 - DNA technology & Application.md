@@ -40,10 +40,22 @@
         * Gene correction
   * Lentivirus System
 * Polymerase Chain Reaction (PCR)
-  * DNA template
-  * DNA Polymerase
-  * DNA Primers
-  * Deoxy Nucleotide triphosphate (dNTP)
+  * Materials
+    * DNA template (Double-stranded DNA; dsDNA)
+    * DNA Polymerase
+    * Deoxy Nucleotide triphosphate (dNTP)
+    * DNA Primers
+  * Temperature Cycle: Double DNA amount
+    * Denaturation: dsDNA → ssDNA
+      * High temp.
+    * Annealing: ssDNA + Primer
+      * Low temp.
+    * Extension: DNA Pol.
+      * Warm temp.
+  * Amplification → Ready for measurement
+    * Visible in Amplicon: Gel Electrophoresis
+  * Alternative
+    * Reverse transcriptase PCR
 * Application
   * Biologically-Synthesized Insulin from bacteria
 
