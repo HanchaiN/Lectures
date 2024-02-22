@@ -1,4 +1,5 @@
-# SCCH134 - Organic Chemistry for Medical Science
+#
+
 
 - [[SCCH134 - Organic Chemistry for Medical Science]]
 	- [[01 - Structure and Bonding]]

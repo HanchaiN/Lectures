@@ -1,4 +1,5 @@
-# SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science
+#
+
 
 - [[SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science]]
 	- [[01 - Limit and Continuity]]
