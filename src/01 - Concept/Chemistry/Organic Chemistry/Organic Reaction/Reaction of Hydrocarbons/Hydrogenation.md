@@ -14,8 +14,8 @@ $$
 
 * Mechanism: [Syn](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md#syn)-[Addition](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md)
   * Ring transition state
-  1. $\ce{H-H + 2 M \<-> 2 H-M}$
-  1. $\ce{C=C + 2 H-M -> CH-CH}$
+    1. $\ce{H-H + 2 M \<-> 2 H-M}$
+    1. $\ce{C=C + 2 H-M -> CH-CH}$
 
 ## Reference
 

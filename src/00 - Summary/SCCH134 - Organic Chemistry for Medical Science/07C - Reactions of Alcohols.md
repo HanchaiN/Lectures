@@ -29,11 +29,11 @@
   * Esterification: $\ce{R-OH + HO-CO-R \<=>\[H+,\Delta\] R-O-CO-R}$
     * Note: $\ce{R} \mapsto \ce{R},\ce{Ar}$
     * Note: Use $\ce{O}$ from alcohol
-    * Mechanism
-      1. $\ce{R-CO-OH \<=>\[H+\] R-C(=O^{+}H)-OH \<-> R-C^{+}(OH)2}$
-      1. $\ce{R-C^{+}(OH)2 \<=>\[R-OH\] R-C(OH)2-O^{+}HR \<=> R-C(OH)(O^{+}H2)-OR}$
-      1. $\ce{R-C(OH)(O^{+}H2)-OR \<=> R-C(=O^{+}H)-OR + H2O}$
-      1. $\ce{R-C(=O^{+}H)-OR \<=> R-C(=O)-OR + H+}$
+    * Mechanism  
+      1. $\ce{R-CO-OH \<=>\[H+\] R-C(=O^{+}H)-OH \<-> R-C^{+}(OH)2}$  
+      2. $\ce{R-C^{+}(OH)2 \<=>\[R-OH\] R-C(OH)2-O^{+}HR \<=> R-C(OH)(O^{+}H2)-OR}$  
+      3. $\ce{R-C(OH)(O^{+}H2)-OR \<=> R-C(=O^{+}H)-OR + H2O}$  
+      4. $\ce{R-C(=O^{+}H)-OR \<=> R-C(=O)-OR + H+}$
     * Reagent: Carboxylic Acid
       * Alt. Acid Halide
       * Alt. Acid Anhydride
@@ -46,9 +46,9 @@
     * Stability of Carbocation → Prefer tertiary alcohol
     * Lucas Test: $\ce{ROH ->\[ZnCl2,\text{conc.}HCl\] RCl}$
       * $\ce{RCl}$ have less solubility in water → tertiary alcohol is more turbid
-    * Mechanism
-      1. $\ce{R-OH ->\[H+\] R-OH2+}$
-      1. $\ce{S\_{N}1}$: $\ce{R-OH2+ -> R+ ->\[X-\] R-X}$
+    * Mechanism  
+      1. $\ce{R-OH ->\[H+\] R-OH2+}$  
+      2. $\ce{S\_{N}1}$: $\ce{R-OH2+ -> R+ ->\[X-\] R-X}$
     * Reagent: $\ce{HX}$
       * Alt. $\ce{SOCl2}$ in Alkali (Pyridine)
         * $\ce{R-OH ->\[+ SOCl2\]\[+ H+\] R-O^{+}HSCl2OH ->\[- Cl^{-}\]\[- H^{+}\] R-OSClO}$

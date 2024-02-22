@@ -24,15 +24,15 @@
 * Elimination Reaction: $\ce{C(Y)-C(Z) -> C=C + Y-Z}$
   * By Stereochemistry: Syn- / Anti- / Non-stereospecific
   * Zaitsev's Rule: Prefer double bond with more substituents (experimental)
-    * Stability of Alkene (Most stable to Least stable)
-      1. Tetrasubstituted Alkene $\ce{R2C=CR2}$
-      1. Trisubstituted Alkene $\ce{R2C=CHR}$
-      1. Disubstituted Alkene (Have multiple forms; May compare steric)
-         * trans-Disubstituted Alkene $\ce{RHC=CHR}$
-         * cis-Disubstituted Alkene $\ce{RHC=CHR}$
-         * 1,2-Disubstituted Alkene $\ce{R2C=CH2}$
-      1. Monosubstituted Alkene $\ce{RHC=CH2}$
-      1. Ethylene $\ce{H2C=CH2}$
+    * Stability of Alkene (Most stable to Least stable)  
+      1. Tetrasubstituted Alkene $\ce{R2C=CR2}$  
+      2. Trisubstituted Alkene $\ce{R2C=CHR}$  
+      3. Disubstituted Alkene (Have multiple forms; May compare steric)  
+      - trans-Disubstituted Alkene $\ce{RHC=CHR}$  
+      - cis-Disubstituted Alkene $\ce{RHC=CHR}$  
+      - 1,2-Disubstituted Alkene $\ce{R2C=CH2}$  
+      4. Monosubstituted Alkene $\ce{RHC=CH2}$  
+      5. Ethylene $\ce{H2C=CH2}$
     * Zaitsev Elimination
     * Hofmann Elimination: Opposite (Steric Interaction)
       * Apply when Large Leaving Group and/or Alkali (Attacker)
@@ -52,12 +52,12 @@
   * Carbon radical and Carbanion is too reactive
     * Note: can still resonance to other locations
 * Oxidation-Reduction Reaction
-  * Oxidation Number (for $\ce{C}$)
-    1. Assume neutral (initial → 0)
-    1. Count bond with following (multiple bond count multiple times)
-       * Carbons → No Change
-       * Electropositive Atoms ($\ce{H}$, $\ce{M}$: Metals) → +1
-       * Electronegative atom ($\ce{O}$, $\ce{N}$, $\ce{S}$, $\ce{X}$: Halides) → -1
+  * Oxidation Number (for $\ce{C}$)  
+    1. Assume neutral (initial → 0)  
+    2. Count bond with following (multiple bond count multiple times)  
+    - Carbons → No Change  
+    - Electropositive Atoms ($\ce{H}$, $\ce{M}$: Metals) → +1  
+    - Electronegative atom ($\ce{O}$, $\ce{N}$, $\ce{S}$, $\ce{X}$: Halides) → -1
   * Oxidation ($\hat{o}$): Less Oxidation Number: More Electronegative Atoms
   * Reduction: More Oxidation Number: More Electropositive Atoms
 * Major product
