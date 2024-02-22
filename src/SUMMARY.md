@@ -300,8 +300,6 @@
   * [Schrodinger's Wave Equation](01%20-%20Concept/Physics/Quantum%20Mechanics/Schrodinger's%20Wave%20Equation.md)
   * [Pauli's Exclusion Principle](01%20-%20Concept/Physics/Quantum%20Mechanics/Pauli's%20Exclusion%20Principle.md)
 
----
-
 # Appendices
 
 [How to type a lecture note](Extra/How%20to%20type%20a%20lecture%20note.md)
