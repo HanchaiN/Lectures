@@ -31,8 +31,8 @@ jobs:
           path: |
             ~/.cargo
             target/
-          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
-          restore-keys: ${{ runner.os }}-cargo-
+          key: export-${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+          restore-keys: export-${{ runner.os }}-cargo-
       - name: Install latest obsidian-export
         uses: actions-rs/cargo@v1
         with:
