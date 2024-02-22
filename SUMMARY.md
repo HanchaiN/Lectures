@@ -1,6 +1,6 @@
 # HanchaiN's Lecture
 
-[[README]]
+[[README|Welcome]]
 
 # Lectures
 
@@ -290,6 +290,8 @@
     - [[Wavefunction]]
     - [[Schrodinger's Wave Equation]]
     - [[Pauli's Exclusion Principle]]
+
+---
 
 # Appendices
 
