@@ -1,12 +1,16 @@
+# HanchaiN's Lecture
+
 [[README]]
 
-# Semester 1/2566
+
+
+## Semester 1/2566
 
 - [[SCCH105 - General Chemistry]]
   - [[01 - Atomic Structure and Atomic Theory]]
     - [[01A - Introduction to Quantum Mechanics]]
   - [[02 - Chemical Bonding]]
-  - [03 - The Properties of Matters and Solutions]()
+  - [[03 - The Properties of Matters and Solutions]]
   - [[00 - Summary/SCCH105 - General Chemistry/04 - Thermodynamics|04 - Thermodynamics]]
   - [[05 - Chemical Kinetics]]
   - [[06 - Chemical Equilibrium]]
@@ -22,14 +26,14 @@
   - [[02 - Motion of Rigid Body]]
   - [[03 - Elasticity]]
   - [[00 - Summary/SCPY142 - Physics for Medical Students/04 - Thermodynamics|04 - Thermodynamics]]
-  - [05 - Fluids]()
+  - [[05 - Fluids]]
   - [[06 - Wave and Sound]]
   - [[07 - Optics]]
   - [[08 - Electric Force and Field]]
   - [[09 - Magnetism and Magnetic Field]]
   - [[10 - Modern Physics]]
 
-# Semester 2/2566
+## Semester 2/2566
 
 - [[SCCH134 - Organic Chemistry for Medical Science]]
   - [[01 - Structure and Bonding]]
@@ -93,12 +97,12 @@
 
 ---
 
-# Concept
+## Concept
 
-- [Chemistry]()
-  - [Physical Chemistry]()
-    - [Chemical Physics]()
-      - [Atomic Theory]()
+- [[Chemistry]]
+  - [[Physical Chemistry]]
+    - [[Chemical Physics]]
+      - [[Atomic Theory]]
         - [[Atomic Model]]
           - [[Bohr Model]]
           - [[Electron Cloud Model]]
@@ -109,8 +113,8 @@
           - [[Ionization Energy]]
           - [[Electron Affinity]]
           - [[Electronegativity]]
-      - [Molecular Theory]()
-        - [Chemical Bonding]()
+      - [[Molecular Theory]]
+        - [[Chemical Bonding]]
           - [[Ionic Bonding]]
           - [[Covalent Bonding]]
             - [[Characteristic Infrared Band]]
@@ -119,14 +123,14 @@
             - [[Hybrid Orbital]]
           - [[Metallic Bonding]]
         - [[Intramolecular Interaction]]
-    - [Chemical Kinetics]()
-      - [Chemical Equilibrium]()
-        - [Ionic Equilibrium]()
-    - [Thermochemistry]()
-  - [Organic Chemistry]()
+    - [[Chemical Kinetics]]
+      - [[Chemical Equilibrium]]
+        - [[Ionic Equilibrium]]
+    - [[Thermochemistry]]
+  - [[Organic Chemistry]]
     - [[Nomenclature of Organic Chemistry]]
-    - [Stereochemistry]()
-    - [Functional Group]()
+    - [[Stereochemistry]]
+    - [[Functional Group]]
       - [[Alkyl Group]]
       - [[Alkenyl Group]]
       - [[Alkynyl Group]]
@@ -150,7 +154,7 @@
       - [[Cyano Group]]
       - [[Nitro Group]]
     - [[Organic Reaction]]
-      - [Classification of Organic Reaction]()
+      - [[Classification of Organic Reaction]]
         - [[Addition Reaction]]
         - [[Elimination Reaction]]
           - [[Unimolecular Elimination]]
@@ -159,19 +163,19 @@
           - [[Unimolecular Nucleophilic Substitution]]
           - [[Bimolecular Nucleophilic Substitution]]
         - [[Rearrangement Reaction]]
-      - [Reaction Component]()
+      - [[Reaction Component]]
         - [[Carbocation]]
         - [[Carbanion]]
         - [[Carbon Radical]]
         - [[Nucleophile]]
         - [[Electrophile]]
         - [[Free Radical]]
-      - [Regioselectivity]()
+      - [[Regioselectivity]]
         - [[Markovnikov's Rule]]
         - [[Anti-Markovnikov Addition]]
         - [[Zaitsev's Rule]]
         - [[Hofmann's Rule]]
-      - [Reaction of Hydrocarbons]()
+      - [[Reaction of Hydrocarbons]]
         - [[Acidity of Hydrocarbons]]
         - [[Free Radical Halogenation]]
         - [[Hydroxylation]]
@@ -179,36 +183,36 @@
           - [[Partial Syn-Hydrogenation]]
           - [[Partial Anti-Hydrogenation]]
         - [[Halogen Addition]]
-        - [Halohydrin Formation]()
+        - [[Halohydrin Formation]]
         - [[Hydrohalogenation]]
           - [[Free Radical Hydrohalogenation]]
-        - [Hydration of Alkene]()
-          - [Oxymercuration-Demercuration]()
-          - [Hydroboration-Oxidation]()
-        - [Epoxidation]()
-          - [Epoxide Ring Openning]()
-        - [Dihydroxylation of Alkene]()
-        - [Oxidative Cleavage of Alkene]()
-          - [Oxidative Cleavage of Alkyne]()
-        - [Electrophilic Aromatic Substitution]()
-          - [Halogenation of Benzene]()
-          - [Friedel-Crafts Alkylation]()
-          - [Friedel-Crafts Acylation]()
-          - [Nitration of Benzene]()
-          - [Sulfonation of Benzene]()
-        - [Benzylic Oxidation]()
-      - [Reaction of Halides]()
+        - [[Hydration of Alkene]]
+          - [[Oxymercuration-Demercuration]]
+          - [[Hydroboration-Oxidation]]
+        - [[Epoxidation]]
+          - [[Epoxide Ring Openning]]
+        - [[Dihydroxylation of Alkene]]
+        - [[Oxidative Cleavage of Alkene]]
+          - [[Oxidative Cleavage of Alkyne]]
+        - [[Electrophilic Aromatic Substitution]]
+          - [[Halogenation of Benzene]]
+          - [[Friedel-Crafts Alkylation]]
+          - [[Friedel-Crafts Acylation]]
+          - [[Nitration of Benzene]]
+          - [[Sulfonation of Benzene]]
+        - [[Benzylic Oxidation]]
+      - [[Reaction of Halides]]
         - [[Unimolecular Nucleophilic Substitution of Alkyl Halide]]
         - [[Bimolecular Nucleophilic Substitution of Alkyl Halide]]
-        - [Unimolecular Elimination of Alkyl Halide]()
-        - [Bimolecular Elimination of Alkyl Halide]()
-        - [Reduction of Halide (with Hydride)]()
-        - [Organometal Formation]()
-        - [Nucleophilic Substitution of Aryl Halide]()
-      - [Clemmensen Reduction]()
-      - [Wolff Kishner Reduction]()
-- [Mathematics]()
-  - [Calculus]()
+        - [[Unimolecular Elimination of Alkyl Halide]]
+        - [[Bimolecular Elimination of Alkyl Halide]]
+        - [[Reduction of Halide (with Hydride)]]
+        - [[Organometal Formation]]
+        - [[Nucleophilic Substitution of Aryl Halide]]
+      - [[Clemmensen Reduction]]
+      - [[Wolff Kishner Reduction]]
+- [[Mathematics]]
+  - [[Calculus]]
     - [[Limit]]
       - [[Algebraic Limit Theorem]]
       - [[Infinite Limit]]
@@ -218,12 +222,12 @@
       - [[L'Hopital's rule|L'Hôpital's rule]]
     - [[Differentiation]]
       - [[Differentiability]]
-    - [Properties of Functions]()
+    - [[Properties of Functions]]
       - [[Continuity]]
-      - [Increasing / Decreasing Function]()
+      - [[Increasing / Decreasing Function]]
         - [[Increasing Function]]
         - [[Decreasing Function]]
-      - [Concavity]()
+      - [[Concavity]]
         - [[Convex Function]]
         - [[Concave Function]]
         - [[Point of inflection]]
@@ -236,48 +240,48 @@
           - [[Homogeneous Linear Differential Equation]]
           - [[Inhomogeneous Linear Differential Equation]]
       - [[Partial Differential Equation]]
-      - [Properties and Identities]()
+      - [[Properties and Identities]]
         - [[Abel's Identity]]
         - [[Wronskian]]
-      - [Solving Techniques]()
+      - [[Solving Techniques]]
         - [[Variation of Parameter]]
         - [[Integrating Factor]]
         - [[Separation of Variable]]
   - [[Linear Transformation]]
-- [Physics]()
-  - [Classical Mechanics]()
-    - [Kinematics and Kinetics]()
-      - [Newtonian Mechanics]()
-    - [Fluid Statics and Fluid Dynamics]()
-    - [Acoustics]()
-      - [Wave in a String]()
-      - [Sound]()
-  - [Electromagnetism]()
+- [[Physics]]
+  - [[Classical Mechanics]]
+    - [[Kinematics and Kinetics]]
+      - [[Newtonian Mechanics]]
+    - [[Fluid Statics and Fluid Dynamics]]
+    - [[Acoustics]]
+      - [[Wave in a String]]
+      - [[Sound]]
+  - [[Electromagnetism]]
     - [[Coulomb's law]]
-    - [Optics]()
-  - [Statistical Mechanics]()
-    - [Thermodynamics]()
-      - [Thermodynamic Variables]()
+    - [[Optics]]
+  - [[Statistical Mechanics]]
+    - [[Thermodynamics]]
+      - [[Thermodynamic Variables]]
         - [[Enthalpy]]
         - [[Entropy]]
         - [[Gibbs free energy]]
-      - [Thermodynamic Processes]()
+      - [[Thermodynamic Processes]]
         - [[Isochoric Process]]
         - [[Isobaric Process]]
         - [[Isothermal Process]]
         - [[Adiabatic Process]]
         - [[Reversible Process]]
-      - [Laws of Thermodynamics]()
+      - [[Laws of Thermodynamics]]
         - [[Zeroth Law of Thermodynamics]]
         - [[First Law of Thermodynamics]]
         - [[Second Law of Thermodynamics]]
       - [[Enthalpy]]
       - [[Entropy]]
       - [[Gibbs free energy]]
-  - [Relativistic Mechanics]()
-    - [Special Relativity]()
-  - [Quantum Mechanics]()
-    - [Breakdown of Classical Physics]()
+  - [[Relativistic Mechanics]]
+    - [[Special Relativity]]
+  - [[Quantum Mechanics]]
+    - [[Breakdown of Classical Physics]]
       - [[Double-Slit Experiment]]
       - [[Photoelectric Effect]]
       - [[Ultraviolet Catastrophe]]
