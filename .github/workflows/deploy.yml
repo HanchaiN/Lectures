@@ -30,8 +30,8 @@ jobs:
           path: |
             ~/.cargo
             target/
-          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
-          restore-keys: ${{ runner.os }}-cargo-
+          key: deploy-${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+          restore-keys: deploy-${{ runner.os }}-cargo-
       - name: Install latest mdbook
         uses: actions-rs/cargo@v1
         with:
