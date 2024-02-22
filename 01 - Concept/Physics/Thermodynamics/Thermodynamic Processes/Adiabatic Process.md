@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Adiabatic
+    - Adiabatic
 ---
 
 # Adiabatic Process
@@ -10,8 +10,8 @@ $$
 $$
 
 - $W=\Delta U=C_{V}nR\Delta T$
-- $PV^{\gamma}\sim\text{const.}$
-  - $\gamma=\frac{C_{P}}{C_{V}}=1+\frac{2}{f}$
+- $PV^{\gamma}\sim\text{const.}$  
+         - $\gamma=\frac{C_{P}}{C_{V}}=1+\frac{2}{f}$
 
 ## Related Topics
 

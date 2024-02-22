@@ -1,6 +1,6 @@
 ---
 aliases:
-  - PDE
+    - PDE
 ---
 
 # Partial Differential Equation

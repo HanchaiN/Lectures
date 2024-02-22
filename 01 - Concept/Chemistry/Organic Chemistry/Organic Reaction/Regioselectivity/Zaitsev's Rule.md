@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Zaitsev
+    - Zaitsev
 ---
 
 # Zaitsev's Rule

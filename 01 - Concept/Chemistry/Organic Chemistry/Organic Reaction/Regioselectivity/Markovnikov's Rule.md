@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Markovnikov
+    - Markovnikov
 ---
 
 # Markovnikov's Rule

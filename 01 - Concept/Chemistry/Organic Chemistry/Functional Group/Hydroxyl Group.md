@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Alcohol
+    - Alcohol
 ---
 
 # Hydroxyl Group

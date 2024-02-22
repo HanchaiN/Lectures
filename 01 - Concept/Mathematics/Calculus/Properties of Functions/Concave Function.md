@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Concave Downwards Functions
+    - Concave Downwards Functions
 ---
 
 # Concave Function

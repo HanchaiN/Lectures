@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Organic Reactions
+    - Organic Reactions
 ---
 
 # Organic Reactions

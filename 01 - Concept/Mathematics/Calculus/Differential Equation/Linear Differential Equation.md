@@ -1,6 +1,6 @@
 ---
 aliases:
-  - LDE
+    - LDE
 ---
 
 # Linear Differential Equation

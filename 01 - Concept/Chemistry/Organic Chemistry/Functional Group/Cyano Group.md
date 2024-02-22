@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Nitrile
+    - Nitrile
 ---
 
 # Cyano Group

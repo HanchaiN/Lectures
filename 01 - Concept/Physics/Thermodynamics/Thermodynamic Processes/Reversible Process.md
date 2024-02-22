@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Reversible
+    - Reversible
 ---
 
 # Reversible Process

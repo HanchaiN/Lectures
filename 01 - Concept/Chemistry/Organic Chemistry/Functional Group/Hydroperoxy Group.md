@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Hydroperoxide
+    - Hydroperoxide
 ---
 
 # Hydroperoxy Group

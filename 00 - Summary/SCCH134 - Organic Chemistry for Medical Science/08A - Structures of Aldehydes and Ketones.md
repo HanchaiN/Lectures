@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Structures of Aldehydes and Ketones
+    - Structures of Aldehydes and Ketones
 ---
 
 # Structures of Aldehydes and Ketones

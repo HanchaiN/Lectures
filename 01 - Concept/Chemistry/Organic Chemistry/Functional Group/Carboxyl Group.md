@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Carboxylic Acid
+    - Carboxylic Acid
 ---
 
 # Carboxyl Group

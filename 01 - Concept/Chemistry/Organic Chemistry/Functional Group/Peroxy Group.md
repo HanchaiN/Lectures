@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Peroxide
+    - Peroxide
 ---
 
 # Peroxy Group

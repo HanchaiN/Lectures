@@ -1,6 +1,6 @@
 ---
 aliases:
-  - L'Hôpital's rule
+    - L'Hôpital's rule
 ---
 
 # L'Hôpital's rule

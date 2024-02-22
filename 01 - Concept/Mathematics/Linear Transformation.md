@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Linear
+    - Linear
 ---
 
 # Linear Transformation

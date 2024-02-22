@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Hydrocarbons
+    - Hydrocarbons
 ---
 
 # Hydrocarbons

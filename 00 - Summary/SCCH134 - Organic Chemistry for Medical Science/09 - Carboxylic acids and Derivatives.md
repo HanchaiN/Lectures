@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Carboxylic acids and Derivatives
+    - Carboxylic acids and Derivatives
 ---
 
 # Carboxylic acids and Derivatives

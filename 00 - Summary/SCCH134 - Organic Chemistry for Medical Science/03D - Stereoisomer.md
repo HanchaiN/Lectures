@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Stereoisomer
+    - Stereoisomer
 ---
 
 # Stereoisomer

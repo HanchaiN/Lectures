@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Amines
+    - Amines
 ---
 
 # Halides

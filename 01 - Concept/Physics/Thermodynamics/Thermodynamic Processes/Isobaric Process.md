@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Isobaric
+    - Isobaric
 ---
 
 # Isobaric Process

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Hofmann
+    - Hofmann
 ---
 
 # Hofmann's Rule

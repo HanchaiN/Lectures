@@ -1,8 +1,8 @@
 # Atomic Radius
 
 - Metallic / Covalent
-- Ionic
-  - Cation: Smaller & Anion: Larger
+- Ionic  
+         - Cation: Smaller & Anion: Larger
 - $\propto\frac{1}{Z_\text{eff}}$
 
 ## Reference

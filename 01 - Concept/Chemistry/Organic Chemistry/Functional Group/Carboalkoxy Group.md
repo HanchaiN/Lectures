@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Ester
+    - Ester
 ---
 
 # Carboalkoxy Group

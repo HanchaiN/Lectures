@@ -2,12 +2,12 @@
 
 Find extrema of a function
 
-- Local extrema
-  - local maxima ^local-maxima
-  - local minima ^local-minima
-- Global extrema
-  - at boundaries
-  - at local extrema
+- Local extrema  
+         - local maxima ^local-maxima  
+         - local minima ^local-minima
+- Global extrema  
+         - at boundaries  
+         - at local extrema
 
 ## Related Topics
 

@@ -2,11 +2,11 @@
 
 $$
 \vec{\mu} = q\vec{d}
-$$  
+$$ 
 
 - $q$ : Partial parts $\delta^+$-$\delta^-$ and $d$ : Distance between partial parts
 - $\pu{1 D}=\pu{1 C*m}$
-- Molecular Dipole Moment = Directional Sum of Bond Dipole Moment  
+- Molecular Dipole Moment = Directional Sum of Bond Dipole Moment
 - Ionic Character = $\dfrac{\mu_\text{observed}}{\mu_\text{ionic}}$
 - Superposition (additive vector by positive-negative pair)
 - Useful for neutrally charged system

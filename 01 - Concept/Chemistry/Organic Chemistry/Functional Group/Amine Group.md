@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Amine
+    - Amine
 ---
 
 # Amine Group

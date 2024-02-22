@@ -1,8 +1,8 @@
 # Hybrid Orbital
 
-- Hybridization (Mixing/Superposition) of multiple [[Atomic Orbital]]
-    1. (Optional) Excite electron from ground state
-    2. Average to same energy level orbitals
+- Hybridization (Mixing/Superposition) of multiple [[Atomic Orbital]]  
+        1. (Optional) Excite electron from ground state  
+        2. Average to same energy level orbitals
 - Maximize overlapping
 
 ## Shape

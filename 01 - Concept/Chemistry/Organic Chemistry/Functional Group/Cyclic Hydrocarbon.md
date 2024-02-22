@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Cyclic
-  - Cyclo
+    - Cyclic
+        - Cyclo
 ---
 
 # Cyclic Hydrocarbon

@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Constitutional Isomer
-  - Structural Isomer
+    - Constitutional Isomer
+        - Structural Isomer
 ---
 
 # Constitutional Isomer

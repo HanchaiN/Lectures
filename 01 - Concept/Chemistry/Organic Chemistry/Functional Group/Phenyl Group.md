@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Benzene
+    - Benzene
 ---
 
 # Phenyl Group

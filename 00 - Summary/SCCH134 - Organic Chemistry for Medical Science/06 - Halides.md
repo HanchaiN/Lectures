@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Halides
+    - Halides
 ---
 
 # Halides

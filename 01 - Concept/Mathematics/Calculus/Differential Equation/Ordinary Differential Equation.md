@@ -1,6 +1,6 @@
 ---
 aliases:
-  - ODE
+    - ODE
 ---
 
 # Ordinary Differential Equation

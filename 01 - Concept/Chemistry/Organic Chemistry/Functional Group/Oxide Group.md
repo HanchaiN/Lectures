@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Ether
+    - Ether
 ---
 
 # Oxide Group

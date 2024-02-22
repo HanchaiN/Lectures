@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Grignard Compound
+    - Grignard Compound
 ---
 
 # Alkylmagnesium Halide

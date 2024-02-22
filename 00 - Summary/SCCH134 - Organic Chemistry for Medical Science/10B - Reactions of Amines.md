@@ -1,82 +1,82 @@
 ---
 aliases:
-  - Reactions of Amines
+    - Reactions of Amines
 ---
 
 # Reactions of Amines
 
 - Basicity Reaction (Protonation): $\ce{R3-NH+ + H2O <=>[K_{a}] R3-N + H3O+}$
-  - Consider $K_{a}$ of conjugated acid, strong acid = weak base
-  - Inductive Effect vs Resonance Effect
-    - Inductive: through bonds (EN)
-      - Effect depends on distance
-    - Resonance: delocalizing
-      - Have stronger effect
-      - Possibly via Conjugation system
-      - If lone pair is delocalized, prefer not to be bonded → Less Basic
-        - If lone pair is aromatic → Very weak base
-    - EDG → More Basic & EWG → Less Basic
-  - Hybridization with $\ce{s}$-characteristic → Less Basic
+    - Consider $K_{a}$ of conjugated acid, strong acid = weak base
+    - Inductive Effect vs Resonance Effect
+        - Inductive: through bonds (EN)
+            - Effect depends on distance
+        - Resonance: delocalizing
+            - Have stronger effect
+            - Possibly via Conjugation system
+            - If lone pair is delocalized, prefer not to be bonded → Less Basic
+                - If lone pair is aromatic → Very weak base
+        - EDG → More Basic & EWG → Less Basic
+    - Hybridization with $\ce{s}$-characteristic → Less Basic
 - Reactions with Electrophiles
-  - Alkylation: $\ce{N-H + R-X -> N-R}$
-    - Reagent
-      - Amines (excess)
-        - Excess → Avoid Multiple Alkylation (but some will not be alkylated)
-        - Ammonia → Primary → Secondary → Tertiary
-      - (Primary Alkyl) Halides
-    - Mechanism
-      - Substitution ($\ce{S_{N}}2$): $\ce{R-X ->[N-H] R-N^{+}-H + X-}$
-      - Deprotonation: $\ce{R-N^{+}-H ->[N] R-N}$
-  - Acylation: $\ce{N-H + R-CO-Z -> R-CO-N}$
-    - Reagent
-      - Acid Halides / Carboxylic Acid
-    - Peptide formation
-    - Mechanism: Nucleophilic substitution of Carboxylic Acid & Derivatives
-  - Sulfonation: $\ce{N-H + Ar-SO2-Cl -> Ar-SO2-N}$
-    - Mechanism
-      - Similar to Acylation (Replace $\ce{-C(=O)-}$ with $\ce{-S(=O)2-}$)
-      - Similar to Sulfonate Ester Formation of Alcohol
-    - Hinsberg Test
-      - $\ce{Ph-SO2-Cl + R2-NH ->[NaOH (aq, excess)] Ph-SO2-N-R2}$ (solid → cloudy)
-      - $\ce{Ph-SO2-NH-R ->[NaOH (aq, excess)] Ph-SO2-N^{-}-R}$ (fast, water-soluble)
-        - Only Primary Amine result in protonatable product
-        - Replace Sulfonyl with Carbonyl will not result in protonation
-      - $\ce{Ph-SO2-N^{-}-R ->[H+] Ph-SO2-NH-R}$ (solid → cloudy)
-  - Reductive Amination: $\ce{R-CO-R + NH -> R-C(=N)-R ->[\hat{h}] R-CH(N)R}$
-    - Reduced with $\ce{H2,Ni}$ or $\ce{NaBH4}$ or $\ce{NaBH3CN}$
-    - Intermediate $\ce{R-C(=N)-R}$
-      - Imine ($\ce{R-C(=NR)-R}$) for ammonia and primary amines
-      - Iminium Ion ($\ce{R-C(=N^{+}R2)-R}$) for secondary amines
+    - Alkylation: $\ce{N-H + R-X -> N-R}$
+        - Reagent
+            - Amines (excess)
+                - Excess → Avoid Multiple Alkylation (but some will not be alkylated)
+                - Ammonia → Primary → Secondary → Tertiary
+            - (Primary Alkyl) Halides
+        - Mechanism
+            - Substitution ($\ce{S_{N}}2$): $\ce{R-X ->[N-H] R-N^{+}-H + X-}$
+            - Deprotonation: $\ce{R-N^{+}-H ->[N] R-N}$
+    - Acylation: $\ce{N-H + R-CO-Z -> R-CO-N}$
+        - Reagent
+            - Acid Halides / Carboxylic Acid
+        - Peptide formation
+        - Mechanism: Nucleophilic substitution of Carboxylic Acid & Derivatives
+    - Sulfonation: $\ce{N-H + Ar-SO2-Cl -> Ar-SO2-N}$
+        - Mechanism
+            - Similar to Acylation (Replace $\ce{-C(=O)-}$ with $\ce{-S(=O)2-}$)
+            - Similar to Sulfonate Ester Formation of Alcohol
+        - Hinsberg Test
+            - $\ce{Ph-SO2-Cl + R2-NH ->[NaOH (aq, excess)] Ph-SO2-N-R2}$ (solid → cloudy)
+            - $\ce{Ph-SO2-NH-R ->[NaOH (aq, excess)] Ph-SO2-N^{-}-R}$ (fast, water-soluble)
+                - Only Primary Amine result in protonatable product
+                - Replace Sulfonyl with Carbonyl will not result in protonation
+            - $\ce{Ph-SO2-N^{-}-R ->[H+] Ph-SO2-NH-R}$ (solid → cloudy)
+    - Reductive Amination: $\ce{R-CO-R + NH -> R-C(=N)-R ->[\hat{h}] R-CH(N)R}$
+        - Reduced with $\ce{H2,Ni}$ or $\ce{NaBH4}$ or $\ce{NaBH3CN}$
+        - Intermediate $\ce{R-C(=N)-R}$
+            - Imine ($\ce{R-C(=NR)-R}$) for ammonia and primary amines
+            - Iminium Ion ($\ce{R-C(=N^{+}R2)-R}$) for secondary amines
 - Reactions with Nitrous Acid
-  - Diazonium Salt Formation: $\ce{R-NH2 ->[NaNO2, HCl][\pu{0\degree C}] R-{N^{+}}#N + Cl^{-}}$
-    - Mechanism
-      - $\ce{HNO2 ->[H+] O=N-O^{+}H2 -> O=N^{+}}$
-      - $\ce{R-NH2 ->[N^{+}=O] R-N^{+}H2-N=O -> R-NH-N=O}$
-      - $\ce{R-NH-N=O ->[H+] R-N^{+}H=N-OH -> R-N=N-OH}$
-      - $\ce{R-N=N-OH ->[H+] R-N=N-O^{+}H2 -> R-{N^{+}}#N}$
-  - Primary Aliphatic Amine: $\ce{R-{N^{+}}#N -> R^{+} + N2}$ (unstable even at low temp)
-    - Potential Rearrangement
-    - Can form Alcohols, Halides, Alkenes (Second step of $\ce{S_{N}2}$ and $\ce{E2}$)
-  - Primary Aromatic Amine: Diazonium Salt can be stable at low temp
-    - $\ce{Ar-N2+ ->[CuCl] Ar-Cl}$ & $\ce{Ar-N2+->[CuBr] Ar-Br}$ & $\ce{Ar-N2+ ->[KI] Ar-I}$
-    - $\ce{Ar-N2+ ->[CuCN] Ar-CN}$
-    - $\ce{Ar-N2+ ->[\text{1.} HBF4][\text{2.}\Delta] Ar-F}$
-    - $\ce{Ar-N2+ ->[H3PO2, H2O] Ar-H}$
-    - $\ce{Ar-N2+ ->[Cu2O,Cu^{2+},H2O] Ar-OH}$
-    - $\ce{Ar-N2+ ->[Ar-EDG] Ar-N=N-Ar-EDG}$ (azo compound)
-      - Note: $\ce{-N2+}$ is weak electrophile, require activated aromatic
-      - Note: "para-" > "ortho-"
-  - Sec-amines: $\ce{R2-NH ->[N+O] R2-N+H-N=O-> R2-N-N=O}$
-  - Tert-amines: $\ce{R2-N-R ->[N+O][AcOH,NaOAc,\pu{pH}\approx\pu{4.5}] R2-N-N=O + H-CO-R}$
+    - Diazonium Salt Formation: $\ce{R-NH2 ->[NaNO2, HCl][\pu{0\degree C}] R-{N^{+}}#N + Cl^{-}}$
+        - Mechanism
+            - $\ce{HNO2 ->[H+] O=N-O^{+}H2 -> O=N^{+}}$
+            - $\ce{R-NH2 ->[N^{+}=O] R-N^{+}H2-N=O -> R-NH-N=O}$
+            - $\ce{R-NH-N=O ->[H+] R-N^{+}H=N-OH -> R-N=N-OH}$
+            - $\ce{R-N=N-OH ->[H+] R-N=N-O^{+}H2 -> R-{N^{+}}#N}$
+    - Primary Aliphatic Amine: $\ce{R-{N^{+}}#N -> R^{+} + N2}$ (unstable even at low temp)
+        - Potential Rearrangement
+        - Can form Alcohols, Halides, Alkenes (Second step of $\ce{S_{N}2}$ and $\ce{E2}$)
+    - Primary Aromatic Amine: Diazonium Salt can be stable at low temp
+        - $\ce{Ar-N2+ ->[CuCl] Ar-Cl}$ & $\ce{Ar-N2+->[CuBr] Ar-Br}$ & $\ce{Ar-N2+ ->[KI] Ar-I}$
+        - $\ce{Ar-N2+ ->[CuCN] Ar-CN}$
+        - $\ce{Ar-N2+ ->[\text{1.} HBF4][\text{2.}\Delta] Ar-F}$
+        - $\ce{Ar-N2+ ->[H3PO2, H2O] Ar-H}$
+        - $\ce{Ar-N2+ ->[Cu2O,Cu^{2+},H2O] Ar-OH}$
+        - $\ce{Ar-N2+ ->[Ar-EDG] Ar-N=N-Ar-EDG}$ (azo compound)
+            - Note: $\ce{-N2+}$ is weak electrophile, require activated aromatic
+            - Note: "para-" > "ortho-"
+    - Sec-amines: $\ce{R2-NH ->[N+O] R2-N+H-N=O-> R2-N-N=O}$
+    - Tert-amines: $\ce{R2-N-R ->[N+O][AcOH,NaOAc,\pu{pH}\approx\pu{4.5}] R2-N-N=O + H-CO-R}$
 - Preparation of Amines (Reduction Reaction)
-  - Reduction of Nitrobenzene: $\ce{Ar-NO2 ->[\hat{h}] Ar-NH2}$
-    - $\ce{H2/Ni}$
-    - 1. $\ce{M,HCl}$ ($\ce{Fe}$ or $\ce{Sn}$ or $\ce{Zn}$); 2. $\ce{NaOH, H2O}$
-    - 1. $\ce{LiAlH4}$; 2. $\ce{H2O}$
-  - Reduction of Nitrile: $\ce{R-CN ->[\hat{h}] R-CH2-NH2}$
-    - 1. $\ce{LiAlH4}$; 2. $\ce{H3O+}$ (acid workup)
-  - Reduction of Amide: $\ce{R-CO-N ->[\hat{h}] R-CH2-N}$
-    - 1. $\ce{LiAlH4}$; 2. $\ce{H2O}$
+    - Reduction of Nitrobenzene: $\ce{Ar-NO2 ->[\hat{h}] Ar-NH2}$
+        - $\ce{H2/Ni}$
+        - 1. $\ce{M,HCl}$ ($\ce{Fe}$ or $\ce{Sn}$ or $\ce{Zn}$); 2. $\ce{NaOH, H2O}$
+        - 1. $\ce{LiAlH4}$; 2. $\ce{H2O}$
+    - Reduction of Nitrile: $\ce{R-CN ->[\hat{h}] R-CH2-NH2}$
+        - 1. $\ce{LiAlH4}$; 2. $\ce{H3O+}$ (acid workup)
+    - Reduction of Amide: $\ce{R-CO-N ->[\hat{h}] R-CH2-N}$
+        - 1. $\ce{LiAlH4}$; 2. $\ce{H2O}$
 
 ## Reference
 

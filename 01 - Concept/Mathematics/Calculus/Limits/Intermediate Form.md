@@ -1,6 +1,6 @@
 ---
 aliases:
-  - IF
+    - IF
 ---
 
 # Intermediate Form

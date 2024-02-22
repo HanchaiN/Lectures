@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Halide
+    - Halide
 ---
 
 # Halo Group

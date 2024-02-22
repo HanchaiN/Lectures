@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Alkene
+    - Alkene
 ---
 
 # Alkenyl Group

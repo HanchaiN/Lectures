@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Nitro
+    - Nitro
 ---
 
 # Nitro Group

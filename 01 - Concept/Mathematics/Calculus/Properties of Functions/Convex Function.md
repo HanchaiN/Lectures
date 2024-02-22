@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Concave Upwards Functions
+    - Concave Upwards Functions
 ---
 
 # Convex Function

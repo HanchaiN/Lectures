@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Isochoric
+    - Isochoric
 ---
 
 # Isochoric Process

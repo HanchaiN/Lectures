@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Isothermal
+    - Isothermal
 ---
 
 # Isothermal Process

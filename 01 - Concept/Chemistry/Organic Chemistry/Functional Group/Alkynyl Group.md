@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Alkyne
+    - Alkyne
 ---
 
 # Alkynyl Group

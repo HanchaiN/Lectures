@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Amide
+    - Amide
 ---
 
 # Carboxamide Group

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Classification & Nomenclature of Organic Compounds
+    - Classification & Nomenclature of Organic Compounds
 ---
 
 # Classification & Nomenclature of Organic Compounds

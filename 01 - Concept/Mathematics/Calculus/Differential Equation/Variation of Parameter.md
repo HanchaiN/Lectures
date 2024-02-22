@@ -8,12 +8,12 @@
 - Assume, $y_{p}=\sum\limits_{i=1}^{n}c_{i}y_{c,i}$ and $\sum\limits_{i=1}^{n}c_{i}^{\prime}y_{c,i}^{(j)}=0$ for $j=0,\dots,n-2$.
 - Therefore, $y_{p}^{(j)}=\sum\limits_{i=1}^{n}c_{i}y_{c,i}^{(j)}$ and $y_{p}^{(n)}=\sum\limits_{i=1}^{n}c_{i}y_{c,i}^{(n)}+\sum\limits_{i=1}^{n}c_{i}^{\prime}y_{c,i}^{(n-1)}$.
 - Hence, $0=\sum\limits_{i=1}^{n}c_{i}^{\prime}y_{c,i}^{(j)}$ for $j=0,\dots,n-2$ and $L[y]=a_{n}\sum\limits_{i=1}^{n}c_{i}^{\prime}y_{c,i}^{(n-1)}$  
-  (factor out $c_{i}$ and satisfy $L[y_{c,i}]=0$)
+ (factor out $c_{i}$ and satisfy $L[y_{c,i}]=0$)
 - Hence, $\mathbf{W}\mathbf{c}^{\prime}=\begin{bmatrix}0,&\dots&0,&\frac{L[y]}{a_{n}};\end{bmatrix}$.
 - Solve for $c_{i}^{\prime}$ using Cramer's rule: $c_{i}^{\prime}=\frac{W_{i}}{W}$  
-  (where $W$ is the [[Wronskian]] and $W_{i}$ replace $(y_{i},\dots,y_{i}^{(n-1)})$ with $(0,\dots,0,\frac{L[y]}{a_{n}})$)
+ (where $W$ is the [[Wronskian]] and $W_{i}$ replace $(y_{i},\dots,y_{i}^{(n-1)})$ with $(0,\dots,0,\frac{L[y]}{a_{n}})$)
 - Solve for $c_{i}=\int c_{i}^{\prime}(t)dt$ and $y_{p}=\sum\limits_{i=1}^{n}c_{i}y_{c,i}$  
-  (constant of integration for $c_{i}$ is equivalent to complementary function in general solution)
+ (constant of integration for $c_{i}$ is equivalent to complementary function in general solution)
 
 $$
 \begin{align*}
@@ -45,7 +45,7 @@ $$
 - Hence, $\mathbf{\Phi}\mathbf{c}^{\prime}=\mathbf{b}$.
 - Solve for $\mathbf{c}^{\prime}$: $\mathbf{c}^{\prime}=\mathbf{\Phi}^{-1}\mathbf{b}$ (may use Cramer's rule).
 - Solve for $\mathbf{c}=\int \mathbf{c}^{\prime}(t)dt$ and $\mathbf{y}_{p}=\sum\limits_{i=1}^{n}c_{i}\mathbf{y}_{c,i}$  
-  (constant of integration for $c_{i}$ is equivalent to complementary function in general solution)
+ (constant of integration for $c_{i}$ is equivalent to complementary function in general solution)
 
 $$
 \begin{align*}

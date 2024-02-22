@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Structure and Bonding
+    - Structure and Bonding
 ---
 
 # Structure and Bonding

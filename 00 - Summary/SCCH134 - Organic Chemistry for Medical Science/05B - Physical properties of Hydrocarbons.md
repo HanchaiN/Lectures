@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Physical Properties of Hydrocarbons
+    - Physical Properties of Hydrocarbons
 ---
 
 # Physical Properties of Hydrocarbons

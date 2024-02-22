@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Alkane
-  - Alkyl
+    - Alkane
+        - Alkyl
 ---
 
 # Alkyl Group

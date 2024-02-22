@@ -2,9 +2,9 @@
 
 - $\ce{X(g) -> X+(g) + e-}; \Delta H=IE_{1}$
 - $\ce{X+(g) -> X^{2+}(g) + e-}; \Delta H=IE_{2}$
-- $\propto Z_\text{eff}$
-  - IIA > IIIA (full-fill $s$-orbital)
-  - VA > VIA (half-fill $p$-orbital)
+- $\propto Z_\text{eff}$  
+         - IIA > IIIA (full-fill $s$-orbital)  
+         - VA > VIA (half-fill $p$-orbital)
 
 ## References
 

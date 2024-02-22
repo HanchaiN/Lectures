@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Radical
+    - Radical
 ---
 
 # Nucleophile
