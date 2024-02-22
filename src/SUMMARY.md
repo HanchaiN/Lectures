@@ -2,9 +2,9 @@
 
 [README](README.md)
 
-## Lectures
+# Lectures
 
-### Semester 1/2566
+# Year 1 Semester 1
 
 * [SCCH105 - General Chemistry](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/SCCH105%20-%20General%20Chemistry.md)
   * [01 - Atomic Structure and Atomic Theory](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)
@@ -33,7 +33,7 @@
   * [09 - Magnetism and Magnetic Field](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/09%20-%20Magnetism%20and%20Magnetic%20Field.md)
   * [10 - Modern Physics](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/10%20-%20Modern%20Physics.md)
 
-### Semester 2/2566
+# Year 1 Semester 2
 
 * [SCCH134 - Organic Chemistry for Medical Science](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science.md)
   * [01 - Structure and Bonding](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01%20-%20Structure%20and%20Bonding.md)
@@ -97,7 +97,7 @@
 
 ---
 
-## Concept
+# Concept
 
 * *Chemistry*
   * *Physical Chemistry*
@@ -291,6 +291,6 @@
     * [Schrodinger's Wave Equation](01%20-%20Concept/Physics/Quantum%20Mechanics/Schrodinger's%20Wave%20Equation.md)
     * [Pauli's Exclusion Principle](01%20-%20Concept/Physics/Quantum%20Mechanics/Pauli's%20Exclusion%20Principle.md)
 
-## Appendices
+# Appendices
 
 [How to type a lecture note](Extra/How%20to%20type%20a%20lecture%20note.md)
