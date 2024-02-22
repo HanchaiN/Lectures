@@ -1,5 +1,3 @@
-# 
-
 * [SCPY142 - Physics for Medical Students](SCPY142%20-%20Physics%20for%20Medical%20Students.md)
   * [01 - Kinematic](01%20-%20Kinematic.md)
   * [02 - Motion of Rigid Body](02%20-%20Motion%20of%20Rigid%20Body.md)

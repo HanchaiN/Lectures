@@ -1,5 +1,3 @@
-# 
-
 * [RAID136 - Basic Medical Microbiology](RAID136%20-%20Basic%20Medical%20Microbiology.md)
   * [01 - Introduction to Infectious Diseases](01%20-%20Introduction%20to%20Infectious%20Diseases.md)
   * [02 - Host-Microbe Interaction](02%20-%20Host-Microbe%20Interaction.md)

@@ -1,5 +1,3 @@
-# 
-
 * [SCCH105 - General Chemistry](SCCH105%20-%20General%20Chemistry.md)
   * [01 - Atomic Structure and Atomic Theory](01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)
     * [01A - Introduction to Quantum Mechanics](01A%20-%20Introduction%20to%20Quantum%20Mechanics.md)

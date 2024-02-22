@@ -1,5 +1,3 @@
-# 
-
 * [SCCH134 - Organic Chemistry for Medical Science](SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science.md)
   * [01 - Structure and Bonding](01%20-%20Structure%20and%20Bonding.md)
     * [01A - Atoms](01A%20-%20Atoms.md)
