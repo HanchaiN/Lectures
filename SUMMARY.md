@@ -2,9 +2,9 @@
 
 [[README]]
 
+## Lectures
 
-
-## Semester 1/2566
+### Semester 1/2566
 
 - [[SCCH105 - General Chemistry]]
   - [[01 - Atomic Structure and Atomic Theory]]
@@ -33,7 +33,7 @@
   - [[09 - Magnetism and Magnetic Field]]
   - [[10 - Modern Physics]]
 
-## Semester 2/2566
+### Semester 2/2566
 
 - [[SCCH134 - Organic Chemistry for Medical Science]]
   - [[01 - Structure and Bonding]]
@@ -290,3 +290,7 @@
     - [[Wavefunction]]
     - [[Schrodinger's Wave Equation]]
     - [[Pauli's Exclusion Principle]]
+
+## Appendices
+
+[[How to type a lecture note]]
