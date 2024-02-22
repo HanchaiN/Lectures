@@ -6,14 +6,14 @@ aliases:
 # Chemical Bonding
 
 - [[Ionic Bonding]]
-	- Hard, Rigid, Brittle, High Boiling Points
-	- Electrically conductive when melted/dissolved
-	- Lattice packing
+  - Hard, Rigid, Brittle, High Boiling Points
+  - Electrically conductive when melted/dissolved
+  - Lattice packing
 - [[Covalent Bonding]]
-	- [[Characteristic Infrared Band]]
-		- UV → Break Bonds
-		- $\mu$W → Rotate Molecule
-		- IR → Move Bonds
+  - [[Characteristic Infrared Band]]
+    - UV → Break Bonds
+    - $\mu$W → Rotate Molecule
+    - IR → Move Bonds
 - [[Metallic Bonding]]
 
 ## References

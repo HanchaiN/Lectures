@@ -9,10 +9,10 @@
   - Tertiary-$\ce{C.}$ > Secondary-$\ce{C.}$ > Primary-$\ce{C.}$ > Methyl Cation
   - Inductive effect: $\ce{C.}$ > $\ce{C.-EWG}$ (Electron withdrawing group)
   - Resonance
-	- Allylic radical: $\ce{C=C-C. <-> C.-C=C}$
-	- Benzylic radical: $\ce{Ph-C.}$ (resonate with the ring)
-	- Heteroatom with electron pair: $\ce{C.-Z: <-> C=Z.}$
-	- Aromatic radical
+    - Allylic radical: $\ce{C=C-C. <-> C.-C=C}$
+    - Benzylic radical: $\ce{Ph-C.}$ (resonate with the ring)
+    - Heteroatom with electron pair: $\ce{C.-Z: <-> C=Z.}$
+    - Aromatic radical
 
 ## Reference
 

@@ -9,7 +9,7 @@ $$
 | [[Alkynyl Group\|Alkyne]] | $\ce{H2}$,<br>$\ce{Pd / BaSO4}$ or $\ce{Pd / CaCO3}$ | - | cis-[[Alkenyl Group\|Alkene]] |
 
 - Mechanism: [[Addition Reaction#^syn|Syn]]-[[Addition Reaction|Addition]]
-	- [[Hydrogenation]]
+  - [[Hydrogenation]]
 
 ## Reference
 

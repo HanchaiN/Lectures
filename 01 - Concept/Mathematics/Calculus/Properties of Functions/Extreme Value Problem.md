@@ -3,11 +3,11 @@
 Find extrema of a function
 
 - Local extrema
-	- local maxima ^local-maxima
-	- local minima ^local-minima
+  - local maxima ^local-maxima
+  - local minima ^local-minima
 - Global extrema
-	- at boundaries
-	- at local extrema
+  - at boundaries
+  - at local extrema
 
 ## Related Topics
 

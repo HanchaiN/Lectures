@@ -6,19 +6,19 @@ aliases:
 # Introduction to Infectious Diseases
 
 - Acellular
-	- Prion
-	- Virus
+  - Prion
+  - Virus
 - Cellular
-	- Prokaryote
-	- Fungi
-	- Protozoa
-	- Parasites
-		- Endoparasites
-			- Protozoa
-			- Helminths (Platyhelminths + Nematodes)
-		- Ectoparasites
-			- Insects
-			- Arachnids
+  - Prokaryote
+  - Fungi
+  - Protozoa
+  - Parasites
+    - Endoparasites
+      - Protozoa
+      - Helminths (Platyhelminths + Nematodes)
+    - Ectoparasites
+      - Insects
+      - Arachnids
 
 ## Reference
 

@@ -7,8 +7,8 @@ $$
 $$
 
 - General solution: $\mathbf{y}_{c}+\mathbf{y}_{p}$ where
-	- Complementary function ($\mathbf{y}_{c}$) is the solutions of $\mathbf{y}^{\prime}=\mathbf{A}\mathbf{y}$ ([[System of Homogeneous Linear Differential Equations|Homogeneous LDE]]).
-	- Particular integral ($\mathbf{y}_{p}$) is a solution of the equation.
+  - Complementary function ($\mathbf{y}_{c}$) is the solutions of $\mathbf{y}^{\prime}=\mathbf{A}\mathbf{y}$ ([[System of Homogeneous Linear Differential Equations|Homogeneous LDE]]).
+  - Particular integral ($\mathbf{y}_{p}$) is a solution of the equation.
 
 ## Solving Techniques
 

@@ -10,17 +10,17 @@ $$
 $$
 
 - By Mechanism
-	- [[Unimolecular Elimination]]
-	- [[Bimolecular Elimination]]
+  - [[Unimolecular Elimination]]
+  - [[Bimolecular Elimination]]
 - By Stereochemistry
-	- Syn-Elimination ^syn
-	- Anti-Elimination ^anti
-	- Non-stereospecific ^non-stereospecific
+  - Syn-Elimination ^syn
+  - Anti-Elimination ^anti
+  - Non-stereospecific ^non-stereospecific
 - Zaitsev's Rule: Prefer double bond with more substituents (experimental data)
-	- Zaitsev Elimination ^zaitsev
-	- Hofmann Elimination ^hofmann
-		- Opposite (Steric Interaction)
-		- Apply when Large Leaving Group and/or Alkali (Attacker)
+  - Zaitsev Elimination ^zaitsev
+  - Hofmann Elimination ^hofmann
+    - Opposite (Steric Interaction)
+    - Apply when Large Leaving Group and/or Alkali (Attacker)
 
 ## Reference
 

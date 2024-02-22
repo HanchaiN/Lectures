@@ -9,12 +9,12 @@ $$
 | [[Alkyl Group\|Alkyl]] [[Halo Group\|Halide]] | Strong [[Nucleophile]] | - | Depends |
 
 - Reagent
-	- $\ce{OH-}$ → $\ce{-OH}$
-	- $\ce{RO-}$ → $\ce{-OR}$
-	- $\ce{SH-}$ → $\ce{-SH}$
-	- $\ce{LiAlH4}$ → $\ce{-H}$
-	- $\ce{R-CO-O-}$ → $\ce{R-O-CO-R}$
-	- $\ce{CN-}$ → $\ce{R-CN}$
+  - $\ce{OH-}$ → $\ce{-OH}$
+  - $\ce{RO-}$ → $\ce{-OR}$
+  - $\ce{SH-}$ → $\ce{-SH}$
+  - $\ce{LiAlH4}$ → $\ce{-H}$
+  - $\ce{R-CO-O-}$ → $\ce{R-O-CO-R}$
+  - $\ce{CN-}$ → $\ce{R-CN}$
 - Mechanism: [[Bimolecular Nucleophilic Substitution]]
 - Steric Repulsion → Prefer Primary Product
 

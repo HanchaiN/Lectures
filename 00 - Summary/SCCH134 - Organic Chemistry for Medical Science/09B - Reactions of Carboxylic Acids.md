@@ -6,37 +6,37 @@ aliases:
 # Reactions of Carboxylic Acids
 
 - Acidity Reaction: $\ce{RCOOH + H2O <=>[K_{a}] RCOO^{-} + H3O+}$
-	- Can ionize spontaneously
-	- Inductive Effect vs Resonance Effect
-		- Inductive: through bonds (EN)
-			- Effect depends on distance
-		- Resonance: delocalizing
-			- Have stronger effect
-			- Possibly via Conjugation system
-			- "ortho-" / "para-" have more effect than "meta-" despite the distance
-		- EDG → Less Acidic & EWG → More Acidic
-	- More acidic than phenol and alcohol (and water), resp.
-		- Less resonance than phenol but negative charge goes to high EN
-		- $\ce{NaH}$: $\ce{R-COOH}$, $\ce{Ar-OH}$, $\ce{R-OH}$
-		- $\ce{NaOH}$: $\ce{R-COOH}$, $\ce{Ar-OH}$
-		- $\ce{NaHCO3}$: $\ce{R-COOH}$
+  - Can ionize spontaneously
+  - Inductive Effect vs Resonance Effect
+    - Inductive: through bonds (EN)
+      - Effect depends on distance
+    - Resonance: delocalizing
+      - Have stronger effect
+      - Possibly via Conjugation system
+      - "ortho-" / "para-" have more effect than "meta-" despite the distance
+    - EDG → Less Acidic & EWG → More Acidic
+  - More acidic than phenol and alcohol (and water), resp.
+    - Less resonance than phenol but negative charge goes to high EN
+    - $\ce{NaH}$: $\ce{R-COOH}$, $\ce{Ar-OH}$, $\ce{R-OH}$
+    - $\ce{NaOH}$: $\ce{R-COOH}$, $\ce{Ar-OH}$
+    - $\ce{NaHCO3}$: $\ce{R-COOH}$
 - Nucleophilic Substitution (Substitution of hydroxy group): $\ce{R-CO-X ->[+ Nu] R-C(X)(Nu)(O^{-}) ->[- X-] R-CO-Nu}$
-	- See [[#Leaving Group Comparison]]
-		- Can substitute toward less reactive group
-		- Going in reverse require reagents
-			- $\ce{RCOOH ->[SOCl2] RCOCl}$
-			- $\ce{RCOOH ->[P2O5,\Delta] R-CO-O-CO-R + H2O}$
-	- Note: $\ce{Nu}$ may act as alkali and ionize $\ce{COX}$ instead
-	- Mechanism: Addition (slow) + Elimination
-	- Fisher Esterification (Acid-catalyzed Esterification): $\ce{R-COOH + R-OH <=>[H+,\Delta] R-COOR + H2O}$
-		- Protonation of carbonyl (resonate between $\ce{C=O^{+}H}$ and $\ce{C^{+}-OH}$)
-		- Protonation of geminal diol (results in dehydration to carbonyl)
-	- Nitrile Synthesis
-		- $\ce{R-X + N#C^{-} ->[S_{N}2] R-C#N}$
-		- $\ce{R-CO-NH2 ->[P2O5,\Delta][- H2O] R-C#N}$
-	- Decarboxylation: $\ce{X-CO-CH2-CO-OH ->[\Delta] X-CO-CH3 + CO2}$
-		- $\ce{X-CO-CH2-CO-OH}$: $\beta$-keto acid / 1,3-dicarboxylic acid
-	- Carboxylic Acid → Amide: Require Heat, Impractical
+  - See [[#Leaving Group Comparison]]
+    - Can substitute toward less reactive group
+    - Going in reverse require reagents
+      - $\ce{RCOOH ->[SOCl2] RCOCl}$
+      - $\ce{RCOOH ->[P2O5,\Delta] R-CO-O-CO-R + H2O}$
+  - Note: $\ce{Nu}$ may act as alkali and ionize $\ce{COX}$ instead
+  - Mechanism: Addition (slow) + Elimination
+  - Fisher Esterification (Acid-catalyzed Esterification): $\ce{R-COOH + R-OH <=>[H+,\Delta] R-COOR + H2O}$
+    - Protonation of carbonyl (resonate between $\ce{C=O^{+}H}$ and $\ce{C^{+}-OH}$)
+    - Protonation of geminal diol (results in dehydration to carbonyl)
+  - Nitrile Synthesis
+    - $\ce{R-X + N#C^{-} ->[S_{N}2] R-C#N}$
+    - $\ce{R-CO-NH2 ->[P2O5,\Delta][- H2O] R-C#N}$
+  - Decarboxylation: $\ce{X-CO-CH2-CO-OH ->[\Delta] X-CO-CH3 + CO2}$
+    - $\ce{X-CO-CH2-CO-OH}$: $\beta$-keto acid / 1,3-dicarboxylic acid
+  - Carboxylic Acid → Amide: Require Heat, Impractical
 
 ## Leaving Group Comparison
 
