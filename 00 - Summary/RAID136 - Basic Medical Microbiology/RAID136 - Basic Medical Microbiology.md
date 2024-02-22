@@ -1,6 +1,3 @@
-#
-
-
 - [[RAID136 - Basic Medical Microbiology]]
 	- [[01 - Introduction to Infectious Diseases]]
 	- [[02 - Host-Microbe Interaction]]

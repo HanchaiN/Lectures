@@ -1,6 +1,3 @@
-#
-
-
 - [[RAID135 - Molecular and Cellular Basis for Medicine]]
 	- [[01 - Protein Structure and Concept of Bio-catalysis and Enzyme Kinetics]]
 	- [[02 - Overview of DNA Structure, Gene Structure and Organization]]
