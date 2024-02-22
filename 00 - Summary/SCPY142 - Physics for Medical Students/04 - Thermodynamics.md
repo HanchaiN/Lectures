@@ -29,7 +29,7 @@ aliases:
     - Occupy no volume
     - Ideal gas law: $PV=nRT=k_{B}NT$
     - Internal Energy: $U=\frac{3}{2}k_{B}NT$ ($C_{V}=\frac{3}{2}$ for monoatomic gas; replace to $\frac{5}{2}$ for non-stretching diatomic gas)
-        - Equipartition theorem assumes each (quadratic) degree of freedom have equal energy: $\frac{1}{2}k_{b}T$
+        - [[Equipartition Theorem]] assumes each (quadratic) degree of freedom have equal energy: $\frac{1}{2}k_{B}T$
 - Thermodynamic processes
     - [[Isochoric Process]]
     - [[Isobaric Process]]

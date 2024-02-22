@@ -180,6 +180,7 @@
     - [[Coulomb's law]]
     - [Optics]()
     - [Statistical Mechanics]()
+        - [[Equipartition Theorem]]
     - [Thermodynamics]()
         - [Thermodynamic Variables]()
         - [[Enthalpy]]
