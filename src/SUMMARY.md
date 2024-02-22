@@ -1,6 +1,6 @@
 # HanchaiN's Lecture
 
-[README](README.md)
+[Welcome](README.md)
 
 # Lectures
 
@@ -290,6 +290,8 @@
     * [Wavefunction](01%20-%20Concept/Physics/Quantum%20Mechanics/Wavefunction.md)
     * [Schrodinger's Wave Equation](01%20-%20Concept/Physics/Quantum%20Mechanics/Schrodinger's%20Wave%20Equation.md)
     * [Pauli's Exclusion Principle](01%20-%20Concept/Physics/Quantum%20Mechanics/Pauli's%20Exclusion%20Principle.md)
+
+---
 
 # Appendices
 
