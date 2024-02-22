@@ -268,6 +268,7 @@
   * [Coulomb's law](01%20-%20Concept/Physics/Electromagnetism/Coulomb's%20law.md)
   * [Optics]()
   * [Statistical Mechanics]()
+    * [Equipartition Theorem](01%20-%20Concept/Physics/Statistical%20Mechanics/Equipartition%20Theorem.md)
   * [Thermodynamics]()
     * [Thermodynamic Variables]()
     * [Enthalpy](01%20-%20Concept/Physics/Thermodynamics/Thermodynamic%20Variables/Enthalpy.md)

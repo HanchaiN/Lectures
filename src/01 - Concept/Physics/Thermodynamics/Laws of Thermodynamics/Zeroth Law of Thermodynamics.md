@@ -4,7 +4,7 @@ Heat transferred until temperature equals.
 
 ## Related Topics
 
-* *Equipartition Theorem*
+* [Equipartition Theorem](../../Statistical%20Mechanics/Equipartition%20Theorem.md)
 
 ## Reference
 
