@@ -115,8 +115,9 @@ aliases:
 			- (Type B) $\varepsilon$-DNA Pol. → Leading Strand
 			- The rest → DNA Repairs
 	- Primer required (RNA Primase) as starting point of polymerization
-		- RNA Primer removed (exonuclease) and refilled with DNA (DNA Pol.)
-		- Higher Error Rate → Temporary
+		- Higher Error Rate → Temporary (RNA)
+		- RNA Primer removed (via exonuclease) and refilled with DNA (DNA Pol.)
+			- Since DNA Pol. requires 3'-OH, telomere can be lost
 	- Helicase: Unwind helical double-strand DNA
 		- Motor protein move along phosphodiester backbone
 		- Single-strand DNA-binding protein avoid closing before DNA Pol.
