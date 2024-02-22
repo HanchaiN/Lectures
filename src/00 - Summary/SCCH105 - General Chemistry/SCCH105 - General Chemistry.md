@@ -1,4 +1,4 @@
-# SCCH105 - General Chemistry
+# 
 
 * [SCCH105 - General Chemistry](SCCH105%20-%20General%20Chemistry.md)
   * [01 - Atomic Structure and Atomic Theory](01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)

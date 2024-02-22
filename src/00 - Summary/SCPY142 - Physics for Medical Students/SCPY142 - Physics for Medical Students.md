@@ -1,4 +1,4 @@
-# SCPY142 - Physics for Medical Students
+# 
 
 * [SCPY142 - Physics for Medical Students](SCPY142%20-%20Physics%20for%20Medical%20Students.md)
   * [01 - Kinematic](01%20-%20Kinematic.md)

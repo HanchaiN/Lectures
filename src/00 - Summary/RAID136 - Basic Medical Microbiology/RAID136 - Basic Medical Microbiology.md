@@ -1,4 +1,4 @@
-# RAID136 - Basic Medical Microbiology
+# 
 
 * [RAID136 - Basic Medical Microbiology](RAID136%20-%20Basic%20Medical%20Microbiology.md)
   * [01 - Introduction to Infectious Diseases](01%20-%20Introduction%20to%20Infectious%20Diseases.md)

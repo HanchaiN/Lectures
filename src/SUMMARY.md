@@ -6,7 +6,7 @@
 
 ## Year 1 Semester 1
 
-# SCCH105 - General Chemistry
+# 
 
 * [SCCH105 - General Chemistry](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/SCCH105%20-%20General%20Chemistry.md)
   * [01 - Atomic Structure and Atomic Theory](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)
@@ -19,7 +19,7 @@
   * [07 - Ionic Equilibrium](00%20-%20Summary/SCCH105%20-%20General%20Chemistry/07%20-%20Ionic%20Equilibrium.md)  
 
 
-# SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science
+# 
 
 * [SCMA104 - System of Ordinary Differential Equations and Applications in Medical Science](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science.md)
   * [01 - Limit and Continuity](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/01%20-%20Limit%20and%20Continuity.md)
@@ -29,7 +29,7 @@
   * [05 - System of Differential Equations](00%20-%20Summary/SCMA104%20-%20System%20of%20Ordinary%20Differential%20Equations%20and%20Applications%20in%20Medical%20Science/05%20-%20System%20of%20Differential%20Equations.md)  
 
 
-# SCPY142 - Physics for Medical Students
+# 
 
 * [SCPY142 - Physics for Medical Students](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/SCPY142%20-%20Physics%20for%20Medical%20Students.md)
   * [01 - Kinematic](00%20-%20Summary/SCPY142%20-%20Physics%20for%20Medical%20Students/01%20-%20Kinematic.md)
@@ -45,7 +45,7 @@
 
 ## Year 1 Semester 2
 
-# SCCH134 - Organic Chemistry for Medical Science
+# 
 
 * [SCCH134 - Organic Chemistry for Medical Science](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science.md)
   * [01 - Structure and Bonding](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/01%20-%20Structure%20and%20Bonding.md)
@@ -93,7 +93,7 @@
     * [10B - Reactions of Amines](00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/10B%20-%20Reactions%20of%20Amines.md)  
 
 
-# RAID135 - Molecular and Cellular Basis for Medicine
+# 
 
 * [RAID135 - Molecular and Cellular Basis for Medicine](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine.md)
   * [01 - Protein Structure and Concept of Bio-catalysis and Enzyme Kinetics](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/01%20-%20Protein%20Structure%20and%20Concept%20of%20Bio-catalysis%20and%20Enzyme%20Kinetics.md)
@@ -105,7 +105,7 @@
   * [07 - DNA technology & Application](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/07%20-%20DNA%20technology%20&%20Application.md)  
 
 
-# RAID136 - Basic Medical Microbiology
+# 
 
 * [RAID136 - Basic Medical Microbiology](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/RAID136%20-%20Basic%20Medical%20Microbiology.md)
   * [01 - Introduction to Infectious Diseases](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/01%20-%20Introduction%20to%20Infectious%20Diseases.md)
@@ -113,7 +113,7 @@
   * [03 - Structure, Growth and Metabolism of Bacteria](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/03%20-%20Structure,%20Growth%20and%20Metabolism%20of%20Bacteria.md)  
 
 
-# RAID137 - Basic Human Structure and Development
+# 
 
 * [RAID137 - Basic Human Structure and Development](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/RAID137%20-%20Basic%20Human%20Structure%20and%20Development.md)
   * [03 - See Inside the Body](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/03%20-%20See%20Inside%20the%20Body.md)
