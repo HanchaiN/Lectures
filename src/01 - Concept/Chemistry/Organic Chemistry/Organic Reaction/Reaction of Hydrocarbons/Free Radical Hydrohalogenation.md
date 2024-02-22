@@ -11,14 +11,14 @@ $$
 |[Alkyne](../../Functional%20Group/Alkynyl%20Group.md)|$\ce{2HX}$,<br>
 [Peroxide](../../Functional%20Group/Peroxy%20Group.md) or [Hydroperoxide](../../Functional%20Group/Hydroperoxy%20Group.md) or $\ce{H2O2}$<br>Heat|[Carbon Radical](../Reaction%20Component/Carbon%20Radical.md)|gem-di[Halide](../../Functional%20Group/Halo%20Group.md)|
 
-* Mechanism: [Non-stereospecific](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md#non-stereospecific) [Anti-Markovnikov](../Regioselectivity/Anti-Markovnikov%20Addition.md) [Radical](../Reaction%20Component/Free%20Radical.md) [Addition](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md)
-  1. Initiation Step
-     1. $\ce{RO-OR ->\[\\Delta\] .OR}$
-     1. $\ce{HX ->\[+RO.\]\[-ROH\] X.}$
-        * Note: $\ce{X.} > \ce{H.}$
-  1. Propagation Step
-     1. $\ce{R=R ->\[+X.\] R.-RX}$
-     1. $\ce{R.-RX ->\[+HX\]\[-X.\] RH-RX}$
+* Mechanism: [Non-stereospecific](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md#non-stereospecific) [Anti-Markovnikov](../Regioselectivity/Anti-Markovnikov%20Addition.md) [Radical](../Reaction%20Component/Free%20Radical.md) [Addition](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md)  
+  1. Initiation Step  
+  1. $\ce{RO-OR ->\[\\Delta\] .OR}$  
+  2. $\ce{HX ->\[+RO.\]\[-ROH\] X.}$  
+  - Note: $\ce{X.} > \ce{H.}$  
+  2. Propagation Step  
+  1. $\ce{R=R ->\[+X.\] R.-RX}$  
+  2. $\ce{R.-RX ->\[+HX\]\[-X.\] RH-RX}$
 * [Carbon Radical](../Reaction%20Component/Carbon%20Radical.md) Attract Hydrogen → [Anti-Markovnikov](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md#anti-markovnikov)
 
 ## Reference

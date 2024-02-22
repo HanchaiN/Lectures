@@ -1,7 +1,7 @@
 # SCCH105 - General Chemistry
 
-* [01 - Atomic Structure and Atomic Theory](01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)
-  * [01A - Introduction to Quantum Mechanics](01A%20-%20Introduction%20to%20Quantum%20Mechanics.md)
+* [01 - Atomic Structure and Atomic Theory](01%20-%20Atomic%20Structure%20and%20Atomic%20Theory.md)  
+  - [01A - Introduction to Quantum Mechanics](01A%20-%20Introduction%20to%20Quantum%20Mechanics.md)
 * [02 - Chemical Bonding](02%20-%20Chemical%20Bonding.md)
 * *03 - The Properties of Matters and Solutions*
 * [04 - Thermodynamics](04%20-%20Thermodynamics.md)

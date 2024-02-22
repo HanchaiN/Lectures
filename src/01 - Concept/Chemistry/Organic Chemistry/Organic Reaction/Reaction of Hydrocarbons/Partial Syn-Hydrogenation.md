@@ -8,8 +8,8 @@ $$
 |-----------------|-------|------------|-------|
 |[Alkyne](../../Functional%20Group/Alkynyl%20Group.md)|$\ce{H2}$,<br>$\ce{Pd / BaSO4}$ or $\ce{Pd / CaCO3}$|-|cis-[Alkene](../../Functional%20Group/Alkenyl%20Group.md)|
 
-* Mechanism: [Syn](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md#syn)-[Addition](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md)
-  * [Hydrogenation](Hydrogenation.md)
+* Mechanism: [Syn](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md#syn)-[Addition](../Classification%20of%20Organic%20Reaction/Addition%20Reaction.md)  
+  - [Hydrogenation](Hydrogenation.md)
 
 ## Reference
 

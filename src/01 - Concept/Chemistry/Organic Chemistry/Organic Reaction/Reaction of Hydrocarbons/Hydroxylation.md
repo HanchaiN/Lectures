@@ -11,17 +11,17 @@ $$
 
 * Reagent
   * TBHP (tert-Butylhydroperoxide) $\ce{(CH3)3C-O-OH}$
-* Mechanism: [Radical](../Reaction%20Component/Free%20Radical.md) [Substitution](../Classification%20of%20Organic%20Reaction/Substitution%20Reaction.md)
-  1. Peroxidation
-     1. Initiation Step
-        1. $\ce{R-O-OH ->\[h\nu / \Delta\] R-O. + HO.}$
-     1. Propagation Step
-        1. $\ce{R-H + HO. -> R. + H2O}$
-        1. $\ce{R. + O2 -> R-O-O.}$
-        1. $\ce{R-O-O. + R-H -> R-O-OH + R.}$
-  1. Termination
-     1. $\ce{R-O-OH + R. -> R-O. + R-OH}$
-     1. $\ce{R-O. + R-H -> R-OH + R.}$
+* Mechanism: [Radical](../Reaction%20Component/Free%20Radical.md) [Substitution](../Classification%20of%20Organic%20Reaction/Substitution%20Reaction.md)  
+  1. Peroxidation  
+  2. Initiation Step  
+  1. $\ce{R-O-OH ->\[h\nu / \Delta\] R-O. + HO.}$  
+  3. Propagation Step  
+  1. $\ce{R-H + HO. -> R. + H2O}$  
+  2. $\ce{R. + O2 -> R-O-O.}$  
+  3. $\ce{R-O-O. + R-H -> R-O-OH + R.}$  
+  4. Termination  
+  5. $\ce{R-O-OH + R. -> R-O. + R-OH}$  
+  6. $\ce{R-O. + R-H -> R-OH + R.}$
 * [Carbon Radical](../Reaction%20Component/Carbon%20Radical.md) Attract [Hydroxyl Group](../../Functional%20Group/Hydroxyl%20Group.md) → Prefer Tertiary Alcohol (and Allylic / Benzylic)
 
 ## Reference

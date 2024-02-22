@@ -2,7 +2,7 @@
 
 $$
 \\vec{\mu} = q\vec{d}
-$$
+$$ 
 
 * $q$ : Partial parts $\delta^+$-$\delta^-$ and $d$ : Distance between partial parts
 * $\pu{1 D}=\pu{1 C\*m}$

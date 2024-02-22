@@ -20,10 +20,10 @@
       * Depends on stability of $\ce{X-}$
         * Prefer protic solvent (with possible $\ce{H+}$)
     * Mechanism: Stepwise  
-      1. $\ce{R-X ->\[- X-\] R+}$  
-      - Rate Determining Step  
-      - Possible Rearrangement  
-      2. $\ce{R+ ->\[+ Nu-\] R-Nu}$
+      1. $\ce{R-X ->\[- X-\] R+}$
+    * Rate Determining Step
+    * Possible Rearrangement  
+      1. $\ce{R+ ->\[+ Nu-\] R-Nu}$
   * Bimolecular Nucleophilic Substitution $\ce{S\_{N}2}$
     * Stereospecific (Inversion)
     * $r=k\left\[\\ce{RX}\right\]\\left\[\\ce{Nu-}\right\]$
@@ -44,10 +44,10 @@
       * Depends on stability of $\ce{R+}$
         * $3\degree>2\degree\gg1\degree$
     * Mechanism: Stepwise  
-      1. $\ce{RX-RH ->\[- X-\] R+-RH}$  
-      - Rate Determining Step  
-      - Possible Rearrangement  
-      2. $\ce{R+-RH ->\[- H+\] R=R}$
+      1. $\ce{RX-RH ->\[- X-\] R+-RH}$
+    * Rate Determining Step
+    * Possible Rearrangement  
+      1. $\ce{R+-RH ->\[- H+\] R=R}$
   * Bimolecular Elimination $\ce{E2}$ : $\ce{RX-RH ->\[+ Nu-\]\[- H-Nu, - X\] R=R}$
     * Anti-Elimination → Only *cis*- or *trans*-
       * Note: For cyclohexane, only 1,2-diaxial are anti (1,2-diequatorial is gauche)

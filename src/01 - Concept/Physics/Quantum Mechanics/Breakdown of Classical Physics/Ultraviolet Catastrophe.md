@@ -2,8 +2,8 @@
 
 * Quantization of Energy: Package of Light
 * Classical black body radiation → infinite energy (infinite UV radiation)
-* Solution (Max Plank): Quantize light's energy to photon $E=h\nu$
-  * Classically, $h\to 0$ for continuous energy level
+* Solution (Max Plank): Quantize light's energy to photon $E=h\nu$  
+  - Classically, $h\to 0$ for continuous energy level
 
 ## Reference
 

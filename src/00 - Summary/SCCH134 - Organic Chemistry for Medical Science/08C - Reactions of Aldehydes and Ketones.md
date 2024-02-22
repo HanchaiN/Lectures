@@ -23,11 +23,11 @@
       * Water $\ce{H2O}$ → 1,1-diol
       * Alcohol $\ce{R-OH}$ → hemiacetal / hemiketal → acetal / ketal
         * $\ce{R-CO-R \<=>\[+ ROH\]\[- ROH\] R-C(OH)(OR)-R \<=>\[H+,+ ROH\]\[H+,- ROH\] R-C(OR)2-R}$
-          * Note: $\ce{H+}$ is optional catalyst for hemiacetal / hemiketal formation
+        * Note: $\ce{H+}$ is optional catalyst for hemiacetal / hemiketal formation
         * Can substituted to acetal/ketal to avoid reduction
-          * Cycle of length $\le4$ is unstable
-          * Cycle of length $\ge8$ / Acyclic is dispersive
-          * Recommend Length 5: $\ce{HOCH2CH2OH}$; 6: $\ce{HOCH2CH2CH2OH}$
+        * Cycle of length $\le4$ is unstable
+        * Cycle of length $\ge8$ / Acyclic is dispersive
+        * Recommend Length 5: $\ce{HOCH2CH2OH}$; 6: $\ce{HOCH2CH2CH2OH}$
 * Nucleophilic Substitution (Addition + Elimination)
   * Nitrogen Nucleophile
     * Primary Amine → Imine: $\ce{R-CO-H ->\[R-NH2\]\[-H2O\] R-C(=NR)-H}$

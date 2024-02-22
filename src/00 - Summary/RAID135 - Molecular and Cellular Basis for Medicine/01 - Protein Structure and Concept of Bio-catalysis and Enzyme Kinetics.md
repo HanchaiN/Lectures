@@ -85,14 +85,14 @@
     * TTP / FAD / NAD / CoA
   * Holoenzyme: Catalytically active complex of proteins and prosthetic group
   * Apoenzyme: Protein without prosthetic group (usually inactive)
-* Flexible & Dynamic
-  1. Proximity, Orientation
-  1. Weak Binding → Conformal change
-  1. Transition-State Stabilization
-  1. Reaction
-     * Acid-Base Catalysis: Proton transfer
-     * Covalent Catalysis: Transient covalent bond
-     * Metal Ion Catalysis: Metalloenzyme
+* Flexible & Dynamic  
+  1. Proximity, Orientation  
+  2. Weak Binding → Conformal change  
+  3. Transition-State Stabilization  
+  4. Reaction
+  * Acid-Base Catalysis: Proton transfer
+  * Covalent Catalysis: Transient covalent bond
+  * Metal Ion Catalysis: Metalloenzyme
 * Enzyme Kinetics
   * Rate vs Substrate Concentration: Hyperbolic Relationship
     * $r=\frac{r\_\\text{max}\left\[\\ce{S}\right\]}{K\_{M} + \left\[\\ce{S}\right\]}$ → $\frac{1}{v} = \frac{K\_{M}}{r\_\\text{max}}\frac{1}{\left\[\\ce{S}\right\]} + \frac{1}{r\_\\text{max}}$

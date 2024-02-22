@@ -27,12 +27,12 @@
     * Stability of Alkene (Most stable to Least stable)  
       1. Tetrasubstituted Alkene $\ce{R2C=CR2}$  
       2. Trisubstituted Alkene $\ce{R2C=CHR}$  
-      3. Disubstituted Alkene (Have multiple forms; May compare steric)  
-      - trans-Disubstituted Alkene $\ce{RHC=CHR}$  
-      - cis-Disubstituted Alkene $\ce{RHC=CHR}$  
-      - 1,2-Disubstituted Alkene $\ce{R2C=CH2}$  
-      4. Monosubstituted Alkene $\ce{RHC=CH2}$  
-      5. Ethylene $\ce{H2C=CH2}$
+      3. Disubstituted Alkene (Have multiple forms; May compare steric)
+    * trans-Disubstituted Alkene $\ce{RHC=CHR}$
+    * cis-Disubstituted Alkene $\ce{RHC=CHR}$
+    * 1,2-Disubstituted Alkene $\ce{R2C=CH2}$  
+      1. Monosubstituted Alkene $\ce{RHC=CH2}$  
+      2. Ethylene $\ce{H2C=CH2}$
     * Zaitsev Elimination
     * Hofmann Elimination: Opposite (Steric Interaction)
       * Apply when Large Leaving Group and/or Alkali (Attacker)

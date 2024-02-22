@@ -107,14 +107,14 @@
       * Zona fasciculata → Glucocorticoids (Cortisol)
         * Increase blood glucose
         * Hypersecretion → Cushing's Disease
-          * Lipid deposits on face and neck
-            * Moon Face
-            * Buffalo hump
-          * Pituitary Tumor → High ACTH → High Cortisol
-          * Weight Gain
+        * Lipid deposits on face and neck
+          * Moon Face
+          * Buffalo hump
+        * Pituitary Tumor → High ACTH → High Cortisol
+        * Weight Gain
         * Hyposecretion → Addison's Disease
-          * Vague; Slow symptoms development
-          * Fatigue, Hyperpigmentation, Salt Craving, Weight loss
+        * Vague; Slow symptoms development
+        * Fatigue, Hyperpigmentation, Salt Craving, Weight loss
       * Zona Reticularis → Sex Hormones (Androgens)
         * Reproductive Development
   * Adrenal Medulla (Inner)

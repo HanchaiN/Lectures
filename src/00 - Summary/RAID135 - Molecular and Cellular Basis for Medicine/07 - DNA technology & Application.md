@@ -30,9 +30,9 @@
     * Originally bacterial immune response against viruses
       * Recognize invader's sequence
         * Bacterial gene includes Cas genes and Repeat-Spacer region
-          * Repeat-Spacer → Guide crRNA
-          * Cas genes → Cas Complex
-          * Cas Complex + crRNA → Protospacer
+        * Repeat-Spacer → Guide crRNA
+        * Cas genes → Cas Complex
+        * Cas Complex + crRNA → Protospacer
       * Activate destruction system
       * Binds with invader's sequence and eliminate
     * Application in gene therapy

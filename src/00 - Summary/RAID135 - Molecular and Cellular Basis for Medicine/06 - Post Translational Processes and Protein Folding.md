@@ -22,20 +22,20 @@
       * Heat Shock Protein (Hsp)
         * Molecular weight: thousands atomic unit
         * Hsp70 Family
-          * Assist in folding (early)
-          * Reverse denaturation & Aggregation
-          * May assisted by Hsp40 (Cochaperones; associated protein)
-          * Normally bound with ATP
+        * Assist in folding (early)
+        * Reverse denaturation & Aggregation
+        * May assisted by Hsp40 (Cochaperones; associated protein)
+        * Normally bound with ATP
         * Hsp90 Family
-          * Assist in folding (late) for cellular signaling
+        * Assist in folding (late) for cellular signaling
         * Hsp60 Family (Chaperonins)
-          * Induce refolding of improperly folded protein
-          * Bind proteins in barrel-like structure
-          * In Prokaryote: GroEL, GroES
-          * In Eukaryote: Hsp60, TriC, (& CCT)
+        * Induce refolding of improperly folded protein
+        * Bind proteins in barrel-like structure
+        * In Prokaryote: GroEL, GroES
+        * In Eukaryote: Hsp60, TriC, (& CCT)
         * Trigger Factor
-          * Prevent aggregation (early)
-          * In Eukaryote: Nascent chain-Associated Complex (NAC)
+        * Prevent aggregation (early)
+        * In Eukaryote: Nascent chain-Associated Complex (NAC)
   * $\approx \pu{85 %}$: Spontaneous Folding (may utilize Hsp70, which requires ATP)
     * Hsp70 + Hsp40 binds with nascent polypeptide
     * Hsp70 binding tighten via ATP Hydrolysis
@@ -46,10 +46,10 @@
         * ![GroES-GroEL.png|200](https://upload.wikimedia.org/wikipedia/commons/9/9e/GroES-GroEL.png)
         * GroES (Co-chaperonin): Cap (7 subunits; blue)
         * GroEL: 2 rings (7 subunits each)
-          * Cis ring: Same side as cap (green-red/blue)
-          * Trans ring: Opposite side as cap (red/blue-green)
+        * Cis ring: Same side as cap (green-red/blue)
+        * Trans ring: Opposite side as cap (red/blue-green)
         * Double-barrel structure w/ central cavity
-          * Isolated Space → Avoid Molecular Crowding → Properly Folding
+        * Isolated Space → Avoid Molecular Crowding → Properly Folding
       * Hsp70 → Partially folded protein
         * Detached from Hsp70 → Transfer to Chaperonin
       * Substrate protein enters in GroEL cis ring (bound to 7 ATP)
@@ -64,8 +64,8 @@
         * Trans Ring acts as Cis Ring; Binds with GroES cap
       * One cycle: 7 ATP (per substrate protein)
         * Portion of substrate proteins are folded each cycle
-          * Exponential decay of unfolded ratio
-          * In calculation, round up. (If half are fold, it means at least half are folded.)
+        * Exponential decay of unfolded ratio
+        * In calculation, round up. (If half are fold, it means at least half are folded.)
   * Protein Misfolding Disease
     * At least 35 fatal human diseases
     * Gain of Function
@@ -105,15 +105,15 @@
       * Reversible (Deacetylation)
       * e.g. Histone Modification (Lysine at N-terminal)
         * Histone acetyltransferase (HAT) & Histone deacetylase (HDAC)
-          * Acetyl CoA as Donor
+        * Acetyl CoA as Donor
         * Decreased positive charge from Histone → Less affinity w/ DNA → Open chromatin state
         * Related Disease: Cancer
     * Methylation ($\ce{-CH3}$)
       * Reversible (Demethylation)
       * e.g. Histone Modification (Lysine at N-terminal)
         * Histone methyltransferase & Histone demethylase (aka Amine oxidase)
-          * SAM (S-adenosyl-L-methionine) as Donor
-            * Product: SAH (S-adenosyl-L-homocysteine)
+        * SAM (S-adenosyl-L-methionine) as Donor
+          * Product: SAH (S-adenosyl-L-homocysteine)
         * Activation / Deactivation depends on where and how much is methylated: Histone Code
         * Related Disease: Cancer
     * Ubiquitination ($\ce{-Ub}$; via Ubiquitin ligase)
@@ -121,13 +121,13 @@
       * Ubiquitin as Donor
       * Mark proteins for degradation (must be tightly regulated)
         * E1: Ubiquitin-activating Enzyme (Ubiquitination of E1)
-          * $\ce{Ub-COO- + ATP ->\[E1\] Ub-CO-AMP + 2 Pi}$
-          * $\ce{Ub-CO-AMP + E1-SH -> E1-S-CO-Ub + AMP}$
+        * $\ce{Ub-COO- + ATP ->\[E1\] Ub-CO-AMP + 2 Pi}$
+        * $\ce{Ub-CO-AMP + E1-SH -> E1-S-CO-Ub + AMP}$
         * E2: Ubiquitin-carrier Protein (Transfer Ub from E1 to E2)
-          * $\ce{E1-S-CO-Ub + E2-SH -> E2-S-CO-Ub + S1-SH}$
+        * $\ce{E1-S-CO-Ub + E2-SH -> E2-S-CO-Ub + S1-SH}$
         * E3: Ligase (Bind E2-Ub and Protein to E3; Transfer Ub from E2 to Protein)
-          * $\ce{E3 + PP -> E3:PP}$ ($\ce{PP}$ = Target Protein)
-          * $\ce{E3:PP + E2-S-CO-Ub -> PP-Ub + E3 + E2-SH}$
+        * $\ce{E3 + PP -> E3:PP}$ ($\ce{PP}$ = Target Protein)
+        * $\ce{E3:PP + E2-S-CO-Ub -> PP-Ub + E3 + E2-SH}$
         * Can repeated to at least 4 Ub ($\ce{PP-Ub-Ub-Ub-Ub}$) for certain marking
   * Degradation
     * Dispose of aberrant protein / excessive protein (marked with Ubiquitin)

@@ -6,9 +6,9 @@ $$
 \\mathbf{y}^{\prime}=\mathbf{A}\mathbf{y}+\mathbf{b}
 $$
 
-* General solution: $\mathbf{y}*{c}+\mathbf{y}*{p}$ where
-  * Complementary function ($\mathbf{y}\_{c}$) is the solutions of $\mathbf{y}^{\prime}=\mathbf{A}\mathbf{y}$ ([Homogeneous LDE](System%20of%20Homogeneous%20Linear%20Differential%20Equations.md)).
-  * Particular integral ($\mathbf{y}\_{p}$) is a solution of the equation.
+* General solution: $\mathbf{y}*{c}+\mathbf{y}*{p}$ where  
+  - Complementary function ($\mathbf{y}*{c}$) is the solutions of $\mathbf{y}^{\prime}=\mathbf{A}\mathbf{y}$ ([Homogeneous LDE](System%20of%20Homogeneous%20Linear%20Differential%20Equations.md)).  
+  - Particular integral ($\mathbf{y}*{p}$) is a solution of the equation.
 
 ## Solving Techniques
 

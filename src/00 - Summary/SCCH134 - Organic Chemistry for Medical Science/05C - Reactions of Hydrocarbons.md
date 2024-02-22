@@ -12,14 +12,14 @@
     * Discoloration of Halogens in bright condition
     * Mechanism (Radical Mechanism)  
       1. Initiation Step  
-      1. $\ce{X2 ->\[h\nu / \Delta\] 2X.}$  
-      2. Propagation Step  
-      1. $\ce{R-H + X. -> R. + HX}$  
-      2. $\ce{R. + X2 -> R-X + X.}$  
-      3. Termination Step  
-      1. $\ce{2X. -> X2}$  
-      2. $\ce{R. + R. -> R-R}$  
-      3. $\ce{R. + X. -> R-X}$
+      2. $\ce{X2 ->\[h\nu / \Delta\] 2X.}$  
+      3. Propagation Step  
+      4. $\ce{R-H + X. -> R. + HX}$  
+      5. $\ce{R. + X2 -> R-X + X.}$  
+      6. Termination Step  
+      7. $\ce{2X. -> X2}$  
+      8. $\ce{R. + R. -> R-R}$  
+      9. $\ce{R. + X. -> R-X}$
     * Prefer $\ce{Br.}$
       * Stability of halogen radical: $\ce{I.} > \ce{Br.} > \ce{Cl.}$
       * Reactivity of halogen radical: $\ce{I.} \< \ce{Br.} \< \ce{Cl.}$
@@ -37,15 +37,15 @@
     * Reagent: TBHP (tert-Butylhydroperoxide) $\ce{(CH3)3C-O-OH}$
     * Mechanism (Radical Mechanism)  
       1. Peroxidation  
-      1. Initiation Step  
+      2. Initiation Step  
       1. $\ce{R-O-OH ->\[h\nu / \Delta\] R-O. + HO.}$  
-      2. Propagation Step  
+      3. Propagation Step  
       1. $\ce{R-H + HO. -> R. + H2O}$  
       2. $\ce{R. + O2 -> R-O-O.}$  
       3. $\ce{R-O-O. + R-H -> R-O-OH + R.}$  
-      2. Termination  
-      1. $\ce{R-O-OH + R. -> R-O. + R-OH}$  
-      2. $\ce{R-O. + R-H -> R-OH + R.}$
+      4. Termination  
+      5. $\ce{R-O-OH + R. -> R-O. + R-OH}$  
+      6. $\ce{R-O. + R-H -> R-OH + R.}$
 * Addition Reaction
   * Hydrogenation: $\ce{R=R + H2 ->\[Pd / C\] RH-RH}$ and $\ce{R#R + 2H2 ->\[Pd / C\] RH2-RH2}$
     * Catalyst
@@ -59,12 +59,12 @@
       * Alkene addition: Concerted (Ring transition state → Syn-Addition)  
         1. $\ce{H-H + 2 M \<-> 2 H-M}$  
         2. $\ce{C=C + 2 H-M -> CH-CH}$
-      * Alkyne Full Addition: 2 x Alkene Addition
-      * Alkyne Syn Addition: 1 x Alkene Addition
-      * Alkyne Anti Addition  
-        1. $\ce{R-C#C-R ->\[+M\]\[-M+\] R-C.=C^{-}-R ->\[+NH3\]\[-NH2-\] R-C.=CH-R}$  
-        - Anti Addition from the steric effect and *cis*-radical anion electronic repulsion in $\ce{R-C.=C^{-}-R}$ → Prefer *trans*-  
-        2. $\ce{R-C.=CH-R ->\[+M\]\[-M+\] R-C^{-}=CH-R ->\[+NH3\]\[-NH2-\] C-RH=RH-C}$
+    * Alkyne Full Addition: 2 x Alkene Addition
+    * Alkyne Syn Addition: 1 x Alkene Addition
+    * Alkyne Anti Addition  
+      1. $\ce{R-C#C-R ->\[+M\]\[-M+\] R-C.=C^{-}-R ->\[+NH3\]\[-NH2-\] R-C.=CH-R}$  
+      - Anti Addition from the steric effect and *cis*-radical anion electronic repulsion in $\ce{R-C.=C^{-}-R}$ → Prefer *trans*-  
+      2. $\ce{R-C.=CH-R ->\[+M\]\[-M+\] R-C^{-}=CH-R ->\[+NH3\]\[-NH2-\] C-RH=RH-C}$
   * Halohydrin Formation: $\ce{R=R ->\[X2\]\[ROH\] R(OR)-R(X)}$
     * Anti-Addition
       * Ring Intermediate + Stereospecific (Inversion) Substitution ($\ce{S\_{N}2}$) → Anti-addition
@@ -80,16 +80,16 @@
     * Discoloration of Halogens in dark condition
     * Mechanism  
       ![Alkene-bromine-addition-2D-skeletal.png](https://upload.wikimedia.org/wikipedia/commons/3/33/Alkene-bromine-addition-2D-skeletal.png)  
-      1. $\ce{R=R + X-X -> R(X+)R + X-}$  
-      - Note: Halonium ($\ce{RX+R}$) is a ring  
-      2. $\ce{RX+R + X- -> RX-RX}$  
-      - Nucleophilic Substitution $\ce{S\_{N}2}$
+      1. $\ce{R=R + X-X -> R(X+)R + X-}$
+    * Note: Halonium ($\ce{RX+R}$) is a ring  
+      1. $\ce{RX+R + X- -> RX-RX}$
+    * Nucleophilic Substitution $\ce{S\_{N}2}$
   * Hydrohalogenation: $\ce{R=R + HX -> RX-RH}$
     * Non-stereospecific Electrophilic Addition
       * Carbocation Intermediate → Non-stereospecific
       * Carbocation Intermediate + Attract Functional Group
         * Markovnikov Addition → $\ce{H}$ prefer $\ce{C}$ with more $\ce{H}$
-          * Alkyne $\ce{R#R + 2 HX -> RX2-RH2}$
+        * Alkyne $\ce{R#R + 2 HX -> RX2-RH2}$
         * Possible Rearrangement
     * Mechanism (Ionic Mechanism)  
       1. $\ce{R=R + H-X -> R+-RH + X-}$  
@@ -99,16 +99,16 @@
       * Carbon Radical Intermediate → Non-stereospecific
       * Carbon Radical Intermediate + Attacked by Function Group
         * Anti-Markovnikov Addition → $\ce{H}$ disfavor $\ce{C}$ with more $\ce{H}$
-          * Alkyne $\ce{R#R + 2 HX ->\[H2O2\] RH2-RX2}$
+        * Alkyne $\ce{R#R + 2 HX ->\[H2O2\] RH2-RX2}$
     * Reagent: $\ce{H2O2}$ or $\ce{ROOR}$ or $\ce{O2}$
     * Mechanism (Radical Mechanism)  
       1. Initiation Step  
-      1. $\ce{RO-OR ->\[\\Delta\] .OR}$  
-      2. $\ce{HX ->\[+RO.\]\[-ROH\] X.}$  
+      2. $\ce{RO-OR ->\[\\Delta\] .OR}$  
+      3. $\ce{HX ->\[+RO.\]\[-ROH\] X.}$  
       - Note: Halogen Radical is more stable than Hydrogen Radical  
-      2. Propagation Step  
-      1. $\ce{R=R ->\[+X.\] R.-RX}$  
-      2. $\ce{R.-RX ->\[+HX\]\[-X.\] RH-RX}$
+      4. Propagation Step  
+      5. $\ce{R=R ->\[+X.\] R.-RX}$  
+      6. $\ce{R.-RX ->\[+HX\]\[-X.\] RH-RX}$
   * Hydration Reaction (acid-catalyzed): $\ce{R=R + H2O ->\[H+\] ROH-RH}$
     * Non-stereospecific Electrophilic Addition
       * Carbocation Intermediate → Non-stereospecific
@@ -141,10 +141,10 @@
       * Use $\ce{R2BH}$ instead of $\ce{BH3}$ (One Hydride → Avoid Multiple Addition)
     * Mechanism  
       1. Hydroboration  
-      1. $\ce{R=R ->\[+BH3\] RH-R(BH2)}$  
-      2. $\ce{RH-R(BH2) ->\[+2R=R\] (RH-R)3B}$  
-      2. Oxidation  
-      1. $\ce{(RH-R)3B ->\[H2O2,NaOH\] 3RH-ROH + B(OH)3}$
+      2. $\ce{R=R ->\[+BH3\] RH-R(BH2)}$  
+      3. $\ce{RH-R(BH2) ->\[+2R=R\] (RH-R)3B}$  
+      4. Oxidation  
+      5. $\ce{(RH-R)3B ->\[H2O2,NaOH\] 3RH-ROH + B(OH)3}$
   * Epoxidation Reaction: $\ce{R=R + R-CO-O-OH -> R-Ep-R + RO-OH}$
     * Syn-Addition
       * Addition w/ ring product → Syn-Addition
@@ -208,9 +208,9 @@
            $\ce{-NH2}, \ce{-NHR}, \ce{-NR2} > \ce{-OH} > \ce{-OR} > \ce{-NH-CO-R} > \ce{-O-CO-R}$
         1. $\sigma$-donors (Negative Inductive):  
            $\ce{-CH} > \ce{-R} > \ce{-Ar} > \ce{-H}$
-        1. Halogens (Negative Resonance + Positive Inductive):
-           * *o*-/*p*-directing (have electron to donate)
-           * Deactivating (high EN and induce positive phenol)
+        1. Halogens (Negative Resonance + Positive Inductive):  
+           - *o*-/*p*-directing (have electron to donate)  
+           - Deactivating (high EN and induce positive phenol)
         1. Carbonyls and Others (Positive Inductive):  
            $\ce{-CHO}, \ce{-COR} \< \ce{-SO3H} \< \ce{-COOH} \< \ce{-C#N} \< \ce{-N+R3} \< \ce{-NO2}$
   * Mechanism  

@@ -41,9 +41,9 @@
         * Allylic Carbanion
         * Benzylic Carbanion
         * $\alpha$-carbanion
-          * Ketone: $\ce{R-C(=O)-C^{-} \<-> R-C(-O-)=C}$
-          * Nitrile: $\ce{N#C-C- \<-> N^{-}=C=C}$
-          * Niro: $\ce{O^{-}-N^{+}(=O)-C^{-} \<-> O^{-}-N^{+}(-O-)=C}$
+        * Ketone: $\ce{R-C(=O)-C^{-} \<-> R-C(-O-)=C}$
+        * Nitrile: $\ce{N#C-C- \<-> N^{-}=C=C}$
+        * Niro: $\ce{O^{-}-N^{+}(=O)-C^{-} \<-> O^{-}-N^{+}(-O-)=C}$
         * Aromatic Carbanion
 
 ## Reference

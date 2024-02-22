@@ -104,8 +104,8 @@
         * Start codon: AUG, GUG, or UUG
       * 7-methylguanosine cap: Locate Start codon in Eukaryote
         * Kozak's Rule (Eukaryote)
-          * A/G at -3; G at +4 → eIF5 release IFs → 60S + 40S
-          * Start codon: AUG
+        * A/G at -3; G at +4 → eIF5 release IFs → 60S + 40S
+        * Start codon: AUG
 * Elongation (Elongation Factor; EF)
   * 15-20 AA per sec (Prokaryote); 2-6 AA per sec (Eukaryote)
   * Aminoacyl-tRNA binds with A site

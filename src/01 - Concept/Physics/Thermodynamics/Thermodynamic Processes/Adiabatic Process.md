@@ -5,8 +5,8 @@ $$
 $$
 
 * $W=\Delta U=C\_{V}nR\Delta T$
-* $PV^{\gamma}\sim\text{const.}$
-  * $\gamma=\frac{C\_{P}}{C\_{V}}=1+\frac{2}{f}$
+* $PV^{\gamma}\sim\text{const.}$  
+  - $\gamma=\frac{C\_{P}}{C\_{V}}=1+\frac{2}{f}$
 
 ## Related Topics
 

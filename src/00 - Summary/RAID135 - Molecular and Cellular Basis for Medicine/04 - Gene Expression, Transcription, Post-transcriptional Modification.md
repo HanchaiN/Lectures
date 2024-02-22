@@ -11,13 +11,13 @@
       * lncRNA: long non-coding ($\ge 200$ nucleotides)
       * small ncRNA (new, researching)
         * microRNA (19-22 nucleotides)
-          * Regulate stability & translation of mRNAs
+        * Regulate stability & translation of mRNAs
         * snoRNA (small nucleolar RNA)
-          * Processing rRNAs in nucleolus
+        * Processing rRNAs in nucleolus
         * siRNA (small interfering RNA)
-          * Inhibit virus production
+        * Inhibit virus production
         * snRNA (small nuclear RNA)
-          * Spliceosome: splicing eukaryotic RNAs
+        * Spliceosome: splicing eukaryotic RNAs
         * piRNA (Piwi-interacting RNA)
 * mRNA
   * 5'-Cap
@@ -95,16 +95,16 @@
         * GC boxes, CAAT boxes
       * Attached by transcription factors (up to -100 kb)
         * Enhancer Sequence + Activator (or Coactivator) Protein
-          * Mediating complex fomation → increase transcription rate
+        * Mediating complex fomation → increase transcription rate
         * Silencer Sequence + Repressor (or Corepressor) Protein
-          * Preventing complex fomation → decrease transcription rate
+        * Preventing complex fomation → decrease transcription rate
     * Promoter (Sequence)
       * Flexible Promoter
       * Different between RNA Pols
       * (Pol II)
         * TATAAA (TATA box; -25 bp)
         * 2 Pyrimidine + C + A + 5 Pyrimidine
-          * Begin translation at A (+1)
+        * Begin translation at A (+1)
     * RNA Pol binds with transcription factor
       * Catalyzed by Mediator
     * RNA Pol (w/ transcription factor) phosphorylate at C-terminal→ Activation

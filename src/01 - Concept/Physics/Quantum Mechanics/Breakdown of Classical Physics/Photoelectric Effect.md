@@ -1,10 +1,10 @@
 # Photoelectric Effect
 
 * Matter Behavior of Wave: Collision of photon and electron
-* Classical
-  * Instant ejection
-  * Light intensity → Energy → Current
-  * Light frequency → Energy → Current (no critical frequency)
+* Classical  
+  - Instant ejection  
+  - Light intensity → Energy → Current  
+  - Light frequency → Energy → Current (no critical frequency)
 * $E\_{k,\text{max}}=h\nu-W$  
   $W=h\nu_0$: Work function (Binding energy of electron w/ material)  
   $\nu_0$: Critical frequency (Minimum frequency)

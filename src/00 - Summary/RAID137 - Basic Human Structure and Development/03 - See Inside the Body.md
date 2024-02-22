@@ -52,14 +52,14 @@
       * Mediastinum
         * Superior Mediastinum
         * Inferior Mediastinum
-          * Pericardial cavity (Heart)
+        * Pericardial cavity (Heart)
     * Abdominopelvic
       * Abdominal
         * ![Abdominal Quadrant Regions.jpg|500](https://upload.wikimedia.org/wikipedia/commons/c/c9/Abdominal_Quadrant_Regions.jpg)
         * 9 Regions
-          * Transverse Plane
-            * Subcostal Plane (Superior)
-            * Transtubercular Plane (Inferior)
+        * Transverse Plane
+          * Subcostal Plane (Superior)
+          * Transtubercular Plane (Inferior)
         * 4 Quadrants
       * Pelvic
   * Functions

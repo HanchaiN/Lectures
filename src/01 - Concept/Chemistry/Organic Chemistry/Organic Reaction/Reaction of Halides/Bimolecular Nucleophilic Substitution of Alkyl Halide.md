@@ -8,13 +8,13 @@ $$
 |-----------------|-------|------------|-------|
 |[Alkyl](../../Functional%20Group/Alkyl%20Group.md) [Halide](../../Functional%20Group/Halo%20Group.md)|Strong [Nucleophile](../Reaction%20Component/Nucleophile.md)|-|Depends|
 
-* Reagent
-  * $\ce{OH-}$ → $\ce{-OH}$
-  * $\ce{RO-}$ → $\ce{-OR}$
-  * $\ce{SH-}$ → $\ce{-SH}$
-  * $\ce{LiAlH4}$ → $\ce{-H}$
-  * $\ce{R-CO-O-}$ → $\ce{R-O-CO-R}$
-  * $\ce{CN-}$ → $\ce{R-CN}$
+* Reagent  
+  - $\ce{OH-}$ → $\ce{-OH}$  
+  - $\ce{RO-}$ → $\ce{-OR}$  
+  - $\ce{SH-}$ → $\ce{-SH}$  
+  - $\ce{LiAlH4}$ → $\ce{-H}$  
+  - $\ce{R-CO-O-}$ → $\ce{R-O-CO-R}$  
+  - $\ce{CN-}$ → $\ce{R-CN}$
 * Mechanism: [Bimolecular Nucleophilic Substitution](../Classification%20of%20Organic%20Reaction/Bimolecular%20Nucleophilic%20Substitution.md)
 * Steric Repulsion → Prefer Primary Product
 
