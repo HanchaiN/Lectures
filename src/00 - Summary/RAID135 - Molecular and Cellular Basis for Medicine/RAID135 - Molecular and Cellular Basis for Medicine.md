@@ -1,0 +1,9 @@
+# RAID135 - Molecular and Cellular Basis for Medicine
+
+* [01 - Protein Structure and Concept of Bio-catalysis and Enzyme Kinetics](01%20-%20Protein%20Structure%20and%20Concept%20of%20Bio-catalysis%20and%20Enzyme%20Kinetics.md)
+* [02 - Overview of DNA Structure, Gene Structure and Organization](02%20-%20Overview%20of%20DNA%20Structure,%20Gene%20Structure%20and%20Organization.md)
+* [03 - DNA Replication, DNA Damage & Repair and Cell Cycle](03%20-%20DNA%20Replication,%20DNA%20Damage%20&%20Repair%20and%20Cell%20Cycle.md)
+* [04 - Gene Expression, Transcription, Post-transcriptional Modification](04%20-%20Gene%20Expression,%20Transcription,%20Post-transcriptional%20Modification.md)
+* [05 - Regulation of Translation and Protein Synthesis](05%20-%20Regulation%20of%20Translation%20and%20Protein%20Synthesis.md)
+* [06 - Post Translational Processes and Protein Folding](06%20-%20Post%20Translational%20Processes%20and%20Protein%20Folding.md)
+* [07 - DNA technology & Application](07%20-%20DNA%20technology%20&%20Application.md)
