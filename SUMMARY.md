@@ -2,9 +2,9 @@
 
 [[README|Welcome]]
 
-## Lectures
+# Lectures
 
-### Year 1 Semester 1
+# Year 1 Semester 1
 
 - [[SCCH105 - General Chemistry]]
     - [[01 - Atomic Structure and Atomic Theory]]
@@ -33,7 +33,7 @@
     - [[09 - Magnetism and Magnetic Field]]
     - [[10 - Modern Physics]]
 
-### Year 1 Semester 2
+# Year 1 Semester 2
 
 - [[SCCH134 - Organic Chemistry for Medical Science]]
     - [[01 - Structure and Bonding]]
@@ -97,7 +97,7 @@
 
 ---
 
-## Concept
+# Concept
 
 - [Chemistry]()
     - [Physical Chemistry]()
@@ -293,6 +293,6 @@
 
 ---
 
-## Appendices
+# Appendices
 
 [[How to type a lecture note]]
