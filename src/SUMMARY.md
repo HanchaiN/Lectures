@@ -98,7 +98,13 @@
 * [RAID136 - Basic Medical Microbiology](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/RAID136%20-%20Basic%20Medical%20Microbiology.md)
   * [01 - Introduction to Infectious Diseases](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/01%20-%20Introduction%20to%20Infectious%20Diseases.md)
   * [02 - Host-Microbe Interaction](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/02%20-%20Host-Microbe%20Interaction.md)
-  * [03 - Structure, Growth and Metabolism of Bacteria](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/03%20-%20Structure,%20Growth%20and%20Metabolism%20of%20Bacteria.md)  
+  * [03 - Structure, Growth and Metabolism of Bacteria](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/03%20-%20Structure,%20Growth%20and%20Metabolism%20of%20Bacteria.md)
+  * [04 - Bacterial Genetics]()
+  * [05 - Nomenclature and Classification of Medically Important Bacteria]()
+  * [06 - Medically Important Gram-Positive Bacteria]()
+  * [07 - Medically Important Gram-Negative Bacteria]()
+  * [08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/08%20-%20Spirochete,%20Mycoplasma,%20Chlamydia,%20and%20Rickettsia.md)
+  * *09 - Mycobacterium and Anaerobic Bacteria*  
 
 
 * [RAID137 - Basic Human Structure and Development](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/RAID137%20-%20Basic%20Human%20Structure%20and%20Development.md)
