@@ -7,7 +7,7 @@ aliases:
 
 ## Spirochete
 
-- Gram Negative
+- Gram Negative (Gram Neutral)
 	- Two plasma membrane
 	- Periplasmic space w/ Peptidoglycan & Internal Flagellum
 - Spiral-shaped
@@ -76,7 +76,7 @@ aliases:
 
 ## Mycoplasma
 
-- Cell wall deficient bacteria → Gram Neutral
+- Cell wall deficient bacteria
 - Cell membrane w/ sterols ← Obtained from medium / tissue
 	- Culture medium supplemented w/ animal serum: SP-4 medium
 - *M. pneumonia* → Pneumonia
@@ -103,7 +103,7 @@ aliases:
 
 - Obligate intracellular Organism
 	- Require host cell metabolism
-- Gram-Negative
+- Gram-Negative (Gram-Neutral)
 	- Normally w/o peptidoglycan layer
 - Infectious Cycle
 	- Elementary Body
@@ -121,7 +121,7 @@ aliases:
 - Obligate Intracellular Organism
 	- Lack metabolic activities
 	- Leak proteins, Nucleic Acids, and essential small molecules
-- Gram-Negative
+- Gram-Negative (Gram-Neutral)
 	- Minimal peptidoglycan → Giemsa-stained
 - Spotted Fever Group
 	- *Rickettsia rickettsii* → Rocky Mountain Spotted Fever
