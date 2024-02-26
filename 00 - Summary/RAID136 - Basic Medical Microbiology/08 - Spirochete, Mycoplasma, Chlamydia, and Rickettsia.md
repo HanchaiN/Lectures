@@ -26,26 +26,28 @@ aliases:
 		- Family: *Leptospiraceae*
 			- Genus: *Leptospira*
 - *Treponema spp.*
-	- *T. pallidum* spp. *pallidum* → Syphilis
-		- Slip, Corkscrew Spiral
-		- Exclusively human pathogen
-		- Transmission
-			- Direct sexual contact
-			- Transplacental
-			- Blood Transfusion
-			- Intravenous drug use
-		- Clinical stage of Syphilis
-			- Primary (T+$\pu{3 - 90 days}$)
-				- Sore
-			- Secondary (T+$\pu{4 - 10 weeks}$)→ Latent
-				- Rash
-			- Latent → Latent / Tertiary
-			- Tertiary (T+$\pu{3 - 15 years}$)
-				- Internal Organs
-		- Neurosyphilis / Ocular Syphilis / Otosyphilis
-	- *T. pallidium* spp. *pertenus* → Yaws
-	- *T. pallidium* spp. *endemicum* → Bejel
-	- *T. carateum* → Bejel
+	- Venereal Syphilis
+		- *T. pallidum* spp. *pallidum* → Syphilis
+			- Slip, Corkscrew Spiral
+			- Exclusively human pathogen
+			- Transmission
+				- Direct sexual contact
+				- Transplacental
+				- Blood Transfusion
+				- Intravenous drug use
+			- Clinical stage of Syphilis
+				- Primary (T+$\pu{3 - 90 days}$)
+					- Sore
+				- Secondary (T+$\pu{4 - 10 weeks}$)→ Latent
+					- Rash
+				- Latent → Latent / Tertiary
+				- Tertiary (T+$\pu{3 - 15 years}$)
+					- Internal Organs
+			- Neurosyphilis / Ocular Syphilis / Otosyphilis
+	- Nonvenereal (Endemic Treponematoses)
+		- *T. pallidium* spp. *pertenus* → Yaws
+		- *T. pallidium* spp. *endemicum* → Bejel
+		- *T. carateum* → Bejel
 - *Borellia* spp.
 - *Leptospira interrogans* → Leptospirosis
 	- Thin, Close Spirals, Hooked Ends
@@ -64,7 +66,7 @@ aliases:
 		- Incubation (T+$\ce{5 - 14 days}$)
 			- Influenza-like febrile illness
 			- Conjunctival suffusion
-			- Muscle pain
+			- Myalgia (Muscle pain)
 		- Acute (Septicemic; T+$\pu{5 - 7 days}$)
 			- Same as Incubation
 		- Convalescent

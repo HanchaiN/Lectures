@@ -12,7 +12,7 @@ aliases:
         - Peptide bond (Amine + Carboxylic Acid → Amide)
     - Chirality
         - Chiral central tetrahedral $\alpha$-carbon
-        - Usually L-configured
+        - Usually L-configured ()
     - Various Sidechains
 - Classification
     - Polarity of Sidechains: Hydrophobic / Acidic / Basic
