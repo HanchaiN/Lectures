@@ -11,8 +11,8 @@ aliases:
     - Polymerization
         - Peptide bond (Amine + Carboxylic Acid → Amide)
     - Chirality
-        - Chiral central tetrahedral $\alpha$-carbon
-        - Usually L-configured ()
+        - Chiral central tetrahedral $\alpha$-carbon (Except Glycine: $\ce{-R}\mapsto\ce{-H}$)
+        - Usually L-configured (Fischer: $\ce{-COOH}$ = top; $\ce{-R}$ = bottom; $\ce{-NH2}$ = left)
     - Various Sidechains
 - Classification
     - Polarity of Sidechains: Hydrophobic / Acidic / Basic
@@ -45,8 +45,8 @@ aliases:
         - Primary Structure: Amino Acids Sequence
             - Covalent Bonding (Peptide Bonds)
         - Secondary Structure: Regular sub-structures
-            - Alpha Helix (Parallel / Anti-parallel)
-            - Beta Sheet ($\frac{11}{3}\approx3.6$ AA per revolution; frac. 3 atoms backbone)
+            - Alpha Helix ($\frac{11}{3}\approx3.6$ AA per revolution; frac. 3 atoms backbone)
+            - Beta Sheet (Parallel / Anti-parallel)
             - Hydrogen Bonds (Backbones)
         - Tertiary Structure: Three-dimensional Structure
             - Hydrophobic Interaction (Hydrophobic Sidechain)
@@ -90,17 +90,17 @@ aliases:
         - TTP / FAD / NAD / CoA
     - Holoenzyme: Catalytically active complex of proteins and prosthetic group
     - Apoenzyme: Protein without prosthetic group (usually inactive)
-- Flexible & Dynamic  
-        1. Proximity, Orientation  
-        2. Weak Binding → Conformal change  
-        3. Transition-State Stabilization  
-        4. Reaction
+- Flexible & Dynamic
+	1. Proximity, Orientation
+	2. Weak Binding → Conformal change
+	3. Transition-State Stabilization
+	4. Reaction
     - Acid-Base Catalysis: Proton transfer
     - Covalent Catalysis: Transient covalent bond
     - Metal Ion Catalysis: Metalloenzyme
 - Enzyme Kinetics
     - Rate vs Substrate Concentration: Hyperbolic Relationship
-        - $r=\frac{r_\text{max}\left[\ce{S}\right]}{K_{M} + \left[\ce{S}\right]}$ → $\frac{1}{v} = \frac{K_{M}}{r_\text{max}}\frac{1}{\left[\ce{S}\right]} + \frac{1}{r_\text{max}}$
+        - $r=\frac{r_\text{max}\left[\ce{S}\right]}{K_{M} + \left[\ce{S}\right]}$ → $\frac{1}{r} = \frac{K_{M}}{r_\text{max}}\frac{1}{\left[\ce{S}\right]} + \frac{1}{r_\text{max}}$
     - $K_{M}$: Michaelis Constants: subs. conc. where $r=\frac{1}{2}r_\text{max}$
     - Low $K_{M}$ → Reach $r_\text{max}$ fast
         - Low conc. → approx. linear

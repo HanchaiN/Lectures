@@ -43,7 +43,7 @@ aliases:
             - Maternal / Paternal Chromosomes can independently assorted either resulting cell
         - Separation of Homologous Chromosome (Sister Chromatids attached)
     - Meiosis II (M2): ~Mitosis
-    - Oogenesis → 1 functional ooctye + 3 degenerating polar body
+    - Oogenesis → 1 functional oocyte + 3 degenerating polar body
         - Oogonium → Oocyte(Meiosis) → Mature Oocyte + polar body
         - Primary oocyte: meiotic arrest at prophase I
     - Spermatogenesis → 4 functional sperms
