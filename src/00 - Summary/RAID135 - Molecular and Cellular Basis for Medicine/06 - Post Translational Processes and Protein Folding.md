@@ -46,8 +46,8 @@
         * ![GroES-GroEL.png|200](https://upload.wikimedia.org/wikipedia/commons/9/9e/GroES-GroEL.png)
         * GroES (Co-chaperonin): Cap (7 subunits; blue)
         * GroEL: 2 rings (7 subunits each)
-        * Cis ring: Same side as cap (green-red/blue)
-        * Trans ring: Opposite side as cap (red/blue-green)
+          * Cis ring: Same side as cap (green-red/blue)
+          * Trans ring: Opposite side as cap (red/blue-green)
         * Double-barrel structure w/ central cavity
         * Isolated Space → Avoid Molecular Crowding → Properly Folding
       * Hsp70 → Partially folded protein
