@@ -7,4 +7,4 @@
   * [06 - Medically Important Gram-Positive Bacteria]()
   * [07 - Medically Important Gram-Negative Bacteria]()
   * [08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia](08%20-%20Spirochete,%20Mycoplasma,%20Chlamydia,%20and%20Rickettsia.md)
-  * *09 - Mycobacterium and Anaerobic Bacteria*
+  * [09 - Mycobacterium and Anaerobic Bacteria](09%20-%20Mycobacterium%20and%20Anaerobic%20Bacteria.md)

@@ -104,7 +104,7 @@
   * [06 - Medically Important Gram-Positive Bacteria]()
   * [07 - Medically Important Gram-Negative Bacteria]()
   * [08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/08%20-%20Spirochete,%20Mycoplasma,%20Chlamydia,%20and%20Rickettsia.md)
-  * *09 - Mycobacterium and Anaerobic Bacteria*  
+  * [09 - Mycobacterium and Anaerobic Bacteria](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/09%20-%20Mycobacterium%20and%20Anaerobic%20Bacteria.md)  
 
 
 * [RAID137 - Basic Human Structure and Development](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/RAID137%20-%20Basic%20Human%20Structure%20and%20Development.md)
