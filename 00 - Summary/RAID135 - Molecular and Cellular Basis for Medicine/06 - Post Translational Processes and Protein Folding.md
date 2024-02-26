@@ -27,20 +27,20 @@ aliases:
             - Heat Shock Protein (Hsp)
                 - Molecular weight: thousands atomic unit
                 - Hsp70 Family
-                - Assist in folding (early)
-                - Reverse denaturation & Aggregation
-                - May assisted by Hsp40 (Cochaperones; associated protein)
-                - Normally bound with ATP
+	                - Assist in folding (early)
+	                - Reverse denaturation & Aggregation
+	                - May assisted by Hsp40 (Cochaperones; associated protein)
+	                - Normally bound with ATP
                 - Hsp90 Family
-                - Assist in folding (late) for cellular signaling
+	                - Assist in folding (late) for cellular signaling
                 - Hsp60 Family (Chaperonins)
-                - Induce refolding of improperly folded protein
-                - Bind proteins in barrel-like structure
-                - In Prokaryote: GroEL, GroES
-                - In Eukaryote: Hsp60, TriC, (& CCT)
-                - Trigger Factor
-                - Prevent aggregation (early)
-                - In Eukaryote: Nascent chain-Associated Complex (NAC)
+	                - Induce refolding of improperly folded protein
+	                - Bind proteins in barrel-like structure
+	                - In Prokaryote: GroEL, GroES
+	                - In Eukaryote: Hsp60, TriC, (& CCT)
+				- Trigger Factor
+	                - Prevent aggregation (early)
+	                - In Eukaryote: Nascent chain-Associated Complex (NAC)
     - $\approx \pu{85 \%}$: Spontaneous Folding (may utilize Hsp70, which requires ATP)
         - Hsp70 + Hsp40 binds with nascent polypeptide
         - Hsp70 binding tighten via ATP Hydrolysis
