@@ -11,16 +11,16 @@
       * lncRNA: long non-coding ($\ge 200$ nucleotides)
       * small ncRNA (new, researching)
         * microRNA (19-22 nucleotides)
-        * Regulate stability & translation of mRNAs
+          * Regulate stability & translation of mRNAs
         * snoRNA (small nucleolar RNA)
-        * Processing rRNAs in nucleolus
+          * Processing rRNAs in nucleolus
         * siRNA (small interfering RNA)
-        * Inhibit virus production
+          * Inhibit virus production
         * snRNA (small nuclear RNA)
-        * Spliceosome: splicing eukaryotic RNAs
+          * Spliceosome: splicing eukaryotic RNAs
         * piRNA (Piwi-interacting RNA)
 * mRNA
-  * 5'-Cap
+  * 5'-Cap (7-methyl-GTP)
   * 5'-Untranslated region
     * Ribosome-binding site
   * Coding Region
@@ -30,7 +30,7 @@
   * Poly(A) tail (~250 nucleotides)
 * tRNA
   * Acceptor stem
-    * 3' Amino Acid Attachment site (GCC-3')
+    * 3' Amino Acid Attachment site (CCA-3')
   * D-Arm (5' side)
   * Anticodon Arm
   * Variable Arm, T-Arm (3' side)
@@ -95,9 +95,9 @@
         * GC boxes, CAAT boxes
       * Attached by transcription factors (up to -100 kb)
         * Enhancer Sequence + Activator (or Coactivator) Protein
-        * Mediating complex fomation → increase transcription rate
+          * Mediating complex formation → increase transcription rate
         * Silencer Sequence + Repressor (or Corepressor) Protein
-        * Preventing complex fomation → decrease transcription rate
+          * Preventing complex formation → decrease transcription rate
     * Promoter (Sequence)
       * Flexible Promoter
       * Different between RNA Pols
@@ -140,9 +140,9 @@
         * Splicing Enhancer / Repressor
         * Malfunction can cause autoimmune disease (systemic lupus erythematosus; SLE)
   * RNA editing
-    * Cytidine deaminase (Cytosine→Uracil)
-    * Adeniosine deaminase (Adenine→Hypoxanthine)
-    * Note; Reagent is part of DNA but Product is not part of DNA → Autocorrect
+    * Cytidine deaminase (Cytosine → Uracil)
+    * Adenosine deaminase (Adenine → Hypoxanthine)
+    * Note: Reagent is part of DNA but Product is not part of DNA → Autocorrect
 * miRNAs
   * Binds with mRNA → Interfere with translation / Trigger mRNA degradation
   * Deadenylation (+ Optional decapping) → Degradation via Nuclease
