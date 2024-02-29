@@ -23,14 +23,13 @@ aliases:
     - Drug Target
     - Bacterial Classification
         - Gram-Negative (Gram -ve Bacteria)
-            - Thinner
-            - Thin Peptidoglycan
+            - Thin Peptidoglycan (3-5 layers)
+                - In periplasmic space (between two cell membrane)
             - Lipopolysaccharide
                 - Innate Immune Stimulator
                 - Endotoxin present at outer membrane
         - Gram-Positive (Gram +ve Bacteria)
-            - Thicker
-            - Thick Peptidoglycan
+            - Thick Peptidoglycan (30-50 layer)
             - Lipoteichoic Acid
                 - Innate Immune Stimulator
             - Virulence Factor
