@@ -5,22 +5,188 @@ aliases:
 
 # Nomenclature and Classification of Medically Important Bacteria
 
+- Classification
+	- Phenotypic Identification
+		- Shape, Size, Flagella, etc.
+		- Gram reaction
+		- Spore-formation, Pigment production
+		- Biochemical property, Enzyme production, Specific metabolism
+		- Antibiotic Resistance Pattern
+	- Genotypic Identification
+		- Genetic Evolution
+		- Mainly 16S rRNA sequencing
 - Classification by Shape
-	- Coccus (plu. Cocci)
-	- Bacillus (plu. Bacilli)
+	- Coccus (plu. Cocci): Spherical-shaped
+	- Bacillus (plu. Bacilli): Rod-shaped
 - Classification by Gram Reaction
 	- Gram Reaction
 		- Crystal violet reacts w/ peptidoglycan (purple)
 		- Gram Iodine fixes the strain (n. mordant)
-		- Acetone Alcohol washes unfixed crystal violet (& outer plasma membrane of Gram-Negative bacteria)
+		- Acetone Alcohol washes unfixed crystal violet (& outer plasma membrane of gram-negative bacteria)
 		- Safranin as counter stain on peptidoglycan (red; weaker color)
-	- Gram-Positive (Purple)
+	- gram-positive (Purple)
 		- Thick peptidoglycan → Drought resistance
-	- Gram-Negative (Red)
+	- gram-negative (Red)
 		- Double plasma membrane → High selectivity; Drug resistance
-	- Unclassified
+	- gram-neutral (undyed)
+		- Generally inside host cell
+		- No peptidoglycan ← special cell wall component
 		- No cell wall
-		- Special cell wall w/ different components
+- Classification by Oxygen Requirement / Tolerance
+	- Obligate Aerobes: Required & Tolerant
+		- Lack cytochromes for terminal electron transportation
+		- Lack catalase and/or superoxide dismutase
+	- Obligate Anaerobes: Not Required & Not Tolerant
+	- Aerotolerant Anaerobes: Not Required & Tolerant
+	- Microaerophile: Required & Not Tolerant
+		- Require controlled culturing
+	- Facultative Anaerobes: Tolerant (Not Required but can increase growth)
+	- Microbiologically Anaerobes: Aerotolerant Anaerobes / Obligate Anaerobes (Not Required)
+	- Clinically Anaerobes: Obligate Anaerobes
+		- Require controlled culturing
+	- Clinically Aerobes: Obligate Aerobes / Aerotolerant Anaerobes / Facultative Anaerobes (Tolerant)
+- Nomenclature
+	- *Genus species* / *G. species*
+	- *Family*, *Genus*, *species*, *vairety* / *subspecies*
+	- Suborder, Order, Class, Phylum, Kingdom
+	- generic plural
+- Examples
+	- Aerobes
+		- Gram-Positive
+			- Cocci
+				- *Staphylococcus*: Cluster; Catalase-positive
+					- Coagulase-positive
+						- *S. aureus*
+					- Coagulase-negative
+						- *S. epidermidis*
+						- *S. saprophyticus*
+						- *S. lugdunensis*
+						- *S. haemolyticus*
+				- *Streptococcus*: Chain; Catalase-negative
+					- Alpha-hemolytic
+						- *S. pneumoniae*
+					- Beta-hemolytic
+						- *S. pyogenes*
+						- *S. agalactiae*
+					- Gamma-hemolytic
+				- *Enterococcus*: short chain; Catalase-negative
+			- Bacilli
+				- Spore Forming
+					- *Bacillus*
+						- *B. anthracis*
+						- *B. cereus*
+				- Non-Spore Forming
+					- Regular Stained
+						- *Listeria*
+						- *Erysipelothrix*
+						- *Gardnerella*
+						- *Lactobacillus*
+					- Irregular Stained
+						- Non-Branching
+							- *Corynebacterium*
+							- Gram-resistant
+								- *Mycobacterium*
+									- *Mycobacterium tuberculosis*
+						- Branching; Gram-resistant
+							- *Nocardia*
+							- *Rhodococcus*
+							- *Streptomyces*
+		- Gram-Negative
+			- Cocci
+				- *Neisseria*
+					- *N. gonorrhoeae*
+					- *N. meningitidis*
+				- *Moraxella*
+					- *M. catarrhalis*
+			- Bacilli
+				- Glucose Fermenter
+					- Enterbacterales order / *Enterbacteriaceae* family: Facultative Anaerobic; Oxidase Negative
+						- Lactose Fermenter
+							- *Escherichia*
+								- *Escherichia coli*: Lactose Fermenter
+							- *Klebsiella*
+							- *Enterobacter*
+						- Non-Lactose Fermenter
+							- *Salmonella*
+							- *Shigella*
+							- *Proteus*
+							- *Serratia*
+							- *Yersinia*
+					- Vibrionales order / *Vibrionaceae* family: Facultative Anaerobic; Oxidase Positive
+						- *Vibrio*
+						- *Aeromonas*
+						- *Plesiomonas*
+				- Non-Fermenter
+					- *Pseudomonas*
+					- *Burkholderia*
+					- *Acinetobacter*
+					- *Stenotrophomonas*
+				- Fastidious Coccobacilli
+					- *Haemophilus*
+					- *Borderdetella*
+					- *Pasterella*
+					- *Brucella*
+				- S-shape, Curved-microaerophile
+					- *Helicobacter*
+					- *Campylobacter*
+		- Gram-Neutral
+			- Spirochete: *Treponema*, *Leptospira*
+			- Obligate Intracellular Bacteria: *Rickettsia*, *Chlamydia*
+			- Bacteria w/o cell wall: *Mycoplasma*
+	- Anaerobes
+		- Gram-Positive
+			- Cocci
+				- *Peptostreptococcus*
+			- Bacilli
+				- *Clostridium*: Spore forming
+				- *Propionibacterium
+				- *Actinomyces*: Facultative Anaerobic; Irregular Stained; Spore forming; Branching
+		- Gram-Negative
+			- Cocci
+				- *Veillonella*
+			- Bacilli
+				- *Bacteroides*
+				- *Porphyromonas*
+				- *Prevotella*
+				- *Fusobacterium*
+- Diseases
+	- Cutaneous/subcutaneous infection, skin abscess, soft tissue infection
+		- *S. aureus*
+	- Gastrointestinal infection, Enteritis, Diarrhea, Dysentery
+		- *Salmonella*
+		- *Shigella*
+	- Urinary tract infection (UTI, cystitis)
+		- *E. coli*
+	- Pneumonia, Lower respiratory tract infection (LRI)
+		- *S. pneumoniae*
+	- Septicemia: Bacterial blood poisoning
+		- Usually gram-negative
+	- Tuberculosis
+		- Special gram-positive
+	- Cholera
+		- Gram-negative
+	- Diphtheria
+		- Gram-positive
+	- Pertussis; (Upper respiratory tract infection; URI)
+		- Gram-negative
+	- Tetanus
+		- Anaerobes
+	- Scrub Typhus
+		- Gram-neutral
+	- Typhoid Fever
+		- *Salmonella*
+	- Melioidosis
+		- Gram-negative
+	- Leptospirosis
+		- Spirochete
+	- Meningococcal Disease
+		- Gram-negative
+	- Gonorrhea
+		- Gram-negative
+	- Syphilis
+		- Spirochete
+	- Plague
+		- Gram-positive
 
 ## Reference
 
