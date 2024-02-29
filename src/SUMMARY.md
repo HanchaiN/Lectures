@@ -99,7 +99,7 @@
   * [01 - Introduction to Infectious Diseases](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/01%20-%20Introduction%20to%20Infectious%20Diseases.md)
   * [02 - Host-Microbe Interaction](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/02%20-%20Host-Microbe%20Interaction.md)
   * [03 - Structure, Growth and Metabolism of Bacteria](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/03%20-%20Structure,%20Growth%20and%20Metabolism%20of%20Bacteria.md)
-  * [04 - Bacterial Genetics]()
+  * [04 - Bacterial Genetics](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/04%20-%20Bacterial%20Genetics.md)
   * [05 - Nomenclature and Classification of Medically Important Bacteria]()
   * [06 - Medically Important Gram-Positive Bacteria]()
   * [07 - Medically Important Gram-Negative Bacteria]()
