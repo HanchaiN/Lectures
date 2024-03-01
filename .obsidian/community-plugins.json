@@ -21,5 +21,7 @@
   "obsidian-mind-map",
   "reference-map",
   "obsidian-citation-plugin",
-  "obsidian-pretty-bibtex"
+  "obsidian-pretty-bibtex",
+  "highlightr-plugin",
+  "editing-toolbar"
 ]

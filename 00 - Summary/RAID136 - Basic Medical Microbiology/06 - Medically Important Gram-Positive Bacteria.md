@@ -1,0 +1,108 @@
+---
+aliases:
+  - Medically Important Gram-Positive Bacteria
+---
+
+# Medically Important Gram-Positive Bacteria
+
+- *Staphylococcus*: Gram-Positive Cocci in Cluster
+	- Staphyle: bunch of grapes
+	- Usually w/ Catalase; Neutralize peroxidase
+		- Resistance to neutrophils' (digestive enzyme); virulence factor
+	- *S. aureus*: High virulence factor (5 stars)
+		- Aurum: Golden; golden colony when cultured
+		- w/ Coagulase: Induce coagulation; React with serum
+			- Use clot as shield from immune response; virulence factor
+		- Abscess: usually on epidermis (Abscess containing pus; can be strained for identification)
+			- Impetigo: Clustered clots
+			- Wound Infection w/ Cellulitis: inflammation @ fat layer
+				- Cellulite: Fat layer under epidermis
+				- -itis: Inflammation
+			- Staphylococcal Scalded Skin Syndrome: Infants; whole body
+			- Pneumonia w/ Lung Abscess
+			- Toxic Shock Syndrome
+			- Food Poisoning
+	- *S. epidermidis*: Low virulence factor (3 stars)
+		- Normal Flora on Epidermis; suppressing fungi growth
+			- Tightly attach to epidermis (as well as inorganic surfaces)
+			- May forms biofilm
+			- Normally controlled by immunity (except weaken / large amount)
+		- w/o Coagulase
+		- Intravascular catheter colonization/infection
+			- Intravascular catheter / Intravenous catheter: needle for vascular system / vein
+			- Risk factor: improper sanitization / weaken host
+	- *S. saprophyticus*: Uncommon in Thailand (3 stars)
+		- Urinary Tract Infection (UTI; stain urine for identification)
+			- Cystitis in Female
+		- w/o Coagulase
+- *Streptococcus*: Gram-Positive Cocci in Chain
+	- Streptos: twisted; twisted chain
+	- Usually w/o Catalase
+	- Hemolysis (via extracellular enzyme)
+		- <mark class="hltr-yellow">Beta-hemolysis</mark>: Complete hemolysis
+			- Clear area around colony on gel w/ Erythrocytes
+			- *S. pyogenes*: Beta-hemolytic *Strep.* group A (5 stars)
+				- Group A (classified by rxn w/ antibody)
+				- Flesh-eating bacteria
+					- Bacterial pharyngitis: Inflammation @ Throat ← Amoxicillin
+						- Pharyngitis is usually viral; can self-heal
+						- If bacterial, cause severe symptoms if not cured
+					- Impetigo: Clustered clots
+					- Necrotizing Fasciitis: Inflammation @ Fascia w/ dead tissue
+						- Fascia: membrane around muscles
+					- Erysipelas: Infection in dermis
+						- w/ Scarlet Fever
+				- Have similar antigens as human cells → Sequelae (Post-infection)
+					- Post Streptococcal Glomerulonephritis (PSGN)
+					- Rheumatic Fever, Rheumatic Heart Disease
+			- *S. agalactiae*: Beta-hemolytic *Strep.* group B (4 stars)
+				- Group B (classified by rxn w/ antibody)
+				- Neonatal Sepsis &/or Meningitis
+					- Colonization in vagina when infant is delivered (Neonatal)
+					- Infection upon first breath; enters blood (Sepsis)
+						- Sepsis: Septicemia + Body-wide immune response
+					- Inflammation @ Meninges (membrane around brain & spinal cord; Meningitis; strain cerebrospinal fluid for identify)
+				- Puerperal infection
+					- Infection upon delivering; enters via vaginal wound
+				- Acute Meningitis / Septicemia in Adults
+					- Septi-: infection; -emia: blood; Septicemis: Infection in blood
+					- Evolved lately (since ~2015)
+		- <mark class="hltr-green">Alpha-hemolysis</mark>: Partial hemolysis (except heme)
+			- Green area around colony on gel w/ Erythrocytes
+			- *S. pneumoniae* (Pneumococci): Gram-positive diplococci in lancet shape (w/ capsule) (5 stars)
+				- Diplococci ← broken chain
+				- Pneumonia
+				- Meningitis
+				- Otitis media: Inflammation @ Middle Ear
+				- w/ polysaccharide capsule; slippery surface
+					- Hard to phagocytosis: virulence factor
+			- Viridans *Strep.* (3 stars)
+				- > 30 species
+				- Low virulence factor
+				- Pharyngeal flora → Transient bacteremia
+					- Enters blood during microtrauma from teeth-brushing
+					- Exists temporary; eliminated by immune response
+				- Subacute endocarditis
+					- Endocarditis: Inflammation @ inner cardiac membrane
+					- Subacute: 1-2 weeks after infection
+					- *S. mitis*, *S. sanguinis*, *S. anginosus*
+				- Dental Caries: Tooth decay
+					- *S. mutans*
+			- *S. suis*: Common in Thailand (3 stars)
+				- Suis: pig; Generally infection in pig especially in rainy season
+				- Can transmit to human upon ingesting undercooked pork; Enter blood
+				- Septicemia, Meningitis
+					- Can gone deaf & death
+				- High virulence factor; High fatality rate
+		- <mark class="hltr-red">Gamma-hemolysis</mark>: Non-hemolysis
+			- Red area around colony on gel w/ Erythrocytes (Not affected)
+			- *Enterococcus* species (3 stars)
+				- Normal flora in intestine
+				- Low virulence factor
+				- UTI, endocarditis, bacteremia, diverticulitis, meningitis
+					- Bacteremia: bacteria in blood
+					- Diverticulum: Bulging pouches in digestive tract (usually large intestine)
+
+## Reference
+
+- Handout RAID136

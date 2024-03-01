@@ -69,7 +69,7 @@ aliases:
 						- *S. pyogenes*
 						- *S. agalactiae*
 					- Gamma-hemolytic
-				- *Enterococcus*: short chain; Catalase-negative
+						- *Enterococcus*: short chain; Catalase-negative
 			- Bacilli
 				- Spore Forming
 					- *Bacillus*
