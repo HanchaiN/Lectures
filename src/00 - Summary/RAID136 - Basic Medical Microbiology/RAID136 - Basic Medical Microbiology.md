@@ -4,7 +4,7 @@
   * [03 - Structure, Growth and Metabolism of Bacteria](03%20-%20Structure,%20Growth%20and%20Metabolism%20of%20Bacteria.md)
   * [04 - Bacterial Genetics](04%20-%20Bacterial%20Genetics.md)
   * [05 - Nomenclature and Classification of Medically Important Bacteria](05%20-%20Nomenclature%20and%20Classification%20of%20Medically%20Important%20Bacteria.md)
-  * [06 - Medically Important Gram-Positive Bacteria]()
+  * [06 - Medically Important Gram-Positive Bacteria](06%20-%20Medically%20Important%20Gram-Positive%20Bacteria.md)
   * [07 - Medically Important Gram-Negative Bacteria]()
   * [08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia](08%20-%20Spirochete,%20Mycoplasma,%20Chlamydia,%20and%20Rickettsia.md)
   * [09 - Mycobacterium and Anaerobic Bacteria](09%20-%20Mycobacterium%20and%20Anaerobic%20Bacteria.md)
