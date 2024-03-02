@@ -12,6 +12,21 @@ aliases:
     - Contact-dependent: Connected cells via gap junction
     - Paracrine: Nearby cells
     - Endocrine: Distant cell trough bloodstream
+- Pathways of Hormonal Action
+	- Lipid-soluble hormones
+		- Through Plasma membrane, Receptor-Hormone Complex @ Cytoplasm
+	- Water-soluble hormones
+		- Cell membrane receptor → Secondary messenger
+		- Secondary messenger + Cytoplasmic receptor
+- Factor affecting Cell Response
+	- Upregulation / Down regulation of receptor
+	- Interaction of hormones
+		- Permissive: One strengthen the other
+			- e.g. TH increases Epinephrine receptor
+		- Synergistic: Acting together for greater effect
+			- e.g. FSH & Estrogen
+		- Antagonistic: Opposite Effect
+			- e.g. Insulin & Glucagon
 - Classes of Hormones
     - Amine
     - Peptide
