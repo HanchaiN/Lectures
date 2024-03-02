@@ -54,6 +54,7 @@ aliases:
 - Nomenclature
 	- *Genus species* / *G. species*
 	- *Family*, *Genus*, *species*, *vairety* / *subspecies*
+		- Genus: feminine Latin name ← -eae / -ella
 	- Suborder, Order, Class, Phylum, Kingdom
 	- generic plural
 - Examples
@@ -161,8 +162,6 @@ aliases:
 	- Gastrointestinal infection, Enteritis, Diarrhea, Dysentery
 		- *Salmonella*
 		- *Shigella*
-	- Urinary tract infection (UTI, cystitis)
-		- *E. coli*
 	- Pneumonia, Lower respiratory tract infection (LRI)
 		- *S. pneumoniae*
 	- Septicemia: Bacterial blood poisoning
@@ -193,6 +192,140 @@ aliases:
 		- Spirochete
 	- Plague
 		- Gram-positive
+
+## Taxonomy
+
+- Note: Referenced [[06 - Medically Important Gram-Positive Bacteria|L06]], [[07 - Medically Important Gram-Negative Bacteria|L07]], [[08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia|L08]], [[09 - Mycobacterium and Anaerobic Bacteria|L09]]
+
+## Diseases & Symptoms
+
+- Note: Referenced [[06 - Medically Important Gram-Positive Bacteria|L06]], [[07 - Medically Important Gram-Negative Bacteria|L07]], [[08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia|L08]], [[09 - Mycobacterium and Anaerobic Bacteria|L09]]
+- Infections by Site (See Inflammation for more)
+	- Urinary Tract Infection (UTI; stain urine for identification)
+		- *S. saprophyticus*
+		- *Enterococcus* species
+	- Skin Infection
+		- Erysipelas: ไฟลามทุ่ง, Scarlet Fever: ไข้อีดำอีแดง @Upper Dermis
+			- *S. pyogenes*
+			- *E. rhusiopathiae* (Erysipelas in Animals; Erysipeloid in Human)
+		- Leprosy: โรคเรื้อน
+			- *M. leprae*
+		- *M. abscessus*, *M. fortuitum*, *M. chelonae* (Chronic)
+	- Blood Infection (Septicemia; aka blood poisoning)
+		- *S. suis*
+		- *L. monocytogenes* (Neonatal: Less common than *S. agalactiae*)
+		- Sepsis (w/ body-wide response)
+			- *S. agalactiae* (Neonatal; Acute in Adults)
+		- Bacteremia (Bacteria in blood, not necessary harmful)
+			- Viridans *Strep.* (microtrauma from teeth-brushing; temporary)
+			- *Enterococcus* species
+	- Respiratory Tract Infection
+		- Lower Respiratory Tract Infection (LRI)
+		- Upper Respiratory Tract Infection (URI)
+		- *M. avium* complex (Immunocompromised host)
+		- *Nocardia* (Immunocompromised host, Subacute)
+	- Gastrointestinal Infection
+		- *Salmonella*
+		- *Shigella*
+- Infections by Methods
+	- Airbourne
+		- *B. anthracis* (Pulmonary Anthrax)
+		- *N. meningitidis*
+	- Foodborne
+		- *B. cereus* (cereal)
+		- *L. monocytogenes* (milk)
+	- Neonatal (to infants during delivering/pregnancy)
+		- *S. agalactiae* (delivering)
+		- *L. monocytogenes* (pregnancy)
+	- Puerperal (to mother during delivering)
+		- *S. agalactiae*
+	- Intravascular catheter
+		- *S. epidermidis*
+- Inflammation (-itis)
+	- Otitis @Ear
+		- Otitis media @Middle Ear (connected to Respiratory tract)
+			- *S. pneumoniae*
+			- *M. catarrhalis*
+	- Meningitis @Meninges (membrane around brain; strain cerebrospinal fluid for identification) (aka เยื่อหุ้มสมองอักเสบ, ไข้กาฬหลังแอ่น)
+		- *S. agalactiae* (Neonatal; Acute in Adults)
+		- *S. pneumoniae*
+		- *S. suis* (Potential deaf & Death)
+		- *Enterococcus* species
+		- *L. monocytogenes*
+		- *N. meningitidis*
+		- Note: If lie down w/ arched back, the pain/stress from meningitis can be relieved.
+	- Fasciitis @Fascia (membrane around muscle)
+		- *S. pyogenes* (Necrotizing: w/ dead tissue)
+	- Endocarditis @Inner cardiac membrane
+		- Viridans *Strep.*: *S. mitis*, *S. sanguinis*, *S. anginosus* (Subacute: 1-2 weeks after infection)
+		- *Enterococcus* species
+	- Cellulitis @Fat Layer under skin
+		- *S. aureus*
+	- Pharyngitis @Throat (URI)
+		- *S. pyogenes*
+		- *N. gonorrhoeae* (rare; imply oral sex)
+		- Note: Usually viral.
+		- Diphtheria: Pseudomembranous (aka โรคคอตีบ)
+			- *C. diphtheriae*
+	- Bronchitis @Bronchus (LRI)
+		- *M. catarrhalis*
+	- Pneumonitis @Lung (LRI) (aka Pneumonia)
+		- *S. aureus* (w/ Abscess)
+		- *S. pneumoniae*
+		- Pulmonary Anthrax
+			- *B. anthracis* (Spore)
+		- Tuberculosis
+			- *M. tuberculosis*
+	- Diverticulis @Diverticulum (Bulging pouches in Large Intestine; Gastrointestinal infection)
+		- *Enterococcus* species
+	- Proctitis @Rectum
+		- *N. gonorrhoeae* (imply anal sex)
+	- Urethritis @Urinary Tract (UTI)
+		- Gonorrhea (aka หนองในแท้)
+			- *N. gonorrhoeae*
+	- Cystitis @Bladder (UTI)
+		- *S. saprophyticus* (in Female)
+		- *E. coli*
+	- Virginitis @Vagina
+		- *G. vaginalis* (Vaginosis: opportunistic flora)
+- Abscess (stain pus for identification)
+	- *S. aureus* (usually epidermal)
+	- *B. anthracis* (Cutaneous anthrax; self-limited)
+- Impetigo: Clustered clots (aka โรคแผลเปื่อยจากโรงเรียน, โรคพุพอง)
+	- *S. aureus*
+	- *S. pyogenes*
+- Toxic Shock Syndrome
+	- *S. aureus*
+- Diarrhea (aka food poisoning)
+	- *S. aureus*
+	- *B. cereus* (Acute; Less common than *S. aureus*)
+- Staphylococcal scalded skin syndrome
+	- *S. aureus* (Infants)
+- Dental Caries (aka Tooth decay)
+	- Viridans *Strep.*: *S. mutans*
+- Sequelae (Post-infection)
+	- Post Streptococcal Glomerulonephritis (w/ Rheumatic Fever, Rheumatic Heart Disease)
+		- *S. pyogenes*
+- Normal Flora
+	- Pharyngeal Flora
+		- Viridans *Strep.*
+	- Intestinal Flora
+		- *Enterococcus* species
+	- Vaginal Flora
+		- *L. acidophilus*
+		- *G. vaginalis* (opportunistic)
+	- Epidermal Flora
+		- *S. epidermidis*
+- Zoonosis / Anthroponoses
+	- Anthroponoses (Human-to-human transmission)
+		- *N. meningitidis* (Airbourne)
+	- Cattle
+		- *B. anthracis*
+	- Pig
+		- *S. suis* (Foodbourne)
+		- *E. rhusiopathiae* (Injury)
+	- Fish
+		- *E. rhusiopathiae* (Injury)
 
 ## Reference
 
