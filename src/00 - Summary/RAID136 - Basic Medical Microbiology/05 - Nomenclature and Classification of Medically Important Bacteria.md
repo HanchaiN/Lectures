@@ -3,7 +3,13 @@
 * Classification
   * Phenotypic Identification
     * Shape, Size, Flagella, etc.
-    * Gram reaction
+    * Gram reaction → Check peptidoglycan
+      * Crystal violet stain washed with Acetone Alcohol
+      * Safranin as counterstain
+    * Acid-fast stain → Check mycolic acid
+      * Carbol fuchsin stain washed with acidic alcohol
+        * Usually $\pu{3 % \ce{HCl}}$ but $\pu{1 % \ce{H2SO4}}$ for modified acid-fast
+      * Methylene Blue as counterstain
     * Spore-formation, Pigment production
     * Biochemical property, Enzyme production, Specific metabolism
     * Antibiotic Resistance Pattern
@@ -18,7 +24,7 @@
     * Crystal violet reacts w/ peptidoglycan (purple)
     * Gram Iodine fixes the strain (n. mordant)
     * Acetone Alcohol washes unfixed crystal violet (& outer plasma membrane of gram-negative bacteria)
-    * Safranin as counter stain on peptidoglycan (red; weaker color)
+    * Safranin as counterstain on peptidoglycan (red; weaker color)
   * gram-positive (Purple)
     * Thick peptidoglycan → Drought resistance
   * gram-negative (Red)
