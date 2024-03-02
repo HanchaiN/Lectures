@@ -24,7 +24,7 @@ aliases:
 				- Fever, Muscle Pain, Diarrhea, Headache, Rashes
 			- Diarrhea
 	- *S. epidermidis*: Low virulence factor (3 stars)
-		- Name: Epidermis; Normal Flora on Epidermis; suppressing fungi growth
+		- Name: Epidermis; Normal Flora on Epidermis; supprevssing fungi growth
 			- Tightly attach to epidermis (as well as inorganic surfaces)
 			- May forms biofilm
 			- Normally controlled by immunity (except weaken / large amount)
@@ -33,7 +33,7 @@ aliases:
 			- Intravascular catheter / Intravenous catheter: needle for vascular system / vein
 			- Risk factor: improper sanitization / immunocompromised host
 	- *S. saprophyticus*: Uncommon in Thailand (3 stars)
-		- Name: Saphros (Rotten) + Phyo ()
+		- Name: Saphros (Rotten) + Phyon (To grow) + -icus (Related); Grow on rotten meat
 		- UTI, Cystitis in Female
 		- w/o Coagulase
 - *Streptococcus*: Gram-Positive Cocci in Chain
@@ -85,7 +85,7 @@ aliases:
 				- Dental Caries: Tooth decay
 					- *S. mutans*
 			- *S. suis*: Common in Thailand (3 stars)
-				- Name: Suis (pig); Generally infection in pig especially in rainy season
+				- Name: Sus (pig); Generally infection in pig especially in rainy season
 				- Can transmit to human upon ingesting undercooked pork; Enter blood
 				- Septicemia, Meningitis
 					- Can gone deaf & death
@@ -93,7 +93,7 @@ aliases:
 		- <mark class="hltr-red">Gamma-hemolysis</mark>: Non-hemolysis
 			- Red area around colony on gel w/ Erythrocytes (Not affected)
 			- *Enterococcus* species (3 stars)
-				- Name: Entero (Intestinal) + Coccus; Normal flora in intestine
+				- Name: Enteron (Intestinal) + Coccus; Normal flora in intestine
 				- Low virulence factor
 				- UTI, endocarditis, bacteremia, diverticulitis, meningitis
 - *Bacillus*: Spore-forming Gram-Positive Bacilli
