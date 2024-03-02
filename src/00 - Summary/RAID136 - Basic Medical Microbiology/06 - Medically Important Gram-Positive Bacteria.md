@@ -1,7 +1,7 @@
 # Medically Important Gram-Positive Bacteria
 
 * *Staphylococcus*: Gram-Positive Cocci in Cluster
-  * Staphyle: bunch of grapes
+  * Name: Staphyle (bunch of grapes) + Coccus
   * Usually w/ Catalase; Neutralize peroxidase
     * Resistance to neutrophils' (digestive enzyme); virulence factor
   * *S. aureus*: High virulence factor (5 stars)
@@ -9,19 +9,17 @@
     * w/ Coagulase: Induce coagulation; React with serum
       * Use clot as shield from immune response; virulence factor
     * Abscess: usually on epidermis (Abscess containing pus; can be strained for identification)
-      * Impetigo: Clustered clots
-      * Wound Infection w/ Cellulitis: inflammation @ fat layer
-        * Cellulite: Fat layer under epidermis
-        * -itis: Inflammation
+      * Impetigo
+      * Wound Infection w/ Cellulitis
       * Staphylococcal Scalded Skin Syndrome: Infants; whole body
       * Pneumonia w/ Lung Abscess
       * Toxic Shock Syndrome
         * Usually from inserted tampons
         * Toxin is absorbed through tissue to blood, leading to body-wide symptoms
         * Fever, Muscle Pain, Diarrhea, Headache, Rashes
-      * Food Poisoning (Diarrhea)
+      * Diarrhea
   * *S. epidermidis*: Low virulence factor (3 stars)
-    * Normal Flora on Epidermis; suppressing fungi growth
+    * Name: Epidermis; Normal Flora on Epidermis; suppressing fungi growth
       * Tightly attach to epidermis (as well as inorganic surfaces)
       * May forms biofilm
       * Normally controlled by immunity (except weaken / large amount)
@@ -30,27 +28,26 @@
       * Intravascular catheter / Intravenous catheter: needle for vascular system / vein
       * Risk factor: improper sanitization / immunocompromised host
   * *S. saprophyticus*: Uncommon in Thailand (3 stars)
-    * Urinary Tract Infection (UTI; stain urine for identification)
-      * Cystitis in Female
+    * Name: Saphros (Rotten) + Phyo ()
+    * UTI, Cystitis in Female
     * w/o Coagulase
 * *Streptococcus*: Gram-Positive Cocci in Chain
-  * Streptos: twisted; twisted chain
+  * Name: Streptos (twisted) + Coccus; twisted chain
   * Usually w/o Catalase
   * Hemolysis (via extracellular enzyme)
     * <mark class="hltr-yellow">Beta-hemolysis</mark>: Complete hemolysis
       * Clear area around colony on gel w/ Erythrocytes
       * *S. pyogenes*: Beta-hemolytic *Strep.* group A (5 stars)
         * Group A (classified by rxn w/ antibody)
+        * Name: Pyon (Pus) + -genes (Born from)
         * Flesh-eating bacteria
-          * Bacterial pharyngitis: Inflammation @ Throat ← Amoxicillin
+          * Bacterial pharyngitis ← Amoxicillin
             * Pharyngitis is usually viral; can self-limited
             * If bacterial, cause severe symptoms if not cured
-          * Impetigo: Clustered clots
-          * Necrotizing Fasciitis: Inflammation @ Fascia w/ dead tissue
-            * Fascia: membrane around muscles
-          * Erysipelas: Infection in dermis
-            * w/ Scarlet Fever
-        * Have similar antigens as human cells → Sequelae (Post-infection)
+          * Impetigo
+          * Necrotizing Fasciitis
+          * Erysipelas w/ Scarlet Fever
+        * Have similar antigens as human cells → Sequelae
           * Post Streptococcal Glomerulonephritis (PSGN)
           * Rheumatic Fever, Rheumatic Heart Disease
       * *S. agalactiae*: Beta-hemolytic *Strep.* group B (4 stars)
@@ -58,20 +55,17 @@
         * Neonatal Sepsis &/or Meningitis
           * Colonization in vagina when infant is delivered (Neonatal)
           * Infection upon first breath; enters blood (Sepsis)
-            * Sepsis: Septicemia + Body-wide immune response
-          * Inflammation @ Meninges (membrane around brain & spinal cord; Meningitis; strain cerebrospinal fluid for identify)
+          * Inflammation @ Meninges (Meningitis)
         * Puerperal infection
           * Infection upon delivering; enters via vaginal wound
         * Acute Meningitis / Septicemia in Adults
-          * Septi-: infection; -emia: blood; Septicemis: Infection in blood
           * Evolved lately (since ~2015)
     * <mark class="hltr-green">Alpha-hemolysis</mark>: Partial hemolysis (except heme)
       * Green area around colony on gel w/ Erythrocytes
-      * *S. pneumoniae* (Pneumococci): Gram-positive diplococci in lancet shape (w/ capsule) (5 stars)
+      * *S. pneumoniae* (aka Pneumococci): Gram-positive diplococci in lancet shape (w/ capsule) (5 stars)
+        * Name: Pneumonia
         * Diplococci ← broken chain
-        * Pneumonia
-        * Meningitis
-        * Otitis media: Inflammation @ Middle Ear
+        * Pneumonia, Meningitis, Otitis media
         * w/ polysaccharide capsule; slippery surface
           * Hard to phagocytosis: virulence factor
       * Viridans *Strep.* (3 stars)
@@ -84,13 +78,12 @@
           * Enters blood during microtrauma from teeth-brushing
           * Exists temporary; eliminated by immune response
         * Subacute endocarditis
-          * Endocarditis: Inflammation @ inner cardiac membrane
           * Subacute: 1-2 weeks after infection
           * *S. mitis*, *S. sanguinis*, *S. anginosus*
         * Dental Caries: Tooth decay
           * *S. mutans*
       * *S. suis*: Common in Thailand (3 stars)
-        * Suis: pig; Generally infection in pig especially in rainy season
+        * Name: Suis (pig); Generally infection in pig especially in rainy season
         * Can transmit to human upon ingesting undercooked pork; Enter blood
         * Septicemia, Meningitis
           * Can gone deaf & death
@@ -98,30 +91,28 @@
     * <mark class="hltr-red">Gamma-hemolysis</mark>: Non-hemolysis
       * Red area around colony on gel w/ Erythrocytes (Not affected)
       * *Enterococcus* species (3 stars)
-        * Normal flora in intestine
+        * Name: Entero (Intestinal) + Coccus; Normal flora in intestine
         * Low virulence factor
         * UTI, endocarditis, bacteremia, diverticulitis, meningitis
-          * Bacteremia: bacteria in blood
-          * Diverticulum: Bulging pouches in digestive tract (usually large intestine)
 * *Bacillus*: Spore-forming Gram-Positive Bacilli
   * Spore: Can withstand drought, heat, and time
     * Visible "hole" w/o Gram strain inside cell
   * Large (10x Gram-negative bacteria)
   * *B. anthracis*
-    * Zoonosis: in cattle
-    * Biological weapons (Anthrax Letters)
-    * Anthrax
+    * Name: Anthrax
       * Cutaneous anthrax → Abscess (self-limited)
       * Pulmonary anthrax → Spore in lung → Pneumonia (potentially 2-3 days after infection)
+    * Zoonosis: in cattle
+    * Biological weapons (Anthrax Letters)
   * *B. cereus* (4 stars)
-    * In cereal (as in grains not the Milk & Cereal) e.g. rice & oats
+    * Name: Cereal; In cereal (as in grains not the Milk & Cereal) e.g. rice & oats
       * In reheated food e.g. fried rice
         * leftover toxins (heat-stable enterotoxin)
       * leftover spore (can partially eliminate by heating)
     * Acute diarrhea (not as frequent as *S. aureus*)
 * *Listeria*: Regular-Stained, Non-Spore-Forming, Gram-Positive Bacilli
   * *L. monocytogenes* (3 stars)
-    * Zoonosis: in cows
+    * In cows
     * Prefer cold temperature (not common in Thailand)
       * Cheese & Ice Cream (derivatives from improperly pasteurized milk)
     * Neonatal septicemia (not as frequent as *S. agalactiae*)
@@ -140,9 +131,10 @@
     * Vaginal normal flora; low number ← controlled by *L. acidophilus*
     * Overgrowth → Bacterial vaginosis (vaginitis by normal flora)
 * *Erysipelothrix*: Regular-Stained, Non-Spore-Forming, Gram-Positive Bacilli
+  * Erysipelas in animals
   * *E. rhusiopathiae* (2 stars)
     * Zoonosis: Fish / Pig related injury
-    * Skin Infection
+    * Erysipeloid in Human: Skin Infection
 * Class Actinomycetia: Irregular-Stained Non-Spore-Forming Gram-Positive Bacilli
   * Higher bacteria: evolving to fungi
     * w/ mycolic acid (fatty acid) which is in fungi
@@ -160,12 +152,12 @@
   * Non-Branching Actinomycetia
     * High, Long Mycolic acid → Acid-fast, Weakly Gram-Positive
   * Slowly growing (~3 weeks)
-  * Pneumonia
-  * *M. tuberculosis* → Tuberculosis (5 stars)
+  * Pneumonia: โรคปอดบวม
+  * *M. tuberculosis* → Tuberculosis: วัณโรค (5 stars)
     * Chronic infection at lung; may spread
   * *M. avium* complex (MAC; multiple species; 3 stars)
     * Pulmonary infection in immunocompromised host (weaken immunity)
-  * *M. leprae* → Leprosy (3 stars)
+  * *M. leprae* → Leprosy: โรคเรื้อน (3 stars)
     * Skin infection, damaging nerves
   * *M. abscessus*, *M. fortuitum*, *M. chelonae* (1 star)
     * Rapid growing mycobacterium
@@ -175,13 +167,16 @@
     * Less, Short mycolic acid → Partially acid-fast (only Modified Acid-fast)
     * Beaded: Irregular-stained
     * Filamentous: Long chain
-  * Subacute infection
+  * Subacute pulmonary infection
+  * Opportunistic infection in immunocompromised host
+    * Diabetes
+    * Immunosuppressive drugs e.g. Steroids
 * *Rhodococcus*
   * Branching Actinomycetia
 * *Streptomyces*: Gram-positive beaded branching filamentous bacilli (1 star)
-  * Actinomyces
-    * w/o mycolic acid → Non-acid-fast
-* *Actinomyces*: Non-mycolic acid, Irregular stained, Gram-Positive Bacilli
+  * w/o mycolic acid → Non-acid-fast
+* *Actinomyces*: Gram-positive beaded branching filamentous bacilli (1 star)
+  * w/o mycolic acid → Non-acid-fast
   * Mostly Anaerobic
 
 ## Reference
