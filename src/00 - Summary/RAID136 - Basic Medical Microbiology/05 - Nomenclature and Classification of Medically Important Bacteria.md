@@ -195,48 +195,127 @@
 ## Diseases & Symptoms
 
 * Note: Referenced [L06](06%20-%20Medically%20Important%20Gram-Positive%20Bacteria.md), [L07](07%20-%20Medically%20Important%20Gram-Negative%20Bacteria.md), [L08](08%20-%20Spirochete,%20Mycoplasma,%20Chlamydia,%20and%20Rickettsia.md), [L09](09%20-%20Mycobacterium%20and%20Anaerobic%20Bacteria.md)
+* Infections by Methods
+  * Anthroponoses: Human-to-Human, Zoogenic: Animals-to-Human
+  * Ingestion
+    * *S. suis* (Pork)
+    * *B. cereus* (Cereal)
+    * *L. monocytogenes* (cow milk)
+    * *Shigella* spp. (Anthroponoses; surface contamination)
+    * *Salmonella enterica* (Raw chicken & Eggs)
+    * *Vibrio parahaemolyticus* (seafood; shellfish)
+    * *Vibrio cholerae* (brackish water)
+    * *Burkholderia pseudomallei* (soil)
+    * *Brucella* spp. (sheep / goat milk derivatives)
+    * *Campylobacter jejuni* (Raw chicken)
+    * *C. perfringens* (Pre-cooked food, soil, sediments, decaying vegetation)
+    * *Leptospira interrogans* (contact w/ rodent urine)
+  * Inhalation
+    * *B. anthracis* (Pulmonary Anthrax; Spore)
+    * *N. meningitidis* (Anthroponoses: Human-to-Human)
+    * *Burkholderia pseudomallei* (soil)
+    * *Legionella pneumophilia* (water)
+    * *Leptospira interrogans* (contact w/ rodent urine in water/soil)
+    * *M. pneumonia* (Droplet)
+    * *C. pneumoniae* (Droplet)
+  * Cutaneous
+    * *B. anthracis* (Cutaneous Anthrax; Spore)
+    * *Leptospira interrogans* (contact w/ rodent urine in water/soil)
+  * Wound
+    * *E. rhusiopathiae* (fish, pig)
+    * *Vibrio vulnificus* (sea-water; seashell)
+    * *Aeromonas hydrophila*, *Plesiomonas shigelloides* (fresh water)
+    * *Burkholderia pseudomallei* (soil)
+    * *Pasteurella multocida* (cat / dog bite)
+    * *Leptospira interrogans*
+    * Intravascular catheter
+      * *S. epidermidis*
+      * *T. pallidum* spp. *pallidum*
+    * Puerperal (to mother during delivering)
+      * *S. agalactiae*
+    * Blood Transfusion
+      * *T. pallidum* spp. *pallidum*
+  * Zoogenic
+    * *Pasteurella multocida* (cat / dog bite)
+    * *Brucella* spp. (sheep / goat)
+    * *Leptospira interrogans* (Rodent; Possibly Cattle, Dogs)
+    * *Rickettsia typhi* (Rodents / Cats via Flea)
+    * *Orientia tsutsugamushi* (Chigger mite larva)
+  * Vertical (from mother to baby): Neonatal (to infants during delivering/pregnancy)
+    * *S. agalactiae* (delivering)
+    * *L. monocytogenes* (pregnancy)
+    * *T. pallidum* spp. *pallidum*
+  * Sexually Transmitted Infection (STI)
+    * *N. gonorrhoeae*
+    * *H. ducreyi*
+    * *T. pallidum* spp. *pallidum*
+  * Dysbiosis
+    * *G. vaginalis*
+    * *C. difficile*
+* Normal Flora
+  * Mouth Normal Flora
+    * *Beillonella* spp.
+  * Gastrointestinal Flora
+    * *Beillonella* spp.
+  * Pharyngeal Flora
+    * Viridans *Strep.*
+  * Enteric Flora @Intestine
+    * *Enterococcus* spp.
+    * *E. coli*
+    * *K. pneumoniae*
+    * *Enterobacter* spp.
+    * *C. perfringens*
+    * @Colon
+      * *B. fragilis*
+  * Vaginal Flora
+    * *L. acidophilus*
+    * *G. vaginalis*
+    * *Beillonella* spp.
+  * Epidermal Flora
+    * *S. epidermidis*
 * Infections by Site (See Inflammation for more)
   * Urinary Tract Infection (UTI; stain urine for identification)
+    * *E. coli* ($\pu{80 %}$ of UTI)
+    * *K. pneumoniae* (second most likely cause)
+    * *Enterobacter* spp.
     * *S. saprophyticus*
-    * *Enterococcus* species
+    * *Enterococcus* spp.
+    * *Proteus* spp.
+    * *Pseudomonas aeruginosa*, *Acinetobacter baumannii*
   * Skin Infection
     * Erysipelas: ไฟลามทุ่ง, Scarlet Fever: ไข้อีดำอีแดง @Upper Dermis
       * *S. pyogenes*
       * *E. rhusiopathiae* (Erysipelas in Animals; Erysipeloid in Human)
-    * Leprosy: โรคเรื้อน
+    * Leprosy (Hansen Disease): โรคเรื้อน
       * *M. leprae*
     * *M. abscessus*, *M. fortuitum*, *M. chelonae* (Chronic)
-  * Blood Infection (Septicemia; aka blood poisoning)
-    * *S. suis*
-    * *L. monocytogenes* (Neonatal: Less common than *S. agalactiae*)
-    * Sepsis (w/ body-wide response)
-      * *S. agalactiae* (Neonatal; Acute in Adults)
+  * Blood Infection
+    * Septicemia; aka blood poisoning)
+      * Name: Septikos (Make rotten) + haema (Blood)
+      * *S. suis*
+      * *L. monocytogenes* (Neonatal: Less common than *S. agalactiae*)
+      * *E. coli*
+      * *Salmonella enterica*
+      * *Vibrio vulnificus*
+      * *Brucella* spp.
+      * *Campylobacter jejuni*
     * Bacteremia (Bacteria in blood, not necessary harmful)
+      * Name: Bacteria + haema (Blood)
       * Viridans *Strep.* (microtrauma from teeth-brushing; temporary)
-      * *Enterococcus* species
+      * *Enterococcus* spp.
   * Respiratory Tract Infection
     * Lower Respiratory Tract Infection (LRI)
     * Upper Respiratory Tract Infection (URI)
+      * Note: Usually viral.
     * *M. avium* complex (Immunocompromised host)
     * *Nocardia* (Immunocompromised host, Subacute)
   * Gastrointestinal Infection
-    * *Salmonella*
-    * *Shigella*
-* Infections by Methods
-  * Airbourne
-    * *B. anthracis* (Pulmonary Anthrax)
-    * *N. meningitidis*
-  * Foodborne
-    * *B. cereus* (cereal)
-    * *L. monocytogenes* (milk)
-  * Neonatal (to infants during delivering/pregnancy)
-    * *S. agalactiae* (delivering)
-    * *L. monocytogenes* (pregnancy)
-  * Puerperal (to mother during delivering)
-    * *S. agalactiae*
-  * Intravascular catheter
-    * *S. epidermidis*
+    * *Shigella* spp.
+    * *Salmonella enterica*
+    * *B. fragilis*
 * Inflammation (-itis)
+  * Sepsis @Body-wide (Septicemia)
+    * *S. agalactiae* (Neonatal; Acute in Adults)
   * Otitis @Ear
     * Otitis media @Middle Ear (connected to Respiratory tract)
       * *S. pneumoniae*
@@ -245,82 +324,128 @@
     * *S. agalactiae* (Neonatal; Acute in Adults)
     * *S. pneumoniae*
     * *S. suis* (Potential deaf & Death)
-    * *Enterococcus* species
+    * *Enterococcus* spp.
     * *L. monocytogenes*
     * *N. meningitidis*
+    * *H. influenzae*
     * Note: If lie down w/ arched back, the pain/stress from meningitis can be relieved.
   * Fasciitis @Fascia (membrane around muscle)
     * *S. pyogenes* (Necrotizing: w/ dead tissue)
   * Endocarditis @Inner cardiac membrane
     * Viridans *Strep.*: *S. mitis*, *S. sanguinis*, *S. anginosus* (Subacute: 1-2 weeks after infection)
-    * *Enterococcus* species
+    * *Enterococcus* spp.
   * Cellulitis @Fat Layer under skin
     * *S. aureus*
   * Pharyngitis @Throat (URI)
     * *S. pyogenes*
     * *N. gonorrhoeae* (rare; imply oral sex)
-    * Note: Usually viral.
-    * Diphtheria: Pseudomembranous (aka โรคคอตีบ)
-      * *C. diphtheriae*
+    * Diphtheria: Pseudomembranous (aka โรคคอตีบ): *C. diphtheriae*
+    * *M. pneumonia*
   * Bronchitis @Bronchus (LRI)
     * *M. catarrhalis*
   * Pneumonitis @Lung (LRI) (aka Pneumonia)
     * *S. aureus* (w/ Abscess)
     * *S. pneumoniae*
-    * Pulmonary Anthrax
-      * *B. anthracis* (Spore)
-    * Tuberculosis
-      * *M. tuberculosis*
+    * *H. influenzae*
+    * Pulmonary Anthrax: *B. anthracis* (Spore)
+    * Tuberculosis: *M. tuberculosis*
+    * Hospital-acquired pneumonia (HAP)
+      * *Pseudomonas aeruginosa*, *Acinetobacter baumannii*
+    * Ventilator-associated pneumonia (VAP)
+      * *Pseudomonas aeruginosa*, *Acinetobacter baumannii*
+    * *Burkholderia pseudomallei* (subacute)
+    * *Legionella pneumophilia*
+    * *M. pneumonia* (Walking pneumonia / Atypical pneumonia)
+    * *C. pneumoniae*
+  * Enteritis @Intestine
+    * *E. coli*
   * Diverticulis @Diverticulum (Bulging pouches in Large Intestine; Gastrointestinal infection)
-    * *Enterococcus* species
+    * *Enterococcus* spp.
   * Proctitis @Rectum
     * *N. gonorrhoeae* (imply anal sex)
   * Urethritis @Urinary Tract (UTI)
-    * Gonorrhea (aka หนองในแท้)
-      * *N. gonorrhoeae*
+    * Gonorrhea (aka หนองในแท้): *N. gonorrhoeae*
   * Cystitis @Bladder (UTI)
     * *S. saprophyticus* (in Female)
     * *E. coli*
   * Virginitis @Vagina
     * *G. vaginalis* (Vaginosis: opportunistic flora)
 * Abscess (stain pus for identification)
-  * *S. aureus* (usually epidermal)
-  * *B. anthracis* (Cutaneous anthrax; self-limited)
+  * *S. aureus* (usually epidermal; possibly lung)
+  * *B. anthracis* (Epidermal; Cutaneous anthrax; self-limited)
+  * *K. pneumoniae* (Liver)
+  * *Burkholderia pseudomallei* (Skin / Liver)
 * Impetigo: Clustered clots (aka โรคแผลเปื่อยจากโรงเรียน, โรคพุพอง)
   * *S. aureus*
   * *S. pyogenes*
-* Toxic Shock Syndrome
-  * *S. aureus*
-* Diarrhea (aka food poisoning)
+* Diarrhea
   * *S. aureus*
   * *B. cereus* (Acute; Less common than *S. aureus*)
-* Staphylococcal scalded skin syndrome
-  * *S. aureus* (Infants)
-* Dental Caries (aka Tooth decay)
-  * Viridans *Strep.*: *S. mutans*
+  * *Aeromonas hydrophila*, *Plesiomonas shigelloides*
+  * *B. fragilis*
+  * Dysentery (Diarrhea w/ blood/mucus) (aka โรคบิด)
+    * Shigellosis (aka โรคบิดไม่มีตัว): *Shigella* spp.
+    * Salmonellosis (aka food poisoning): *Salmonella enterica*
+    * *Campylobacter jejuni*
+  * Watery Diarrhea
+    * Cholera (aka อหิวาตกโรค): *Vibrio cholerae*
+    * *Vibrio parahaemolyticus*
+    * *Campylobacter jejuni*
+* Specific Diseases
+  * Toxic Shock Syndrome: *S. aureus*
+  * Staphylococcal scalded skin syndrome: *S. aureus*
+    * Infants
+  * Dental Caries (aka Tooth decay): Viridans *Strep.*: *S. mutans*
+  * Acne: *Propionibacterium* / *C. acne*
+  * Typhoid Fever (aka ไข้รากสาดน้อย): *Salmonella enterica*
+    * Infection in lymph node
+  * Staghorn calculi (aka นิ่วเขากวาง) (UTI): *Proteus* spp.
+    * Struvite kidney stones in the shape of staghorn (shape of renal pelvis)
+    * Potential renal failure
+  * Plague (aka black death, กาฬโรค): *Yersinia pestis*
+    * Bubonic Plague: Swelling lymph node
+    * Septicemic Plague: Septicemia → Disseminated intravascular coagulation (clots blocking vessels)
+      * Black dead tissues → Black death
+    * Pneumonic Plague: Lung
+  * Melioidosis: *Burkholderia pseudomallei*
+  * Whooping Cough: *B. pertussis*
+  * Chancroid (aka แผลริมอ่อน): *H. ducreyi*
+  * Syphilis (aka แผลริมแข็ง): *T. pallidum* spp. *pallidum*
+    * Sore, Rash
+    * Neurosyphilis
+    * Ocular Syphilis
+    * Otosyphilis
+  * Yaws Disease: *T. pallidium* spp. *pertenus*
+  * Bejel Disease: *T. pallidium* spp. *endemicum*
+  * Pinta Disease: *T. carateum*
+  * Leptospirosis: *Leptospira interrogans*
+    * Influenza-like febrile illness
+    * Conjunctival suffusion
+    * Myalgia (Muscle Pain)
+    * Aseptic meningitis
+    * Weil Disease (Liver & Kidney Failure)
+    * Pulmonary Hemorrhage
+  * Peptic Ulcers: *H. pyroli*
+    * Potential Gastric Cancer
+  * Botulism: *C. botulinum*
+    * Botulinum toxin aka Botox
+  * Tetanus: *C. tetani*
+  * Rocky Mountain Spotted Fever: *Rickettsia rickettsii*
+  * Thyphus
+    * Endemic (murine) typhus: *Rickettsia typhi*
+      * Fever
+      * Headache
+      * Myalgia
+      * Rash (Maculopapular / Petechiae)
+    * Scrub typhus: *Orientia tsutsugamushi*
+      * Fever
+      * Headache
+      * Myalgia
+      * Rash
+      * Eschar at site of infection
 * Sequelae (Post-infection)
-  * Post Streptococcal Glomerulonephritis (w/ Rheumatic Fever, Rheumatic Heart Disease)
-    * *S. pyogenes*
-* Normal Flora
-  * Pharyngeal Flora
-    * Viridans *Strep.*
-  * Intestinal Flora
-    * *Enterococcus* species
-  * Vaginal Flora
-    * *L. acidophilus*
-    * *G. vaginalis* (opportunistic)
-  * Epidermal Flora
-    * *S. epidermidis*
-* Zoonosis / Anthroponoses
-  * Anthroponoses (Human-to-human transmission)
-    * *N. meningitidis* (Airbourne)
-  * Cattle
-    * *B. anthracis*
-  * Pig
-    * *S. suis* (Foodbourne)
-    * *E. rhusiopathiae* (Injury)
-  * Fish
-    * *E. rhusiopathiae* (Injury)
+  * Post Streptococcal Glomerulonephritis: *S. pyogenes*
+    * w/ Rheumatic Fever, Rheumatic Heart Disease
 
 ## Reference
 

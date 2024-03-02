@@ -88,14 +88,13 @@
 * *C. perfringens*
   * Pleomorphic w/ straight / curved rods
   * Intestinal normal flora
-  * Soil, Sediments, decaying vegetation
-    * Pre-cooked food
+  * Soil, Sediments, decaying vegetation, Pre-cooked food
   * Hemolysin → Beta-hemolysis on Blood agar
   * Nagler Test
     * Lecithinase activity → Grow on Egg yolk agar
     * Not immune to Anti-alpha toxin
 * *C. difficile*
-  * Prolonged antibiotics usage (Imbalance of normal flora; overgrown)
+  * Prolonged antibiotics usage (Dysbiosis; overgrown)
 
 ### *Bacteroides* spp
 
