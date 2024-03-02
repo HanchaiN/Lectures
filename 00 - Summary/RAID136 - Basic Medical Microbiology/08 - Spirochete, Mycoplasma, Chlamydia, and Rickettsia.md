@@ -25,7 +25,7 @@ aliases:
 			- Genus: *Borellia*
 		- Family: *Leptospiraceae*
 			- Genus: *Leptospira*
-- *Treponema spp.*
+- *Treponema* species
 	- Venereal Syphilis
 		- *T. pallidum* spp. *pallidum* → Syphilis
 			- Slip, Corkscrew Spiral
@@ -47,7 +47,7 @@ aliases:
 	- Nonvenereal (Endemic Treponematoses)
 		- *T. pallidium* spp. *pertenus* → Yaws
 		- *T. pallidium* spp. *endemicum* → Bejel
-		- *T. carateum* → Bejel
+		- *T. carateum* → Pinta
 - *Borellia* spp.
 - *Leptospira interrogans* → Leptospirosis
 	- Thin, Close Spirals, Hooked Ends
