@@ -21,7 +21,10 @@ aliases:
 			- Staphylococcal Scalded Skin Syndrome: Infants; whole body
 			- Pneumonia w/ Lung Abscess
 			- Toxic Shock Syndrome
-			- Food Poisoning
+				- Usually from inserted tampons
+				- Toxin is absorbed through tissue to blood, leading to body-wide symptoms
+				- Fever, Muscle Pain, Diarrhea, Headache, Rashes
+			- Food Poisoning (Diarrhea)
 	- *S. epidermidis*: Low virulence factor (3 stars)
 		- Normal Flora on Epidermis; suppressing fungi growth
 			- Tightly attach to epidermis (as well as inorganic surfaces)
@@ -30,7 +33,7 @@ aliases:
 		- w/o Coagulase
 		- Intravascular catheter colonization/infection
 			- Intravascular catheter / Intravenous catheter: needle for vascular system / vein
-			- Risk factor: improper sanitization / weaken host
+			- Risk factor: improper sanitization / immunocompromised host
 	- *S. saprophyticus*: Uncommon in Thailand (3 stars)
 		- Urinary Tract Infection (UTI; stain urine for identification)
 			- Cystitis in Female
@@ -45,7 +48,7 @@ aliases:
 				- Group A (classified by rxn w/ antibody)
 				- Flesh-eating bacteria
 					- Bacterial pharyngitis: Inflammation @ Throat ← Amoxicillin
-						- Pharyngitis is usually viral; can self-heal
+						- Pharyngitis is usually viral; can self-limited
 						- If bacterial, cause severe symptoms if not cured
 					- Impetigo: Clustered clots
 					- Necrotizing Fasciitis: Inflammation @ Fascia w/ dead tissue
@@ -102,6 +105,86 @@ aliases:
 				- UTI, endocarditis, bacteremia, diverticulitis, meningitis
 					- Bacteremia: bacteria in blood
 					- Diverticulum: Bulging pouches in digestive tract (usually large intestine)
+- *Bacillus*: Spore-forming Gram-Positive Bacilli
+	- Spore: Can withstand drought, heat, and time
+		- Visible "hole" w/o Gram strain inside cell
+	- Large (10x Gram-negative bacteria)
+	- *B. anthracis*
+		- Zoonosis: in cattle  
+		- Biological weapons (Anthrax Letters)
+		- Anthrax
+			- Cutaneous anthrax → Abscess (self-limited)
+			- Pulmonary anthrax → Spore in lung → Pneumonia (potentially 2-3 days after infection)
+	- *B. cereus* (4 stars)
+		- In cereal (as in grains not the Milk & Cereal) e.g. rice & oats
+			- In reheated food e.g. fried rice
+				- leftover toxins (heat-stable enterotoxin)
+			- leftover spore (can partially eliminate by heating)
+		- Acute diarrhea (not as frequent as *S. aureus*)
+- *Listeria*: Regular-Stained, Non-Spore-Forming, Gram-Positive Bacilli
+	- *L. monocytogenes* (3 stars)
+		- Zoonosis: in cows
+		- Prefer cold temperature (not common in Thailand)
+			- Cheese & Ice Cream (derivatives from improperly pasteurized milk)
+		- Neonatal septicemia (not as frequent as *S. agalactiae*)
+			- Little-to-none symptoms for mother but affect infants
+			- Infected via ingestion by mother, transmitted through blood
+		- Meningitis
+- *Lactobacillus* species: Regular-Stained, Non-Spore-Forming, Gram-Positive Bacilli
+	- Aerotolerant Anaerobic
+	- Probiotics: Normal flora of healthy vagina & intestine
+	- *L. acidophilus* (3 stars)
+		- Vaginal: pH ~ 4.5; avoid overgrowth of pathogens
+		- Wash with alkali soaps → Complications
+- *Gardnerella*: Regular-Stained, Non-Spore-Forming, Gram-Variable Bacilli
+	- Gram-Variable: Gram-Positive with thin peptidoglycan → Some population of same species may be observed as Gram-Negative
+	- *G. vaginalis* (4 stars)
+		- Vaginal normal flora; low number ← controlled by *L. acidophilus*
+		- Overgrowth → Bacterial vaginosis (vaginitis by normal flora)
+- *Erysipelothrix*: Regular-Stained, Non-Spore-Forming, Gram-Positive Bacilli
+	- *E. rhusiopathiae* (2 stars)
+		- Zoonosis: Fish / Pig related injury
+		- Skin Infection
+- Class Actinomycetia: Irregular-Stained Non-Spore-Forming Gram-Positive Bacilli
+	- Higher bacteria: evolving to fungi
+		- w/ mycolic acid (fatty acid) which is in fungi
+	- Mycolic acid in cell wall → Irregular-Stained, weakly Gram-Positive
+- *Corynebacterium*: Irregular stained, club shaped, gram-positive bacilli w/ Chinese-letter arrangement
+	- Non-Branching Actinomycetia
+	- Relatively more regular-stained: only the middle section is irregular
+	- Coryneform (Club-shaped)
+	- Diphtheroid (Nonpathogenic Corynebacteria)
+	- Mostly skin, oral, respiratory tract flora
+	- *C. diphtheriae* → Diphtheria (4 stars)
+		- Pathogenic (Not diphtheroid)
+		- Toxin → Dead tissue in throat blocking respiratory tract (pseudomembranous pharyngitis)
+- *Mycobacterium*: Gram-positive, irregular-stained bacilli (5 stars)
+	- Non-Branching Actinomycetia
+		- High, Long Mycolic acid → Acid-fast, Weakly Gram-Positive
+	- Slowly growing (~3 weeks)
+	- Pneumonia
+	- *M. tuberculosis* → Tuberculosis (5 stars)
+		- Chronic infection at lung; may spread
+	- *M. avium* complex (MAC; multiple species; 3 stars)
+		- Pulmonary infection in immunocompromised host (weaken immunity)
+	- *M. leprae* → Leprosy (3 stars)
+		- Skin infection, damaging nerves
+	- *M. abscessus*, *M. fortuitum*, *M. chelonae* (1 star)
+		- Rapid growing mycobacterium
+		- Chronic skin infection
+- *Nocardia*: Gram-positive beaded branching filamentous bacilli (4 stars)
+	- Branching Actinomycetia
+		- Less, Short mycolic acid → Partially acid-fast (only Modified Acid-fast)
+		- Beaded: Irregular-stained
+		- Filamentous: Long chain
+	- Subacute infection
+- *Rhodococcus*
+	- Branching Actinomycetia
+- *Streptomyces*: Gram-positive beaded branching filamentous bacilli (1 star)
+	- Actinomyces
+		- w/o mycolic acid → Non-acid-fast
+- *Actinomyces*: Non-mycolic acid, Irregular stained, Gram-Positive Bacilli
+	- Mostly Anaerobic
 
 ## Reference
 
