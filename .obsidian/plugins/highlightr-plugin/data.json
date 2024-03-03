@@ -1,21 +1,24 @@
 {
   "highlighterStyle": "realistic",
-  "highlighterMethods": "css-classes",
+  "highlighterMethods": "inline-styles",
   "highlighters": {
-    "Rosewater": "#f5e0dc\t",
+    "Rosewater": "#f5e0dc",
     "Flamingo": "#f2cdcd",
     "Pink": "#f5c2e7",
-    "Mauve": "#cba6f7\t",
+    "Mauve": "#cba6f7",
     "Red": "#f38ba8",
     "Maroon": "#eba0ac",
     "Peach": "#fab387",
-    "Yellow": "#f9e2af\t",
+    "Yellow": "#f9e2af",
     "Green": "#a6e3a1",
     "Teal": "#94e2d5",
-    "Sky": "#89dceb\t",
-    "Sapphire": "#74c7ec\t",
-    "Blue": "#89b4fa\t",
-    "Lavender\t": "#b4befe"
+    "Sky": "#89dceb",
+    "Sapphire": "#74c7ec",
+    "Blue": "#89b4fa",
+    "Lavender": "#b4befe",
+    "Overlay2": "#9399b2",
+    "Overlay1": "#7f849c",
+    "Overlay0": "#6c7086"
   },
   "highlighterOrder": [
     "Rosewater",
@@ -31,6 +34,9 @@
     "Sky",
     "Sapphire",
     "Blue",
-    "Lavender\t"
+    "Lavender",
+    "Overlay2",
+    "Overlay1",
+    "Overlay0"
   ]
 }
