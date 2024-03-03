@@ -33,14 +33,18 @@ command = "mdbook-mermaid"
 curly-quotes = true
 mathjax-support = true
 additional-css = [
+	"theme/css/better-reading.css",
 	"theme/css/catppuccin.css",
-	"theme/css/catppuccin-admonish.css"
+	"theme/css/catppuccin-admonish.css",
+	"theme/css/catppuccin-highlightr.css",
+	"theme/css/highlightr.css"
 ]
 additional-js = [
-	"theme/js/whichlang.js",
-	"theme/js/smilesDrawer.js",
+	"theme/js/better-reading.js",
 	"theme/js/mermaid.min.js",
-	"theme/js/mermaid-init.js"
+	"theme/js/mermaid-init.js",
+	"theme/js/smilesDrawer.js",
+	"theme/js/whichlang.js"
 ]
 no-section-label = true
 git-repository-url = "https://github.com/HanchaiN/Lectures.git"

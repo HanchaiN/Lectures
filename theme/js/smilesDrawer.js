@@ -20,7 +20,7 @@ window.addEventListener("load", () => {
 		var theme;
 		if (getComputedStyle(document.body).getPropertyValue(`--ctp-text`) != "")
 			return "catppuccin";
-		try { theme = localStorage.getItem('mdbook-scheme'); } catch (e) { }
+		try { theme = getComputedStyle(document.body).getPropertyValue(`--color-scheme`); } catch (e) { }
 		if (["dark", "light"].includes(theme))
 			return theme;
 		return "light";
@@ -72,5 +72,5 @@ window.addEventListener("load", () => {
 		);
 	}
 	redraw();
-	window.addEventListener("themeChange", (e) => redraw());
+	window.addEventListener("themeChange", () => redraw());
 });

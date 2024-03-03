@@ -323,15 +323,6 @@ function playground_text(playground, hidden = true) {
             return theme;
         }
     }
-    function get_scheme() {
-        var theme;
-        try { theme = localStorage.getItem('mdbook-scheme'); } catch (e) { }
-        if (theme === null || theme === undefined) {
-            return "light";
-        } else {
-            return theme;
-        }
-    }
 
     function set_theme(theme, store = true) {
         let ace_theme;
@@ -374,16 +365,10 @@ function playground_text(playground, hidden = true) {
         html.classList.add(theme);
         updateThemeSelected();
     }
-    function set_scheme(scheme, store = true) {
-        if (store) {
-            try { localStorage.setItem('mdbook-scheme', scheme); } catch (e) { }
-        }
-    }
 
     // Set theme
-    var theme = get_theme(), scheme = get_scheme();
+    var theme = get_theme();
 
-    set_scheme(scheme, false);
     set_theme(theme, false);
 
     themeToggleButton.addEventListener('click', function () {
@@ -395,21 +380,17 @@ function playground_text(playground, hidden = true) {
     });
 
     themePopup.addEventListener('click', function (e) {
-        var theme, scheme;
+        var theme;
         if (e.target.className === "theme") {
             theme = e.target.id;
-            scheme = e.target.dataset.scheme;
         } else if (e.target.parentElement.className === "theme") {
             theme = e.target.parentElement.id;
-            scheme = e.target.parentElement.dataset.scheme;
         } else {
             return;
         }
-        set_scheme(scheme);
         set_theme(theme);
         window.dispatchEvent(new Event('themeChange', {
             theme,
-            scheme
         }));
     });
 

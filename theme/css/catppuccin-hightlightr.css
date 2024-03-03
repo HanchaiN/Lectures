@@ -1,0 +1,69 @@
+mark {
+	&.hltr-rosewater {
+		background: var(--ctp-rosewater);
+	}
+
+	&.hltr-flamingo {
+		background: var(--ctp-flamingo);
+	}
+
+	&.hltr-pink {
+		background: var(--ctp-pink);
+	}
+
+	&.hltr-mauve {
+		background: var(--ctp-mauve);
+	}
+
+	&.hltr-red {
+		background: var(--ctp-red);
+	}
+
+	&.hltr-maroon {
+		background: var(--ctp-maroon);
+	}
+
+	&.hltr-peach {
+		background: var(--ctp-peach);
+	}
+
+	&.hltr-yellow {
+		background: var(--ctp-yellow);
+	}
+
+	&.hltr-green {
+		background: var(--ctp-green);
+	}
+
+	&.hltr-teal {
+		background: var(--ctp-teal);
+	}
+
+	&.hltr-sky {
+		background: var(--ctp-sky);
+	}
+
+	&.hltr-sapphire {
+		background: var(--ctp-sapphire);
+	}
+
+	&.hltr-blue {
+		background: var(--ctp-blue);
+	}
+
+	&.hltr-lavender {
+		background: var(--ctp-lavender);
+	}
+
+	&.hltr-overlay2 {
+		background: var(--ctp-overlay2);
+	}
+
+	&.hltr-overlay1 {
+		background: var(--ctp-overlay1);
+	}
+
+	&.hltr-overlay0 {
+		background: var(--ctp-overlay0);
+	}
+}
