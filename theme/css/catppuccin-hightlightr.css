@@ -1,69 +1,69 @@
 mark {
 	&.hltr-rosewater {
-		background-color: var(--ctp-rosewater);
+		background-color: var(--ctp-rosewater, var(--ctp-macchiato-rosewater));
 	}
 
 	&.hltr-flamingo {
-		background-color: var(--ctp-flamingo);
+		background-color: var(--ctp-flamingo, var(--ctp-macchiato-flamingo));
 	}
 
 	&.hltr-pink {
-		background-color: var(--ctp-pink);
+		background-color: var(--ctp-pink, var(--ctp-macchiato-pink));
 	}
 
 	&.hltr-mauve {
-		background-color: var(--ctp-mauve);
+		background-color: var(--ctp-mauve, var(--ctp-macchiato-mauve));
 	}
 
 	&.hltr-red {
-		background-color: var(--ctp-red);
+		background-color: var(--ctp-red, var(--ctp-macchiato-red));
 	}
 
 	&.hltr-maroon {
-		background-color: var(--ctp-maroon);
+		background-color: var(--ctp-maroon, var(--ctp-macchiato-maroon));
 	}
 
 	&.hltr-peach {
-		background-color: var(--ctp-peach);
+		background-color: var(--ctp-peach, var(--ctp-macchiato-peach));
 	}
 
 	&.hltr-yellow {
-		background-color: var(--ctp-yellow);
+		background-color: var(--ctp-yellow, var(--ctp-macchiato-yellow));
 	}
 
 	&.hltr-green {
-		background-color: var(--ctp-green);
+		background-color: var(--ctp-green, var(--ctp-macchiato-green));
 	}
 
 	&.hltr-teal {
-		background-color: var(--ctp-teal);
+		background-color: var(--ctp-teal, var(--ctp-macchiato-teal));
 	}
 
 	&.hltr-sky {
-		background-color: var(--ctp-sky);
+		background-color: var(--ctp-sky, var(--ctp-macchiato-sky));
 	}
 
 	&.hltr-sapphire {
-		background-color: var(--ctp-sapphire);
+		background-color: var(--ctp-sapphire, var(--ctp-macchiato-sapphire));
 	}
 
 	&.hltr-blue {
-		background-color: var(--ctp-blue);
+		background-color: var(--ctp-blue, var(--ctp-macchiato-blue));
 	}
 
 	&.hltr-lavender {
-		background-color: var(--ctp-lavender);
+		background-color: var(--ctp-lavender, var(--ctp-macchiato-lavender));
 	}
 
 	&.hltr-overlay2 {
-		background-color: var(--ctp-overlay2);
+		background-color: var(--ctp-overlay2, var(--ctp-macchiato-overlay2));
 	}
 
 	&.hltr-overlay1 {
-		background-color: var(--ctp-overlay1);
+		background-color: var(--ctp-overlay1, var(--ctp-macchiato-overlay1));
 	}
 
 	&.hltr-overlay0 {
-		background-color: var(--ctp-overlay0);
+		background-color: var(--ctp-overlay0, var(--ctp-macchiato-overlay0));
 	}
 }
