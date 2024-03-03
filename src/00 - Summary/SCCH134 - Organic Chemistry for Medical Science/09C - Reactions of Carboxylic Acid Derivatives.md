@@ -23,7 +23,7 @@
         * $\ce{R-C(OH)(X+H)Nu \<=> R-C(O+H)Nu \<=> R-CO-Nu}$
   * Hydrolysis
     * Product: Carboxylic Acid
-    * ![500](../../Assets/2024-LectNote-Topic9-1_Page_26.jpg)
+    * ![500](../../Assets/SCCH134-LectNote-L9-P26-Carboxylic_Hydrolysis.jpg)
     * Alkali-catalyzed Ester Hydrolysis (Saponification)
       * $\ce{R-CO-OR + NaOH ->\[H2O\] R-CO-O^{-} + R-OH}$
       * Mechanism
@@ -38,7 +38,7 @@
     * Amide → Amide: Cannot Occur
     * Ester → Amide: Practically intramolecular
 * Reduction
-  * ![500](../../Assets/2024-LectNote-Topic9-1_Page_35.jpg)
+  * ![500](../../Assets/SCCH134-LectNote-L9-P35-Carboxylic_Reduction.jpg)
   * Acid Halide & Acid Anhydride + $\ce{LiAlH4}$: Uncommon (Too reactive)
   * Carboxylic Acid + $\ce{LiAlH4}$: Uncommon (Hydrogen Gas + Carboxylate: $\ce{COO- + H-}$ require energy to react)
   * Carboxylic & Derivatives → Aldehyde / Imine → Alcohol / Amine
