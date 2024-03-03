@@ -1,4 +1,4 @@
-# Introduction to human body
+# Introduction to Human Body
 
 * Anatomy: Study of body's structure
   * Macroanatomy (Gross anatomy): Larger structure w/ naked eye
