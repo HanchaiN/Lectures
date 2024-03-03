@@ -13,7 +13,7 @@ aliases:
 		- Functions
 			- Support the body, Protect internal organs
 			- Facilitate movement
-			- Produce blood cell (Red bone marrow)
+			- Produce blood cell (Hematopoiesis; @Red bone marrow)
 			- Store & release minerals (e.g. Calcium) & fat (Yellow bone marrow)
 			- Endocrine System
 				- PTH → Activate Osteoclast; Release Calcium
@@ -198,6 +198,11 @@ aliases:
 	- Shoulder dislocation
 	- Osteoarthritis (OA)
 		- OA Knee → Bowleg knee
+	- Circumduction gait
+		- Hemiplegia
+	- Dwarfism
+		- Achondroplasia: Little-to-none Endochondral Ossification ← Genetic
+	- Injuries
 
 ## Reference
 
