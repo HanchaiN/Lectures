@@ -5,151 +5,199 @@ aliases:
 
 # How does the Body Move
 
-- Musculoskeletal System
-	- Skeletal System
-		- Bones (206 in adults) & Cartilages & Ligaments
-			- Joints
-		- Bones
-			- Functions
-				- Support the body, Protect internal organs
-				- Facilitate movement
-				- Produce blood cell (Red bone marrow)
-				- Store & release minerals (e.g. Calcium) & fat (Yellow bone marrow)
-				- Endocrine System
-					- PTH → Activate Osteoclast; Release Calcium
-				- Fracture callus; Require Calcium to heal
-					- PTH → More Calcium in blood
-					- GI Tract synthesize Vitamin D → More Ca absorption
-			- Classification by Shapes
-				- Long bone: Leverage
-				- Short bone: Stability, Support w/ motion
-				- Flat bone: Muscle attachment, Protection
-				- Irregular bone: Protection
-				- Sesamoid bone: Protect tendons from compressive force (usually embed in tendon)
-			- Structure (Long bone)
-				- Diaphysis: Center, Tubular shaft, compact bone w/ cavity
-					- Medullary Cavity w/ Yellow bone marrow (Adipose tissue)
-				- Metaphysis: In between
-					- Epiphyseal plate (growth plate): Hyaline cartilage
-						- Calcified to Epiphyseal line: no longer grow
-				- Proximal / Distal Epiphysis: Wider part at each end
-					- Spongy bone w/ Red bone marrow
-					- Articular Cartilage at each ends; no blood supply & nerve innervation
-			- Membranes
-				- Endosteum: lining medullary cavity
-					- Simple connective tissue; Delicate membrane
-					- Bone Metabolism: Growth, Repair, Remodeling
-				- Periosteum: outer surface
-					- Blood vessels, Nerves, Lymphatic vessels
-						- Extends into compact bone
-					- Fibrous layer, Cellular layer
-			- Cells
-				- Osteogenic cell: stem cell → Osteoblasts
-				- Osteoblast (OB): Immature, release osteoid (components of bone matrix)
-				- Osteocyte: Mature (differentiate from Osteoblast w/ calcified osteoid)
-					- w/ Canaliculi: Net-like Branching, connect with neighbors
-					- Maintain bone matrix
-				- Osteoclast (OC): Multinucleate, Secrete acids & enzymes dissolving bone matrix
-					- Monocytes & Macrophages
-			- Bone Homeostasis: Bone resorption (OC) ~ Bone formation (OB)
-				- Bone remodeling
-				- Osteoporosis: Bone resorption > Bone formation; less dense bone
-			- Compact bone
-				- Osteon / Harversian System
-					- Cylindrical bone structure
-					- Concentric lamellae: Rings of bone matrix w/ osteocytes in lacuna between rings
-					- Central canal: blood, nerve, lymph
-				- Perforating canal / Volkmann's canal: connect between osteons
-				- Withstand compressive force
-			- Spongy bone / Cancellous bone
-				- Trabeculae: Net-like bone structure
-					- w/ Concentric lamellae w/o Central canal
-				- Distribute weights
-			- Bone Formation (Ossification)
-				- Intramembranous Ossification
-					- Fetus → Adolescence @ Clavicle, Skull, Facial bones
-						- Fast Ossification
-					- Ossification center: Cluster of Mesenchymal cells (mesoderm)
-						- Mesenchymal cells → Osteogenic cells → Osteoblasts
-					- Calcification: Hardening w/ Calcium from blood vessel
-						- Osteoblasts → Osteocyte
-					- Trabeculae & Periosteum formation
-						- Calcification following blood vessel
-						- ECM → Trabeculae → Spongy bone
-						- Free Osteoblasts → Periosteum
-					- Compact bone development
-						- Osteoblast forms compact bone under periosteum
-				- Endochondral Ossification
-					- 6-8 weeks after conception - Adolescence @ Skull base, Long bone
-					- Replacing and breakdown of Hyaline cartilage
-					- Initial: Fetal hyaline cartilage w/ perichondrium
-					- Perichondrium → Periosteum
-					- Blood vessel grows in periosteum
-						- No blood in cartilage → Dead Chondrocyte
-						- Calcium transported to periosteum → Forming Periosteal bone collar (Compact bone)
-					- Dead Chondrocyte → Degenerating Hypertrophic cartilage → Developing Blood vessel & spongy bone in Diaphysis
-						- Primary ossification center @ Diaphysis
-						- Compact bone formation → medullary cavity w/ capillary
-					- Epiphyseal capillaries → Secondary ossification center @ Epiphyses
-						- Capillaries throughout → Spongy bone
-					- Remaining cartilage: Metaphysis, Epiphyseal plate
-						- No blood (calcium) → bone can elongate and slowly replacing metaphysis
-						- Epiphyseal line (between Ossification centers) left, cannot elongate further
-			- Blood, Nerve, Lymph
-				- Arteries & Vein
-					- Nutrient foramen (hole for artery), foramina (hole for vein) @ Diaphysis (Primary Ossification Center)
-					- Epiphyseal, Metaphyseal artery & vein (smaller)
-				- Nerve → Pain sensation (most) & Regulate blood supply
-		- Cartilages
-			- Classification
-				- Hyaline cartilage (most cartilage)
-					- w/ Perichondrium
-				- Fibrocartilage (pubic symphysis, intervertebral disc)
-					- Elastic, Withstand force, Less motion
-					- \w/ Collagen Fibers
-				- Elastic cartilage (External ear, Epiglottis)
-					- Elastic structures
-					- w/ Perichondrium & Elastic Fibers
-			- Structure
-				- Extracellular matrix
-				- Lacuna w/ chondrocyte
-					- Release Hyaluronic acid in Hyaline Cartilage
-					- Synthesize Collagen Fiber in Fibrocartilage
-					- Synthesize Elastic Fiber in Elastic Cartilage
-			- Cells: Chondroblast → Chondrocyte (differentiate & trapped in lacuna)
+- Musculoskeletal System → Skeletal System + Muscular System
+- Skeletal System
+	- Bones (206 in adults) & Cartilages & Ligaments
 		- Joints
-			- Structural Classification
-				- Fibrous Joint: Fibrous tissue at junction
-					- Usually Synarthrosis
-				- Cartilagenous Joint: Cartilage at junction
-					- Usually Amphiarthrosis
-				- Synovial Joint: Joint cavity w/ synovial fluid
-					- Usually Diarthrosis
-			- Functional Classification
-				- Synarthrosis (Immobile Joint)
-				- Amphiarthrosis (Slightly Movable Joint)
-				- Diarthrosis (Freely Movable Joint)
-			- Classification of Synovial Joint by shape of articulating surface
-				- Pivot: Uniaxial
-					- Horizontal rotation
-				- Hinge: Uniaxial
-					- Sagittal flex/extend
-				- Saddle: Biaxial
-					- Sagittal flex/extend
-					- Coronal abduct/adduct
-				- Condyloid: Biaxial
-					- Sagittal flex/extend
-					- Coronal abduct/adduct
-				- Plane: Multiaxial
-					- Sagittal flex/extend
-					- Coronal abduct/adduct
-					- Horizontal rotation
-				- Ball-and-Socket: Multiaxial
-					- Sagittal flex/extend
-					- Coronal abduct/adduct
-					- Horizontal rotation
-	- Muscular System
-		- Skeletal muscles: Muscle & Tendon
+	- Bones
+		- Functions
+			- Support the body, Protect internal organs
+			- Facilitate movement
+			- Produce blood cell (Red bone marrow)
+			- Store & release minerals (e.g. Calcium) & fat (Yellow bone marrow)
+			- Endocrine System
+				- PTH → Activate Osteoclast; Release Calcium
+			- Fracture callus; Require Calcium to heal
+				- PTH → More Calcium in blood
+				- GI Tract synthesize Vitamin D → More Ca absorption
+		- Classification by Shapes
+			- Long bone: Leverage
+			- Short bone: Stability, Support w/ motion
+			- Flat bone: Muscle attachment, Protection
+			- Irregular bone: Protection
+			- Sesamoid bone: Protect tendons from compressive force (usually embed in tendon)
+		- Structure (Long bone)
+			- Diaphysis: Center, Tubular shaft, compact bone w/ cavity
+				- Medullary Cavity w/ Yellow bone marrow (Adipose tissue)
+			- Metaphysis: In between
+				- Epiphyseal plate (growth plate): Hyaline cartilage
+					- Calcified to Epiphyseal line: no longer grow
+			- Proximal / Distal Epiphysis: Wider part at each end
+				- Spongy bone w/ Red bone marrow
+				- Articular Cartilage at each ends; no blood supply & nerve innervation
+		- Membranes
+			- Endosteum: lining medullary cavity
+				- Simple connective tissue; Delicate membrane
+				- Bone Metabolism: Growth, Repair, Remodeling
+			- Periosteum: outer surface
+				- Blood vessels, Nerves, Lymphatic vessels
+					- Extends into compact bone
+				- Fibrous layer, Cellular layer
+		- Cells
+			- Osteogenic cell: stem cell → Osteoblasts
+			- Osteoblast (OB): Immature, release osteoid (components of bone matrix)
+			- Osteocyte: Mature (differentiate from Osteoblast w/ calcified osteoid)
+				- w/ Canaliculi: Net-like Branching, connect with neighbors
+				- Maintain bone matrix
+			- Osteoclast (OC): Multinucleate, Secrete acids & enzymes dissolving bone matrix
+				- Monocytes & Macrophages
+		- Bone Homeostasis: Bone resorption (OC) ~ Bone formation (OB)
+			- Bone remodeling
+		- Compact bone
+			- Osteon / Harversian System
+				- Cylindrical bone structure
+				- Concentric lamellae: Rings of bone matrix w/ osteocytes in lacuna between rings
+				- Central canal: blood, nerve, lymph
+			- Perforating canal / Volkmann's canal: connect between osteons
+			- Withstand compressive force
+		- Spongy bone / Cancellous bone
+			- Trabeculae: Net-like bone structure
+				- w/ Concentric lamellae w/o Central canal
+			- Distribute weights
+		- Bone Formation (Ossification)
+			- Intramembranous Ossification
+				- Fetus → Adolescence @ Clavicle, Skull, Facial bones
+					- Fast Ossification
+				- Ossification center: Cluster of Mesenchymal cells (mesoderm)
+					- Mesenchymal cells → Osteogenic cells → Osteoblasts
+				- Calcification: Hardening w/ Calcium from blood vessel
+					- Osteoblasts → Osteocyte
+				- Trabeculae & Periosteum formation
+					- Calcification following blood vessel
+					- ECM → Trabeculae → Spongy bone
+					- Free Osteoblasts → Periosteum
+				- Compact bone development
+					- Osteoblast forms compact bone under periosteum
+			- Endochondral Ossification
+				- 6-8 weeks after conception - Adolescence @ Skull base, Long bone
+				- Replacing and breakdown of Hyaline cartilage
+				- Initial: Fetal hyaline cartilage w/ perichondrium
+				- Perichondrium → Periosteum
+				- Blood vessel grows in periosteum
+					- No blood in cartilage → Dead Chondrocyte
+					- Calcium transported to periosteum → Forming Periosteal bone collar (Compact bone)
+				- Dead Chondrocyte → Degenerating Hypertrophic cartilage → Developing Blood vessel & spongy bone in Diaphysis
+					- Primary ossification center @ Diaphysis
+					- Compact bone formation → medullary cavity w/ capillary
+				- Epiphyseal capillaries → Secondary ossification center @ Epiphyses
+					- Capillaries throughout → Spongy bone
+				- Remaining cartilage: Metaphysis, Epiphyseal plate
+					- No blood (calcium) → bone can elongate and slowly replacing metaphysis
+					- Epiphyseal line (between Ossification centers) left, cannot elongate further
+		- Blood, Nerve, Lymph
+			- Arteries & Vein
+				- Nutrient foramen (hole for artery), foramina (hole for vein) @ Diaphysis (Primary Ossification Center)
+				- Epiphyseal, Metaphyseal artery & vein (smaller)
+			- Nerve → Pain sensation (most) & Regulate blood supply
+	- Cartilages
+		- Classification
+			- Hyaline cartilage (most cartilage)
+				- w/ Perichondrium
+			- Fibrocartilage (pubic symphysis, intervertebral disc)
+				- Elastic, Withstand force, Less motion
+				- \w/ Collagen Fibers
+			- Elastic cartilage (External ear, Epiglottis)
+				- Elastic structures
+				- w/ Perichondrium & Elastic Fibers
+		- Structure
+			- Extracellular matrix
+			- Lacuna w/ chondrocyte
+				- Release Hyaluronic acid in Hyaline Cartilage
+				- Synthesize Collagen Fiber in Fibrocartilage
+				- Synthesize Elastic Fiber in Elastic Cartilage
+		- Cells: Chondroblast → Chondrocyte (differentiate & trapped in lacuna)
+	- Joints
+		- Structural Classification
+			- Fibrous Joint: Fibrous tissue at junction
+				- Usually Synarthrosis
+			- Cartilagenous Joint: Cartilage at junction
+				- Usually Amphiarthrosis
+			- Synovial Joint: Joint cavity w/ synovial fluid
+				- Usually Diarthrosis
+		- Functional Classification
+			- Synarthrosis (Immobile Joint)
+			- Amphiarthrosis (Slightly Movable Joint)
+			- Diarthrosis (Freely Movable Joint)
+		- Classification of Synovial Joint by shape of articulating surface
+			- Pivot: Uniaxial
+				- Horizontal rotation
+			- Hinge: Uniaxial
+				- Sagittal flex/extend
+			- Saddle: Biaxial
+				- Sagittal flex/extend
+				- Coronal abduct/adduct
+			- Condyloid: Biaxial
+				- Sagittal flex/extend
+				- Coronal abduct/adduct
+			- Plane: Multiaxial
+				- Sagittal flex/extend
+				- Coronal abduct/adduct
+				- Horizontal rotation
+			- Ball-and-Socket: Multiaxial
+				- Sagittal flex/extend
+				- Coronal abduct/adduct
+				- Horizontal rotation
+		- Motions (Anatomical Position)
+			- Frontal Plane
+				- Abduction, Adduction of Shoulder & equiv.
+				- Lateral flexion of Spine
+				- Inversion, Eversion of Ankle
+				- Radial, Ulnar Deviation of Wrist
+				- Elevation, Depression of Scapula
+				- Protraction, Retraction of Scapula
+			- Sagittal Plane
+				- Flexion, Extension of Shoulder, Elbow, Hip, Knee
+				- Flexion, Extension of Spine
+				- Dorsi flexion, Plantar flexion of Ankle
+			- Horizontal
+				- Horizontal adduction, abduction of Shoulder & equiv.
+				- Medial / Internal, Lateral / External Rotation of Shoulder & equiv.
+				- Pronation, Supination of Elbow & equiv.
+				- Rotation of Spine
+			- Circumduction: Circular motion
+				- Combined: Flexion, Extension, Abduction, Adduction
+- Muscular System ← Embryonic Mesoderm
+	- Classification
+		- Skeletal Muscle: Muscle & Tendon
+			- Strained, Voluntary
+		- Cardiac Muscle
+			- Strained, Involuntary
+		- Smooth Muscle: Internal organs
+			- Nonstrained, Involuntary
+	- Structure of Skeletal Muscle
+		- Epimysium: Connective tissue around muscle bundle
+			- Each muscle bundle have multiple muscle fascicles
+		- Perimysium: Connective tissue around muscle fascicle
+			- Each muscle fascicle have multiple muscle fibers
+		- Endomysium: Connective tissue around muscle fibers
+			- Each muscle fibers have multiple myofibril
+				- Thin (actin) filament
+				- Thick (myosin) filament
+			- Sarcolemma: Cell membrane around muscle fiber
+	- Skeletal Muscle
+		- Cells are electrically excitable
+			- Triggered by somatic motor neurons
+		- Neurotransmitter (ACh) @ Synapse (Neuromuscular Junction)
+			- Intercellular space: Synaptic Cleft
+			- Synaptic Vesicle in Neuron
+			- Receptor on Motor end-plate
+		- Activate Receptor → Open $\ce{Na+}$ Channel → $\ce{Na+}$ Influx → Contraction
+- Abnormalities
+	- Osteoporosis: Bone resorption > Bone formation; less dense spongy bone
+	- Dinner fork deformity: Distal Radius Fracture
+	- Shoulder dislocation
+	- Osteoarthritis (OA)
+		- OA Knee → Bowleg knee
 
 ## Reference
 

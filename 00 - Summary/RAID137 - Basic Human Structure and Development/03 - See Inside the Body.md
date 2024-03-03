@@ -25,27 +25,27 @@ aliases:
         - Thigh
         - Leg
 - Directional Terms
-    - Front-Back Axis
-        - Anterior (ventral): Front
-        - Posterior (dorsal): Back
-    - Up-Down Axis
-        - Superior (cranial, rostral): High
-        - Inferior (caudal): Low
+    - Sagittal / Anteroposteror / Dorsoventral Axis
+        - Ventral / Anterior: Belly, Front
+        - Dorsal / Posterior: Back, Back
+    - Longitudinal / Vertical / Craniocaudal Axis
+        - Cranial / Rostral / Superior: Skull, Above
+        - Caudal / Inferior: Tail, Below
+    - Horizontal / Frontal / Left-Right / Medial-Lateral Axis
+        - Medial: Middle (Midline)
+        - Lateral: Side
     - Position in Limb
         - Proximal: Nearer to Attachment (trunk)
-        - Distal: Farther from Attachment (trunk)
-    - Left-Right Axis
-        - Medial: Closer to Midline
-        - Lateral: Away from midline
+        - Distal: Distant from Attachment (trunk)
     - Depth from surface
-        - Superficial: Closer to surface
-        - Deep: Farther from surface
+        - Superficial: Surface
+        - Deep: Deep
 - Body Planes
     - Section: 2D surface of cut 3D structure
     - Plane: imaginary 2D surface through body
-        - Sagittal Plane (Scan Laterally)
-        - Coronal (Frontal) Plane (Scan through Anterior-Posterior)
-        - Transverse Plane (Scan through Superior-Inferior)
+        - Sagittal Plane (Frontal Axis)
+        - Coronal / Frontal Plane (Sagittal Axis)
+        - Transverse / Horizontal Plane (Longitudinal Axis)
 - Body Cavities
     - ![Scheme\_body\_cavities-en.svg|200](https://upload.wikimedia.org/wikipedia/commons/e/ee/Scheme_body_cavities-en.svg)
     - Dorsal Cavity
