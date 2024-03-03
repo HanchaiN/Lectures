@@ -1,6 +1,6 @@
 {
   "highlighterStyle": "realistic",
-  "highlighterMethods": "inline-styles",
+  "highlighterMethods": "css-classes",
   "highlighters": {
     "Rosewater": "#f5e0dc",
     "Flamingo": "#f2cdcd",
