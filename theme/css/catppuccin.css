@@ -329,3 +329,252 @@
 
 	--color-scheme: light;
 }
+
+.mocha,
+.macchiato,
+.frappe,
+.latte {
+	--bg: var(--ctp-base);
+	--fg: var(--ctp-text);
+	--sidebar-bg: var(--ctp-mantle);
+	--sidebar-fg: var(--ctp-text);
+	--sidebar-non-existant: var(--ctp-overlay0);
+	--sidebar-active: var(--ctp-blue);
+	--sidebar-spacer: var(--ctp-overlay0);
+	--scrollbar: var(--ctp-overlay0);
+	--icons: var(--ctp-overlay0);
+	--icons-hover: var(--ctp-overlay1);
+	--links: var(--ctp-blue);
+	--inline-code-color: var(--ctp-peach);
+	--theme-popup-bg: var(--ctp-mantle);
+	--theme-popup-border: var(--ctp-overlay0);
+	--theme-hover: var(--ctp-overlay0);
+	--quote-bg: var(--ctp-mantle);
+	--quote-border: var(--ctp-crust);
+	--table-border-color: var(--ctp-crust);
+	--table-header-bg: var(--ctp-mantle);
+	--table-alternate-bg: var(--ctp-mantle);
+	--searchbar-border-color: var(--ctp-crust);
+	--searchbar-bg: var(--ctp-mantle);
+	--searchbar-fg: var(--ctp-text);
+	--searchbar-shadow-color: var(--ctp-crust);
+	--searchresults-header-fg: var(--ctp-text);
+	--searchresults-border-color: var(--ctp-crust);
+	--searchresults-li-bg: var(--ctp-base);
+	--search-mark-bg: var(--ctp-peach);
+
+	&.hljs {
+		color: var(--ctp-text);
+		background: var(--ctp-base);
+	}
+
+	& .hljs-keyword {
+		color: var(--ctp-mauve);
+	}
+
+	& .hljs-built_in {
+		color: var(--ctp-red);
+	}
+
+	& .hljs-type {
+		color: var(--ctp-yellow);
+	}
+
+	& .hljs-literal {
+		color: var(--ctp-peach);
+	}
+
+	& .hljs-number {
+		color: var(--ctp-peach);
+	}
+
+	& .hljs-operator {
+		color: var(--ctp-teal);
+	}
+
+	& .hljs-punctuation {
+		color: var(--ctp-subtext1);
+	}
+
+	& .hljs-property {
+		color: var(--ctp-teal);
+	}
+
+	& .hljs-regexp {
+		color: var(--ctp-pink);
+	}
+
+	& .hljs-string {
+		color: var(--ctp-green);
+	}
+
+	& .hljs-char.escape_ {
+		color: var(--ctp-green);
+	}
+
+	& .hljs-subst {
+		color: var(--ctp-subtext0);
+	}
+
+	& .hljs-symbol {
+		color: var(--ctp-flamingo);
+	}
+
+	& .hljs-variable {
+		color: var(--ctp-mauve);
+	}
+
+	& .hljs-variable.language_ {
+		color: var(--ctp-mauve);
+	}
+
+	& .hljs-variable.constant_ {
+		color: var(--ctp-peach);
+	}
+
+	& .hljs-title {
+		color: var(--ctp-blue);
+	}
+
+	& .hljs-title.class_ {
+		color: var(--ctp-yellow);
+	}
+
+	& .hljs-title.function_ {
+		color: var(--ctp-blue);
+	}
+
+	& .hljs-params {
+		color: var(--ctp-text);
+	}
+
+	& .hljs-comment {
+		color: var(--ctp-surface2);
+	}
+
+	& .hljs-doctag {
+		color: var(--ctp-red);
+	}
+
+	& .hljs-meta {
+		color: var(--ctp-peach);
+	}
+
+	& .hljs-section {
+		color: var(--ctp-blue);
+	}
+
+	& .hljs-tag {
+		color: var(--ctp-subtext0);
+	}
+
+	& .hljs-name {
+		color: var(--ctp-mauve);
+	}
+
+	& .hljs-attr {
+		color: var(--ctp-blue);
+	}
+
+	& .hljs-attribute {
+		color: var(--ctp-green);
+	}
+
+	& .hljs-bullet {
+		color: var(--ctp-teal);
+	}
+
+	& .hljs-code {
+		color: var(--ctp-green);
+	}
+
+	& .hljs-emphasis {
+		color: var(--ctp-red);
+		font-style: italic;
+	}
+
+	& .hljs-strong {
+		color: var(--ctp-red);
+		font-weight: bold;
+	}
+
+	& .hljs-formula {
+		color: var(--ctp-teal);
+	}
+
+	& .hljs-link {
+		color: var(--ctp-sapphire);
+		font-style: italic;
+	}
+
+	& .hljs-quote {
+		color: var(--ctp-green);
+		font-style: italic;
+	}
+
+	& .hljs-selector-tag {
+		color: var(--ctp-yellow);
+	}
+
+	& .hljs-selector-id {
+		color: var(--ctp-blue);
+	}
+
+	& .hljs-selector-class {
+		color: var(--ctp-teal);
+	}
+
+	& .hljs-selector-attr {
+		color: var(--ctp-mauve);
+	}
+
+	& .hljs-selector-pseudo {
+		color: var(--ctp-teal);
+	}
+
+	& .hljs-template-tag {
+		color: var(--ctp-flamingo);
+	}
+
+	& .hljs-template-variable {
+		color: var(--ctp-flamingo);
+	}
+
+	& .hljs-addition {
+		color: var(--ctp-green);
+		background: rgba(var(--ctp-green-rgb) 0.15);
+	}
+
+	& .hljs-deletion {
+		color: var(--ctp-red);
+		background: rgba(var(--ctp-red-rgb), 0.15);
+	}
+
+	& code {
+		color: var(--ctp-text);
+		background: var(--ctp-mantle);
+	}
+
+	& blockquote blockquote {
+		border-top: 0.1em solid var(--ctp-surface2);
+		border-bottom: 0.1em solid var(--ctp-surface2);
+	}
+
+	& hr {
+		color: var(--ctp-surface2);
+	}
+
+	& del {
+		color: var(--ctp-overlay2);
+	}
+
+	& .ace_gutter {
+		color: var(--ctp-overlay1);
+		background: var(--ctp-mantle);
+	}
+
+	& .ace_gutter-active-line.ace_gutter-cell {
+		color: var(--ctp-pink);
+		background: var(--ctp-mantle);
+	}
+}
