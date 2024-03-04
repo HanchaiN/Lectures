@@ -1,11 +1,11 @@
 # Medically Important Gram-Positive Bacteria
 
 * *Staphylococcus*: Gram-Positive Cocci in Cluster
-  * Name: Staphyle (bunch of grapes) + Coccus
+  * Etymology: Staphyle (bunch of grapes) + Coccus
   * Usually w/ Catalase; Neutralize peroxidase
     * Resistance to neutrophils' (digestive enzyme); virulence factor
   * *S. aureus*: High virulence factor (5 stars)
-    * Aurum: Golden; golden colony when cultured
+    * Etymology: Aurum: Golden; golden colony when cultured
     * w/ Coagulase: Induce coagulation; React with serum
       * Use clot as shield from immune response; virulence factor
     * Abscess: usually on epidermis (Abscess containing pus; can be strained for identification)
@@ -19,7 +19,7 @@
         * Fever, Muscle Pain, Diarrhea, Headache, Rashes
       * Diarrhea
   * *S. epidermidis*: Low virulence factor (3 stars)
-    * Name: Epidermis; Normal Flora on Epidermis; supprevssing fungi growth
+    * Etymology: Epidermis; Normal Flora on Epidermis; supprevssing fungi growth
       * Tightly attach to epidermis (as well as inorganic surfaces)
       * May forms biofilm
       * Normally controlled by immunity (except weaken / large amount)
@@ -28,18 +28,18 @@
       * Intravascular catheter / Intravenous catheter: needle for vascular system / vein
       * Risk factor: improper sanitization / immunocompromised host
   * *S. saprophyticus*: Uncommon in Thailand (3 stars)
-    * Name: Saphros (Rotten) + Phyon (To grow) + -icus (Related); Grow on rotten meat
+    * Etymology: Saphros (Rotten) + Phyon (To grow) + -icus (Related); Grow on rotten meat
     * UTI, Cystitis in Female
     * w/o Coagulase
 * *Streptococcus*: Gram-Positive Cocci in Chain
-  * Name: Streptos (twisted) + Coccus; twisted chain
+  * Etymology: Streptos (twisted) + Coccus; twisted chain
   * Usually w/o Catalase
   * Hemolysis (via extracellular enzyme)
     * <mark class="hltr-yellow">Beta-hemolysis</mark>: Complete hemolysis
       * Clear area around colony on gel w/ Erythrocytes
       * *S. pyogenes*: Beta-hemolytic *Strep.* group A (5 stars)
         * Group A (classified by rxn w/ antibody)
-        * Name: Pyon (Pus) + -genes (Born from)
+        * Etymology: Pyon (Pus) + -genes (Born from)
         * Flesh-eating bacteria
           * Bacterial pharyngitis ← Amoxicillin
             * Pharyngitis is usually viral; can self-limited
@@ -63,13 +63,13 @@
     * <mark class="hltr-green">Alpha-hemolysis</mark>: Partial hemolysis (except heme)
       * Green area around colony on gel w/ Erythrocytes
       * *S. pneumoniae* (aka Pneumococci): Gram-positive diplococci in lancet shape (w/ capsule) (5 stars)
-        * Name: Pneumonia
+        * Etymology: Pneumonia
         * Diplococci ← broken chain
         * Pneumonia, Meningitis, Otitis media
         * w/ polysaccharide capsule; slippery surface
           * Hard to phagocytosis: virulence factor
       * Viridans *Strep.* (3 stars)
-        * Name: Viridans (Green)
+        * Etymology: Viridans (Green)
         * $> 30$ species
         * Low virulence factor
         * Pharyngeal flora → Transient bacteremia
@@ -81,7 +81,7 @@
         * Dental Caries: Tooth decay
           * *S. mutans*
       * *S. suis*: Common in Thailand (3 stars)
-        * Name: Sus (pig); Generally infection in pig especially in rainy season
+        * Etymology: Sus (pig); Generally infection in pig especially in rainy season
         * Can transmit to human upon ingesting undercooked pork; Enter blood
         * Septicemia, Meningitis
           * Can gone deaf & death
@@ -89,7 +89,7 @@
     * <mark class="hltr-red">Gamma-hemolysis</mark>: Non-hemolysis
       * Red area around colony on gel w/ Erythrocytes (Not affected)
       * *Enterococcus* species (3 stars)
-        * Name: Enteron (Intestinal) + Coccus; Normal flora in intestine
+        * Etymology: Enteron (Intestinal) + Coccus; Normal flora in intestine
         * Low virulence factor
         * UTI, endocarditis, bacteremia, diverticulitis, meningitis
 * *Bacillus*: Spore-forming Gram-Positive Bacilli
@@ -97,13 +97,13 @@
     * Visible "hole" w/o Gram strain inside cell
   * Large (10x Gram-negative bacteria)
   * *B. anthracis*
-    * Name: Anthrax
+    * Etymology: Anthrax
       * Cutaneous anthrax → Abscess (self-limited)
       * Pulmonary anthrax → Spore in lung → Pneumonia (potentially 2-3 days after infection)
     * Zoonosis: in cattle
     * Biological weapons (Anthrax Letters)
   * *B. cereus* (4 stars)
-    * Name: Cereal; In cereal (as in grains not the Milk & Cereal) e.g. rice & oats
+    * Etymology: Cereal; In cereal (as in grains not the Milk & Cereal) e.g. rice & oats
       * In reheated food e.g. fried rice
         * leftover toxins (heat-stable enterotoxin)
       * leftover spore (can partially eliminate by heating)
