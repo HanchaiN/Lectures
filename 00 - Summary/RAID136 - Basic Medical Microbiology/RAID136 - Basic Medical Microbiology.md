@@ -27,9 +27,9 @@
 		- [Osmosis - Gardnerella vaginalis (Bacterial vaginosis)]()  
 		-->
 	- [[07 - Medically Important Gram-Negative Bacteria]]
-		<!--
+	<!--
 		- [Osmosis - Enterobacter]()  
-		-->
+	-->
 		- [[Osmosis - Escherichia coli]]
 		<!--
 		- [Osmosis - Klebsiella pneumoniae]()
@@ -53,7 +53,7 @@
 		- [Osmosis - Pasteurella multocida]()  
 		-->
 	- [[08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia]]
-		<!--
+	<!--
 		- [Osmosis - Chlamydia pneumoniae]()
 		- [Osmosis - Chlamydia trachomatis]()
 		- [Osmosis - Mycoplasma pneumoniae]()
@@ -61,9 +61,9 @@
 		- [Osmosis - Borrelia species (Relapsing fever)]()
 		- [Osmosis - Leptospira]()
 		- [Osmosis - Treponema pallidum (Syphilis)]()  
-		-->
+	-->
 	- [[09 - Mycobacterium and Anaerobic Bacteria]]
-		<!--
+	<!--
 		- [Osmosis - Clostridium botulinum (Botulism)]()
 		- [Osmosis - Clostridium difficile (Pseudomembranous colitis)]()
 		- [Osmosis - Clostridium perfringens]()
@@ -72,7 +72,7 @@
 		- [Osmosis - Mycobacterium tuberculosis (Tuberculosis)]()
 		- [Osmosis - Mycobacterium avium complex (NORD)]()
 		- [Osmosis - Mycobacterium leprae]()  
-		-->
+	-->
 	- [[10 - Biology and Classification of Medically Important Fungi]]
 	- [[11 - Medically Important Mold]]
 	- [[12 - Medically Important Yeasts]]
