@@ -7,7 +7,7 @@
 		- [[Osmosis - Lac operon]]
 	- [[05 - Nomenclature and Classification of Medically Important Bacteria]]
 	- [[06 - Medically Important Gram-Positive Bacteria]]
-		- [[Osmosis - Bacillus anthracis (Anthrax)]]  
+		- [[Osmosis - Bacillus anthracis (Anthrax)]]
 		<!--
 		- [Osmosis - Bacillus cereus (Food poisoning)]()
 		- [Osmosis - Corynebacterium diphtheriae (Diphtheria)]()
@@ -15,7 +15,7 @@
 		- [Osmosis - Actinomyces israelii]()
 		- [Osmosis - Nocardia]()  
 		-->
-		- [[Osmosis - Staphylococcus aureus]]  
+		- [[Osmosis - Staphylococcus aureus]]
 		<!--
 		- [Osmosis - Staphylococcus epidermidis]()
 		- [Osmosis - Staphylococcus saprophyticus]()
@@ -26,11 +26,11 @@
 		- [Osmosis - Enterococcus]()
 		- [Osmosis - Gardnerella vaginalis (Bacterial vaginosis)]()  
 		-->
-	- [[07 - Medically Important Gram-Negative Bacteria]]  
+	- [[07 - Medically Important Gram-Negative Bacteria]]
 		<!--
 		- [Osmosis - Enterobacter]()  
 		-->
-		- [[Osmosis - Escherichia coli]]  
+		- [[Osmosis - Escherichia coli]]
 		<!--
 		- [Osmosis - Klebsiella pneumoniae]()
 		- [Osmosis - Legionella pneumophila (Legionnaires disease and Pontiac fever)]()
@@ -52,7 +52,7 @@
 		- [Osmosis - Haemophilus influenzae]()
 		- [Osmosis - Pasteurella multocida]()  
 		-->
-	- [[08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia]]  
+	- [[08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia]]
 		<!--
 		- [Osmosis - Chlamydia pneumoniae]()
 		- [Osmosis - Chlamydia trachomatis]()
@@ -62,7 +62,7 @@
 		- [Osmosis - Leptospira]()
 		- [Osmosis - Treponema pallidum (Syphilis)]()  
 		-->
-	- [[09 - Mycobacterium and Anaerobic Bacteria]]  
+	- [[09 - Mycobacterium and Anaerobic Bacteria]]
 		<!--
 		- [Osmosis - Clostridium botulinum (Botulism)]()
 		- [Osmosis - Clostridium difficile (Pseudomembranous colitis)]()
