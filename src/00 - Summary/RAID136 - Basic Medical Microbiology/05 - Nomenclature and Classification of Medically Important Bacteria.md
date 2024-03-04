@@ -138,8 +138,8 @@
             * Branching; Gram-resistant
               * *Nocardia* spp. \*\*\*\*: Partially Acid-fast
               * *Rhodococcus* spp.
-              * *Streptomyces* spp.: Not Actinomycetia
-              * Aerobic *Actinomyces*: Not Actinomycetia
+              * *Streptomyces* spp.: No mycolic acid
+              * Aerobic *Actinomyces*: No mycolic acid
     * Gram-Negative
       * Cocci
         * *Neisseria*: Diplococci
