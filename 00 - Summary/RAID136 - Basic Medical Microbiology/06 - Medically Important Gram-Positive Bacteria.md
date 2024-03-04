@@ -74,6 +74,7 @@ aliases:
 				- w/ polysaccharide capsule; slippery surface
 					- Hard to phagocytosis: virulence factor
 			- Viridans *Strep.* (3 stars)
+				- Name: Viridans (Green)
 				- $> 30$ species
 				- Low virulence factor
 				- Pharyngeal flora → Transient bacteremia
@@ -175,9 +176,9 @@ aliases:
 		- Immunosuppressive drugs e.g. Steroids
 - *Rhodococcus*
 	- Branching Actinomycetia
-- *Streptomyces*: Gram-positive beaded branching filamentous bacilli (1 star)
+- *Streptomyces*: Gram-positive beaded branching filamentous bacilli
 	- w/o mycolic acid → Non-acid-fast
-- *Actinomyces*: Gram-positive beaded branching filamentous bacilli (1 star)
+- *Actinomyces*: Gram-positive beaded branching filamentous bacilli
 	- w/o mycolic acid → Non-acid-fast
 	- Mostly Anaerobic
 

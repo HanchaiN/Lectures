@@ -111,7 +111,7 @@ aliases:
 - Intra-abdominal infection
 - Immune to beta-lactam ← Secrete beta-lactamase
 
-### *Beillonella* spp
+### *Veillonella* spp
 
 - Anaerobic Gram-Negative diplococci
 	- Anaerobic counterpart of *Neisseria*
@@ -123,4 +123,4 @@ aliases:
 
 ## Reference
 
-- Handout RAID137
+- Handout RAID136
