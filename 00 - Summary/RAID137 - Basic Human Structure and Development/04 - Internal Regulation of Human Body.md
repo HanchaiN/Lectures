@@ -47,7 +47,7 @@ aliases:
         - Developed from Neuroectoderm
         - Doesn't produce hormones; Store and secrete hormones from hypothalamus
             - Hypothalamohypophyseal tract
-            - Supraoptic Nucleus → Antidiuretic hormone (Vaspressin; ADH)
+            - Supraoptic Nucleus → Antidiuretic hormone (Vasopressin; ADH)
                 - ADH Regulation → Thirst / Water Reabsorption
                 - Alcohol, Caffeine → Inhibits ADH
                 - Underproduction → Diabetes Insipidus
@@ -81,14 +81,14 @@ aliases:
         - Dark → High Melatonin → Sleep
         - Internal Clock
 - Thyroid Gland
-    - Anterior to Trachea; Ingerior to larynx
+    - Anterior to Trachea; Inferior to larynx
     - Developed from endoderm
         - Diverticulum between 1st,2nd pharyngeal pouches
     - Epithelial Follicular Cells → Colloid → Thyroid Hormone
         - Colloid: Thyroglobulin (Tg); precursor of thyroid hormone (T3,T4)
             - TSH receptor on follicle cells → $\ce{I-}$ transport
             - $\ce{I-}$ binds with Tg
-            - Ionized Th transported to cell → Triiodothyronine (T3), Thyroxine (T4)
+            - Ionized Tg transported to cell → Triiodothyronine (T3), Thyroxine (T4)
             - T3,T4 → Low TRH,TSH (negative feedback)
         - Thyroid Hormone
             - Increase basal metabolic rate
