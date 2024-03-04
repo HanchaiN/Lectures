@@ -57,6 +57,7 @@ aliases:
 					- Rheumatic Fever, Rheumatic Heart Disease
 			- *S. agalactiae*: Beta-hemolytic *Strep.* group B (4 stars)
 				- Group B (classified by rxn w/ antibody)
+				- Etymology: A (No) + Galactos (Milk)
 				- Neonatal Sepsis &/or Meningitis
 					- Colonization in vagina when infant is delivered (Neonatal)
 					- Infection upon first breath; enters blood (Sepsis)
@@ -124,23 +125,29 @@ aliases:
 			- Infected via ingestion by mother, transmitted through blood
 		- Meningitis
 - *Lactobacillus* species: Regular-Stained, Non-Spore-Forming, Gram-Positive Bacilli
+	- Etymology: Milk bacteria; Ferment sugars in milk to lactic acid
 	- Aerotolerant Anaerobic
 	- Probiotics: Normal flora of healthy vagina & intestine
 	- *L. acidophilus* (3 stars)
+		- Etymology: Acid loving
 		- Vaginal: pH ~ 4.5; avoid overgrowth of pathogens
 		- Wash with alkali soaps → Complications
 - *Gardnerella*: Regular-Stained, Non-Spore-Forming, Gram-Variable Bacilli
 	- Gram-Variable: Gram-Positive with thin peptidoglycan → Some population of same species may be observed as Gram-Negative
 	- *G. vaginalis* (4 stars)
+		- Etymology: Vagina
 		- Vaginal normal flora; low number ← controlled by *L. acidophilus*
 		- Overgrowth → Bacterial vaginosis (vaginitis by normal flora)
 - *Erysipelothrix*: Regular-Stained, Non-Spore-Forming, Gram-Positive Bacilli
+	- Etymology: Erysipelas + Thrix (Thread)
 	- Erysipelas in animals
 	- *E. rhusiopathiae* (2 stars)
+		- Etymology: Rhusios (Reddish) + Pathose (Disease)
 		- Zoonosis: Fish / Pig related injury
 		- Erysipeloid in Human: Skin Infection
 - Class Actinomycetia: Irregular-Stained Non-Spore-Forming Gram-Positive Bacilli
-	- Higher bacteria: evolving to fungi
+	- Ethymology: Actis (Ray-shaped) + Myces (Fungi); evolving to fungi
+		- Higher bacteria
 		- w/ mycolic acid (fatty acid) which is in fungi
 	- Mycolic acid in cell wall → Irregular-Stained, weakly Gram-Positive
 - *Corynebacterium*: Irregular stained, club shaped, gram-positive bacilli w/ Chinese-letter arrangement
@@ -154,6 +161,7 @@ aliases:
 		- Pathogenic (Not diphtheroid)
 		- Toxin → Dead tissue in throat blocking respiratory tract (pseudomembranous pharyngitis)
 - *Mycobacterium*: Gram-positive, irregular-stained bacilli (5 stars)
+	- Ethymology: Fungi-bacteria
 	- Non-Branching Actinomycetia
 		- High, Long Mycolic acid → Acid-fast, Weakly Gram-Positive
 	- Slowly growing (~3 weeks)
@@ -179,8 +187,10 @@ aliases:
 - *Rhodococcus*
 	- Branching Actinomycetia
 - *Streptomyces*: Gram-positive beaded branching filamentous bacilli
+	- Actinomycetia
 	- w/o mycolic acid → Non-acid-fast
 - *Actinomyces*: Gram-positive beaded branching filamentous bacilli
+	- Actinomycetia
 	- w/o mycolic acid → Non-acid-fast
 	- Mostly Anaerobic
 
