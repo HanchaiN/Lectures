@@ -139,6 +139,7 @@
     * w/ mycolic acid (fatty acid) which is in fungi
   * Mycolic acid in cell wall → Irregular-Stained, weakly Gram-Positive
 * *Corynebacterium*: Irregular stained, club shaped, gram-positive bacilli w/ Chinese-letter arrangement
+  * Etymology: Korune (Club) + Bacterium
   * Non-Branching Actinomycetia
   * Relatively more regular-stained: only the middle section is irregular
   * Coryneform (Club-shaped)
