@@ -101,6 +101,7 @@
   * [03 - Structure, Growth and Metabolism of Bacteria](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/03%20-%20Structure,%20Growth%20and%20Metabolism%20of%20Bacteria.md)
     * [Osmosis - Bacterial structure and functions](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/Osmosis%20-%20Bacterial%20structure%20and%20functions.md)
   * [04 - Bacterial Genetics](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/04%20-%20Bacterial%20Genetics.md)
+    * [Osmosis - Lac operon](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/Osmosis%20-%20Lac%20operon.md)
   * [05 - Nomenclature and Classification of Medically Important Bacteria](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/05%20-%20Nomenclature%20and%20Classification%20of%20Medically%20Important%20Bacteria.md)
   * [06 - Medically Important Gram-Positive Bacteria](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/06%20-%20Medically%20Important%20Gram-Positive%20Bacteria.md)
     * [Osmosis - Bacillus anthracis (Anthrax)](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/Osmosis%20-%20Bacillus%20anthracis%20%28Anthrax%29.md)
@@ -120,7 +121,7 @@
     * [Osmosis - Gardnerella vaginalis (Bacterial vaginosis)]()
   * [07 - Medically Important Gram-Negative Bacteria](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/07%20-%20Medically%20Important%20Gram-Negative%20Bacteria.md)
     * [Osmosis - Enterobacter]()
-    * *Osmosis - Escherichia coli*
+    * [Osmosis - Escherichia coli](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/Osmosis%20-%20Escherichia%20coli.md)
     * [Osmosis - Klebsiella pneumoniae]()
     * [Osmosis - Legionella pneumophila (Legionnaires disease and Pontiac fever)]()
     * [Osmosis - Proteus mirabilis]()
