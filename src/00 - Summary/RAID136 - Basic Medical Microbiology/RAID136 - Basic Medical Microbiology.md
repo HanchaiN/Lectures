@@ -7,13 +7,16 @@
     * [Osmosis - Lac operon](Osmosis%20-%20Lac%20operon.md)
   * [05 - Nomenclature and Classification of Medically Important Bacteria](05%20-%20Nomenclature%20and%20Classification%20of%20Medically%20Important%20Bacteria.md)
   * [06 - Medically Important Gram-Positive Bacteria](06%20-%20Medically%20Important%20Gram-Positive%20Bacteria.md)
-    * [Osmosis - Bacillus anthracis (Anthrax)](Osmosis%20-%20Bacillus%20anthracis%20%28Anthrax%29.md)
+    * [Osmosis - Bacillus anthracis (Anthrax)](Osmosis%20-%20Bacillus%20anthracis%20%28Anthrax%29.md)  
+      %%
     * [Osmosis - Bacillus cereus (Food poisoning)]()
     * [Osmosis - Corynebacterium diphtheriae (Diphtheria)]()
     * [Osmosis - Listeria monocytogenes]()
     * [Osmosis - Actinomyces israelii]()
-    * [Osmosis - Nocardia]()
-    * [Osmosis - Staphylococcus aureus](Osmosis%20-%20Staphylococcus%20aureus.md)
+    * [Osmosis - Nocardia]()  
+      %%
+    * [Osmosis - Staphylococcus aureus](Osmosis%20-%20Staphylococcus%20aureus.md)  
+      %%
     * [Osmosis - Staphylococcus epidermidis]()
     * [Osmosis - Staphylococcus saprophyticus]()
     * [Osmosis - Streptococcus agalactiae (Group B Strep)]()
@@ -21,10 +24,14 @@
     * [Osmosis - Streptococcus pyogenes (Group A Strep)]()
     * [Osmosis - Streptococcus viridans]()
     * [Osmosis - Enterococcus]()
-    * [Osmosis - Gardnerella vaginalis (Bacterial vaginosis)]()
-  * [07 - Medically Important Gram-Negative Bacteria](07%20-%20Medically%20Important%20Gram-Negative%20Bacteria.md)
-    * [Osmosis - Enterobacter]()
-    * [Osmosis - Escherichia coli](Osmosis%20-%20Escherichia%20coli.md)
+    * [Osmosis - Gardnerella vaginalis (Bacterial vaginosis)]()  
+      %%
+  * [07 - Medically Important Gram-Negative Bacteria](07%20-%20Medically%20Important%20Gram-Negative%20Bacteria.md)  
+    %%
+    * [Osmosis - Enterobacter]()  
+      %%
+    * [Osmosis - Escherichia coli](Osmosis%20-%20Escherichia%20coli.md)  
+      %%
     * [Osmosis - Klebsiella pneumoniae]()
     * [Osmosis - Legionella pneumophila (Legionnaires disease and Pontiac fever)]()
     * [Osmosis - Proteus mirabilis]()
@@ -43,16 +50,20 @@
     * [Osmosis - Brucella]()
     * [Osmosis - Haemophilus ducreyi (Chancroid)]()
     * [Osmosis - Haemophilus influenzae]()
-    * [Osmosis - Pasteurella multocida]()
-  * [08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia](08%20-%20Spirochete,%20Mycoplasma,%20Chlamydia,%20and%20Rickettsia.md)
+    * [Osmosis - Pasteurella multocida]()  
+      %%
+  * [08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia](08%20-%20Spirochete,%20Mycoplasma,%20Chlamydia,%20and%20Rickettsia.md)  
+    %%
     * [Osmosis - Chlamydia pneumoniae]()
     * [Osmosis - Chlamydia trachomatis]()
     * [Osmosis - Mycoplasma pneumoniae]()
     * [Osmosis - Rickettsia rickettsii (Rocky Mountain spotted fever) and other Rickettsia species]()
     * [Osmosis - Borrelia species (Relapsing fever)]()
     * [Osmosis - Leptospira]()
-    * [Osmosis - Treponema pallidum (Syphilis)]()
-  * [09 - Mycobacterium and Anaerobic Bacteria](09%20-%20Mycobacterium%20and%20Anaerobic%20Bacteria.md)
+    * [Osmosis - Treponema pallidum (Syphilis)]()  
+      %%
+  * [09 - Mycobacterium and Anaerobic Bacteria](09%20-%20Mycobacterium%20and%20Anaerobic%20Bacteria.md)  
+    %%
     * [Osmosis - Clostridium botulinum (Botulism)]()
     * [Osmosis - Clostridium difficile (Pseudomembranous colitis)]()
     * [Osmosis - Clostridium perfringens]()
@@ -60,4 +71,8 @@
     * [Osmosis - Bacteriodes fragilis]()
     * [Osmosis - Mycobacterium tuberculosis (Tuberculosis)]()
     * [Osmosis - Mycobacterium avium complex (NORD)]()
-    * [Osmosis - Mycobacterium leprae]()
+    * [Osmosis - Mycobacterium leprae]()  
+      %%
+  * [10 - Biology and Classification of Medically Important Fungi](10%20-%20Biology%20and%20Classification%20of%20Medically%20Important%20Fungi.md)
+  * [11 - Medically Important Mold](11%20-%20Medically%20Important%20Mold.md)
+  * [12 - Medically Important Yeasts](12%20-%20Medically%20Important%20Yeasts.md)
