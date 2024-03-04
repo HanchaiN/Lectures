@@ -115,6 +115,7 @@ aliases:
 		- Acute diarrhea (not as frequent as *S. aureus*)
 - *Listeria*: Regular-Stained, Non-Spore-Forming, Gram-Positive Bacilli
 	- *L. monocytogenes* (3 stars)
+		- Etymology: Monocyte + Genes (producing)
 		- In cows
 		- Prefer cold temperature (not common in Thailand)
 			- Cheese & Ice Cream (derivatives from improperly pasteurized milk)
