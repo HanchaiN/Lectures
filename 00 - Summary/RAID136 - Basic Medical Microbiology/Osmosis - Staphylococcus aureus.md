@@ -11,11 +11,11 @@ aliases:
 	- Coccal
 	- Grow in Clusters
 	- Gram positive
-	- Golden-yellow color on blood agar
+	- Blood agar: Red → Golden-yellow
 	- Facultative anaerobes
 	- Non-motile
 	- Non spore-forming
-	- Produce Catalase: $\ce{2H2O2 -> 2H2O + O2}$
+	- Catalase Positive: $\ce{2H2O2 -> 2H2O + O2}$
 		- Foamed when react w/ hydrogen peroxide
 	- Coagulase positive: Fibrinogen → Fibrin
 		- Not in *Staph. epidermidis*, *Staph. saprophyticus*
@@ -56,7 +56,7 @@ aliases:
 	- @Heart Valves → Infective endocarditis (Vegetation)
 - Superantigens (Toxins)
 	- Toxic shock syndrome toxin 1 (TSST-1)
-		- Produce at site of infection, entering blood stream
+		- Produce at site of infection, entering bloodstream
 		- Bind w/ Major histocompatibility complex Type 2 (MHC-II)
 			- Activate Antigen presenting cell → Cytokines (Pro-inflammatory)
 		- Toxic Shock Syndrome
@@ -77,7 +77,7 @@ aliases:
 			- Active after bacteria is killed by cooking
 		- Food poisoning
 			- Vomiting & Diarrhea within hours
-		- Toxic shock syndrome if enter blood stream
+		- Toxic shock syndrome if enter bloodstream
 - Treatment
 	- Antibiotics
 		- Rapid antibiotic resistance development

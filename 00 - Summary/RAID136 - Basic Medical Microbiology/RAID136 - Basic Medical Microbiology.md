@@ -4,6 +4,7 @@
 	- [[03 - Structure, Growth and Metabolism of Bacteria]]
 		- [[Osmosis - Bacterial structure and functions]]
 	- [[04 - Bacterial Genetics]]
+		- [[Osmosis - Lac operon]]
 	- [[05 - Nomenclature and Classification of Medically Important Bacteria]]
 	- [[06 - Medically Important Gram-Positive Bacteria]]
 		- [[Osmosis - Bacillus anthracis (Anthrax)]]
