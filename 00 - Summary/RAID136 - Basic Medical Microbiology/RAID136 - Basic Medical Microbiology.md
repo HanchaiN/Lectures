@@ -4,26 +4,59 @@
 	- [[03 - Structure, Growth and Metabolism of Bacteria]]
 		- [[Osmosis - Bacterial structure and functions]]
 	- [[04 - Bacterial Genetics]]
-		- [[Osmosis - Bacillus anthracis (Anthrax)]]
-		- [[Osmosis - Bacillus cereus (Food poisoning)]]
-		- [[Osmosis - Corynebacterium diphtheriae (Diphtheria)]]
-		- [[Osmosis - Listeria monocytogenes]]
-		- [Osmosis - Actinomyces israelii]()
-		- [[Osmosis - Nocardia]]
-		- [[Osmosis - Staphylococcus aureus]]
-		- [[Osmosis - Staphylococcus epidermidis]]
-		- [[Osmosis - Staphylococcus saprophyticus]]
-		- [[Osmosis - Streptococcus agalactiae (Group B Strep)]]
-		- [[Osmosis - Streptococcus pneumoniae]]
-		- [[Osmosis - Streptococcus pyogenes (Group A Strep)]]
-		- [[Osmosis - Streptococcus viridans]]
-		- [[Osmosis - Enterococcus]]
 	- [[05 - Nomenclature and Classification of Medically Important Bacteria]]
 	- [[06 - Medically Important Gram-Positive Bacteria]]
+		- [[Osmosis - Bacillus anthracis (Anthrax)]]
+		- [Osmosis - Bacillus cereus (Food poisoning)]()
+		- [Osmosis - Corynebacterium diphtheriae (Diphtheria)]()
+		- [Osmosis - Listeria monocytogenes]()
+		- [Osmosis - Actinomyces israelii]()
+		- [Osmosis - Nocardia]()
+		- [[Osmosis - Staphylococcus aureus]]
+		- [Osmosis - Staphylococcus epidermidis]()
+		- [Osmosis - Staphylococcus saprophyticus]()
+		- [Osmosis - Streptococcus agalactiae (Group B Strep)]()
+		- [Osmosis - Streptococcus pneumoniae]()
+		- [Osmosis - Streptococcus pyogenes (Group A Strep)]()
+		- [Osmosis - Streptococcus viridans]()
+		- [Osmosis - Enterococcus]()
+		- [Osmosis - Gardnerella vaginalis (Bacterial vaginosis)]()
 	- [[07 - Medically Important Gram-Negative Bacteria]]
+		- [Osmosis - Enterobacter]()
+		- [[Osmosis - Escherichia coli]]
+		- [Osmosis - Klebsiella pneumoniae]()
+		- [Osmosis - Legionella pneumophila (Legionnaires disease and Pontiac fever)]()
+		- [Osmosis - Proteus mirabilis]()
+		- [Osmosis - Pseudomonas aeruginosa]()
+		- [Osmosis - Salmonella (non-typhoidal)]()
+		- [Osmosis -Salmonella typhi (typhoid fever)]()
+		- [Osmosis - Shigella]()
+		- [Osmosis - Yersinia pestis (Plague)]()
+		- [Osmosis - Campylobacter jejuni]()
+		- [Osmosis - Helicobacter pyroli]()
+		- [Osmosis - Vibrio cholerae (Cholera)]()
+		- [Osmosis - Moraxella catarrhalis]()
+		- [Osmosis - Neisseria gonorrhoeae]()
+		- [Osmosis - Neisseria meningitidis]()
+		- [Osmosis - Bordetella pertussis (Whooping cough)]()
+		- [Osmosis - Brucella]()
+		- [Osmosis - Haemophilus ducreyi (Chancroid)]()
+		- [Osmosis - Haemophilus influenzae]()
+		- [Osmosis - Pasteurella multocida]()
 	- [[08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia]]
+		- [Osmosis - Chlamydia pneumoniae]()
+		- [Osmosis - Chlamydia trachomatis]()
+		- [Osmosis - Mycoplasma pneumoniae]()
+		- [Osmosis - Rickettsia rickettsii (Rocky Mountain spotted fever) and other Rickettsia species]()
+		- [Osmosis - Borrelia species (Relapsing fever)]()
+		- [Osmosis - Leptospira]()
+		- [Osmosis - Treponema pallidum (Syphilis)]()
 	- [[09 - Mycobacterium and Anaerobic Bacteria]]
-		- [[Osmosis - Clostridium botulinum (Botulism)]]
-		- [[Osmosis - Clostridium difficile (Pseudomembranous colitis)]]
-		- [[Osmosis - Clostridium perfringens]]
-		- [[Osmosis - Clostridium tetani (Tetanus)]]
+		- [Osmosis - Clostridium botulinum (Botulism)]()
+		- [Osmosis - Clostridium difficile (Pseudomembranous colitis)]()
+		- [Osmosis - Clostridium perfringens]()
+		- [Osmosis - Clostridium tetani (Tetanus)]()
+		- [Osmosis - Bacteriodes fragilis]()
+		- [Osmosis - Mycobacterium tuberculosis (Tuberculosis)]()
+		- [Osmosis - Mycobacterium avium complex (NORD)]()
+		- [Osmosis - Mycobacterium leprae]()
