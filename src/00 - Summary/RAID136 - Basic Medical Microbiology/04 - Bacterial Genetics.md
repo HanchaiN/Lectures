@@ -21,7 +21,7 @@
   * Regulons: One regulator, multiple operons (pos / neg)
   * Lac Operon
     * Lactose → Allolactose → Release LacI repressor from LacI section on operator → Activated
-    * Glucose → cAMP → Release CAP activator from P/O section on operator→ Deactivated
+    * Glucose → less cAMP → Release CAP activator from P/O section on operator → Deactivated
     * w/ Lactose, w/o Glucose; Activated
     * w/ Lactose, w/ Glucose; Deactivated
     * w/o Lactose; Deactivated
