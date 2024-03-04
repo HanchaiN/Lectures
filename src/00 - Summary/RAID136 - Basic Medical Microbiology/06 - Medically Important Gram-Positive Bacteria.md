@@ -69,10 +69,7 @@
         * w/ polysaccharide capsule; slippery surface
           * Hard to phagocytosis: virulence factor
       * Viridans *Strep.* (3 stars)
-        * 
-           > 
-           > 30 species
-        
+        * $> 30$ species
         * Low virulence factor
         * Pharyngeal flora → Transient bacteremia
           * Enters blood during microtrauma from teeth-brushing
