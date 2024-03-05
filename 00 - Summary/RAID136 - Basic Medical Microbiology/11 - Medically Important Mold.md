@@ -83,6 +83,7 @@ aliases:
 		- *Aspergillus terreus*
 			- Etymology: Terra (Soil); Brownish Pigment
 	- *Scedosporium* spp.: Hyaline mold w/ septate hyphae
+		- Etymology: Sced (Scattered) + Spore
 		- aka *Scedosporium apiospermum*, *Pseudallescheria boydii*
 		- No pigment from clinical samples; Diffusible melanin-like pigment from cultured colony
 		- Epidemiology: Soil, Stagnant Water, Polluted Water
