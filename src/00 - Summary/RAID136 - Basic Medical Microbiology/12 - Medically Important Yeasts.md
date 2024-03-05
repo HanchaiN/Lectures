@@ -24,7 +24,7 @@
     * Budding yeast w/ or w/o Pseudohyphae
     * Gram-positive
     * Can grows on blood agar
-    * Skin / GI tract / Vagina flora
+    * Epidemiology: Skin / GI tract / Vagina flora
     * Risk: Immunocompromised / critically-ill / post-operative / device (esp. Systemic infection)
       * Cutaneous: Paronychia, Onychomycosis (Immunocompetent poss.)
       * Mucocutaneous: Oral, Vaginal (Yeast infection, thrush)
