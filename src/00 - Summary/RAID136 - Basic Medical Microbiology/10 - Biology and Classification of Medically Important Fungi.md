@@ -136,12 +136,11 @@
 * Note: Referenced [L11](11%20-%20Medically%20Important%20Mold.md), [L12](12%20-%20Medically%20Important%20Yeasts.md)
 * Mold
   * Non-septate hyphae
-    * Mucorales
-      * *Rhizopus* spp.
-      * *Mucor* spp.
-      * *Rhizomucor* spp.
+    * Mucorales \*
+      * *Rhizopus* spp.: w/ Rhizoid
+      * *Mucor* spp.: w/o Rhizoid
     * Entomophthorales
-    * *Phyticum insidiosum*: Fungal like microorganism
+    * *Phyticum insidiosum* \*: Fungal like microorganism
   * Septate hyphae
     * Dematiaceous: Melanin Positive (Black mold)\*
       * *Scedosporium* spp.

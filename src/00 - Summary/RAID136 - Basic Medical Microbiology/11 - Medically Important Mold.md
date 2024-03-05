@@ -36,6 +36,10 @@
     * Microconidia: Not formed
 * Hyphomycetes: Hyaline mold w/ septate hyphae, arthroconidia
   * *Aspergillus* spp.: w/ Conidiophore
+    * Hyaline septate hyphae
+    * Acute angle branching
+    * Smooth parallel walls
+    * No constrictions at septa
     * Etymology: Aspergere (Scatter): Aspergillum (Holy Water Sprinkler)
       * w/ Arthroconidia on conidiophore (Specialized Stalk, crown-like)
     * Epidemiology: Environmental, Air, Soil, Food, Decaying matter, Hospital
@@ -63,10 +67,6 @@
     * Diagnosis
       * Culture: Chronidia, Conidiophore
       * Tissue Biopsy (Histopathology)
-        * Hyaline septate hyphae
-        * Acute angle branching
-        * Smooth parallel walls
-        * No constrictions at septa
       * *Aspergillus* antigen (Galactomannan, Glucan)
       * Molecular Diagnosis (PCR)
     * *Aspergillus fumigatus*
@@ -111,6 +111,9 @@
       * Yeast-like cells, Pseudohyphae &/or hyphae
       * Cutaneous Phaeohyphomycosis
       * Subcutaneous Phaeohyphomycosis
+        * Single red nodule w/ or w/o cyst
+        * Minor trauma / Splinter
+        * Brain Invasion ← Immunocompromised
       * Brain abscess, Sinusitis
       * Fungemia & Disseminated infection ← Immunocompromised
     * Chromoblastomycosis: Chronic localized fungal infection of skin, subcutaneous tissue
@@ -122,6 +125,40 @@
     * Solitary, Irregular, Pigmented macule
     * Usually on palms or soles
     * No inflammation
+* Mucorales: Mold w/ Non-septate hyphae, Sporangia
+  * Large pauciseptate hyphae
+  * Thin wall w/ ribbon-like
+  * Sporangia; Pin mold
+  * Wide branching angle
+  * Rapid growth → virulence factor
+  * Epidemiology: Environment, Sol, Plant, Grains, Fruit, Bread, Decaying organic material
+  * Pathogenesis: Mucormycosis
+    * Inhaled spore: Systemic Infection; Germinate at alveoli
+    * Inoculated w/ penetrated trauma: Localized Infection
+    * Macrophages & Neutrophil phagocytose conidia
+      * Inhibited by glucocorticoids, neutropenia
+    * Acquire free $\ce{Fe^{2+}}$ from tissue
+    * Agioinvasive growth → Dissemination
+  * Manifestation
+    * Rhinocerebral Mucormycosis
+      * In Uncontrolled Diabetes mellitus
+      * Invasive infection: Nasal cavity, Paranasal sinuses, Orbit, Facial structures, Brain
+    * Pulmonary Mucormycosis
+      * w/ sinusitis
+      * Rapid progression
+      * Vascular infection: Disseminated Infection
+    * Cutaneous Mucormycosis
+    * Gastrointestinal Mucormycosis
+    * Disseminated Infection
+  * Risk factor
+    * Diabetes mellitus (DM)
+    * Iron overload
+    * Immunosuppression (Corticosteroid, Malignancies, Transplantation)
+  * *Rhizopus*: Mucorales w/ Rhizoid (Root)
+    * Etymology: Rhiza (Root) + Pous (Foot)
+  * *Mucor*: Mucorales w/o Rhizoid
+* *Phyticum insidiosum*: Fungal like microorganism
+  * No chitin, ergosterol
 
 ## Reference
 
