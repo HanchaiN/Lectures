@@ -158,13 +158,40 @@
     * Etymology: Rhiza (Root) + Pous (Foot)
   * *Mucor*: Mucorales w/o Rhizoid
 * *Phyticum insidiosum*: Fungus-like microorganism
-  * No chitin, ergosterol
+  * No chitin, ergosterol → Antifungal resistance
   * Irregularly branched, Sparsely septate hyphae
     * Non-septate hyphae in specimen
   * Epidemiology
     * Tropical, Subtropical
     * Hydrophilic: Aquatic - Wet environment
   * Zoospore (Infective stage)
+  * Poor prognosis
+  * Vascular pythiosis → Limb ischemia ← Thalassemia
+  * Orbital pythiosis → Keratitis ← Environmental trauma
+    * e.g. swimming w/ contact lens
+
+## Recap
+
+||Disease \*|Etiologic Agent|Clinical Syndrome \*|
+|--|---------|---------------|-------------------|
+|Superficial mycoses|Tinea nigra|*Hortaea werneckii*|Solitary, irregular, brown - black macule<br>No inflammation|
+|Cataneous mycoses|Dermatophytosis \*|*Trichophyton* spp. \*<br>
+*Epidermophyton* spp. \*<br>
+*Microsporum* spp. \*|Erythematous patches / Hyperpigmented macules<br>w/ Scaling<br>w/ Sharp demarcation active border (Ringworm)<br>Itching|
+|Subcutaneous mycoses|Eumycotic mycetoma \*|*Scedosporium* spp. (Pale) \*<br>
+*Exophila jeanselmei* (Black)<br>
+*Madurella mycetomatisi* (Black)<br>|Indurated swelling<br>(localized, hand / foot) <br>w/ sinus tracts draining grain-filled pus|
+|Subcutaneous mycoses|Chromoblastomycosis \*|*Fonsecaea pedrosoi*<br>
+*Phialophora* spp.|Verrucous cauliflower-like lesion<br>w/ Sclerotic bodies (copper coin-like, single / cluster)|
+|Subcutaneous mycoses|Phaeohyphomycosis \*|*Exophila* spp.<br>
+*Phialophora* spp.|Deep extended infection of black moulds<br>Sinusitis → Brain abscess|
+|Opportunistic mycoses|Invasive pulmonary pergillosis \*|*Aspergillus fumigatus*<br>
+*Aspergillus* spp. \*|Pulmonary infection<br>Fever, Cough<br>Hemoptysis in Neutropenia|
+|Opportunistic mycoses|Mucormycosis \*|*Rhizopus* spp. \*<br>
+*Mucor* spp. \*|Rhinocerebral infection in Diabetes Melliticus<br>Pulmonary infection in Immunocompromised host|
+|Opportunistic mycoses|Fusariosis \*|*Fusarium* spp. \*|Keratits (Contact lens)<br>Disseminated infection in Immunocompromised host|
+|Opportunistic mycoses|Scedosporosis \*|*Scedosporium apiospermum* \*|Pulmonary, CNS infection in near-drowning<br>Disseminated infection in Immunocompromised host|
+|Opportunistic mycoses|Pythiosis \*|*Pythium insidiosum* \*|Invasive vascular infection (Thalassemia)<br>Keratitis (Trauma, Swimming w/ contact lens)|
 
 ## Reference
 
