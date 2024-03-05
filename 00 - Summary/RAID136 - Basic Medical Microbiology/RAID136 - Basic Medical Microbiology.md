@@ -13,7 +13,7 @@
 		- [Osmosis - Corynebacterium diphtheriae (Diphtheria)]()
 		- [Osmosis - Listeria monocytogenes]()
 		- [Osmosis - Actinomyces israelii]()
-		- [Osmosis - Nocardia]()  
+		- [Osmosis - Nocardia]()
 		-->
 		- [[Osmosis - Staphylococcus aureus]]
 		<!--
@@ -24,14 +24,12 @@
 		- [Osmosis - Streptococcus pyogenes (Group A Strep)]()
 		- [Osmosis - Streptococcus viridans]()
 		- [Osmosis - Enterococcus]()
-		- [Osmosis - Gardnerella vaginalis (Bacterial vaginosis)]()  
+		- [Osmosis - Gardnerella vaginalis (Bacterial vaginosis)]()
 		-->
 	- [[07 - Medically Important Gram-Negative Bacteria]]
-	<!--
-		- [Osmosis - Enterobacter]()  
-	-->
 		- [[Osmosis - Escherichia coli]]
 		<!--
+		- [Osmosis - Enterobacter]()
 		- [Osmosis - Klebsiella pneumoniae]()
 		- [Osmosis - Legionella pneumophila (Legionnaires disease and Pontiac fever)]()
 		- [Osmosis - Proteus mirabilis]()
@@ -50,7 +48,7 @@
 		- [Osmosis - Brucella]()
 		- [Osmosis - Haemophilus ducreyi (Chancroid)]()
 		- [Osmosis - Haemophilus influenzae]()
-		- [Osmosis - Pasteurella multocida]()  
+		- [Osmosis - Pasteurella multocida]()
 		-->
 	- [[08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia]]
 	<!--
@@ -60,7 +58,7 @@
 		- [Osmosis - Rickettsia rickettsii (Rocky Mountain spotted fever) and other Rickettsia species]()
 		- [Osmosis - Borrelia species (Relapsing fever)]()
 		- [Osmosis - Leptospira]()
-		- [Osmosis - Treponema pallidum (Syphilis)]()  
+		- [Osmosis - Treponema pallidum (Syphilis)]()
 	-->
 	- [[09 - Mycobacterium and Anaerobic Bacteria]]
 	<!--
@@ -71,7 +69,7 @@
 		- [Osmosis - Bacteriodes fragilis]()
 		- [Osmosis - Mycobacterium tuberculosis (Tuberculosis)]()
 		- [Osmosis - Mycobacterium avium complex (NORD)]()
-		- [Osmosis - Mycobacterium leprae]()  
+		- [Osmosis - Mycobacterium leprae]()
 	-->
 	- [[10 - Biology and Classification of Medically Important Fungi]]
 	- [[11 - Medically Important Mold]]

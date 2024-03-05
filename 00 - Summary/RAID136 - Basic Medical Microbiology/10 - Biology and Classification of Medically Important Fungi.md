@@ -85,7 +85,7 @@ aliases:
 					- Coenocytic: No cytokinesis
 					- Pauciseptate
 		- Dimorphic fungi
-			- Tissue, culture @$\pu{37 \degree C}$ → Yeast form
+			- Tissue, Culture @$\pu{37 \degree C}$ → Yeast form
 			- Environment, Culture @$\pu{25 - 30 \degree C}$ → Mold form
 	- by Reproduction
 		- Asexual state (Anamorph)
@@ -165,17 +165,22 @@ aliases:
 				- *Fusarium* spp.\*
 				- *Penicillium* spp.
 - Yeast
-	- *Candida* spp.
-	- *Cryptococcus* spp.
-	- *Malassezia* spp.
+	- *Malassezia* spp. \*
+	- *Candida* spp. \*
+	- *Cryptococcus* spp. \*
+		- *C. neoformans* complex \*
+		- *C. gattii* complex \*
 - Dimorphic
-	- *Talaromyces mameffei*
-	- *Histoplasma capsulatum*
-	- *Sporothrix schenckii*
+	- *Histoplasma capsulatum* \*
+	- *Talaromyces mameffei* \*
+	- *Sporothrix schenckii* \*
 - Atypical fungi
-	- *Pneumocystis jirovecii*
+	- *Pneumocystis jirovecii* \*
 	- Microsporidia
-
+- Fungal-like organism
+	- *Phyticum insidiosum* \*
+	- *Rhinosporidium seeberi*
+	- *Prototheca* spp.
 ## Reference
 
 - Handout RAID136
