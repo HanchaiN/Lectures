@@ -156,14 +156,16 @@
     * Pathogenic (Not diphtheroid)
     * Toxin → Dead tissue in throat blocking respiratory tract (pseudomembranous pharyngitis)
 * *Mycobacterium*: Gram-positive, irregular-stained bacilli (5 stars)
-  * Ethymology: Fungi-bacteria
+  * Etymology: Fungi-bacteria
   * Non-Branching Actinomycetia
     * High, Long Mycolic acid → Acid-fast, Weakly Gram-Positive
-  * Slowly growing (~3 weeks)
+  * Slowly growing (~3 weeks incubation)
   * Pneumonia: โรคปอดบวม
   * *M. tuberculosis* → Tuberculosis: วัณโรค (5 stars)
     * Chronic infection at lung; may spread
   * *M. avium* complex (MAC; multiple species; 3 stars)
+    * Etymology: Bird
+    * Tuberculosis-like
     * Pulmonary infection in immunocompromised host (weaken immunity)
   * *M. leprae* → Leprosy: โรคเรื้อน (3 stars)
     * Skin infection, damaging nerves

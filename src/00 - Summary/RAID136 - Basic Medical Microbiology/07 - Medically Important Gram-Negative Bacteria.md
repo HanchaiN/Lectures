@@ -12,10 +12,9 @@
   * *N. meningitidis* (4 stars)
     * Etymology: Meningitis
     * Colonize in Respiratory tract (nostril), enters blood and transmit between humans
-* *Moraxella*: Gram-Negative Diplococci in Coffee beans shape
-  * Used to be *Neisseria* but separated due to evolutionary / genetic reasons
-  * *M. catarrhalis* (3 stars)
+  * *Moraxella catarrhalis* (3 stars)
     * Etymology: Kata- (Down) + Rhein (Flow); Profuse discharge from inflammation
+    * *Moraxella* is separated from *Neisseria* due to evolutionary / genetic reasons
     * Otitis Media, Bronchitis, Pneumonia
 * Order Enterobacterales. Family *Enterbacteriaceae*: Oxidase-Negative Glucose-Fermenting Gram-Negative Bacilli
   * Lactose Fermenter (Identifiable after 1 day of culture)
