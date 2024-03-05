@@ -5,121 +5,109 @@ aliases:
 
 # Mycobacterium and Anaerobic Bacteria
 
-## Mycobacterium
-
-- Gram Positive (Gram Neutral)
-	- Gram-ghost
-	- Acid-fast strain → Visibly Red
-	- Lipid rich cell wall
-- Non-motile
-- Non-spore forming
-- Strictly aerobe
-- Tuberculous *Mycobacterium*
-	- *M. tuberculosis* → Tuberculosis
-		- Bacilli
-		- Intracellular
-		- Slow growing (Generation time $\approx \pu{14 - 20 hrs}$)
-		- Infection sites: Lung Macrophage
-			- Phagocytosed by lung macrophage
-			- Prevent phagosome-lysosome fusion
-			- Immune Evasion & Replicate
+- *Mycobacterium*: Non-motile Non-spore forming Aerobic Acid-fast Gram-positive bacilli
+	- Etymology: Fungi-bacteria
+	- High, Long Mycolic acid → Acid-fast, Weakly Gram-Positive
+		- Lipid rich cell wall; Waxy coat: hardy, impenetrable, hydrophobic
+	- Visible w/ fluorescent stain
+	- Human & animal pathogens
+	- Slowly progressive disease (~3 weeks incubation)
+	- *Mycobacterium tuberculosis* → Tuberculosis
+		- Slow growing ($\approx\pu{14-20 hrs}$ generation time)
+		- Intracellular: Phagocytosed by lung macrophage
+			- Prevent phagosome-lysosome fusion; invade immune & spread
+			- CNS → Meningitis
+			- Lymphatic → Scrofula
+			- Pleura → Tuberculosis pleurisy
+			- Disseminated → Miliary tuberculosis
+			- Bones & Joints → Pott's disease
+			- Genitourinary → Urogenital tuberculosis
 		- Diagnosis
-			- Mantoux test: Injection of Tuberculin Purified Protein
-				- Positive: Induration ($\pu{48 hrs}$) $\diameter\ge\pu{5 mm}$
-				- Possible false negative (conditionally positive)
-		- Treatment
-			- Drugs
+			- Phlegm culturing, straining
+			- DNA Sequencing (PCR)
+			- Mantoux tuberculin skin test: Injection of Tuberculin Purified Protein
+				- Induration diameter after $\pu{48 hrs}$
+				- $<\pu{5 mm}$ → Negative
+				- $\ge\pu{5 mm}$ → Positive: Immunosuppressed
+				- $\ge\pu{10 mm}$ → Positive: IV drug abuser, Children under 4 yrs, high risk area
+				- $\ge\pu{15 mm}$ → Positive: Healthy
+		- Treatment: Drugs (select appropriate one, quick antibiotic resistance)
 		- Prevention
-			- Immunoprophylaxis
-			- Chemoprophylaxis
-- Non-Tuberculous *Mycobacterium*
-	- *M. laprae*
+			- Immunoprophylaxis: Vaccine
+			- Chemoprophylaxis: Protective Drug
+			- Avoid contact w/ pathogen
+	- *Mycobacterium leprae* → Leprosy (Hansen Disease)
 		- Pleomorphic
-		- Slow-growing ($\pu{20 yrs}$ incubation)
-		- Found in Armadillo
-		- Infection site: Schwann cell → Decreased sensation
-			- Leprosy (Hansen Disease)
-				- Tuberculoid leprosy
-					- Less severe (low bacterial load)
-					- Cell-mediated immunity
-					- Restricted pathogenic growth
-				- Lepromatous leprosy
-					- Most severe (high bacterial load)
-					- Humoral immunity
-					- Extensively spread
+		- Zoonotic: Armadillo
+		- Up to 20 years incubation
+		- Infect Schwann cell, Macrophage
+			- Decreased sensation
+		- Tuberculoid (low bacteria): Cell-mediated immunity, Restricted growth
+		- Lepromatous (high bacteria): Humoral immunity, Extensively spread
 		- Transmission
+			- Airbourne (Anthroponoses)
+			- Zoogenic: Armadillos, Primates
+				- Direct contact / Vectors? / Environment?
 		- Diagnosis
-			- Skin smear → Acid-fast bacilli
-			- Sin biopsy
-			- Serologic Assays (Antibody detection)
-			- Molecular Methods
-
-## Anaerobic Bacteria
-
-- Gram Positive
-	- Bacilli
-		- Spore forming
-			- *Clostridium* spp.
-		- Non-spore forming
-			- *Cutibacterium* spp.
-- Gran Negative
-	- Cocci
-		- *Veillonella* spp.
-	- Bacilli
-		- Non-spore forming
-			- *Bacteroides* spp.
-
-### *Cutibacterium* spp
-
-- Small Gram-Positive pleomorphic bacilli
-- Skin microbiota
-- Low-virulence
-- *Propionibacterium acne* (*C. acne*)
-
-### *Clostidium* spp
-
-- Gram-Positive Bacilli
-	- Spore Location → Tennis racquet
-- Resistant to heat, desiccation, disinfectants
-- *C. botulinum*
-	- Neurotoxin (Exotoxin; Botox)
-	- Symptoms
-		- Dry mouth
-		- Slurred Speech
-		- Blurred Vision
-		- Descending Flaccid Paralysis
-		- Respiratory Failure
-- *C. tetani* → Tetanus
-- *C. perfringens*
-	- Pleomorphic w/ straight / curved rods
-	- Intestinal normal flora
-	- Soil, Sediments, decaying vegetation, Pre-cooked food
-	- Hemolysin → Beta-hemolysis on Blood agar
-	- Nagler Test
-		- Lecithinase activity → Grow on Egg yolk agar
-		- Not immune to Anti-alpha toxin
-- *C. difficile*
-	- Prolonged antibiotics usage (Dysbiosis; overgrown)
-
-### *Bacteroides* spp
-
-- Obligate anaerobic Gram-Negative bacilli
-- Normal Human colon flora
-- *B. fragilis* ($\pu{80 \%}$ of *Bacteroides* infection)
-	- Entereotoxigenic *B. fragilis* (ETBF) strain
-		- Diarrhea ← Enterotoxin
-- Intra-abdominal infection
-- Immune to beta-lactam ← Secrete beta-lactamase
-
-### *Veillonella* spp
-
-- Anaerobic Gram-Negative diplococci
-	- Anaerobic counterpart of *Neisseria*
-- Normal flora of mouth, gastrointestinal tract, vagina
-	- Opportunistic Bacteria
+			- Skin biopsy / Skin smear: culturing, straining
+			- Serologic assay (antibody detection)
+			- Molecular method (DNA sequencing, PCR)
+- *Cutibacterium*: Small pleomorphic Non-Spore forming Anaerobic Gram-positive Bacilli
+	- Etymology: Cutis (Skin) + Bacterium (Rod); Skin microbiota
+	- Low virulence
+	- *Cutibacterium acne* → Acne
+		- aka *Propionibacterium acne* (until 2016)
+- *Clostridium*: Spore-forming Anaerobic Gram-positive Bacilli
+	- Etymology: Closter (Spindle)
+	- Resistant to heat, desiccation, disinfectants
+	- Spore @ Tennis racquet
+	- *Clostridium botulinum* → Botulism
+		- Etymology: Botulus (Sausage); Discovered in sausage (sausage poisoning)
+		- Environmental samples (Soils, Waters)
+			- Foodborne: Canned food, Honey (low dose, infants)
+			- Wound
+		- Botulinum toxin (Neurotoxin, exotoxin)
+			- Dry mouth
+			- Slurred speech
+			- Blurred vision
+			- Descending flaccid paralysis
+			- Respiratory failure
+		- Watery diarrhea
+	- *Clostridium tetani* → Tetanus
+		- Etymology: Teinein (Stretch), Tetanos (Muscular spasm), Tetanus
+			- Sever hyperextension
+		- Environmental: Contaminated wound
+	- *Clostridium perfringens*
+		- Etymology: Per (Through) + Frango (Burst)
+		- Pleomorphic; Straight/Curved rods
+		- Central / Sub-terminal spores (rarely seen)
+		- Intestinal normal flora
+		- Soil, Sediments, Decaying vegetation, Pre-cooked foods
+			- Food-poisoning
+		- Beta-Hemolysis via Hemolysin
+			- Gas Gangrene wound, Ulcer
+		- Nagler test
+			- Lecithinase activity → Grow on Egg yolk agar
+			- Not immune to anti-alpha toxin
+	- *Clostridioides difficile*
+		- Etymology: Difficilis (Difficult); Difficult to isolate & Grow
+		- Dysbiosis (Prolonged antibiotics usage)
+		- Toxins
+- *Bacteroides*: Non-Spore forming Anaerobic Gram-negative Bacilli
+	- Etymology: Bacter (Rod) + -oides (Shaped)
+	- *Bacteroides fragilis*
+		- Etymology: Fragilis (Fragile)
+		- $\pu{80 \%}$ of *Bacteroides* infection
+		- Colon normal flora
+		- Intra-abdominal infection
+		- Enterotoxigenic *B. fragilis* (ETBF) strain → Enterotoxin → Diarrhea
+		- Beta-lactam resistant ← Beta-lactamase
+- *Veillonella* spp.: Anaerobic Gram-negative diplococci
+	- Normal flora of mouth, gastrointestinal tract, vagina
+	- Opportunistic
 	- Common: Oral, Head, throat infections
 	- Implicated: sinuses, lungs, heart, bone, CNS infections
-- Pus and Abscess Formation
+	- Pus and Abscess Formation
 
 ## Reference
 

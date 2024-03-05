@@ -97,160 +97,166 @@ aliases:
 ## Taxonomy
 
 - Note: Referenced [[06 - Medically Important Gram-Positive Bacteria|L06]], [[07 - Medically Important Gram-Negative Bacteria|L07]], [[08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia|L08]], [[09 - Mycobacterium and Anaerobic Bacteria|L09]]
-	- Aerobes
-		- Gram-Positive
-			- Cocci
-				- *Staphylococcus*: Cluster; Catalase-positive
-					- Coagulase-positive
-						- *S. aureus* \*\*\*\*\*
-					- Coagulase-negative
-						- *S. epidermidis* \*\*\*
-						- *S. saprophyticus* \*\*\*
-				- *Streptococcus*: Chain; Catalase-negative
-					- Beta-hemolytic
-						- *S. pyogenes* \*\*\*\*\*
-						- *S. agalactiae* \*\*\*\*
-					- Alpha-hemolytic
-						- *S. pneumoniae* \*\*\*\*\*
-						- *S. suis* \*\*\*
-						- Viridans *Strep.* \*\*\*
-					- Gamma-hemolytic
-						- *Enterococcus* spp. \*\*\*: short chain
-			- Bacilli
-				- Spore Forming
-					- *Bacillus*
-						- *B. anthracis* \*\*\*\*
-						- *B. cereus* \*\*\*\*
-				- Non-Spore Forming
-					- Regular Stained
-						- *Listeria*
-							- *L. monocytogenes* \*\*\*
-						- *Lactobacillus*
-							- *L. acidophilus* \*\*\*
-						- *Gardnerella*
-							- *G. vaginalis* \*\*\*\*
-						- *Erysipelothrix*
-							- *E. rhusiopathiae* \*\*
-					- Class Actinomycetia: Irregular Stained
-						- Non-Branching
-							- *Corynebacterium*: Club-shaped, Not Actinomycetia
-								- *C. diphtheriae* \*\*\*\*
-							- *Mycobacterium*: Acid-fast, Gram-resistant
-								- *M. tuberculosis* \*\*\*\*\*
-								- *M. leprae* \*\*\*
-								- *M. avium* complex \*\*\*
-								- *M. abscessus*, *M. fortuitum*, *M. chelonae* \*
-						- Branching; Gram-resistant
-							- *Nocardia* spp. \*\*\*\*: Partially Acid-fast
-							- *Rhodococcus* spp.
-							- *Streptomyces* spp.: No mycolic acid
-							- Aerobic *Actinomyces*: No mycolic acid
-		- Gram-Negative
-			- Cocci
-				- *Neisseria*: Diplococci
-					- *N. gonorrhoeae* \*\*\*\*\*
-					- *N. meningitidis* \*\*\*\*
-				- *Moraxella*: Diplococci
-					- *M. catarrhalis* \*\*\*
-			- Bacilli
-				- Glucose Fermenter
-					- Enterbacterales order / *Enterbacteriaceae* family: Oxidase Negative
-						- Lactose Fermenter
-							- *Klebsiella*
-								- *K. pneumoniae* \*\*\*\*\*
-							- *Escherichia*
-								- *E. coli* \*\*\*\*\*
-									- Enterohemorrhagic *E. coli*
-										- Shiga-like toxin producing *E. coli* (STEC) \*
-									- Enterotoxigenic *E. coli*
-									- Enteroinvasive *E. coli*
-									- Enteropathogenic *E. coli*
-									- Uropathogenic *E. coli* \*
-									- Enteroaggregative *E. coli*
-							- *Enterobacter* spp. \*\*\*
-						- Non-Lactose Fermenter
-							- *Shigella* spp. \*\*\*\*
-							- *Salmonella*
-								- *S. enterica* \*\*\*\*
-								- *S. bongori*
-							- *Proteus* spp. \*\*\*
-							- *Yersinia*
-								- *Y. pestis* \*\*
-					- Vibrionales order / *Vibrionaceae* family: Oxidase Positive, Comma-shaped
-						- *Vibrio*
-							- *V. cholerae* \*\*\*\*\*
-							- *V. parahaemolyticus* \*\*\*\*\*
-							- *V. vulnificus* \*\*\*
-						- *Aeromonas*
-							- *A. hydrophilia* \*\*
-						- *Plesiomonas*
-							- *P. shigelloides* \*\*
-				- Non-Fermenter
-					- *Pseudomonas*
-						- *P. aeruginosa* \*\*\*\*\*: w/ green pigment
-					- *Acinetobacter*
-						- *A. baumannii* \*\*\*\*\*: Coccobacilli (diplococci-like)
-					- *Burkholderia*
-						- *B. pseudomallei* \*\*\*\*: Bipolar
-				- Fastidious Coccobacilli
-					- *Haemophilus*
-						- *H. influenzae* \*\*\*\*
-						- *H. ducreyi*: \*\*
-					- *Pasterella*
-						- *P. multocida* \*\*\*: Bipolar
-					- *Borderdetella*
-						- *B. pertussis* \*\*
-					- *Brucella* spp. \*\*
-					- *Legionella*
-						- *L. pneumophilia* \*
-				- S-shape, Curved-microaerophile
-					- *Helicobacter*
-						- *H. pyroli* \*\*\*\*
-					- *Campylobacter*
-						- *C. jejuni* \*\*\*
-		- Gram-Neutral
-			- Spirochete
+- Aerobes
+	- Gram-Positive
+		- Cocci
+			- *Staphylococcus*: Cluster; Catalase-positive
+				- Coagulase-positive
+					- *S. aureus* \*\*\*\*\*
+				- Coagulase-negative
+					- *S. epidermidis* \*\*\*
+					- *S. saprophyticus* \*\*\*
+			- *Streptococcus*: Chain; Catalase-negative
+				- Beta-hemolytic
+					- *S. pyogenes* \*\*\*\*\*
+					- *S. agalactiae* \*\*\*\*
+				- Alpha-hemolytic
+					- *S. pneumoniae* \*\*\*\*\*
+					- *S. suis* \*\*\*
+					- Viridans *Strep.* \*\*\*
+				- Gamma-hemolytic
+					- *Enterococcus* spp. \*\*\*: short chain
+		- Bacilli
+			- Spore Forming
+				- *Bacillus*
+					- *B. anthracis* \*\*\*\*
+					- *B. cereus* \*\*\*\*
+			- Non-Spore Forming
+				- Regular Stained
+					- *Listeria*
+						- *L. monocytogenes* \*\*\*
+					- *Lactobacillus*
+						- *L. acidophilus* \*\*\*
+					- *Gardnerella*
+						- *G. vaginalis* \*\*\*\*
+					- *Erysipelothrix*
+						- *E. rhusiopathiae* \*\*
+				- Class Actinomycetia: Irregular Stained
+					- Non-Branching
+						- *Corynebacterium*: Club-shaped, Not Actinomycetia
+							- *C. diphtheriae* \*\*\*\*
+						- *Mycobacterium*: Acid-fast, Gram-resistant
+							- *M. tuberculosis* \*\*\*\*\*
+							- *M. leprae* \*\*\*
+							- *M. avium* complex \*\*\*
+							- *M. abscessus*, *M. fortuitum*, *M. chelonae* \*
+					- Branching; Gram-resistant
+						- *Nocardia* spp. \*\*\*\*: Partially Acid-fast
+						- *Rhodococcus* spp.
+						- *Streptomyces* spp.: No mycolic acid
+						- Aerobic *Actinomyces*: No mycolic acid
+	- Gram-Negative
+		- Cocci
+			- *Neisseria*: Diplococci
+				- *N. gonorrhoeae* \*\*\*\*\*
+				- *N. meningitidis* \*\*\*\*
+			- *Moraxella*: Diplococci
+				- *M. catarrhalis* \*\*\*
+		- Bacilli
+			- Glucose Fermenter
+				- Enterbacterales order / *Enterbacteriaceae* family: Oxidase Negative
+					- Lactose Fermenter
+						- *Klebsiella*
+							- *K. pneumoniae* \*\*\*\*\*
+						- *Escherichia*
+							- *E. coli* \*\*\*\*\*
+								- Enterohemorrhagic *E. coli*
+									- Shiga-like toxin producing *E. coli* (STEC) \*
+								- Enterotoxigenic *E. coli*
+								- Enteroinvasive *E. coli*
+								- Enteropathogenic *E. coli*
+								- Uropathogenic *E. coli* \*
+								- Enteroaggregative *E. coli*
+						- *Enterobacter* spp. \*\*\*
+					- Non-Lactose Fermenter
+						- *Shigella* spp. \*\*\*\*
+						- *Salmonella*
+							- *S. enterica* \*\*\*\*
+							- *S. bongori*
+						- *Proteus* spp. \*\*\*
+						- *Yersinia*
+							- *Y. pestis* \*\*
+				- Vibrionales order / *Vibrionaceae* family: Oxidase Positive, Comma-shaped
+					- *Vibrio*
+						- *V. cholerae* \*\*\*\*\*
+						- *V. parahaemolyticus* \*\*\*\*\*
+						- *V. vulnificus* \*\*\*
+					- *Aeromonas*
+						- *A. hydrophilia* \*\*
+					- *Plesiomonas*
+						- *P. shigelloides* \*\*
+			- Non-Fermenter
+				- *Pseudomonas*
+					- *P. aeruginosa* \*\*\*\*\*: w/ green pigment
+				- *Acinetobacter*
+					- *A. baumannii* \*\*\*\*\*: Coccobacilli (diplococci-like)
+				- *Burkholderia*
+					- *B. pseudomallei* \*\*\*\*: Bipolar
+			- Fastidious Coccobacilli
+				- *Haemophilus*
+					- *H. influenzae* \*\*\*\*
+					- *H. ducreyi*: \*\*
+				- *Pasterella*
+					- *P. multocida* \*\*\*: Bipolar
+				- *Borderdetella*
+					- *B. pertussis* \*\*
+				- *Brucella* spp. \*\*
+				- *Legionella*
+					- *L. pneumophilia* \*
+			- S-shape, Curved-microaerophile
+				- *Helicobacter*
+					- *H. pyroli* \*\*\*\*
+				- *Campylobacter*
+					- *C. jejuni* \*\*\*
+	- Gram-Neutral
+		- Order Spirochaetales: aka Spirochete
+			- Family *Spirochaetaceae*
 				- *Treponema*
 					- Venereal Syphilis
-						- *T. pallidum* spp. *pallidum*
+						- *T. pallidum* spp. *pallidum* \*
 					- Nonvenereal endemic treponematoses
 						- *T. pallidum* spp. *pertenus*
 						- *T. pallidum* spp. *endemicum*
 						- *T. carateum*
 				- *Borellia* spp.
+			- Family *Leptospiraceae*
 				- *Leptospira*
-					- *L. interrogans*
-			- *Mycoplasma*: w/o cell wall:
-				- *M. pneumonia*
+					- *L. interrogans* \*
+		- Cell wall deficient bacteria
+			- *Mycoplasma*
+				- *M. pneumonia* \*
 				- *M. genitalium*
-			- Obligate Intracellular Bacteria
+			- *Ureaplasma*
+		- Obligate Intracellular Bacteria
+			- Order Chlamydiales
 				- *Chlamydia*
-					- *C. pneumoniae*
-					- *C. trachomatis*
-				- *Rickettsia*
-					- Spotted Fever Group
-						- *R. rickettsii*
-					- Typhus Group
-						- *R. thypi*
-					- Scrub Typhus Group
-						- *Orientia tsutsugamushi*
-	- Anaerobes
-		- Gram-Positive
-			- Bacilli
-				- *Cutibacterium*: Non-spore forming
-					- *Propionibacterium acne*
-				- *Clostridium*: Spore forming
-					- *C. botulinum*
-					- *C. tetani*
-					- *C. perfringens*
-					- *C. difficile*
-				- *Actinomyces*: Irregular Stained; Spore forming; Branching; Mostly anaerobic
-		- Gram-Negative
-			- Cocci
-				- *Veillonella* spp.: Diplococci
-			- Bacilli
-				- *Bacteroides*: Non-spore forming
-					- *B. fragilis*: ETBF strain
+					- *C. trachomatis* \*
+				- *Chlamydophilia*
+					- *C. pneumoniae* \*
+			- *Rickettsia*
+				- Spotted Fever Group
+					- *R. rickettsii*
+				- Typhus Group
+					- *R. thypi* \*
+				- Scrub Typhus Group
+					- *Orientia tsutsugamushi* \*
+- Anaerobes
+	- Gram-Positive
+		- Bacilli
+			- *Cutibacterium*: Non-spore forming
+				- *Propionibacterium acne* \*
+			- *Clostridium*: Spore forming
+				- *C. botulinum* \*
+				- *C. tetani* \*
+				- *C. perfringens* \*
+				- *Clostridioides difficile* \*
+			- *Actinomyces*: Irregular Stained; Spore forming; Branching; Mostly anaerobic
+	- Gram-Negative
+		- Cocci
+			- *Veillonella* spp.: Diplococci
+		- Bacilli
+			- *Bacteroides*: Non-spore forming
+				- *B. fragilis*: ETBF strain
 
 ## Diseases & Symptoms
 
@@ -314,23 +320,23 @@ aliases:
 		- *C. difficile*
 - Normal Flora
 	- Mouth Normal Flora
-		- *Beillonella* spp.
+		- *Veillonella* spp.
 	- Gastrointestinal Flora
-		- *Beillonella* spp.
+		- *Veillonella* spp.
+		- Enteric Flora @Intestine
+			- *Enterococcus* spp.
+			- *E. coli*
+			- *K. pneumoniae*
+			- *Enterobacter* spp.
+			- *C. perfringens*
+			- @Colon
+				- *B. fragilis*
 	- Pharyngeal Flora
 		- Viridans *Strep.*
-	- Enteric Flora @Intestine
-		- *Enterococcus* spp.
-		- *E. coli*
-		- *K. pneumoniae*
-		- *Enterobacter* spp.
-		- *C. perfringens*
-		- @Colon
-			- *B. fragilis*
 	- Vaginal Flora
 		- *L. acidophilus*
 		- *G. vaginalis*
-		- *Beillonella* spp.
+		- *Veillonella* spp.
 	- Epidermal Flora
 		- *S. epidermidis*
 - Infections by Site (See Inflammation for more)
@@ -365,21 +371,33 @@ aliases:
 			- *Enterococcus* spp.
 	- Respiratory Tract Infection
 		- Lower Respiratory Tract Infection (LRI)
+			- *Veillonella* spp. (Implicated)
 		- Upper Respiratory Tract Infection (URI)
+			- *S. pyogenes*
+			- *N. gonorrhoeae* (rare; imply oral sex)
+			- *C. diphtheriae*
+			- *M. pneumonia*
 			- Note: Usually viral.
 		- *M. avium* complex (Immunocompromised host)
 		- *Nocardia* (Immunocompromised host, Subacute)
+		- *Veillonella* spp. (Common: Head, Oral, Throat)
+		- *Veillonella* spp. (Implicated: Sinus)
 	- Gastrointestinal Infection
 		- *Shigella* spp.
 		- *Salmonella enterica*
 		- *B. fragilis*
+	- CNS Infection
+		- *Veillonella* spp. (Implicated)
 - Inflammation (-itis)
 	- Sepsis @Body-wide (Septicemia)  
 		- *S. agalactiae* (Neonatal; Acute in Adults)
+	- Conjunctivitis @Eye (aka Pink eye)
+		- *C. trachomatis*
 	- Otitis @Ear
 		- Otitis media @Middle Ear (connected to Respiratory tract)
 			- *S. pneumoniae*
 			- *M. catarrhalis*
+			- *M. pneumonia*
 	- Meningitis @Meninges (membrane around brain; strain cerebrospinal fluid for identification) (aka เยื่อหุ้มสมองอักเสบ, ไข้กาฬหลังแอ่น)
 		- *S. agalactiae* (Neonatal; Acute in Adults)
 		- *S. pneumoniae*
@@ -388,6 +406,7 @@ aliases:
 		- *L. monocytogenes*
 		- *N. meningitidis*
 		- *H. influenzae*
+		- *M. tuberculosis*
 		- Note: If lie down w/ arched back, the pain/stress from meningitis can be relieved.
 	- Fasciitis @Fascia (membrane around muscle)
 		- *S. pyogenes* (Necrotizing: w/ dead tissue)
@@ -401,8 +420,11 @@ aliases:
 		- *N. gonorrhoeae* (rare; imply oral sex)
 		- Diphtheria: Pseudomembranous (aka โรคคอตีบ): *C. diphtheriae*
 		- *M. pneumonia*
+	- Tracheitis @Trachea (LRI)  
+		- *M. pneumonia* (Tracheobronchitis)
 	- Bronchitis @Bronchus (LRI)
 		- *M. catarrhalis*
+		- *M. pneumonia* (Tracheobronchitis)
 	- Pneumonitis @Lung (LRI) (aka Pneumonia)
 		- *S. aureus* (w/ Abscess)
 		- *S. pneumoniae*
@@ -423,18 +445,23 @@ aliases:
 		- *Enterococcus* spp.
 	- Proctitis @Rectum
 		- *N. gonorrhoeae* (imply anal sex)
+		- *C. trachomatis*
 	- Urethritis @Urinary Tract (UTI)
 		- Gonorrhea (aka หนองในแท้): *N. gonorrhoeae*
+		- Nongonococcal urethritis (NGU; aka หนองในเทียม): *C. trachomatis*
 	- Cystitis @Bladder (UTI)
 		- *S. saprophyticus* (in Female)
 		- *E. coli*
-	- Virginitis @Vagina
+	- Vaginitis @Vagina
 		- *G. vaginalis* (Vaginosis: opportunistic flora)
-- Abscess (stain pus for identification)
+	- Cervicitis @Cervix
+		- *C. trachomatis*
+- Abscess (aka ฝี) & Pus (aka หนอง); (stain pus for identification)
 	- *S. aureus* (usually epidermal; possibly lung)
 	- *B. anthracis* (Epidermal; Cutaneous anthrax; self-limited)
 	- *K. pneumoniae* (Liver)
 	- *Burkholderia pseudomallei* (Skin / Liver)
+	- *Veillonella* spp.
 - Impetigo: Clustered clots (aka โรคแผลเปื่อยจากโรงเรียน, โรคพุพอง)
 	- *S. aureus*
 	- *S. pyogenes*
@@ -489,7 +516,7 @@ aliases:
 		- Potential Gastric Cancer
 	- Botulism: *C. botulinum*
 		- Botulinum toxin aka Botox
-	- Tetanus: *C. tetani*
+	- Tetanus (aka บาดทะยัก): *C. tetani*
 	- Rocky Mountain Spotted Fever: *Rickettsia rickettsii*
 	- Thyphus
 		- Endemic (murine) typhus: *Rickettsia typhi*

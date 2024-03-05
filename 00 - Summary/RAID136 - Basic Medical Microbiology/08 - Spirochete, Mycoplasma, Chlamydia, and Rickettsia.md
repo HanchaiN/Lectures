@@ -5,147 +5,113 @@ aliases:
 
 # Spirochete, Mycoplasma, Chlamydia, and Rickettsia
 
-## Spirochete
-
-- Gram Negative (Gram Neutral)
-	- Two plasma membrane
-	- Periplasmic space w/ Peptidoglycan & Internal Flagellum
-- Spiral-shaped
-	- Rotational mobility: Corkscrew
-		- Induced by Internal Flagellum
-	- Mostly Helical Coils
-- Invisible in light microscope
-- Free-living / Parasitic
-	- Normal Flora of Human & Animal Gastrointestinal tract
-	- Disease-causing
-- Examples
-	- Order: *Spirochaetales*
-		- Family: *Spirochaetaceae*
-			- Genus: *Treponema*
-			- Genus: *Borellia*
-		- Family: *Leptospiraceae*
-			- Genus: *Leptospira*
-- *Treponema* species
-	- Venereal Syphilis
+- Order Spirochaetales: Corkscrew-shaped Double-membrane Gram-neutral bacteria
+	- Etymology: Spira (Spiral) + Chaite (Hair); Corkscrew-shaped
+		- Rotational mobility by internal flagellum
+	- Double-membrane w/ peptidoglycan & internal flagellum in Periplasmic space
+	- Invisible w/ light microscope - Gram stain; Gram-Neutral
+		- Dark-field microscope
+		- Warthin Starry Silver stain
+		- Immunofluorescense
+	- GI tract flora or Disease-causing
+	- *Treponema*
+		- Etymology: Trepein (Turn) + Nema (Thread)
 		- *T. pallidum* spp. *pallidum* → Syphilis
-			- Slip, Corkscrew Spiral
+			- Etymology: Pallidus (Pale yellow-green)
 			- Exclusively human pathogen
+			- Venereal
 			- Transmission
-				- Direct sexual contact
-				- Transplacental
-				- Blood Transfusion
-				- Intravenous drug use
-			- Clinical stage of Syphilis
-				- Primary (T+$\pu{3 - 90 days}$)
-					- Sore
-				- Secondary (T+$\pu{4 - 10 weeks}$)→ Latent
-					- Rash
-				- Latent → Latent / Tertiary
-				- Tertiary (T+$\pu{3 - 15 years}$)
-					- Internal Organs
-			- Neurosyphilis / Ocular Syphilis / Otosyphilis
-	- Nonvenereal (Endemic Treponematoses)
-		- *T. pallidium* spp. *pertenus* → Yaws
-		- *T. pallidium* spp. *endemicum* → Bejel
-		- *T. carateum* → Pinta
-- *Borellia* spp.
-- *Leptospira interrogans* → Leptospirosis
-	- Thin, Close Spirals, Hooked Ends
-	- Zoonotic disease (primary: Rodent; Possibly Cattle, Dogs)
-	- Transmission
-		- Direct Contact
-		- Indirect Contact w/ urine
-			- Water
-			- Soil
-			- Food
-		- Wound / Mucosa
-			- Eye
-			- Nose
-			- Mouth
-	- Clinical stage of Leptospirosis
-		- Incubation (T+$\ce{5 - 14 days}$)
-			- Influenza-like febrile illness
-			- Conjunctival suffusion
-			- Myalgia (Muscle pain)
-		- Acute (Septicemic; T+$\pu{5 - 7 days}$)
-			- Same as Incubation
-		- Convalescent
-			- Lower fever
-		- Immune (T+$\pu{4-30 days}$)
-			- Aseptic meningitis
-			- Weil Disease (Liver & Kidney Failure)
-			- Pulmonary Hemorrhage
-
-## Mycoplasma
-
-- Cell wall deficient bacteria
-- Cell membrane w/ sterols ← Obtained from medium / tissue
-	- Culture medium supplemented w/ animal serum: SP-4 medium
-- *M. pneumonia* → Pneumonia
-	- Pleomorphic (can change shape)
-	- Culture medium: SP-4 medium
-	- Adhesion protein (Adhesin): Protrusion-associated protein (P1)
-		- Attach w/ respiratory organ; Virulence Factor
-	- Droplet transmission ($\diameter > \pu{5 \micro m}$)
-	- Low infecting dose
-	- Worldwide
-		- Prominent in temperate zone, teenagers, closed communities
-	- Clinical of Pneumonia
-		- Tracheobronchitis
-		- Atypical or walking pneumonia
-			- Patients can still walk
-			- Slower Onset
-			- Low-grade fever
-			- Nonproductive cough (Dry Cough)
-		- Pharyngitis
-		- Otitis media
-- *M. genitalium*
-
-## Chalamydia
-
-- Obligate intracellular Organism
-	- Require host cell metabolism
-- Gram-Negative (Gram-Neutral)
-	- Normally w/o peptidoglycan layer
-- Infectious Cycle
-	- Elementary Body
-		- Extracellular
-		- Infective
-	- Reticulate
-		- Intracellular
-		- w/ Peptidoglycan
-- *Chlamydophila pneumoniae* → Pneumonia
-	- Droplet Transmission
-- *Chlamydia trachomatis*
-
-## Rickettsia
-
-- Obligate Intracellular Organism
-	- Lack metabolic activities
-	- Leak proteins, Nucleic Acids, and essential small molecules
-- Gram-Negative (Gram-Neutral)
-	- Minimal peptidoglycan → Giemsa-stained
-- Spotted Fever Group
-	- *Rickettsia rickettsii* → Rocky Mountain Spotted Fever
-- Typhus Group
-	- *Rickettsia typhi*
-		- Transmitted via flea (Rat / Cat)
-		- Worldwide
-			- Prevalent in tropical, Subtropical seaboard region
-		- Endemic (murine) typhus
-			- Fever
-			- Headache
-			- Myalgia
-			- Rash (Maculopapular / Petechiae)
-- Scrub typhus group
-	- *Orientia tsutsugamushi*
-		- Transmitted via chiggers mites (larva)
-		- Scrub typhus
-			- Fever
-			- Headache
-			- Myalgia
-			- Rash
-			- Eschar at site of infection (mite's bite)
+				- Direct sexual contact w/ person w/ active lesion
+				- Transplacental transmission
+				- Blood (Intravenous Drug Use, Blood Transfusion)
+			- Infection → Primary → Secondary → Latent → Tertiary
+				- Neurosyphilis / Ocular Syphilis / Otosyphilis
+				- Primary: 3-90 days → Sore, Lesion at infection site
+					- Chancre, แผลริมแข็ง
+				- Secondary: 4-10 weeks → Body Rash
+				- Tertiary: 3-15 years → Internal Organs
+		- *T. pallidum* spp. *pertenue* → Yaws disease
+			- Etymology: Per (Very) + Tenuis (Thin)
+			- Endemic, Nonvenereal
+		- *T. pallidum* spp. *endemicum* → Bejel disease
+			- Etymology: Endemic; Bejel aka Endemic Syphilis
+			- Endemic, Nonvenereal
+		- *T. carateum* → Pinta disease
+			- Etymology: Carate (Carate disease aka Pinta)
+			- Endemic, Nonvenereal
+	- *Leptospira interrogans*: w/ hooked end → Leptospirosis
+		- Etymology: Leptos (Thin) + Spira (Coil)
+		- Etymology: Interrogans (asking); Question mark-Shaped, Hooked ends
+		- Zoonotic: Rodents, Cattle, Dogs
+			- Direct Contact
+			- Indirect Contact (w/ urine) → Water, Soil, Food
+			- Wound / Mucosa (eye, nose, mouth)
+		- Symptoms
+			- Incubation: 5-14 days
+			- Acute phase: 5-7 days: Septicemia
+				- Influenza-like febrile illness
+				- Conjunctival suffusion
+				- Myalgia
+			- Convalescent phase: Lower fever
+			- Immune phase: 4-30 days
+				- Aseptic meningitis
+				- Weil disease (Liver+Renal failure)
+					- Bilirubin accumulation → Yellow eyes
+				- Plummonary hemorrhage
+- *Mycoplasma*: Cell wall deficient Pleomorphic bacteria
+	- Etymology: Myco (Fungi) + Plasma (Formed)
+	- Cell wall deficient bacteria → Antibiotic resistant
+	- Cell membrane w/ Sterols ← Tissue / SP-4 culture medium (animal serum)
+	- *Mycoplasma pneumonia*
+		- Etymology: Pneumonia; Atypical / Walking pneumonia
+			- Tracheobronchitis, Pharyngitis, Otitis media
+			- Slower in onset, Low-grade fever, Nonproductive cough
+			- Can still walk; walking pneumonia
+		- Small → Invisible in light microscope
+		- Cell wall deficient → Pleomorphic; Spindle shaped
+		- Protrusion-associated protein (P1) @an end: Attach to respiratory tract
+			- Virulence factor
+		- Droplet transmission, Low infecting dose
+			- Worldwide distribution, prominent in temperate zone
+			- Mostly teenagers
+			- Outbreak in families, closed communities
+- *Chlamydia*: Gram-negative Obligate intracellular bacteria
+	- Etymology: Chlamus (Cloak)
+	- Obligate intracellular bacteria
+		- Elementary body (EB): Extracellular, Infective
+			- Induce Endocytosis, Cytoskeletal rearrangement
+		- Reticulate body (RB): Intracellular, w/ Peptidoglycan
+			- Replication
+			- Transform into EB, Inducing Apoptosis
+	- Gram-negative; may w/o peptidoglycan: Gram-Neutral
+	- *Chlamydophila pneumoniae*
+		- Etymology: Pneumonia; Similar to *M. pneumonia*
+		- *Chlamydophila* is separated from *Chlamydia* due to evolutionary / genetic reasons
+		- Differentiate by 16S rRNA
+	- *Chlamydia trachomatis* → Trachoma, NGU
+		- Etymology: Trachus (Rough); Roughness of inner surface of eyelid
+		- Nongonococcal urethritis (NGU), Cervicitis, Proctitis
+		- Sexual transmission (Secretion)
+- *Rickettsia*: Small Gram-negative intracellular coccobacilli
+	- Minimal peptidoglycan → Gram-neutral, Giemsa-stained
+	- Obligate intracellular bacteria
+		- Lack metabolic activities
+		- Leak Proteins, Nucleic acids, Essential small molecules
+	- Spotted Fever Group
+		- *Rickettsia rickettsii* → Rocky Mountain spotted fever
+	- Typhus Group (aka ไข้รากสาดใหญ่)
+		- Etymology: Typhos (Hazy)
+		- *Rickettsia typhi* → Endemic / Murine Typhus
+			- Etymology: Typhus
+			- Transmitted by Flea from rat/cat
+				- Worldwide; prevalent in tropical, subtropical
+			- Fever, Headache, Myalgia, Rash (Maculopapular / Petechiae)
+	- Scrub Typhus Group (aka ไข้รากสาดใหญ่จากป่าละเมาะ)
+		- *Orientia tsutsugamushi*
+			- Etymology: Oriens (East); Eastern hemisphere
+			- Etymology: Tsutsuga (Sickness) + Mushi (Insect)
+			- Transmitted by chiggers mite larvae (+rodents)
+			- Fever, Headache, Myalgia, Rash, Eschar at infection site
 
 ## Reference
 
