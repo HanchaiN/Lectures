@@ -157,8 +157,14 @@
   * *Rhizopus*: Mucorales w/ Rhizoid (Root)
     * Etymology: Rhiza (Root) + Pous (Foot)
   * *Mucor*: Mucorales w/o Rhizoid
-* *Phyticum insidiosum*: Fungal like microorganism
+* *Phyticum insidiosum*: Fungus-like microorganism
   * No chitin, ergosterol
+  * Irregularly branched, Sparsely septate hyphae
+    * Non-septate hyphae in specimen
+  * Epidemiology
+    * Tropical, Subtropical
+    * Hydrophilic: Aquatic - Wet environment
+  * Zoospore (Infective stage)
 
 ## Reference
 
