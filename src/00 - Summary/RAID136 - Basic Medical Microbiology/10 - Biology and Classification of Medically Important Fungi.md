@@ -87,7 +87,10 @@
       * More common in human disease
       * Yeast: Budding (Blastoconidia), Binary fission
       * Mold: Conidia
+        * Conidia
         * Arthroconidia: Broken septate hyphae
+          * Macroconidia
+          * Microconidia
         * Chlamydoconidia: Conidia inside hyphae
       * Phylum Zygomycota: Sporangiospore
       * Phylum Ascomycota: Conidia (Microconidia / Macroconidia)
@@ -140,18 +143,23 @@
     * Entomophthorales
     * *Phyticum insidiosum*: Fungal like microorganism
   * Septate hyphae
-    * Dematiaceous: Melanin Positive (Black mold)
+    * Dematiaceous: Melanin Positive (Black mold)\*
       * *Scedosporium* spp.
     * Hyaline: Melanin Negative (White mold)
-      * Dermatophyte
+      * Dermatophyte \*
         * *Microsporum* spp.
         * *Trichophyton* spp.
         * *Epidemophyton* spp.
       * Hyphomycetes
-        * *Aspergillus* spp.
+        * *Aspergillus* \*
+          * *Aspergillus fumigatus*
+          * *Aspergillus niger*
+          * *Aspergillus flavus*
+          * *Aspergillus terreus*
+        * *Scedosporium* spp. \*: Produce Melanin-like pigment in some condition
+          * *S. apiospermum*, *Pseudallescheria boydii*
+        * *Fusarium* spp.\*
         * *Penicillium* spp.
-        * *Fusarium* spp.
-        * *Scedosporium* spp. (Produce black pigment in some stages)
 * Yeast
   * *Candida* spp.
   * *Cryptococcus* spp.
