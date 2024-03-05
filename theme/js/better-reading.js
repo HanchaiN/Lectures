@@ -17,7 +17,7 @@ window.addEventListener("load", () => {
 	processText(document.querySelector("main"), function (textNode) {
 		const frag = document.createElement("span");
 		frag.classList.add("better-reading");
-		textNode.textContent.split(/(\s*)/gmiu).forEach(function (word) {
+		textNode.textContent.split(/(\s+)/gmiu).forEach(function (word) {
 			if (word.trim() === "")
 				return frag.appendChild(document.createTextNode(word));
 			const charArray = splitter.splitGraphemes(word);
