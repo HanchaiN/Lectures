@@ -16,7 +16,7 @@ window.addEventListener("load", () => {
 	}
 	processText(document.querySelector("main"), function (textNode) {
 		const frag = document.createElement("span");
-		span.classList.add("better-reading");
+		frag.classList.add("better-reading");
 		textNode.textContent.split(/(\s*)/gmiu).forEach(function (word) {
 			if (word.trim() === "")
 				return frag.appendChild(document.createTextNode(word));
