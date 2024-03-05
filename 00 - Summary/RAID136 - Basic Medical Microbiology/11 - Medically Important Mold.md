@@ -5,7 +5,7 @@ aliases:
 
 # Medically Important Mold
 
-- Dermatophyte: Hyaline mold w/ septate hyphae
+- Dermatophyte: Hyaline mold w/ septate hyphae, arthoconidia
 	- Etymology: Derma (skin) + Phyton (Plant); Cutaneous Infection
 		- Keratinophilic & Keratinolytic
 		- Hair & Skin & Nail
@@ -20,7 +20,13 @@ aliases:
 			- Tinea pedia (Athelete's foot, Hong Kong foot)
 	- Epidemiology: Soil, Zoogenic, Anthroponoses
 	- Transmission: Acquired arthroconidia / hyphae / infectious keratinous material
-	- Produce arthroconidia (asexual reproduction)
+	- Pathogenesis
+		- Adhesion, Germination, Hyphal growth, Invasion, Inflation
+		- Ring of inflammatory scaling w/ central clearing: Ringworm
+	- Diagnosis
+		- Potassium Hydroxide preparation: Drops on sample
+			- Digest other non-mold substances
+		- Visible septate hyphae w/ arthoconidia
 	- *Microsporum* spp.
 		- Etymology: Micros (Small) + Spora (Seed)
 		- Macroconidia: Numerous, Thick walled, Rough
@@ -33,6 +39,88 @@ aliases:
 		- Etymology: Epidermis + Phyton (Plant); Epidermal Infection
 		- Macroconidia: Numerous, Thin / Thick walled, Smooth
 		- Microconidia: Not formed
+- Hyphomycetes: Hyaline mold w/ septate hyphae, arthroconidia
+	- *Aspergillus* spp.: w/ Conidiophore
+		- Etymology: Aspergere (Scatter): Aspergillum (Holy Water Sprinkler)
+			- w/ Arthroconidia on conidiophore (Specialized Stalk, crown-like)
+		- Epidemiology: Environmental, Air, Soil, Food, Decaying matter, Hospital
+		- Pathogenesis
+			- Arthroconidia inhalation → Alveola
+				- Phagocytosed by Macrophage
+			- Germinate & Invade & Disseminate via blood vessel
+			- Onychomycosis
+				- Immunocompetent host, Non-invasive
+			- Sinusitis
+				- May or may not invasive
+			- Pulmonary Infection
+				- May or may not invasive
+			- Disseminated infection
+				- Immunocompromised host, Invasive
+			- Invasive infection (Immunocompromised host)
+				- Invasive aspergillosis
+				- Chronic necrotizing aspergillosis
+			- Colonization (Immunocompetent host)
+				- Aspergilloma (Non-invasive colony in lung)
+				- Asymptomatic colonization
+			- Hypersensitivity
+				- Asthma
+				- Allergic bronchopulmonary aspergillosis (ABPA)
+		- Diagnosis
+			- Culture: Chronidia, Conidiophore
+			- Tissue Biopsy (Histopathology)
+				- Hyaline septate hyphae
+				- Acute angle branching
+				- Smooth parallel walls
+				- No constrictions at septa
+			- *Aspergillus* antigen (Galactomannan, Glucan)
+			- Molecular Diagnosis (PCR)
+		- *Aspergillus fumigatus*
+			- Etymology: Fumigave (smoky); Blue-Gray, Viridians Green Pigment
+		- *Aspergillus niger*
+			- Etymology: Black Pigment
+		- *Aspergillus flavus*
+			- Etymology: Yellow/Blond Pigment
+		- *Aspergillus terreus*
+			- Etymology: Terra (Soil); Brownish Pigment
+	- *Scedosporium* spp.: Hyaline mold w/ septate hyphae
+		- aka *Scedosporium apiospermum*, *Pseudallescheria boydii*
+		- No pigment from clinical samples; Diffusible melanin-like pigment from cultured colony
+		- Epidemiology: Soil, Stagnant Water, Polluted Water
+		- Pathogenesis
+			- Subcutaneous infection → Eumycotic mycetoma
+				- Chronic granulomatous inflammation
+				- Abscesses w/ draining sinuses (hole)
+					- Fungal hyphae
+				- Granules / Grains
+					- Pale (white - yellow) → *Scedosporium apiospermum* complex / *Aspergillus* spp. / *Fusarium* spp.
+			- Immunocompromised host / Post trauma / After near drowning → Invasive Pulmonary Scedosporiosis
+				- Osteoarticular infection
+				- Eye infection
+				- Brain abscesses
+				- Disseminated Infection
+	- *Fusarium* spp.: Hyaline mold w/ Septate hyphae, Banana-\ or Crescent-shaped multicellular macroconida
+		- Epidemiology: Soil, Organic debris, Plant pathogens
+		- Phatogenesis
+			- Immunocompetent
+				- Onychomycosis
+				- Keratitis: Contact lens, After trauma
+				- Mycetoma (Pale grain): After trauma
+			- Immunocompromised host → Disseminated infection
+- Dematiaceous molds: Darkly pigmented fungi (black molds)
+	- Heterogeneous Group
+	- Melanin pigment in cell wall of hyphae
+	- Wildly distributed in environment
+	- Epidemiology: Soil, Plant, Cactus, Thorny plant, Organic debris
+	- Low virulence, occasionally cause human infection (tropical, subtropical)
+		- Phaeohyphomycotic
+		- Chromoblastomycosis: Chronic localized fungal infection of skin, subcutaneous tissue
+			- Warty / Cauliflower-like lesion w/ copper penny / sclerotic bodies
+		- Eumycotic mycetoma (Black grains)
+	- Tinea nigra: Superficial Phaeohyphomycotic
+		- *Hortaea werneckii* (Black yeast)
+		- Solitary, Irregular, Pigmented macule
+		- Usually on palms or soles
+		- No inflammation
 
 ## Reference
 
