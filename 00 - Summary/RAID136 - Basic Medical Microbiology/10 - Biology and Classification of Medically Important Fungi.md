@@ -141,12 +141,11 @@ aliases:
 - Note: Referenced [[11 - Medically Important Mold|L11]], [[12 - Medically Important Yeasts|L12]]
 - Mold
 	- Non-septate hyphae
-		- Mucorales
-			- *Rhizopus* spp.
-			- *Mucor* spp.
-			- *Rhizomucor* spp.
+		- Mucorales \*
+			- *Rhizopus* spp.: w/ Rhizoid
+			- *Mucor* spp.: w/o Rhizoid
 		- Entomophthorales
-		- *Phyticum insidiosum*: Fungal like microorganism
+		- *Phyticum insidiosum* \*: Fungal like microorganism
 	- Septate hyphae
 		- Dematiaceous: Melanin Positive (Black mold)\*
 			- *Scedosporium* spp.
