@@ -17,6 +17,9 @@ aliases:
 			- Require external fatty acid
 		- Skin microbiota (Stratum corneum, upper most)
 		- Superficial: Tinea versicolor / Pityriasis versicolor (โรคเกลื้อน)
+			- Etymology: Versicolor = Changed color (Pale / Hyperpigmented / Pink)
+			- "Spaghetti & meatball" appearance: Short-Fragmented hyphae + Clustered Yeast
+		- Cutaneous: Folliculitis, Seborrheic dermatitis
 	- *Candida* spp.
 		- Etymology: Candidus (White)
 		- Pseudohyphae, Gram-positive
