@@ -1,5 +1,7 @@
 .better-reading {
-	.better-reading-fixation {
-		font-weight: bolder;
+	.better-reading-word {
+		.better-reading-fixation {
+			font-weight: bolder;
+		}
 	}
 }
