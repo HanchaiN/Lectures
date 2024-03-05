@@ -5,16 +5,18 @@ window.addEventListener("load", () => {
 		if (node.nodeName === "SCRIPT") return;
 		switch (node.nodeType) {
 			case Node.ELEMENT_NODE:
-				node.childNodes.forEach((n) => processText(n, callback));
+				for (let i = 0; i < node.childNodes.length; i++)
+					processText(node.childNodes[i], callback);
 				break;
 			case Node.TEXT_NODE:
 				callback(node);
 				break;
+			default:
 		}
 	}
-	const root = document.querySelector("main");
-	processText(root, function (textNode) {
-		const frag = document.createDocumentFragment();
+	processText(document.querySelector("main"), function (textNode) {
+		const frag = document.createElement("span");
+		span.classList.add("better-reading");
 		textNode.textContent.split(/(\s*)/gmiu).forEach(function (word) {
 			if (word.trim() === "")
 				return frag.appendChild(document.createTextNode(word));
@@ -22,7 +24,7 @@ window.addEventListener("load", () => {
 			const fixationPoint = Math.ceil(charArray.length * fixation_ratio);
 			const word_elm = document.createElement("span");
 			const fixation = document.createElement("span");
-			word_elm.classList.add("better-reading");
+			word_elem.classList.add("better-reading-word");
 			fixation.classList.add("better-reading-fixation");
 			fixation.appendChild(document.createTextNode(charArray.slice(0, fixationPoint).join("")));
 			word_elm.appendChild(fixation);
