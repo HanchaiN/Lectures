@@ -108,8 +108,14 @@
   * Epidemiology: Soil, Plant, Cactus, Thorny plant, Organic debris
   * Low virulence, occasionally cause human infection (tropical, subtropical)
     * Phaeohyphomycotic
+      * Yeast-like cells, Pseudohyphae &/or hyphae
+      * Cutaneous Phaeohyphomycosis
+      * Subcutaneous Phaeohyphomycosis
+      * Brain abscess, Sinusitis
+      * Fungemia & Disseminated infection ← Immunocompromised
     * Chromoblastomycosis: Chronic localized fungal infection of skin, subcutaneous tissue
       * Warty / Cauliflower-like lesion w/ copper penny / sclerotic bodies
+      * Traumatic inoculation of fungi ← outdoor activity / absence of footwear
     * Eumycotic mycetoma (Black grains)
   * Tinea nigra: Superficial Phaeohyphomycotic
     * *Hortaea werneckii* (Black yeast)
