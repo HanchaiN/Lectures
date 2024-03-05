@@ -110,7 +110,7 @@
       - [Osmosis - Corynebacterium diphtheriae (Diphtheria)]()
       - [Osmosis - Listeria monocytogenes]()
       - [Osmosis - Actinomyces israelii]()
-      - [Osmosis - Nocardia]()  
+      - [Osmosis - Nocardia]()
       -->
     
 
@@ -123,39 +123,34 @@
       - [Osmosis - Streptococcus pyogenes (Group A Strep)]()
       - [Osmosis - Streptococcus viridans]()
       - [Osmosis - Enterococcus]()
-      - [Osmosis - Gardnerella vaginalis (Bacterial vaginosis)]()  
+      - [Osmosis - Gardnerella vaginalis (Bacterial vaginosis)]()
       -->
     
   * [07 - Medically Important Gram-Negative Bacteria](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/07%20-%20Medically%20Important%20Gram-Negative%20Bacteria.md)
-    <!--
-    	- [Osmosis - Enterobacter]()  
-    -->
-  
-````
-    - [[Osmosis - Escherichia coli]]
-    <!--
-    - [Osmosis - Klebsiella pneumoniae]()
-    - [Osmosis - Legionella pneumophila (Legionnaires disease and Pontiac fever)]()
-    - [Osmosis - Proteus mirabilis]()
-    - [Osmosis - Pseudomonas aeruginosa]()
-    - [Osmosis - Salmonella (non-typhoidal)]()
-    - [Osmosis -Salmonella typhi (typhoid fever)]()
-    - [Osmosis - Shigella]()
-    - [Osmosis - Yersinia pestis (Plague)]()
-    - [Osmosis - Campylobacter jejuni]()
-    - [Osmosis - Helicobacter pyroli]()
-    - [Osmosis - Vibrio cholerae (Cholera)]()
-    - [Osmosis - Moraxella catarrhalis]()
-    - [Osmosis - Neisseria gonorrhoeae]()
-    - [Osmosis - Neisseria meningitidis]()
-    - [Osmosis - Bordetella pertussis (Whooping cough)]()
-    - [Osmosis - Brucella]()
-    - [Osmosis - Haemophilus ducreyi (Chancroid)]()
-    - [Osmosis - Haemophilus influenzae]()
-    - [Osmosis - Pasteurella multocida]()  
-    -->
-  ````
-  
+    * [Osmosis - Escherichia coli](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/Osmosis%20-%20Escherichia%20coli.md)
+      <!--
+      - [Osmosis - Enterobacter]()
+      - [Osmosis - Klebsiella pneumoniae]()
+      - [Osmosis - Legionella pneumophila (Legionnaires disease and Pontiac fever)]()
+      - [Osmosis - Proteus mirabilis]()
+      - [Osmosis - Pseudomonas aeruginosa]()
+      - [Osmosis - Salmonella (non-typhoidal)]()
+      - [Osmosis -Salmonella typhi (typhoid fever)]()
+      - [Osmosis - Shigella]()
+      - [Osmosis - Yersinia pestis (Plague)]()
+      - [Osmosis - Campylobacter jejuni]()
+      - [Osmosis - Helicobacter pyroli]()
+      - [Osmosis - Vibrio cholerae (Cholera)]()
+      - [Osmosis - Moraxella catarrhalis]()
+      - [Osmosis - Neisseria gonorrhoeae]()
+      - [Osmosis - Neisseria meningitidis]()
+      - [Osmosis - Bordetella pertussis (Whooping cough)]()
+      - [Osmosis - Brucella]()
+      - [Osmosis - Haemophilus ducreyi (Chancroid)]()
+      - [Osmosis - Haemophilus influenzae]()
+      - [Osmosis - Pasteurella multocida]()
+      -->
+    
   * [08 - Spirochete, Mycoplasma, Chlamydia, and Rickettsia](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/08%20-%20Spirochete,%20Mycoplasma,%20Chlamydia,%20and%20Rickettsia.md)
     <!--
     	- [Osmosis - Chlamydia pneumoniae]()
@@ -164,7 +159,7 @@
     	- [Osmosis - Rickettsia rickettsii (Rocky Mountain spotted fever) and other Rickettsia species]()
     	- [Osmosis - Borrelia species (Relapsing fever)]()
     	- [Osmosis - Leptospira]()
-    	- [Osmosis - Treponema pallidum (Syphilis)]()  
+    	- [Osmosis - Treponema pallidum (Syphilis)]()
     -->
   
 
@@ -177,7 +172,7 @@
     	- [Osmosis - Bacteriodes fragilis]()
     	- [Osmosis - Mycobacterium tuberculosis (Tuberculosis)]()
     	- [Osmosis - Mycobacterium avium complex (NORD)]()
-    	- [Osmosis - Mycobacterium leprae]()  
+    	- [Osmosis - Mycobacterium leprae]()
     -->
   
 
