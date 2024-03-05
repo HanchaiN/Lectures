@@ -24,7 +24,7 @@ window.addEventListener("load", () => {
 			const fixationPoint = Math.ceil(charArray.length * fixation_ratio);
 			const word_elm = document.createElement("span");
 			const fixation = document.createElement("span");
-			word_elem.classList.add("better-reading-word");
+			word_elm.classList.add("better-reading-word");
 			fixation.classList.add("better-reading-fixation");
 			fixation.appendChild(document.createTextNode(charArray.slice(0, fixationPoint).join("")));
 			word_elm.appendChild(fixation);
