@@ -18,6 +18,7 @@ window.addEventListener("load", () => {
 		if (textNode.textContent.trim() === "") return;
 		const frag = document.createElement("span");
 		frag.classList.add("better-reading");
+		frag.setAttribute('aria-label', textNode.textContent);
 		textNode.textContent.split(/(\s+)/gmiu).forEach(function (word) {
 			if (word.trim() === "")
 				return frag.appendChild(document.createTextNode(word));
@@ -27,6 +28,8 @@ window.addEventListener("load", () => {
 			const fixation = document.createElement("span");
 			word_elm.classList.add("better-reading-word");
 			fixation.classList.add("better-reading-fixation");
+			word_elm.setAttribute('aria-label', word);
+			word_elm.setAttribute('aria-hidden', true);
 			fixation.appendChild(document.createTextNode(charArray.slice(0, fixationPoint).join("")));
 			word_elm.appendChild(fixation);
 			word_elm.appendChild(document.createTextNode(charArray.slice(fixationPoint).join("")));
