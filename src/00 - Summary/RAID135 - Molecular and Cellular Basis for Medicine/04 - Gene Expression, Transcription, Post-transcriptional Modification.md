@@ -129,8 +129,8 @@
 * RNA Processing
   * Cleavage (Prokaryotic & Eukaryotic)
     * tRNAs
-      * RNaseP (endonuclease) cut 5’ terminal
-      * Endonuclease & RNaseD (exonuclease) cut 3’ terminal
+      * RNaseP (endonuclease) cut 5' terminal
+      * Endonuclease & RNaseD (exonuclease) cut 3' terminal (w/o CCA sequence)
     * rRNAs
   * 5'-Capping (7-methylguanosine cap + 5'-to-5' triphosphate bridge)
     * Assist transporting mRNA out of Nucleus
