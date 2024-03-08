@@ -156,7 +156,7 @@
     * Resynthesis: DNA Polymerase fills the gap
     * Ligation: DNA Ligase seals the backbone
   * Pyrimidine Dimer Formation
-    * Factor: UV
+    * Factor: UVC
     * 2 pairs of double bonded carbon → four-membered ring
     * Most common: Thymine dimer
   * DNA Double-strand break
