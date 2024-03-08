@@ -14,6 +14,7 @@ aliases:
             - Start Codon: AUG: Methionine
             - Stop Codon: UAA, UAG, UGA: Nonsense
             - Exceptions: Uncommon Amino Acids / Different association
+                - UGA: Not stop codon in MT
         - Anticodon: on tRNA (pairs with sense codon)
     - 5'-to-3' of mRNA → Amine-terminus–to–Carboxyl-Terminus
         - $\ce{H2-[N^{(+)}H-CRH-CO]_{n}O- ->[H3N+-CRH-COO-] H2-[N^{(+)}H-CRH-CO]_{n+1}O-}$
