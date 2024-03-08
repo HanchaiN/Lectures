@@ -125,14 +125,21 @@ aliases:
         - Allosteric Model: RNA Pol II dissociate w/ DNA
         - Torpedo Model: Exonuclease attatch overtranscripted RNA and catches up to RNA Pol II → Termination
     - Monocistronic mRNA: one protein per mRNA
+- $\alpha$-Amanitin: RNA Polymerase inhibitor
+	- RNA Pol II > RNA Pol III (Sensitivity)
+	- RNA Pol I, Mitochondrial / Chloroplast RNA Pol: Resistant
 
 ## Post-Transcriptional Regulation
 
 - RNA Processing
     - Cleavage (Prokaryotic & Eukaryotic)
-        - tRNAs and rRNAs
+        - tRNAs
+            - RNaseP (endonuclease) cut 5’ terminal
+            - Endonuclease & RNaseD (exonuclease) cut 3’ terminal
+        - rRNAs
     - 5'-Capping (7-methylguanosine cap + 5'-to-5' triphosphate bridge)
         - Assist transporting mRNA out of Nucleus
+        - May begins before transcription ends
     - 3'-polyA tailing (rare in Bacteria)
         - Polyadenylate polymerase
     - Splicing (rare in Bacteria)
