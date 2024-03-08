@@ -2,6 +2,7 @@
 aliases:
   - Bacillus anthracis
   - Anthrax
+  - Bacillus anthracis (Anthrax)
 ---
 
 # Bacillus anthracis (Anthrax)

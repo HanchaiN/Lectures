@@ -7,7 +7,7 @@
 		- [[Osmosis - Lac operon]]
 	- [[05 - Nomenclature and Classification of Medically Important Bacteria]]
 	- [[06 - Medically Important Gram-Positive Bacteria]]
-		- [[Osmosis - Bacillus anthracis (Anthrax)]]
+		- [[Osmosis - Bacillus anthracis|Osmosis - Bacillus anthracis (Anthrax)]]
 		<!--
 		- [Osmosis - Bacillus cereus (Food poisoning)]()
 		- [Osmosis - Corynebacterium diphtheriae (Diphtheria)]()
