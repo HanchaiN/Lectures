@@ -84,7 +84,7 @@ aliases:
 - Next-generation Sequencing
     - Sequencing by Synthesis
         - Faster but only short sequence
-        - Parallel Sequencing
+        - Parallel Sequencing: Bridge amplification → Cluster of each sequences
 - Real-time Sequencing
     - Single Molecule Sequencing
         - ssDNA + Enzyme → Polymerization
