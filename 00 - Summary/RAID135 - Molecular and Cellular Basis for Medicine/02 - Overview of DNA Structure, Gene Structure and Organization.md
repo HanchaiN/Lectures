@@ -186,6 +186,10 @@ aliases:
 - Centromere
     - ~center of chromosome
     - Attach with Spindle fiber during cell division
+    - Metacentric: Centromere at center
+    - Submetacentric: Short half ~1/2 of Long half
+    - Subtelocentric: Short half ~1/4 of Long half
+    - Telocentric: Centromere at telomere
 - Telomere
     - Long-repetitive at the end of chromosome
     - Protect Ends of Linear Chromosome
