@@ -112,9 +112,11 @@ aliases:
         - Lagging Strand: Okazaki Fragments sealed via DNA ligase
         - Multiple subtypes
             - (Type A) $\gamma$-DNA Pol. → Mitochondria (5' to 3' or 3' to 5')
-            - (Type B) $\delta$-DNA Pol. → Lagging Strand (and Leading Strand)
+            - (Type B) $\delta$-DNA Pol. → Lagging Strand (and Leading Strand, Primer Replacement)
             - (Type B) $\varepsilon$-DNA Pol. → Leading Strand
             - The rest → DNA Repairs
+            - DNA Pol I → Repair, Primer Replacement
+            - DNA Pol III → Replication
     - Primer required (RNA Primase) as starting point of polymerization
         - Higher Error Rate → Temporary (RNA)
         - RNA Primer removed (via exonuclease) and refilled with DNA (DNA Pol.)
@@ -125,7 +127,8 @@ aliases:
         - Single-strand DNA-binding protein avoid closing before DNA Pol.
     - DNA Topoisomerase: Untie knots on DNA strands
         - Knots caused by helicase excessively twisting DNA
-        - Type I: Cut one Strand in helical turn, untwist, and rejoin without turn
+        - Nuclease + Ligase
+        - Type I: Cut One Strand, untwist, rejoin
         - Type II: Cut DNA strands and let another strand pass through the cut
             - Not required in DNA Replication
 - Polymerase Chain Reaction (PCR): Artificial DNA Replication
