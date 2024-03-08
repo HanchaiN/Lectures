@@ -18,5 +18,5 @@
 
 ## Reference
 
-- [[Organic chemistry|Red Book]]
+- [[Organic Chemistry|Red Book]]
 - [[04B - Reaction Kinetics]]

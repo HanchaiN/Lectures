@@ -12,5 +12,5 @@
 
 ## Reference
 
-- [[Organic chemistry|Red Book]]
+- [[Organic Chemistry|Red Book]]
 - Handout SCCH134

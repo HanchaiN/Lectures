@@ -26,7 +26,7 @@
         - [Chemical Equilibrium]()
         - [Ionic Equilibrium]()
     - [Thermochemistry]()
-    - [[Organic Chemistry]]
+    - [Organic Chemistry]()
 	    - [[Nomenclature of Organic Chemistry]]
 	    - [Stereochemistry]()
 	    - [Functional Group]()
