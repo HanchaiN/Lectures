@@ -100,8 +100,9 @@
 * DNA Replication
   * Semi-Conservative: One Template/Parental Strand + One Synthesized Strand
   * Multiple Replication Origins
-    * Initiator proteins to weaken H-bond between template strands
-    * Result in two replication forks (Bidirectional from the origin)
+    * Initiator proteins (pre-replication complex) to weaken H-bond between template strands
+    * A,T-rich area
+    * Result in two replication forks (Bidirectional from the origin, except some prokaryotes)
     * Human DNA Polymerase: 100bp per sec (1000 bp per sec for bacteria pol.)
   * DNA Polymerase synthesized from 5' to 3'
     * Add dNTP and release 2 phosphates
@@ -118,10 +119,11 @@
       * Since DNA Pol. requires 3'-OH, telomere can be lost
   * Helicase: Unwind helical double-strand DNA
     * Motor protein move along phosphodiester backbone
+    * Require ATP
     * Single-strand DNA-binding protein avoid closing before DNA Pol.
   * DNA Topoisomerase: Untie knots on DNA strands
     * Knots caused by helicase excessively twisting DNA
-    * Type I: Cut one Strand in helical turn and rejoin without turn
+    * Type I: Cut one Strand in helical turn, untwist, and rejoin without turn
     * Type II: Cut DNA strands and let another strand pass through the cut
       * Not required in DNA Replication
 * Polymerase Chain Reaction (PCR): Artificial DNA Replication
