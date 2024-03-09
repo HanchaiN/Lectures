@@ -388,4 +388,4 @@
 
 # Appendices
 
-[How to type a lecture note](Extra/How%20to%20type%20a%20lecture%20note.md)
+* [How to type a lecture note](Extra/How%20to%20type%20a%20lecture%20note.md)
