@@ -29,4 +29,4 @@
 
 # Appendices
 
-[[How to type a lecture note]]
+- [[How to type a lecture note]]
