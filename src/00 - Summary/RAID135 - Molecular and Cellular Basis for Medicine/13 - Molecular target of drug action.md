@@ -24,12 +24,12 @@
     * Intramuscular (IM)
     * Subcutaneous (Sc)
     * Specific Injection
-      * Intravitreal
-      * Intra-articular
-      * Intrathecal
+      * Intravitreal: Vitreous body: Eye
+      * Intra-articular: Joint
+      * Intrathecal: Cerebrospinal fluid around spine
   * Inhalation
   * Rectal
-  * Topical
+  * Topical: Apply on body surfaces
 
 ## Specific Drug Target
 
