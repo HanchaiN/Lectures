@@ -87,10 +87,27 @@
       * Multidrug resistance transporter (MDR): Pump drug out of bacterial cell
         * Non-sedative antihistamines
   * Enzyme
+    * Cyclooxygenase: Synthesis of Prostaglandins (Fever, Pain, Inflammation)
+      * Inhibitor: Antipyretic, Analgesic, Anti-inflammation ← Ibuprofen
+    * Phosphodiesterase (PDE): Destroy cAMP, cGMP
+      * PDE5 inhibitor: Sildenafil: Vasodilation
+    * Angiotensin converting enzyme (ACE): Inhibit Angiotensin II Synthesis
+      * Vasoconstrictor, Trigger salt & water retention
+      * ACE Inhibitor: Antihypertensive drug
+      * Alternatively, Angiotensin II Receptor Blocker (ARB)
+    * Cyclin-dependent kinase (CDK): Cell cycle
+      * CDK inhibitor (CKI): Cell cycle arrest: Anti-cancer
   * Cell Adhesion Protein
+    * Integrin: Leukocyte extrasavation, Cancer metastasis
+      * Anti-integrin: Prevent WBC Recruitment: Treat autoimmune
+      * Treatment of metastatic / Recurrent Cancer
 * Nucleotides
   * DNA
+    * DNA synthesis Inhibition (enzymes inhibition): Anticancer, Antibiotics
+    * DNA cross-linking: Anti-cancer
+    * DNA strand break: Anti-cancer
   * RNA
+    * Protein synthesis Inhibition: Antibiotics
 * Cell Components
   * Cell Wall
   * Cell Membrane
