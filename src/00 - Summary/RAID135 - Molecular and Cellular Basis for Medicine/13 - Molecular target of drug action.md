@@ -5,9 +5,6 @@
   * Drug action: Mechanism that drug produce response
     * Modify physiological effect (existing pathway)
     * Cannot create new pathway
-
-## Drug Targets
-
 * Drug Targets
   * Specific
     * Receptors
@@ -20,6 +17,22 @@
       * Cell Components
   * Non-Specific
     * Physico-chemical properties
+* Drug Intake
+  * Oral (Per os; PO)
+  * Injection
+    * Intravenous (IV)
+    * Intramuscular (IM)
+    * Subcutaneous (Sc)
+    * Specific Injection
+      * Intravitreal
+      * Intra-articular
+      * Intrathecal
+  * Inhalation
+  * Rectal
+  * Topical
+
+## Specific Drug Target
+
 * Receptors: Protein that bind w/ specific (endogenous) ligand
   * Extracellular
     * G Protein-Coupled Receptor (G<sub>s</sub> / G<sub>i</sub> / G<sub>q</sub> / PAR) \*
@@ -109,14 +122,17 @@
   * RNA
     * Protein synthesis Inhibition: Antibiotics
 * Cell Components
+  * Cell Wall
+    * Penicillin: Peptidoglycan synthesis
+  * Cell Membrane
+    * Fungal ergosterol
   * Lysosome
-    * Increase lysosomal pH → Impaired autophagy → Anti-inflammatory
+    * Increase lysosomal pH → Impaired autophagy
+      * Chloroquine, Hydroxychloroquine: Anti-inflammatory
   * Proteasome
     * Inhibit: Anti-cancer
   * Cytoskeleton
     * Inhibit / Promote microtubule polymerization: Anti-cancer
-  * Cell Wall
-  * Cell Membrane
 * Cluster of Differentiation / Designation / Determinant (CD)
   * Ligands / Receptors: Immunophenotyping via cell surface molecules
   * Target of immunotherapy: Programmed Death-1 (PD-1)
@@ -126,6 +142,30 @@
     * Increase / Decrease Ligand ← Synthesis / Degradation Enzyme
     * Inhibiting the degradation of signaling molecules
     * Inhibiting the transporters
+
+## Non-specific Drug Target
+
+* Physical Properties
+  * Adsorption
+    * Activated charcoal: Anti-diarrhea, Detoxification (ingested toxin)
+  * Osmolarity
+    * Mannitol: Osmotic diuretic
+  * Increase Bulk
+    * Psyllium: Bulk-forming Laxative
+  * Increase Moisture, Reduce Surface Tension
+    * Stool softener laxative
+* Chemical Properties
+  * Protein Denaturation, Membrane Lysis
+    * Disinfectant
+  * Chemical Reaction, Neutralization
+    * Antacid: Peptic Ulcer, Gastroesophageal Reflux Disease
+      * $\ce{Al(OH)3}$; Weak alkali; Acid neutralization
+  * Chelation
+    * Iron chelator
+    * Chelating agent: Antidote of heavy metal
+  * Ion pairs
+    * Protamine sulfate (Positively charged): Heparin antidote
+      * Heparin: Anticoagulant (Negatively charged)
 
 ## Reference
 
