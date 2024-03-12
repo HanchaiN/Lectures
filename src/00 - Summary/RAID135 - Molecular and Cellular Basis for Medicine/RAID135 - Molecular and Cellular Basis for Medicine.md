@@ -6,3 +6,4 @@
   * [05 - Regulation of Translation and Protein Synthesis](05%20-%20Regulation%20of%20Translation%20and%20Protein%20Synthesis.md)
   * [06 - Post Translational Processes and Protein Folding](06%20-%20Post%20Translational%20Processes%20and%20Protein%20Folding.md)
   * [07 - DNA technology & Application](07%20-%20DNA%20technology%20&%20Application.md)
+  * [13 - Molecular target of drug action](13%20-%20Molecular%20target%20of%20drug%20action.md)

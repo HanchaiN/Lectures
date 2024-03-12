@@ -92,7 +92,8 @@
   * [04 - Gene Expression, Transcription, Post-transcriptional Modification](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/04%20-%20Gene%20Expression,%20Transcription,%20Post-transcriptional%20Modification.md)
   * [05 - Regulation of Translation and Protein Synthesis](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/05%20-%20Regulation%20of%20Translation%20and%20Protein%20Synthesis.md)
   * [06 - Post Translational Processes and Protein Folding](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/06%20-%20Post%20Translational%20Processes%20and%20Protein%20Folding.md)
-  * [07 - DNA technology & Application](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/07%20-%20DNA%20technology%20&%20Application.md)  
+  * [07 - DNA technology & Application](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/07%20-%20DNA%20technology%20&%20Application.md)
+  * [13 - Molecular target of drug action](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/13%20-%20Molecular%20target%20of%20drug%20action.md)  
 
 
 * [RAID136 - Basic Medical Microbiology](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/RAID136%20-%20Basic%20Medical%20Microbiology.md)
