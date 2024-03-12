@@ -18,5 +18,5 @@
 
 ## Reference
 
-* [Red Book](../../../../../Reference/Organic%20chemistry.md)
+* *Red Book*
 * [04B - Reaction Kinetics](../../../../../00%20-%20Summary/SCCH134%20-%20Organic%20Chemistry%20for%20Medical%20Science/04B%20-%20Reaction%20Kinetics.md)
