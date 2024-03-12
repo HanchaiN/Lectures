@@ -98,7 +98,7 @@
     * Cyclin-dependent kinase (CDK): Cell cycle
       * CDK inhibitor (CKI): Cell cycle arrest: Anti-cancer
   * Cell Adhesion Protein
-    * Integrin: Leukocyte extrasavation, Cancer metastasis
+    * Integrin: Leukocyte extravasation, Cancer metastasis
       * Anti-integrin: Prevent WBC Recruitment: Treat autoimmune
       * Treatment of metastatic / Recurrent Cancer
 * Nucleotides
@@ -109,11 +109,23 @@
   * RNA
     * Protein synthesis Inhibition: Antibiotics
 * Cell Components
+  * Lysosome
+    * Increase lysosomal pH → Impaired autophagy → Anti-inflammatory
+  * Proteasome
+    * Inhibit: Anti-cancer
+  * Cytoskeleton
+    * Inhibit / Promote microtubule polymerization: Anti-cancer
   * Cell Wall
   * Cell Membrane
-  * Lysosome
-  * Proteasome
-  * Cytoskeleton
+* Cluster of Differentiation / Designation / Determinant (CD)
+  * Ligands / Receptors: Immunophenotyping via cell surface molecules
+  * Target of immunotherapy: Programmed Death-1 (PD-1)
+* Drug action
+  * Direct-acting: Activate / Inhibit receptor
+  * Indirect-acting: Not through receptor
+    * Increase / Decrease Ligand ← Synthesis / Degradation Enzyme
+    * Inhibiting the degradation of signaling molecules
+    * Inhibiting the transporters
 
 ## Reference
 
