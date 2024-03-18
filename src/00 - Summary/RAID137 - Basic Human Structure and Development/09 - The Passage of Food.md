@@ -48,6 +48,48 @@
     * Initiation of Peristalsis
     * Bolus moves toward stomach
     * Lower esophageal sphincter relaxation
+* Esophagus
+  * Parts
+    * Upper Third: Cervical part: Skeletal Muscle
+    * Lower Third: Abdominal part: Smooth Muscle
+    * Middle Third: Thoracic part: Mixed
+  * Layers
+    * Mucosa: Non-keratinized, Stratified squamous epithelium
+    * Submucosa: Esophageal gland
+    * Muscularis Externa: Peristalsis
+      * Inner Circular Muscle
+      * Outer Longitudinal Muscle
+    * Adventitia (w/o visceral peritoneum)
+* Stomach
+  * Regions
+    * Fundus: Curved cap
+    * Cardia: Connected to esophagus
+    * Body: Curved body (Lesser / Greater Curvature)
+    * Pylorus: Shrink, Connected to duodenum
+      * Pyloric Sphincter
+  * Layers
+    * Rugae: Folding of mucosa, submucosa
+    * Mucosa: Simple Columnar Epithelium
+      * Gastric Gland @ Gastric Pit
+        * Parietal Cells: $\ce{HCl}$ acid + Intrinsic Factor (assist Vit. B12 absorption)
+        * Chief Cells: Pepsinogen (activated by acid)
+        * Mucous Neck Cells: Acidic Mucus
+        * Enteroendocrine Cells (G Cells): Gastrin
+      * Mucosal Barrier
+        * Stomach wall w/ Bicarbonate-rich Mucus
+        * Epithelial w/ Tight Junction
+        * Stem cell @ Gastric Gland: Replacement
+    * Submucosa
+    * Muscularis
+      * Oblique Layer (Inner)
+      * Circular Layer (Middle)
+      * Longitudinal Layer (Outer)
+    * Serosa (w/ Visceral Peritoneum)
+  * Digestive Digestion
+    * Mixing Wave (Churning): Mix & Soften Bolus w/ Gastric Juices → Chyme
+    * Gastric Emptying: Force Chyme through pyloric sphincter to duodenum
+    * Gastric Juices: Chemical digestion (mostly as fundus & body)
+      * Acidic chyme inactivate salivary amylase & activate lingual lipase
 
 ## Reference
 
