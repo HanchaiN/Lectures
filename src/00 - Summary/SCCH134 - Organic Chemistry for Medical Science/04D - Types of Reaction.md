@@ -68,4 +68,4 @@
 ## Reference
 
 * Handout SCCH134
-* *Red Book*
+* [Red Book](../../Reference/Organic%20Chemistry.md)

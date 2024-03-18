@@ -4,3 +4,5 @@
   * [03 - See Inside the Body](03%20-%20See%20Inside%20the%20Body.md)
   * [04 - Internal Regulation of Human Body](04%20-%20Internal%20Regulation%20of%20Human%20Body.md)
   * [05 - How does the Body Move](05%20-%20How%20does%20the%20Body%20Move.md)
+  * [08 - Symptoms and Signs by Systems](08%20-%20Symptoms%20and%20Signs%20by%20Systems.md)
+  * [09 - The Passage of Food](09%20-%20The%20Passage%20of%20Food.md)

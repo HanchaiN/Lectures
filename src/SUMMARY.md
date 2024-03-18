@@ -188,6 +188,8 @@
   * [03 - See Inside the Body](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/03%20-%20See%20Inside%20the%20Body.md)
   * [04 - Internal Regulation of Human Body](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/04%20-%20Internal%20Regulation%20of%20Human%20Body.md)
   * [05 - How does the Body Move](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/05%20-%20How%20does%20the%20Body%20Move.md)
+  * [08 - Symptoms and Signs by Systems](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/08%20-%20Symptoms%20and%20Signs%20by%20Systems.md)
+  * [09 - The Passage of Food](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/09%20-%20The%20Passage%20of%20Food.md)
 
 # Concept
 
@@ -385,7 +387,7 @@
 
 * [A Practical Course in Differential Equations and Mathematical Modelling](Reference/A%20Practical%20Course%20in%20Differential%20Equations%20and%20Mathematical%20Modelling.md)
 * [Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013.](Reference/Nomenclature%20of%20Organic%20Chemistry.%20IUPAC%20Recommendations%20and%20Preferred%20Names%202013..md)
-* *Organic Chemistry*
+* [Organic Chemistry](Reference/Organic%20Chemistry.md)
 
 # Appendices
 
