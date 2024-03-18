@@ -5,3 +5,4 @@
 	- [[04 - Internal Regulation of Human Body]]
 	- [[05 - How does the Body Move]]
 	- [[08 - Symptoms and Signs by Systems]]
+	- [[09 - The Passage of Food]]
