@@ -56,6 +56,16 @@ aliases:
 			- Liver, Kidney → Detoxify / Inactivate drug
 			- Skeletal muscle → $\ce{Ca^{2+}}$ storage
 		- Rough ER: Protein (Enzymes, Hormones)
+			- w/ Ribosome outside; synthesized protein inside
+	- Golgi apparatus: Modify, Package proteins from Rough ER
+		- Glycosylation, Sulfation, Phosphorylation, Proteolysis
+		- *cis* Golgi → medial Golgi → *trans* Golgi
+		- Input: Transport vesicle from ER
+		- Output: Lysosome / Storage Vesicle / Secretory Vesicle
+			- Marked w/ Mannose-6-phosphate → Lysosome
+		- Vesicle-fusion pathway
+			- Constitutive pathway: continuous, unregulated
+			- Regulated pathway: stored, release on signaled
 
 ## Reference
 
