@@ -6,4 +6,5 @@
 	- [[05 - Regulation of Translation and Protein Synthesis]]
 	- [[06 - Post Translational Processes and Protein Folding]]
 	- [[07 - DNA technology & Application]]
+	- [[08 - Structure and Function of Cell, Content Trafficking]]
 	- [[13 - Molecular target of drug action]]
