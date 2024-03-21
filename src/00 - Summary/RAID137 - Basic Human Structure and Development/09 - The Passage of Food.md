@@ -90,6 +90,75 @@
     * Gastric Emptying: Force Chyme through pyloric sphincter to duodenum
     * Gastric Juices: Chemical digestion (mostly as fundus & body)
       * Acidic chyme inactivate salivary amylase & activate lingual lipase
+* Intestine
+  * Regions
+    * Small Intestine: Rube coil, $\pu{3.05 m}$ long, $\pu{2.54 cm}$ diameter
+      * Duodenum
+      * Jejunum
+      * Ilium
+    * Large Intestine: Frame (3 side), $\pu{1.5 m}$ long, $\pu{7.62 cm}$ diameter
+      * Cecum
+        * Appendix
+      * Colon (Ascending / Transverse / Descending)
+      * Rectum
+      * Anus
+  * Small Intestine
+    * Circular Folds, Villi, Microvilli
+    * Intestinal Glands @ Intestinal Crypt of Lieberkühn
+    * Lamina propria w/ lacteal (lymphatic vessel), blood vessel: Intestinal MALT
+      * Mostly in ilium
+    * Submucosa → Duodenal Gland
+  * Large Intestine
+    * Mucosa: Absorptive cells & Goblet Cells
+      * No circular Fold, Villi → Thinner wall
+    * Intestinal gland: Absorptive, Goblet cells
+    * Lamina propria: Lacteal (Lymphatic nodule)
+    * Features
+      * Epiploic appendages
+      * Teniae Coli
+      * Haustra
+* Liver
+  * 4 Lobe: Right, Left, Caudate, Quadrate
+  * 5 Ligament: Falciform, Coronary, 2x Triangular Ligament, Ligamentum Teres
+  * Lesser Omentum: connect w/ lesser curvature of stomach
+  * Hexagonal lobules
+    * Central vein
+    * Portal triad @ corner
+      * Portal venule, Portal Arteriole, Bile Duct
+  * Hepatocyte: Bile production
+  * Bile Canaliculus: small ducts accumulate bile
+  * Hepatic sinusoid: Porous blood space; capillaries from hepatic arteries and hepatic portal
+  * Enterohepatic circulation: Biliary salts, Bilirubin, Drugs
+    * Liver → Bile → Small intestine → Hepatic portal vein → Liver
+* Gallbladder
+  * Muscular sac, $\pu{8 - 10 cm}$ long
+  * Store, concentrate, propel bile
+  * Region: Fundus, Body, Neck
+  * Mucosa: Simple Columnar Epithelium w/ Rugae
+    * Absorb water & ions from bile → Concentrate
+  * No submucosal layer
+* Pancreas
+  * Retroperitoneum organ: Behind peritoneum
+  * Region
+    * Head (C-shape of duodenum)
+    * Body (behind stomach)
+    * Tail
+  * Exocrine acini → Pancreatic juice w/ enzymes, $\ce{NaHCO3}$
+    * Amylase, Lipase, Nuclease, Protease
+    * Required activation
+  * Islets of Langerhans → Hormones
+* Development
+  * Blastocyst
+  * 4 weeks: Foregut → Lung, Liver, Pancreas
+  * 5 weeks: Gut arteries, Peritoneal cavity
+  * 6 weeks: Midgut loop into umbilical cord, rotate 90 degrees around superior mesenteric artery
+  * 8 weeks: Midgut growth in umbilical cord, Cecum, Coiling small intestinal loops
+  * 10 weeks: Midgut → Abdominal cavity, Rotate 180 degrees (total: 270 degrees)
+  * 4-5 months: Pancreas, Duodenum, Colon + Posterior abdominal wall
+* Problems
+  * Peptic Ulcer
+    * Primary Cause: *Helicobacter pylori*
+  * Appendicitis
 
 ## Reference
 
