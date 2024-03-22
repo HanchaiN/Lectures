@@ -10,5 +10,6 @@
   "theme": "system",
   "enabledCssSnippets": [
     "image-background"
-  ]
+  ],
+  "baseFontSizeAction": true
 }
