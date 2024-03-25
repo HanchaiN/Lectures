@@ -99,7 +99,7 @@
   * [11 - Concept of Channel and Transporter Functions](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/11%20-%20Concept%20of%20Channel%20and%20Transporter%20Functions.md)
   * [12 - Cell Adhesion, Differentiation, and Cell Motility](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/12%20-%20Cell%20Adhesion,%20Differentiation,%20and%20Cell%20Motility.md)
   * [13 - Molecular target of drug action](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/13%20-%20Molecular%20target%20of%20drug%20action.md)
-  * *14 - Elimination of Xenobiotics*  
+  * [14 - Elimination of Xenobiotics](00%20-%20Summary/RAID135%20-%20Molecular%20and%20Cellular%20Basis%20for%20Medicine/14%20-%20Elimination%20of%20Xenobiotics.md)  
 
 
 * [RAID136 - Basic Medical Microbiology](00%20-%20Summary/RAID136%20-%20Basic%20Medical%20Microbiology/RAID136%20-%20Basic%20Medical%20Microbiology.md)

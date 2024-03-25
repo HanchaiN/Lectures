@@ -12,4 +12,4 @@
   * [11 - Concept of Channel and Transporter Functions](11%20-%20Concept%20of%20Channel%20and%20Transporter%20Functions.md)
   * [12 - Cell Adhesion, Differentiation, and Cell Motility](12%20-%20Cell%20Adhesion,%20Differentiation,%20and%20Cell%20Motility.md)
   * [13 - Molecular target of drug action](13%20-%20Molecular%20target%20of%20drug%20action.md)
-  * *14 - Elimination of Xenobiotics*
+  * [14 - Elimination of Xenobiotics](14%20-%20Elimination%20of%20Xenobiotics.md)
