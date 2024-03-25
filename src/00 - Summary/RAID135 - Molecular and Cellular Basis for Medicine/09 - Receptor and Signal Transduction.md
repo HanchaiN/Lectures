@@ -35,6 +35,8 @@
     * Catalytic Receptor
       * Receptor-Enzyme (Ligand-activated enzyme)
       * Integrin Receptor (Alters enzymes / cytoskeleton)
+  * Different receptor → Different Response
+    * Epinephrine: $\alpha$-Receptor → Vasoconstriction (intestinal); $\beta_2$-Receptor → Vasodilation (skeletal muscle)
 * Ligand-gated ion channels
   * Most Rapid
   * Alters ion permeability → membrane potential → voltage-sensitive proteins
@@ -51,8 +53,27 @@
     * Phosphodiesterase: cAMP → 5'-AMP (natural degradation)
     * Protein kinase A → Protein Phosphorylation (Activation) → Response
   * G<sub>αi</sub>: Inhibit adenylyl cyclase → less cAMP
-  * G<sub>αs</sub>: Inhibit Phosphodiesterase → more cAMP
-  * GPCR / G<sub>αq</sub>: Phospholipase C Signal Transduction
+  * G<sub>αq</sub>: Phospholipase C Amplifier
+    * Phospholipase C: phospholipid → Diacylglycerol (membrane) + IP3 (cytoplasm)
+    * IP3 → Release $\ce{Ca^{2+}}$ from ER → Response
+    * Diacylglycerol activate Protein Kinase C → Protein phosphorylation → Response
+  * Arrestin: turn off G protein response
+    * GPCR activate GPCR Kinase via G protein → GPCR phosphorylation
+    * Arrestin + Phosphorylated GPCR → decoupling w/ G protein
+      * Desensitization → Stop signal relaying
+      * Internalization: Endocytosis → Recycle Endosome / Lysosomal Degradation
+* Catalytic Receptor
+  * Extracellular Receptor + Cytoplasmic Enzyme
+    * Guanylyl Cyclase: GTP → cGMP → cGMP-dependent kinase activation
+      * Atrial Natriuretic Peptide, Brain Natriuretic Peptide, C-type Natriuretic Peptide
+    * Serine / Threonine Kinase: Cross phosphorylation; SMAD protein
+      * Transforming Growth Factor $\beta$
+    * Tyrosine kinase: Phosphorylation of tyrosine residue; Autophosphorylation; SH2 domain containing protein
+      * Growth factor: Epidermal / Platelet-derived / Vascular endothelial / Insulin & Insulin-like type 1 / Fibroblast
+    * Tyrosine kinase-associated: Cytosolic Tyrosine kinase (Src, Janus Kinases)
+      * cytokines, growth factors
+      * Janus Kinase → Signal Transducers and Activators of Transcription family
+  * Ligand-induced receptor dimerization → Cross Autophosphorylation → Adaptor protein recruitment → Signaling Complex
 
 ## Reference
 
