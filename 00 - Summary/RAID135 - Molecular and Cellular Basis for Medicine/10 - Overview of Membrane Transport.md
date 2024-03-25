@@ -22,7 +22,7 @@ aliases:
 			- Uniport: One kind of molecule
 			- Symport: Two kinds same direction
 			- Antiport: Two kinds different direction
-		- Channel: (Gated / Open) Transporter; mechanically / voltage / chemically
+		- Channel: (Gated / Open); mechanically / voltage / chemically
 - Passive Transport: Conc. grad. → No ATP required
 	- Simple Diffusion: w/o protein; $\varphi\propto A\cdot D\cdot\nabla\left[X\right]$; Permeability: $D\propto\frac{\text{lipid sol.}}{\text{Mol. Size}}$
 	- Facilitated Diffusion: w/ protein ← affected by factors; large, nonpolar
