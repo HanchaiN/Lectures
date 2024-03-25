@@ -192,6 +192,7 @@
   * [05 - How does the Body Move](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/05%20-%20How%20does%20the%20Body%20Move.md)
   * [08 - Symptoms and Signs by Systems](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/08%20-%20Symptoms%20and%20Signs%20by%20Systems.md)
   * [09 - The Passage of Food](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/09%20-%20The%20Passage%20of%20Food.md)
+  * [10 - The Full Bladder](00%20-%20Summary/RAID137%20-%20Basic%20Human%20Structure%20and%20Development/10%20-%20The%20Full%20Bladder.md)
 
 # Concept
 
