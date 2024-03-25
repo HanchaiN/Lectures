@@ -34,7 +34,7 @@
     * Cilia
       * hairlike
       * upper airway, female reproductive tract
-      * 9 pairs + 2 central
+      * 9 triple + 2 central
     * Flagella
       * Longer cilia
       * free-floating single cells
