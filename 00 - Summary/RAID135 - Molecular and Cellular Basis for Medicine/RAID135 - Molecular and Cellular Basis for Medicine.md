@@ -8,4 +8,8 @@
 	- [[07 - DNA technology & Application]]
 	- [[08 - Structure and Function of Cell, Content Trafficking]]
 	- [[09 - Receptor and Signal Transduction]]
+	- [[10 - Overview of Membrane Transport]]
+	- [[11 - Concept of Channel and Transporter Functions]]
+	- [[12 - Cell Adhesion, Differentiation, and Cell Motility]]
 	- [[13 - Molecular target of drug action]]
+	- [[14 - Elimination of Xenobiotics]]
